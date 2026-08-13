@@ -99,6 +99,7 @@ def map_listing(listing):
             "zipCode": seller["zipCode"] if seller else None,
         },
         "imageKey": images[0]["key"] if images else None,
+        "imageKeys": [img["key"] for img in images],
         "listingUrl": "https://www.autoscout24.ch/de/d/%s" % listing_id,
     }
 
