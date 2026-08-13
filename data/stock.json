@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-11T10:59:30.014051+00:00",
+  "timestamp": "2026-08-13T09:12:51.908488+00:00",
   "count": 113,
   "listings": [
     {
@@ -129,48 +129,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20221212"
     },
     {
-      "id": 20593363,
-      "make": "MASERATI",
-      "model": "LEVANTE",
-      "versionFullName": "Levante S 3.0 V6 Modena S Automatica",
-      "firstRegistrationYear": 2022,
-      "mileage": 72900,
-      "price": 49900.0,
-      "horsePower": 430,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-06-30T12:13:04.463Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/363/20593363/1358373904.jpg",
-      "listingUrl": "https://www.autoscout24.ch/de/d/20593363"
-    },
-    {
-      "id": 20695979,
-      "make": "MASERATI",
-      "model": "GRECALE",
-      "versionFullName": "Grecale 2.0 MHEV GT Hybrid Automatica",
-      "firstRegistrationYear": 2022,
-      "mileage": 86500,
-      "price": 49900.0,
-      "horsePower": 301,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-08-10T11:40:51.668Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/979/20695979/183592249.jpg",
-      "listingUrl": "https://www.autoscout24.ch/de/d/20695979"
-    },
-    {
       "id": 20529437,
       "make": "PUCH",
       "model": "G",
@@ -211,6 +169,48 @@
       },
       "imageKey": "listing/69/11769069/2097903375.jpg",
       "listingUrl": "https://www.autoscout24.ch/de/d/11769069"
+    },
+    {
+      "id": 20695979,
+      "make": "MASERATI",
+      "model": "GRECALE",
+      "versionFullName": "Grecale 2.0 MHEV GT Hybrid Automatica",
+      "firstRegistrationYear": 2022,
+      "mileage": 86500,
+      "price": 49900.0,
+      "horsePower": 301,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-08-10T11:40:51.668Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/979/20695979/183592249.jpg",
+      "listingUrl": "https://www.autoscout24.ch/de/d/20695979"
+    },
+    {
+      "id": 20593363,
+      "make": "MASERATI",
+      "model": "LEVANTE",
+      "versionFullName": "Levante S 3.0 V6 Modena S Automatica",
+      "firstRegistrationYear": 2022,
+      "mileage": 72900,
+      "price": 49900.0,
+      "horsePower": 430,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-06-30T12:13:04.463Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/363/20593363/1358373904.jpg",
+      "listingUrl": "https://www.autoscout24.ch/de/d/20593363"
     },
     {
       "id": 11710822,
@@ -381,27 +381,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20306429"
     },
     {
-      "id": 10346790,
-      "make": "MERCEDES-BENZ",
-      "model": "E 450",
-      "versionFullName": "E 450 Cabriolet 4Matic AMG Line 9G-Tronic",
-      "firstRegistrationYear": 2023,
-      "mileage": 20000,
-      "price": 69900.0,
-      "horsePower": 367,
-      "transmissionType": "automatic",
-      "conditionType": "demonstration",
-      "createdDate": "2023-03-15T09:57:02.231Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/790/10346790/1566480147.jpg",
-      "listingUrl": "https://www.autoscout24.ch/de/d/10346790"
-    },
-    {
       "id": 12062721,
       "make": "MERCEDES-BENZ",
       "model": "SL 500",
@@ -421,6 +400,27 @@
       },
       "imageKey": "listing/721/12062721/1065904483.jpg",
       "listingUrl": "https://www.autoscout24.ch/de/d/12062721"
+    },
+    {
+      "id": 10346790,
+      "make": "MERCEDES-BENZ",
+      "model": "E 450",
+      "versionFullName": "E 450 Cabriolet 4Matic AMG Line 9G-Tronic",
+      "firstRegistrationYear": 2023,
+      "mileage": 20000,
+      "price": 69900.0,
+      "horsePower": 367,
+      "transmissionType": "automatic",
+      "conditionType": "demonstration",
+      "createdDate": "2023-03-15T09:57:02.231Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/790/10346790/1566480147.jpg",
+      "listingUrl": "https://www.autoscout24.ch/de/d/10346790"
     },
     {
       "id": 20665409,
@@ -701,7 +701,7 @@
       "model": "GHIBLI",
       "versionFullName": "Ghibli S Q4 3.0 Modena Automatica",
       "firstRegistrationYear": 2023,
-      "mileage": 17000,
+      "mileage": 19500,
       "price": 89000.0,
       "horsePower": 430,
       "transmissionType": "automatic",
@@ -715,6 +715,27 @@
       },
       "imageKey": "listing/92/12331092/1251663558.jpg",
       "listingUrl": "https://www.autoscout24.ch/de/d/12331092"
+    },
+    {
+      "id": 20276620,
+      "make": "BENTLEY",
+      "model": "Bentayga",
+      "versionFullName": "Bentayga W12",
+      "firstRegistrationYear": 2019,
+      "mileage": 89700,
+      "price": 89000.0,
+      "horsePower": 608,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-03-10T09:30:33.313Z",
+      "seller": {
+        "id": 2304422,
+        "name": "B.I. Collection SG AG",
+        "city": "Niederwil SG",
+        "zipCode": "9203"
+      },
+      "imageKey": "listing/620/20276620/216146574.jpg",
+      "listingUrl": "https://www.autoscout24.ch/de/d/20276620"
     },
     {
       "id": 20492852,
@@ -778,27 +799,6 @@
       },
       "imageKey": "listing/839/12902839/142160150.jpg",
       "listingUrl": "https://www.autoscout24.ch/de/d/12902839"
-    },
-    {
-      "id": 20276620,
-      "make": "BENTLEY",
-      "model": "Bentayga",
-      "versionFullName": "Bentayga W12",
-      "firstRegistrationYear": 2019,
-      "mileage": 89700,
-      "price": 96500.0,
-      "horsePower": 608,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-03-10T09:30:33.313Z",
-      "seller": {
-        "id": 2304422,
-        "name": "B.I. Collection SG AG",
-        "city": "Niederwil SG",
-        "zipCode": "9203"
-      },
-      "imageKey": "listing/620/20276620/216146574.jpg",
-      "listingUrl": "https://www.autoscout24.ch/de/d/20276620"
     },
     {
       "id": 10722283,
@@ -1095,6 +1095,27 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20688073"
     },
     {
+      "id": 20704083,
+      "make": "ASTON MARTIN",
+      "model": "V12 Vantage",
+      "versionFullName": "V12 Vantage 5.9",
+      "firstRegistrationYear": 2010,
+      "mileage": 25900,
+      "price": 122007.0,
+      "horsePower": 517,
+      "transmissionType": "manual",
+      "conditionType": "used",
+      "createdDate": "2026-08-13T07:40:10.947Z",
+      "seller": {
+        "id": 2304422,
+        "name": "B.I. Collection SG AG",
+        "city": "Niederwil SG",
+        "zipCode": "9203"
+      },
+      "imageKey": "listing/83/20704083/980881979.jpg",
+      "listingUrl": "https://www.autoscout24.ch/de/d/20704083"
+    },
+    {
       "id": 20207716,
       "make": "FERRARI",
       "model": "CALIFORNIA",
@@ -1389,27 +1410,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20504432"
     },
     {
-      "id": 20447457,
-      "make": "BENTLEY",
-      "model": "CONTINENTAL",
-      "versionFullName": "GTC W12 1st Edition",
-      "firstRegistrationYear": 2020,
-      "mileage": 16300,
-      "price": 179900.0,
-      "horsePower": 635,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2026-05-07T13:31:51.402Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/457/20447457/1356364024.jpg",
-      "listingUrl": "https://www.autoscout24.ch/de/d/20447457"
-    },
-    {
       "id": 20524701,
       "make": "MASERATI",
       "model": "GRANCABRIO",
@@ -1429,6 +1429,27 @@
       },
       "imageKey": "listing/701/20524701/431327043.jpg",
       "listingUrl": "https://www.autoscout24.ch/de/d/20524701"
+    },
+    {
+      "id": 20447457,
+      "make": "BENTLEY",
+      "model": "CONTINENTAL",
+      "versionFullName": "GTC W12 1st Edition",
+      "firstRegistrationYear": 2020,
+      "mileage": 16300,
+      "price": 179900.0,
+      "horsePower": 635,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2026-05-07T13:31:51.402Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/457/20447457/1356364024.jpg",
+      "listingUrl": "https://www.autoscout24.ch/de/d/20447457"
     },
     {
       "id": 20556721,
@@ -1555,27 +1576,6 @@
       },
       "imageKey": "listing/496/12516496/609825357.jpg",
       "listingUrl": "https://www.autoscout24.ch/de/d/12516496"
-    },
-    {
-      "id": 20207795,
-      "make": "FERRARI",
-      "model": "F12",
-      "versionFullName": "F12 Berlinetta",
-      "firstRegistrationYear": 2012,
-      "mileage": 28000,
-      "price": 199000.0,
-      "horsePower": 736,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2026-02-13T08:35:03.765Z",
-      "seller": {
-        "id": 60699,
-        "name": "B.I. Collection - Ferrari Zürich",
-        "city": "Urdorf-Zürich",
-        "zipCode": "8902"
-      },
-      "imageKey": "listing/795/20207795/2106338164.jpg",
-      "listingUrl": "https://www.autoscout24.ch/de/d/20207795"
     },
     {
       "id": 20207894,
@@ -1893,27 +1893,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/9894329"
     },
     {
-      "id": 20078795,
-      "make": "FERRARI",
-      "model": "Roma",
-      "versionFullName": "Roma 3.9 V8 T \"Tailor Made\"",
-      "firstRegistrationYear": 2025,
-      "mileage": 950,
-      "price": 279000.0,
-      "horsePower": 620,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2025-12-18T12:28:49.537Z",
-      "seller": {
-        "id": 60699,
-        "name": "B.I. Collection - Ferrari Zürich",
-        "city": "Urdorf-Zürich",
-        "zipCode": "8902"
-      },
-      "imageKey": "listing/795/20078795/1708159965.jpg",
-      "listingUrl": "https://www.autoscout24.ch/de/d/20078795"
-    },
-    {
       "id": 20258583,
       "make": "FERRARI",
       "model": "Roma",
@@ -1935,6 +1914,27 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20258583"
     },
     {
+      "id": 20078795,
+      "make": "FERRARI",
+      "model": "Roma",
+      "versionFullName": "Roma 3.9 V8 T \"Tailor Made\"",
+      "firstRegistrationYear": 2025,
+      "mileage": 950,
+      "price": 279000.0,
+      "horsePower": 620,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2025-12-18T12:28:49.537Z",
+      "seller": {
+        "id": 60699,
+        "name": "B.I. Collection - Ferrari Zürich",
+        "city": "Urdorf-Zürich",
+        "zipCode": "8902"
+      },
+      "imageKey": "listing/795/20078795/670812572.jpg",
+      "listingUrl": "https://www.autoscout24.ch/de/d/20078795"
+    },
+    {
       "id": 20179495,
       "make": "FERRARI",
       "model": "Roma",
@@ -1952,7 +1952,7 @@
         "city": "Urdorf-Zürich",
         "zipCode": "8902"
       },
-      "imageKey": "listing/495/20179495/2143429506.jpg",
+      "imageKey": "listing/495/20179495/1574590265.jpg",
       "listingUrl": "https://www.autoscout24.ch/de/d/20179495"
     },
     {
@@ -2082,27 +2082,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20665835"
     },
     {
-      "id": 11923558,
-      "make": "FERRARI",
-      "model": "F8",
-      "versionFullName": "F8 Spider",
-      "firstRegistrationYear": 2023,
-      "mileage": 2600,
-      "price": 349000.0,
-      "horsePower": 720,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2024-10-19T14:13:02.612Z",
-      "seller": {
-        "id": 60699,
-        "name": "B.I. Collection - Ferrari Zürich",
-        "city": "Urdorf-Zürich",
-        "zipCode": "8902"
-      },
-      "imageKey": "listing/558/11923558/1768063051.jpg",
-      "listingUrl": "https://www.autoscout24.ch/de/d/11923558"
-    },
-    {
       "id": 20078416,
       "make": "FERRARI",
       "model": "296",
@@ -2122,6 +2101,27 @@
       },
       "imageKey": "listing/416/20078416/365395015.jpg",
       "listingUrl": "https://www.autoscout24.ch/de/d/20078416"
+    },
+    {
+      "id": 11923558,
+      "make": "FERRARI",
+      "model": "F8",
+      "versionFullName": "F8 Spider",
+      "firstRegistrationYear": 2023,
+      "mileage": 2600,
+      "price": 349000.0,
+      "horsePower": 720,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2024-10-19T14:13:02.612Z",
+      "seller": {
+        "id": 60699,
+        "name": "B.I. Collection - Ferrari Zürich",
+        "city": "Urdorf-Zürich",
+        "zipCode": "8902"
+      },
+      "imageKey": "listing/558/11923558/1768063051.jpg",
+      "listingUrl": "https://www.autoscout24.ch/de/d/11923558"
     },
     {
       "id": 11492285,
