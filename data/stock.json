@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-15T14:30:52.438996+00:00",
+  "timestamp": "2026-08-15T15:28:39.008763+00:00",
   "count": 113,
   "listings": [
     {
@@ -2638,6 +2638,45 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20504432"
     },
     {
+      "id": 20524701,
+      "make": "MASERATI",
+      "model": "GRANCABRIO",
+      "versionFullName": "GRANCABRIO MY2026 V6 490 PS",
+      "firstRegistrationYear": 2026,
+      "mileage": 4000,
+      "price": 179900.0,
+      "horsePower": 490,
+      "transmissionType": "automatic",
+      "conditionType": "demonstration",
+      "createdDate": "2026-06-04T15:03:04.213Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/701/20524701/431327043.jpg",
+      "imageKeys": [
+        "listing/701/20524701/431327043.jpg",
+        "listing/701/20524701/1200564351.jpg",
+        "listing/701/20524701/944558246.jpg",
+        "listing/701/20524701/1526336273.jpg",
+        "listing/701/20524701/2097517178.jpg",
+        "listing/701/20524701/2022046663.jpg",
+        "listing/701/20524701/599515795.jpg",
+        "listing/701/20524701/1403938844.jpg",
+        "listing/701/20524701/1137142501.jpg",
+        "listing/701/20524701/1341584044.jpg",
+        "listing/701/20524701/115579775.jpg",
+        "listing/701/20524701/1868998477.jpg",
+        "listing/701/20524701/327307620.jpg",
+        "listing/701/20524701/690918330.jpg",
+        "listing/701/20524701/62201997.jpg",
+        "listing/701/20524701/713612626.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20524701"
+    },
+    {
       "id": 20447457,
       "make": "BENTLEY",
       "model": "CONTINENTAL",
@@ -2679,45 +2718,6 @@
         "listing/457/20447457/930007403.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20447457"
-    },
-    {
-      "id": 20524701,
-      "make": "MASERATI",
-      "model": "GRANCABRIO",
-      "versionFullName": "GRANCABRIO MY2026 V6 490 PS",
-      "firstRegistrationYear": 2026,
-      "mileage": 4000,
-      "price": 179900.0,
-      "horsePower": 490,
-      "transmissionType": "automatic",
-      "conditionType": "demonstration",
-      "createdDate": "2026-06-04T15:03:04.213Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/701/20524701/431327043.jpg",
-      "imageKeys": [
-        "listing/701/20524701/431327043.jpg",
-        "listing/701/20524701/1200564351.jpg",
-        "listing/701/20524701/944558246.jpg",
-        "listing/701/20524701/1526336273.jpg",
-        "listing/701/20524701/2097517178.jpg",
-        "listing/701/20524701/2022046663.jpg",
-        "listing/701/20524701/599515795.jpg",
-        "listing/701/20524701/1403938844.jpg",
-        "listing/701/20524701/1137142501.jpg",
-        "listing/701/20524701/1341584044.jpg",
-        "listing/701/20524701/115579775.jpg",
-        "listing/701/20524701/1868998477.jpg",
-        "listing/701/20524701/327307620.jpg",
-        "listing/701/20524701/690918330.jpg",
-        "listing/701/20524701/62201997.jpg",
-        "listing/701/20524701/713612626.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20524701"
     },
     {
       "id": 20556721,
