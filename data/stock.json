@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-15T10:52:47.816495+00:00",
+  "timestamp": "2026-08-15T11:27:20.489231+00:00",
   "count": 113,
   "listings": [
     {
@@ -726,40 +726,40 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/12062721"
     },
     {
-      "id": 10346790,
+      "id": 10797446,
       "make": "MERCEDES-BENZ",
-      "model": "E 450",
-      "versionFullName": "E 450 Cabriolet 4Matic AMG Line 9G-Tronic",
-      "firstRegistrationYear": 2023,
-      "mileage": 20000,
+      "model": "EQE SUV",
+      "versionFullName": "EQE SUV AMG 43 4Matic Executive Edition",
+      "firstRegistrationYear": 2024,
+      "mileage": 40000,
       "price": 69900.0,
-      "horsePower": 367,
-      "transmissionType": "automatic",
-      "conditionType": "demonstration",
-      "createdDate": "2023-03-15T09:57:02.231Z",
+      "horsePower": 476,
+      "transmissionType": null,
+      "conditionType": "used",
+      "createdDate": "2023-08-24T14:33:20.587Z",
       "seller": {
         "id": 60812,
         "name": "B.I. Collection BE AG",
         "city": "Feutersoey",
         "zipCode": "3784"
       },
-      "imageKey": "listing/790/10346790/1566480147.jpg",
+      "imageKey": "listing/446/10797446/108246367.jpg",
       "imageKeys": [
-        "listing/790/10346790/1566480147.jpg",
-        "listing/790/10346790/581574094.jpg",
-        "listing/790/10346790/140433747.jpg",
-        "listing/790/10346790/1352485786.jpg",
-        "listing/790/10346790/2038078342.jpg",
-        "listing/790/10346790/296835692.jpg",
-        "listing/790/10346790/1121087693.jpg",
-        "listing/790/10346790/1903985256.jpg",
-        "listing/790/10346790/155945625.jpg",
-        "listing/790/10346790/1975683270.jpg",
-        "listing/790/10346790/269718223.jpg",
-        "listing/790/10346790/1717035441.jpg",
-        "listing/790/10346790/1150413818.jpg"
+        "listing/446/10797446/108246367.jpg",
+        "listing/446/10797446/1889239390.jpg",
+        "listing/446/10797446/1665043826.jpg",
+        "listing/446/10797446/1466556482.jpg",
+        "listing/446/10797446/2135910241.jpg",
+        "listing/446/10797446/1505980794.jpg",
+        "listing/446/10797446/155320709.jpg",
+        "listing/446/10797446/1713571572.jpg",
+        "listing/446/10797446/147090254.jpg",
+        "listing/446/10797446/1038886195.jpg",
+        "listing/446/10797446/321774974.jpg",
+        "listing/446/10797446/2023052722.jpg",
+        "listing/446/10797446/96024034.jpg"
       ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/10346790"
+      "listingUrl": "https://www.autoscout24.ch/de/d/10797446"
     },
     {
       "id": 10346790,
