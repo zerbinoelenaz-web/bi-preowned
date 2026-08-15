@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-15T20:30:52.184876+00:00",
+  "timestamp": "2026-08-15T21:28:43.932009+00:00",
   "count": 113,
   "listings": [
     {
@@ -726,42 +726,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/12062721"
     },
     {
-      "id": 10797446,
-      "make": "MERCEDES-BENZ",
-      "model": "EQE SUV",
-      "versionFullName": "EQE SUV AMG 43 4Matic Executive Edition",
-      "firstRegistrationYear": 2024,
-      "mileage": 40000,
-      "price": 69900.0,
-      "horsePower": 476,
-      "transmissionType": null,
-      "conditionType": "used",
-      "createdDate": "2023-08-24T14:33:20.587Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/446/10797446/108246367.jpg",
-      "imageKeys": [
-        "listing/446/10797446/108246367.jpg",
-        "listing/446/10797446/1889239390.jpg",
-        "listing/446/10797446/1665043826.jpg",
-        "listing/446/10797446/1466556482.jpg",
-        "listing/446/10797446/2135910241.jpg",
-        "listing/446/10797446/1505980794.jpg",
-        "listing/446/10797446/155320709.jpg",
-        "listing/446/10797446/1713571572.jpg",
-        "listing/446/10797446/147090254.jpg",
-        "listing/446/10797446/1038886195.jpg",
-        "listing/446/10797446/321774974.jpg",
-        "listing/446/10797446/2023052722.jpg",
-        "listing/446/10797446/96024034.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/10797446"
-    },
-    {
       "id": 10346790,
       "make": "MERCEDES-BENZ",
       "model": "E 450",
@@ -796,6 +760,42 @@
         "listing/790/10346790/1150413818.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/10346790"
+    },
+    {
+      "id": 10797446,
+      "make": "MERCEDES-BENZ",
+      "model": "EQE SUV",
+      "versionFullName": "EQE SUV AMG 43 4Matic Executive Edition",
+      "firstRegistrationYear": 2024,
+      "mileage": 40000,
+      "price": 69900.0,
+      "horsePower": 476,
+      "transmissionType": null,
+      "conditionType": "used",
+      "createdDate": "2023-08-24T14:33:20.587Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/446/10797446/108246367.jpg",
+      "imageKeys": [
+        "listing/446/10797446/108246367.jpg",
+        "listing/446/10797446/1889239390.jpg",
+        "listing/446/10797446/1665043826.jpg",
+        "listing/446/10797446/1466556482.jpg",
+        "listing/446/10797446/2135910241.jpg",
+        "listing/446/10797446/1505980794.jpg",
+        "listing/446/10797446/155320709.jpg",
+        "listing/446/10797446/1713571572.jpg",
+        "listing/446/10797446/147090254.jpg",
+        "listing/446/10797446/1038886195.jpg",
+        "listing/446/10797446/321774974.jpg",
+        "listing/446/10797446/2023052722.jpg",
+        "listing/446/10797446/96024034.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/10797446"
     },
     {
       "id": 20665409,
@@ -1254,6 +1254,45 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20615904"
     },
     {
+      "id": 12331092,
+      "make": "MASERATI",
+      "model": "GHIBLI",
+      "versionFullName": "Ghibli S Q4 3.0 Modena Automatica",
+      "firstRegistrationYear": 2023,
+      "mileage": 19500,
+      "price": 89000.0,
+      "horsePower": 430,
+      "transmissionType": "automatic",
+      "conditionType": "demonstration",
+      "createdDate": "2025-03-27T16:06:31.392Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/92/12331092/1251663558.jpg",
+      "imageKeys": [
+        "listing/92/12331092/1251663558.jpg",
+        "listing/92/12331092/196073737.jpg",
+        "listing/92/12331092/1816758722.jpg",
+        "listing/92/12331092/1849132250.jpg",
+        "listing/92/12331092/1538793600.jpg",
+        "listing/92/12331092/731633820.jpg",
+        "listing/92/12331092/811982328.jpg",
+        "listing/92/12331092/357486120.jpg",
+        "listing/92/12331092/1709810377.jpg",
+        "listing/92/12331092/1122592347.jpg",
+        "listing/92/12331092/2077516631.jpg",
+        "listing/92/12331092/90782554.jpg",
+        "listing/92/12331092/1710116847.jpg",
+        "listing/92/12331092/1722121341.jpg",
+        "listing/92/12331092/2001359597.jpg",
+        "listing/92/12331092/463848796.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/12331092"
+    },
+    {
       "id": 20276620,
       "make": "BENTLEY",
       "model": "Bentayga",
@@ -1307,43 +1346,42 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20276620"
     },
     {
-      "id": 12331092,
+      "id": 20633758,
       "make": "MASERATI",
-      "model": "GHIBLI",
-      "versionFullName": "Ghibli S Q4 3.0 Modena Automatica",
-      "firstRegistrationYear": 2023,
-      "mileage": 19500,
-      "price": 89000.0,
-      "horsePower": 430,
+      "model": "GRANTURISMO",
+      "versionFullName": "GranTurismo Sport Automatica",
+      "firstRegistrationYear": 2019,
+      "mileage": 19900,
+      "price": 89900.0,
+      "horsePower": 460,
       "transmissionType": "automatic",
-      "conditionType": "demonstration",
-      "createdDate": "2025-03-27T16:06:31.392Z",
+      "conditionType": "used",
+      "createdDate": "2026-07-14T13:44:59.801Z",
       "seller": {
         "id": 105,
         "name": "B.I. Collection BS AG",
         "city": "Reinach BL",
         "zipCode": "4153"
       },
-      "imageKey": "listing/92/12331092/1251663558.jpg",
+      "imageKey": "listing/758/20633758/2112793466.jpg",
       "imageKeys": [
-        "listing/92/12331092/1251663558.jpg",
-        "listing/92/12331092/196073737.jpg",
-        "listing/92/12331092/1816758722.jpg",
-        "listing/92/12331092/1849132250.jpg",
-        "listing/92/12331092/1538793600.jpg",
-        "listing/92/12331092/731633820.jpg",
-        "listing/92/12331092/811982328.jpg",
-        "listing/92/12331092/357486120.jpg",
-        "listing/92/12331092/1709810377.jpg",
-        "listing/92/12331092/1122592347.jpg",
-        "listing/92/12331092/2077516631.jpg",
-        "listing/92/12331092/90782554.jpg",
-        "listing/92/12331092/1710116847.jpg",
-        "listing/92/12331092/1722121341.jpg",
-        "listing/92/12331092/2001359597.jpg",
-        "listing/92/12331092/463848796.jpg"
+        "listing/758/20633758/2112793466.jpg",
+        "listing/758/20633758/1952354837.jpg",
+        "listing/758/20633758/1122295722.jpg",
+        "listing/758/20633758/1733196462.jpg",
+        "listing/758/20633758/861225590.jpg",
+        "listing/758/20633758/992790376.jpg",
+        "listing/758/20633758/1918560944.jpg",
+        "listing/758/20633758/586939800.jpg",
+        "listing/758/20633758/585985435.jpg",
+        "listing/758/20633758/1943348261.jpg",
+        "listing/758/20633758/1007537434.jpg",
+        "listing/758/20633758/833347075.jpg",
+        "listing/758/20633758/1153376661.jpg",
+        "listing/758/20633758/1041626693.jpg",
+        "listing/758/20633758/269514008.jpg"
       ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/12331092"
+      "listingUrl": "https://www.autoscout24.ch/de/d/20633758"
     },
     {
       "id": 20492852,
@@ -1384,44 +1422,6 @@
         "listing/852/20492852/454051708.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20492852"
-    },
-    {
-      "id": 20633758,
-      "make": "MASERATI",
-      "model": "GRANTURISMO",
-      "versionFullName": "GranTurismo Sport Automatica",
-      "firstRegistrationYear": 2019,
-      "mileage": 19900,
-      "price": 89900.0,
-      "horsePower": 460,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-07-14T13:44:59.801Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/758/20633758/2112793466.jpg",
-      "imageKeys": [
-        "listing/758/20633758/2112793466.jpg",
-        "listing/758/20633758/1952354837.jpg",
-        "listing/758/20633758/1122295722.jpg",
-        "listing/758/20633758/1733196462.jpg",
-        "listing/758/20633758/861225590.jpg",
-        "listing/758/20633758/992790376.jpg",
-        "listing/758/20633758/1918560944.jpg",
-        "listing/758/20633758/586939800.jpg",
-        "listing/758/20633758/585985435.jpg",
-        "listing/758/20633758/1943348261.jpg",
-        "listing/758/20633758/1007537434.jpg",
-        "listing/758/20633758/833347075.jpg",
-        "listing/758/20633758/1153376661.jpg",
-        "listing/758/20633758/1041626693.jpg",
-        "listing/758/20633758/269514008.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20633758"
     },
     {
       "id": 12902839,
