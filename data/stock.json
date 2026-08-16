@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-16T10:30:35.763254+00:00",
+  "timestamp": "2026-08-16T11:27:15.914200+00:00",
   "count": 113,
   "listings": [
     {
@@ -1346,6 +1346,44 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20276620"
     },
     {
+      "id": 20633758,
+      "make": "MASERATI",
+      "model": "GRANTURISMO",
+      "versionFullName": "GranTurismo Sport Automatica",
+      "firstRegistrationYear": 2019,
+      "mileage": 19900,
+      "price": 89900.0,
+      "horsePower": 460,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-07-14T13:44:59.801Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/758/20633758/2112793466.jpg",
+      "imageKeys": [
+        "listing/758/20633758/2112793466.jpg",
+        "listing/758/20633758/1952354837.jpg",
+        "listing/758/20633758/1122295722.jpg",
+        "listing/758/20633758/1733196462.jpg",
+        "listing/758/20633758/861225590.jpg",
+        "listing/758/20633758/992790376.jpg",
+        "listing/758/20633758/1918560944.jpg",
+        "listing/758/20633758/586939800.jpg",
+        "listing/758/20633758/585985435.jpg",
+        "listing/758/20633758/1943348261.jpg",
+        "listing/758/20633758/1007537434.jpg",
+        "listing/758/20633758/833347075.jpg",
+        "listing/758/20633758/1153376661.jpg",
+        "listing/758/20633758/1041626693.jpg",
+        "listing/758/20633758/269514008.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20633758"
+    },
+    {
       "id": 20492852,
       "make": "MERCEDES-BENZ",
       "model": "AMG GT",
@@ -1384,44 +1422,6 @@
         "listing/852/20492852/454051708.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20492852"
-    },
-    {
-      "id": 20633758,
-      "make": "MASERATI",
-      "model": "GRANTURISMO",
-      "versionFullName": "GranTurismo Sport Automatica",
-      "firstRegistrationYear": 2019,
-      "mileage": 19900,
-      "price": 89900.0,
-      "horsePower": 460,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-07-14T13:44:59.801Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/758/20633758/2112793466.jpg",
-      "imageKeys": [
-        "listing/758/20633758/2112793466.jpg",
-        "listing/758/20633758/1952354837.jpg",
-        "listing/758/20633758/1122295722.jpg",
-        "listing/758/20633758/1733196462.jpg",
-        "listing/758/20633758/861225590.jpg",
-        "listing/758/20633758/992790376.jpg",
-        "listing/758/20633758/1918560944.jpg",
-        "listing/758/20633758/586939800.jpg",
-        "listing/758/20633758/585985435.jpg",
-        "listing/758/20633758/1943348261.jpg",
-        "listing/758/20633758/1007537434.jpg",
-        "listing/758/20633758/833347075.jpg",
-        "listing/758/20633758/1153376661.jpg",
-        "listing/758/20633758/1041626693.jpg",
-        "listing/758/20633758/269514008.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20633758"
     },
     {
       "id": 12902839,
@@ -2638,6 +2638,45 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20504432"
     },
     {
+      "id": 20524701,
+      "make": "MASERATI",
+      "model": "GRANCABRIO",
+      "versionFullName": "GRANCABRIO MY2026 V6 490 PS",
+      "firstRegistrationYear": 2026,
+      "mileage": 4000,
+      "price": 179900.0,
+      "horsePower": 490,
+      "transmissionType": "automatic",
+      "conditionType": "demonstration",
+      "createdDate": "2026-06-04T15:03:04.213Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/701/20524701/431327043.jpg",
+      "imageKeys": [
+        "listing/701/20524701/431327043.jpg",
+        "listing/701/20524701/1200564351.jpg",
+        "listing/701/20524701/944558246.jpg",
+        "listing/701/20524701/1526336273.jpg",
+        "listing/701/20524701/2097517178.jpg",
+        "listing/701/20524701/2022046663.jpg",
+        "listing/701/20524701/599515795.jpg",
+        "listing/701/20524701/1403938844.jpg",
+        "listing/701/20524701/1137142501.jpg",
+        "listing/701/20524701/1341584044.jpg",
+        "listing/701/20524701/115579775.jpg",
+        "listing/701/20524701/1868998477.jpg",
+        "listing/701/20524701/327307620.jpg",
+        "listing/701/20524701/690918330.jpg",
+        "listing/701/20524701/62201997.jpg",
+        "listing/701/20524701/713612626.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20524701"
+    },
+    {
       "id": 20447457,
       "make": "BENTLEY",
       "model": "CONTINENTAL",
@@ -2679,45 +2718,6 @@
         "listing/457/20447457/930007403.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20447457"
-    },
-    {
-      "id": 20524701,
-      "make": "MASERATI",
-      "model": "GRANCABRIO",
-      "versionFullName": "GRANCABRIO MY2026 V6 490 PS",
-      "firstRegistrationYear": 2026,
-      "mileage": 4000,
-      "price": 179900.0,
-      "horsePower": 490,
-      "transmissionType": "automatic",
-      "conditionType": "demonstration",
-      "createdDate": "2026-06-04T15:03:04.213Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/701/20524701/431327043.jpg",
-      "imageKeys": [
-        "listing/701/20524701/431327043.jpg",
-        "listing/701/20524701/1200564351.jpg",
-        "listing/701/20524701/944558246.jpg",
-        "listing/701/20524701/1526336273.jpg",
-        "listing/701/20524701/2097517178.jpg",
-        "listing/701/20524701/2022046663.jpg",
-        "listing/701/20524701/599515795.jpg",
-        "listing/701/20524701/1403938844.jpg",
-        "listing/701/20524701/1137142501.jpg",
-        "listing/701/20524701/1341584044.jpg",
-        "listing/701/20524701/115579775.jpg",
-        "listing/701/20524701/1868998477.jpg",
-        "listing/701/20524701/327307620.jpg",
-        "listing/701/20524701/690918330.jpg",
-        "listing/701/20524701/62201997.jpg",
-        "listing/701/20524701/713612626.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20524701"
     },
     {
       "id": 20556721,
