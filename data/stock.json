@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-17T10:39:21.508740+00:00",
-  "count": 114,
+  "timestamp": "2026-08-17T11:33:28.611883+00:00",
+  "count": 113,
   "listings": [
     {
       "id": 12532769,
@@ -228,42 +228,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20221212"
     },
     {
-      "id": 11769069,
-      "make": "MERCEDES-BENZ",
-      "model": "EQA 350",
-      "versionFullName": "EQA 350",
-      "firstRegistrationYear": 2025,
-      "mileage": 10,
-      "price": 49900.0,
-      "horsePower": 292,
-      "transmissionType": "automatic",
-      "conditionType": "new",
-      "createdDate": "2024-08-19T12:46:20.924Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/69/11769069/2097903375.jpg",
-      "imageKeys": [
-        "listing/69/11769069/2097903375.jpg",
-        "listing/69/11769069/781580764.jpg",
-        "listing/69/11769069/794519825.jpg",
-        "listing/69/11769069/598819196.jpg",
-        "listing/69/11769069/1100913909.jpg",
-        "listing/69/11769069/649129446.jpg",
-        "listing/69/11769069/1439735878.jpg",
-        "listing/69/11769069/797759867.jpg",
-        "listing/69/11769069/19301232.jpg",
-        "listing/69/11769069/772248962.jpg",
-        "listing/69/11769069/1308822209.jpg",
-        "listing/69/11769069/222850897.jpg",
-        "listing/69/11769069/869884764.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/11769069"
-    },
-    {
       "id": 20529437,
       "make": "PUCH",
       "model": "G",
@@ -304,6 +268,42 @@
         "listing/437/20529437/917917397.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20529437"
+    },
+    {
+      "id": 11769069,
+      "make": "MERCEDES-BENZ",
+      "model": "EQA 350",
+      "versionFullName": "EQA 350",
+      "firstRegistrationYear": 2025,
+      "mileage": 10,
+      "price": 49900.0,
+      "horsePower": 292,
+      "transmissionType": "automatic",
+      "conditionType": "new",
+      "createdDate": "2024-08-19T12:46:20.924Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/69/11769069/2097903375.jpg",
+      "imageKeys": [
+        "listing/69/11769069/2097903375.jpg",
+        "listing/69/11769069/781580764.jpg",
+        "listing/69/11769069/794519825.jpg",
+        "listing/69/11769069/598819196.jpg",
+        "listing/69/11769069/1100913909.jpg",
+        "listing/69/11769069/649129446.jpg",
+        "listing/69/11769069/1439735878.jpg",
+        "listing/69/11769069/797759867.jpg",
+        "listing/69/11769069/19301232.jpg",
+        "listing/69/11769069/772248962.jpg",
+        "listing/69/11769069/1308822209.jpg",
+        "listing/69/11769069/222850897.jpg",
+        "listing/69/11769069/869884764.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/11769069"
     },
     {
       "id": 20593363,
@@ -723,42 +723,6 @@
         "listing/721/12062721/806150583.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/12062721"
-    },
-    {
-      "id": 10346790,
-      "make": "MERCEDES-BENZ",
-      "model": "E 450",
-      "versionFullName": "E 450 Cabriolet 4Matic AMG Line 9G-Tronic",
-      "firstRegistrationYear": 2023,
-      "mileage": 20000,
-      "price": 69900.0,
-      "horsePower": 367,
-      "transmissionType": "automatic",
-      "conditionType": "demonstration",
-      "createdDate": "2023-03-15T09:57:02.231Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/790/10346790/1566480147.jpg",
-      "imageKeys": [
-        "listing/790/10346790/1566480147.jpg",
-        "listing/790/10346790/581574094.jpg",
-        "listing/790/10346790/140433747.jpg",
-        "listing/790/10346790/1352485786.jpg",
-        "listing/790/10346790/2038078342.jpg",
-        "listing/790/10346790/296835692.jpg",
-        "listing/790/10346790/1121087693.jpg",
-        "listing/790/10346790/1903985256.jpg",
-        "listing/790/10346790/155945625.jpg",
-        "listing/790/10346790/1975683270.jpg",
-        "listing/790/10346790/269718223.jpg",
-        "listing/790/10346790/1717035441.jpg",
-        "listing/790/10346790/1150413818.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/10346790"
     },
     {
       "id": 10797446,
