@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-17T12:58:16.871828+00:00",
+  "timestamp": "2026-08-17T13:48:14.249401+00:00",
   "count": 113,
   "listings": [
     {
@@ -306,43 +306,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/11769069"
     },
     {
-      "id": 20593363,
-      "make": "MASERATI",
-      "model": "LEVANTE",
-      "versionFullName": "Levante S 3.0 V6 Modena S Automatica",
-      "firstRegistrationYear": 2022,
-      "mileage": 72900,
-      "price": 49900.0,
-      "horsePower": 430,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-06-30T12:13:04.463Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/363/20593363/1358373904.jpg",
-      "imageKeys": [
-        "listing/363/20593363/1358373904.jpg",
-        "listing/363/20593363/1609747391.jpg",
-        "listing/363/20593363/592624557.jpg",
-        "listing/363/20593363/2112600214.jpg",
-        "listing/363/20593363/1353042975.jpg",
-        "listing/363/20593363/1745772630.jpg",
-        "listing/363/20593363/202138123.jpg",
-        "listing/363/20593363/418192690.jpg",
-        "listing/363/20593363/1542516573.jpg",
-        "listing/363/20593363/247781252.jpg",
-        "listing/363/20593363/1177259694.jpg",
-        "listing/363/20593363/14177611.jpg",
-        "listing/363/20593363/637922085.jpg",
-        "listing/363/20593363/1393706820.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20593363"
-    },
-    {
       "id": 20695979,
       "make": "MASERATI",
       "model": "GRECALE",
@@ -380,6 +343,43 @@
         "listing/979/20695979/1296501178.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20695979"
+    },
+    {
+      "id": 20593363,
+      "make": "MASERATI",
+      "model": "LEVANTE",
+      "versionFullName": "Levante S 3.0 V6 Modena S Automatica",
+      "firstRegistrationYear": 2022,
+      "mileage": 72900,
+      "price": 49900.0,
+      "horsePower": 430,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-06-30T12:13:04.463Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/363/20593363/1358373904.jpg",
+      "imageKeys": [
+        "listing/363/20593363/1358373904.jpg",
+        "listing/363/20593363/1609747391.jpg",
+        "listing/363/20593363/592624557.jpg",
+        "listing/363/20593363/2112600214.jpg",
+        "listing/363/20593363/1353042975.jpg",
+        "listing/363/20593363/1745772630.jpg",
+        "listing/363/20593363/202138123.jpg",
+        "listing/363/20593363/418192690.jpg",
+        "listing/363/20593363/1542516573.jpg",
+        "listing/363/20593363/247781252.jpg",
+        "listing/363/20593363/1177259694.jpg",
+        "listing/363/20593363/14177611.jpg",
+        "listing/363/20593363/637922085.jpg",
+        "listing/363/20593363/1393706820.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20593363"
     },
     {
       "id": 11710822,
@@ -4091,44 +4091,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/11492285"
     },
     {
-      "id": 12476583,
-      "make": "FERRARI",
-      "model": "SF90",
-      "versionFullName": "SF90 Stradale",
-      "firstRegistrationYear": 2021,
-      "mileage": 3700,
-      "price": 369000.0,
-      "horsePower": 1000,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2025-05-21T18:41:06.503Z",
-      "seller": {
-        "id": 60699,
-        "name": "B.I. Collection - Ferrari Zürich",
-        "city": "Urdorf-Zürich",
-        "zipCode": "8902"
-      },
-      "imageKey": "listing/583/12476583/793680252.jpg",
-      "imageKeys": [
-        "listing/583/12476583/793680252.jpg",
-        "listing/583/12476583/216792837.jpg",
-        "listing/583/12476583/525792683.jpg",
-        "listing/583/12476583/433953798.jpg",
-        "listing/583/12476583/1650611995.jpg",
-        "listing/583/12476583/1099357319.jpg",
-        "listing/583/12476583/1641246648.jpg",
-        "listing/583/12476583/320537448.jpg",
-        "listing/583/12476583/2024534498.jpg",
-        "listing/583/12476583/1178415576.jpg",
-        "listing/583/12476583/705879515.jpg",
-        "listing/583/12476583/1058025571.jpg",
-        "listing/583/12476583/497467394.jpg",
-        "listing/583/12476583/128794350.jpg",
-        "listing/583/12476583/1414784412.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/12476583"
-    },
-    {
       "id": 20145382,
       "make": "FERRARI",
       "model": "SF90",
@@ -4215,6 +4177,44 @@
         "listing/920/20539920/2034452973.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20539920"
+    },
+    {
+      "id": 12476583,
+      "make": "FERRARI",
+      "model": "SF90",
+      "versionFullName": "SF90 Stradale",
+      "firstRegistrationYear": 2021,
+      "mileage": 3700,
+      "price": 369000.0,
+      "horsePower": 1000,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2025-05-21T18:41:06.503Z",
+      "seller": {
+        "id": 60699,
+        "name": "B.I. Collection - Ferrari Zürich",
+        "city": "Urdorf-Zürich",
+        "zipCode": "8902"
+      },
+      "imageKey": "listing/583/12476583/793680252.jpg",
+      "imageKeys": [
+        "listing/583/12476583/793680252.jpg",
+        "listing/583/12476583/216792837.jpg",
+        "listing/583/12476583/525792683.jpg",
+        "listing/583/12476583/433953798.jpg",
+        "listing/583/12476583/1650611995.jpg",
+        "listing/583/12476583/1099357319.jpg",
+        "listing/583/12476583/1641246648.jpg",
+        "listing/583/12476583/320537448.jpg",
+        "listing/583/12476583/2024534498.jpg",
+        "listing/583/12476583/1178415576.jpg",
+        "listing/583/12476583/705879515.jpg",
+        "listing/583/12476583/1058025571.jpg",
+        "listing/583/12476583/497467394.jpg",
+        "listing/583/12476583/128794350.jpg",
+        "listing/583/12476583/1414784412.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/12476583"
     },
     {
       "id": 20134003,
