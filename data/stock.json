@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-17T11:33:28.611883+00:00",
+  "timestamp": "2026-08-17T12:58:16.871828+00:00",
   "count": 113,
   "listings": [
     {
@@ -1348,46 +1348,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/12331092"
     },
     {
-      "id": 20492852,
-      "make": "MERCEDES-BENZ",
-      "model": "AMG GT",
-      "versionFullName": "AMG GT S Speedshift DCT",
-      "firstRegistrationYear": 2016,
-      "mileage": 37700,
-      "price": 89900.0,
-      "horsePower": 510,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2026-05-23T09:03:00.54Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/852/20492852/704358902.jpg",
-      "imageKeys": [
-        "listing/852/20492852/704358902.jpg",
-        "listing/852/20492852/398137636.jpg",
-        "listing/852/20492852/165239677.jpg",
-        "listing/852/20492852/891412398.jpg",
-        "listing/852/20492852/571358606.jpg",
-        "listing/852/20492852/1086323803.jpg",
-        "listing/852/20492852/1098719712.jpg",
-        "listing/852/20492852/424821519.jpg",
-        "listing/852/20492852/1338894060.jpg",
-        "listing/852/20492852/322138595.jpg",
-        "listing/852/20492852/1542956317.jpg",
-        "listing/852/20492852/2126189541.jpg",
-        "listing/852/20492852/2133674611.jpg",
-        "listing/852/20492852/1569485047.jpg",
-        "listing/852/20492852/276381412.jpg",
-        "listing/852/20492852/1079420552.jpg",
-        "listing/852/20492852/454051708.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20492852"
-    },
-    {
       "id": 20633758,
       "make": "MASERATI",
       "model": "GRANTURISMO",
@@ -1424,6 +1384,46 @@
         "listing/758/20633758/269514008.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20633758"
+    },
+    {
+      "id": 20492852,
+      "make": "MERCEDES-BENZ",
+      "model": "AMG GT",
+      "versionFullName": "AMG GT S Speedshift DCT",
+      "firstRegistrationYear": 2018,
+      "mileage": 37700,
+      "price": 89900.0,
+      "horsePower": 510,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2026-05-23T09:03:00.54Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/852/20492852/704358902.jpg",
+      "imageKeys": [
+        "listing/852/20492852/704358902.jpg",
+        "listing/852/20492852/398137636.jpg",
+        "listing/852/20492852/165239677.jpg",
+        "listing/852/20492852/891412398.jpg",
+        "listing/852/20492852/571358606.jpg",
+        "listing/852/20492852/1086323803.jpg",
+        "listing/852/20492852/1098719712.jpg",
+        "listing/852/20492852/424821519.jpg",
+        "listing/852/20492852/1338894060.jpg",
+        "listing/852/20492852/322138595.jpg",
+        "listing/852/20492852/1542956317.jpg",
+        "listing/852/20492852/2126189541.jpg",
+        "listing/852/20492852/2133674611.jpg",
+        "listing/852/20492852/1569485047.jpg",
+        "listing/852/20492852/276381412.jpg",
+        "listing/852/20492852/1079420552.jpg",
+        "listing/852/20492852/454051708.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20492852"
     },
     {
       "id": 12902839,
