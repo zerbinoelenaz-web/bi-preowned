@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-17T13:48:14.249401+00:00",
+  "timestamp": "2026-08-17T14:35:50.599667+00:00",
   "count": 113,
   "listings": [
     {
@@ -228,6 +228,42 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20221212"
     },
     {
+      "id": 11769069,
+      "make": "MERCEDES-BENZ",
+      "model": "EQA 350",
+      "versionFullName": "EQA 350",
+      "firstRegistrationYear": 2025,
+      "mileage": 10,
+      "price": 49900.0,
+      "horsePower": 292,
+      "transmissionType": "automatic",
+      "conditionType": "new",
+      "createdDate": "2024-08-19T12:46:20.924Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/69/11769069/2097903375.jpg",
+      "imageKeys": [
+        "listing/69/11769069/2097903375.jpg",
+        "listing/69/11769069/781580764.jpg",
+        "listing/69/11769069/794519825.jpg",
+        "listing/69/11769069/598819196.jpg",
+        "listing/69/11769069/1100913909.jpg",
+        "listing/69/11769069/649129446.jpg",
+        "listing/69/11769069/1439735878.jpg",
+        "listing/69/11769069/797759867.jpg",
+        "listing/69/11769069/19301232.jpg",
+        "listing/69/11769069/772248962.jpg",
+        "listing/69/11769069/1308822209.jpg",
+        "listing/69/11769069/222850897.jpg",
+        "listing/69/11769069/869884764.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/11769069"
+    },
+    {
       "id": 20529437,
       "make": "PUCH",
       "model": "G",
@@ -270,40 +306,41 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20529437"
     },
     {
-      "id": 11769069,
-      "make": "MERCEDES-BENZ",
-      "model": "EQA 350",
-      "versionFullName": "EQA 350",
-      "firstRegistrationYear": 2025,
-      "mileage": 10,
+      "id": 20593363,
+      "make": "MASERATI",
+      "model": "LEVANTE",
+      "versionFullName": "Levante S 3.0 V6 Modena S Automatica",
+      "firstRegistrationYear": 2022,
+      "mileage": 72900,
       "price": 49900.0,
-      "horsePower": 292,
+      "horsePower": 430,
       "transmissionType": "automatic",
-      "conditionType": "new",
-      "createdDate": "2024-08-19T12:46:20.924Z",
+      "conditionType": "used",
+      "createdDate": "2026-06-30T12:13:04.463Z",
       "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
       },
-      "imageKey": "listing/69/11769069/2097903375.jpg",
+      "imageKey": "listing/363/20593363/1358373904.jpg",
       "imageKeys": [
-        "listing/69/11769069/2097903375.jpg",
-        "listing/69/11769069/781580764.jpg",
-        "listing/69/11769069/794519825.jpg",
-        "listing/69/11769069/598819196.jpg",
-        "listing/69/11769069/1100913909.jpg",
-        "listing/69/11769069/649129446.jpg",
-        "listing/69/11769069/1439735878.jpg",
-        "listing/69/11769069/797759867.jpg",
-        "listing/69/11769069/19301232.jpg",
-        "listing/69/11769069/772248962.jpg",
-        "listing/69/11769069/1308822209.jpg",
-        "listing/69/11769069/222850897.jpg",
-        "listing/69/11769069/869884764.jpg"
+        "listing/363/20593363/1358373904.jpg",
+        "listing/363/20593363/1609747391.jpg",
+        "listing/363/20593363/592624557.jpg",
+        "listing/363/20593363/2112600214.jpg",
+        "listing/363/20593363/1353042975.jpg",
+        "listing/363/20593363/1745772630.jpg",
+        "listing/363/20593363/202138123.jpg",
+        "listing/363/20593363/418192690.jpg",
+        "listing/363/20593363/1542516573.jpg",
+        "listing/363/20593363/247781252.jpg",
+        "listing/363/20593363/1177259694.jpg",
+        "listing/363/20593363/14177611.jpg",
+        "listing/363/20593363/637922085.jpg",
+        "listing/363/20593363/1393706820.jpg"
       ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/11769069"
+      "listingUrl": "https://www.autoscout24.ch/de/d/20593363"
     },
     {
       "id": 20695979,
@@ -343,43 +380,6 @@
         "listing/979/20695979/1296501178.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20695979"
-    },
-    {
-      "id": 20593363,
-      "make": "MASERATI",
-      "model": "LEVANTE",
-      "versionFullName": "Levante S 3.0 V6 Modena S Automatica",
-      "firstRegistrationYear": 2022,
-      "mileage": 72900,
-      "price": 49900.0,
-      "horsePower": 430,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-06-30T12:13:04.463Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/363/20593363/1358373904.jpg",
-      "imageKeys": [
-        "listing/363/20593363/1358373904.jpg",
-        "listing/363/20593363/1609747391.jpg",
-        "listing/363/20593363/592624557.jpg",
-        "listing/363/20593363/2112600214.jpg",
-        "listing/363/20593363/1353042975.jpg",
-        "listing/363/20593363/1745772630.jpg",
-        "listing/363/20593363/202138123.jpg",
-        "listing/363/20593363/418192690.jpg",
-        "listing/363/20593363/1542516573.jpg",
-        "listing/363/20593363/247781252.jpg",
-        "listing/363/20593363/1177259694.jpg",
-        "listing/363/20593363/14177611.jpg",
-        "listing/363/20593363/637922085.jpg",
-        "listing/363/20593363/1393706820.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20593363"
     },
     {
       "id": 11710822,
