@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-18T08:47:22.657720+00:00",
-  "count": 112,
+  "timestamp": "2026-08-18T09:41:22.965696+00:00",
+  "count": 111,
   "listings": [
     {
       "id": 12532769,
@@ -270,6 +270,43 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20529437"
     },
     {
+      "id": 20593363,
+      "make": "MASERATI",
+      "model": "LEVANTE",
+      "versionFullName": "Levante S 3.0 V6 Modena S Automatica",
+      "firstRegistrationYear": 2022,
+      "mileage": 72900,
+      "price": 49900.0,
+      "horsePower": 430,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-06-30T12:13:04.463Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/363/20593363/1358373904.jpg",
+      "imageKeys": [
+        "listing/363/20593363/1358373904.jpg",
+        "listing/363/20593363/1609747391.jpg",
+        "listing/363/20593363/592624557.jpg",
+        "listing/363/20593363/2112600214.jpg",
+        "listing/363/20593363/1353042975.jpg",
+        "listing/363/20593363/1745772630.jpg",
+        "listing/363/20593363/202138123.jpg",
+        "listing/363/20593363/418192690.jpg",
+        "listing/363/20593363/1542516573.jpg",
+        "listing/363/20593363/247781252.jpg",
+        "listing/363/20593363/1177259694.jpg",
+        "listing/363/20593363/14177611.jpg",
+        "listing/363/20593363/637922085.jpg",
+        "listing/363/20593363/1393706820.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20593363"
+    },
+    {
       "id": 20695979,
       "make": "MASERATI",
       "model": "GRECALE",
@@ -307,43 +344,6 @@
         "listing/979/20695979/1296501178.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20695979"
-    },
-    {
-      "id": 20593363,
-      "make": "MASERATI",
-      "model": "LEVANTE",
-      "versionFullName": "Levante S 3.0 V6 Modena S Automatica",
-      "firstRegistrationYear": 2022,
-      "mileage": 72900,
-      "price": 49900.0,
-      "horsePower": 430,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-06-30T12:13:04.463Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/363/20593363/1358373904.jpg",
-      "imageKeys": [
-        "listing/363/20593363/1358373904.jpg",
-        "listing/363/20593363/1609747391.jpg",
-        "listing/363/20593363/592624557.jpg",
-        "listing/363/20593363/2112600214.jpg",
-        "listing/363/20593363/1353042975.jpg",
-        "listing/363/20593363/1745772630.jpg",
-        "listing/363/20593363/202138123.jpg",
-        "listing/363/20593363/418192690.jpg",
-        "listing/363/20593363/1542516573.jpg",
-        "listing/363/20593363/247781252.jpg",
-        "listing/363/20593363/1177259694.jpg",
-        "listing/363/20593363/14177611.jpg",
-        "listing/363/20593363/637922085.jpg",
-        "listing/363/20593363/1393706820.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20593363"
     },
     {
       "id": 11710822,
@@ -3343,47 +3343,6 @@
         "listing/292/12772292/876748303.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/12772292"
-    },
-    {
-      "id": 20584807,
-      "make": "PORSCHE",
-      "model": "911",
-      "versionFullName": "964 30 jähre Jubilée",
-      "firstRegistrationYear": 1993,
-      "mileage": 1500,
-      "price": 260964.0,
-      "horsePower": 250,
-      "transmissionType": "manual",
-      "conditionType": "used",
-      "createdDate": "2026-06-26T11:03:51.53Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/807/20584807/2039609222.jpg",
-      "imageKeys": [
-        "listing/807/20584807/2039609222.jpg",
-        "listing/807/20584807/1022964301.jpg",
-        "listing/807/20584807/773411070.jpg",
-        "listing/807/20584807/1587995096.jpg",
-        "listing/807/20584807/1531871583.jpg",
-        "listing/807/20584807/328000506.jpg",
-        "listing/807/20584807/1551779107.jpg",
-        "listing/807/20584807/841387992.jpg",
-        "listing/807/20584807/90656182.jpg",
-        "listing/807/20584807/1128815419.jpg",
-        "listing/807/20584807/1026721471.jpg",
-        "listing/807/20584807/1490405402.jpg",
-        "listing/807/20584807/1335303848.jpg",
-        "listing/807/20584807/1583339485.jpg",
-        "listing/807/20584807/1639470875.jpg",
-        "listing/807/20584807/701293843.jpg",
-        "listing/807/20584807/329698270.jpg",
-        "listing/807/20584807/581053066.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20584807"
     },
     {
       "id": 20499931,
