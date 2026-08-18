@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-18T13:52:33.007517+00:00",
+  "timestamp": "2026-08-18T14:41:01.936318+00:00",
   "count": 110,
   "listings": [
     {
@@ -270,43 +270,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20529437"
     },
     {
-      "id": 20593363,
-      "make": "MASERATI",
-      "model": "LEVANTE",
-      "versionFullName": "Levante S 3.0 V6 Modena S Automatica",
-      "firstRegistrationYear": 2022,
-      "mileage": 72900,
-      "price": 49900.0,
-      "horsePower": 430,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-06-30T12:13:04.463Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/363/20593363/1358373904.jpg",
-      "imageKeys": [
-        "listing/363/20593363/1358373904.jpg",
-        "listing/363/20593363/1609747391.jpg",
-        "listing/363/20593363/592624557.jpg",
-        "listing/363/20593363/2112600214.jpg",
-        "listing/363/20593363/1353042975.jpg",
-        "listing/363/20593363/1745772630.jpg",
-        "listing/363/20593363/202138123.jpg",
-        "listing/363/20593363/418192690.jpg",
-        "listing/363/20593363/1542516573.jpg",
-        "listing/363/20593363/247781252.jpg",
-        "listing/363/20593363/1177259694.jpg",
-        "listing/363/20593363/14177611.jpg",
-        "listing/363/20593363/637922085.jpg",
-        "listing/363/20593363/1393706820.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20593363"
-    },
-    {
       "id": 20695979,
       "make": "MASERATI",
       "model": "GRECALE",
@@ -344,6 +307,43 @@
         "listing/979/20695979/1296501178.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20695979"
+    },
+    {
+      "id": 20593363,
+      "make": "MASERATI",
+      "model": "LEVANTE",
+      "versionFullName": "Levante S 3.0 V6 Modena S Automatica",
+      "firstRegistrationYear": 2022,
+      "mileage": 72900,
+      "price": 49900.0,
+      "horsePower": 430,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-06-30T12:13:04.463Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/363/20593363/1358373904.jpg",
+      "imageKeys": [
+        "listing/363/20593363/1358373904.jpg",
+        "listing/363/20593363/1609747391.jpg",
+        "listing/363/20593363/592624557.jpg",
+        "listing/363/20593363/2112600214.jpg",
+        "listing/363/20593363/1353042975.jpg",
+        "listing/363/20593363/1745772630.jpg",
+        "listing/363/20593363/202138123.jpg",
+        "listing/363/20593363/418192690.jpg",
+        "listing/363/20593363/1542516573.jpg",
+        "listing/363/20593363/247781252.jpg",
+        "listing/363/20593363/1177259694.jpg",
+        "listing/363/20593363/14177611.jpg",
+        "listing/363/20593363/637922085.jpg",
+        "listing/363/20593363/1393706820.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20593363"
     },
     {
       "id": 11710822,
@@ -3132,52 +3132,42 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20411878"
     },
     {
-      "id": 20055814,
+      "id": 12593707,
       "make": "FERRARI",
-      "model": "Roma",
-      "versionFullName": "Roma Spider 3.9 V8 T",
-      "firstRegistrationYear": 2024,
-      "mileage": 4800,
+      "model": "296",
+      "versionFullName": "296 GTB",
+      "firstRegistrationYear": 2023,
+      "mileage": 3200,
       "price": 259000.0,
-      "horsePower": 620,
+      "horsePower": 830,
       "transmissionType": "semi-automatic",
       "conditionType": "used",
-      "createdDate": "2025-12-09T14:50:30.443Z",
+      "createdDate": "2025-07-07T15:42:39.642Z",
       "seller": {
         "id": 60699,
         "name": "B.I. Collection - Ferrari Zürich",
         "city": "Urdorf-Zürich",
         "zipCode": "8902"
       },
-      "imageKey": "listing/814/20055814/8097419.jpg",
+      "imageKey": "listing/707/12593707/1758450110.jpg",
       "imageKeys": [
-        "listing/814/20055814/8097419.jpg",
-        "listing/814/20055814/1663574427.jpg",
-        "listing/814/20055814/393447441.jpg",
-        "listing/814/20055814/1145163714.jpg",
-        "listing/814/20055814/1517647277.jpg",
-        "listing/814/20055814/1087921305.jpg",
-        "listing/814/20055814/998898696.jpg",
-        "listing/814/20055814/904243378.jpg",
-        "listing/814/20055814/356234357.jpg",
-        "listing/814/20055814/13689298.jpg",
-        "listing/814/20055814/1293342561.jpg",
-        "listing/814/20055814/234017301.jpg",
-        "listing/814/20055814/1168235861.jpg",
-        "listing/814/20055814/1420684989.jpg",
-        "listing/814/20055814/1400133967.jpg",
-        "listing/814/20055814/838222002.jpg",
-        "listing/814/20055814/1928639102.jpg",
-        "listing/814/20055814/2014291309.jpg",
-        "listing/814/20055814/2084504841.jpg",
-        "listing/814/20055814/1827996083.jpg",
-        "listing/814/20055814/1005162917.jpg",
-        "listing/814/20055814/2018188050.jpg",
-        "listing/814/20055814/442210130.jpg",
-        "listing/814/20055814/956517162.jpg",
-        "listing/814/20055814/1307283572.jpg"
+        "listing/707/12593707/1758450110.jpg",
+        "listing/707/12593707/2071955244.jpg",
+        "listing/707/12593707/1991445480.jpg",
+        "listing/707/12593707/177203711.jpg",
+        "listing/707/12593707/1115307251.jpg",
+        "listing/707/12593707/548463174.jpg",
+        "listing/707/12593707/2065091168.jpg",
+        "listing/707/12593707/353972829.jpg",
+        "listing/707/12593707/1610664905.jpg",
+        "listing/707/12593707/1738630634.jpg",
+        "listing/707/12593707/1031486798.jpg",
+        "listing/707/12593707/1029925135.jpg",
+        "listing/707/12593707/1555187681.jpg",
+        "listing/707/12593707/1534587584.jpg",
+        "listing/707/12593707/911423291.jpg"
       ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20055814"
+      "listingUrl": "https://www.autoscout24.ch/de/d/12593707"
     },
     {
       "id": 12593707,
