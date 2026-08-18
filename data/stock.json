@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-18T05:36:33.881813+00:00",
-  "count": 113,
+  "timestamp": "2026-08-18T06:56:45.467543+00:00",
+  "count": 112,
   "listings": [
     {
       "id": 12532769,
@@ -268,42 +268,6 @@
         "listing/437/20529437/917917397.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20529437"
-    },
-    {
-      "id": 11769069,
-      "make": "MERCEDES-BENZ",
-      "model": "EQA 350",
-      "versionFullName": "EQA 350",
-      "firstRegistrationYear": 2025,
-      "mileage": 10,
-      "price": 49900.0,
-      "horsePower": 292,
-      "transmissionType": "automatic",
-      "conditionType": "new",
-      "createdDate": "2024-08-19T12:46:20.924Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/69/11769069/2097903375.jpg",
-      "imageKeys": [
-        "listing/69/11769069/2097903375.jpg",
-        "listing/69/11769069/781580764.jpg",
-        "listing/69/11769069/794519825.jpg",
-        "listing/69/11769069/598819196.jpg",
-        "listing/69/11769069/1100913909.jpg",
-        "listing/69/11769069/649129446.jpg",
-        "listing/69/11769069/1439735878.jpg",
-        "listing/69/11769069/797759867.jpg",
-        "listing/69/11769069/19301232.jpg",
-        "listing/69/11769069/772248962.jpg",
-        "listing/69/11769069/1308822209.jpg",
-        "listing/69/11769069/222850897.jpg",
-        "listing/69/11769069/869884764.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/11769069"
     },
     {
       "id": 20593363,
@@ -1529,54 +1493,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/11165311"
     },
     {
-      "id": 20362599,
-      "make": "ASTON MARTIN",
-      "model": "DBX",
-      "versionFullName": "DBX 4.0 V8",
-      "firstRegistrationYear": 2021,
-      "mileage": 49600,
-      "price": 99707.0,
-      "horsePower": 551,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-04-09T16:35:02.083Z",
-      "seller": {
-        "id": 2304422,
-        "name": "B.I. Collection SG AG",
-        "city": "Niederwil SG",
-        "zipCode": "9203"
-      },
-      "imageKey": "listing/599/20362599/1425713453.jpg",
-      "imageKeys": [
-        "listing/599/20362599/1425713453.jpg",
-        "listing/599/20362599/1444904251.jpg",
-        "listing/599/20362599/943970856.JPG",
-        "listing/599/20362599/1857063917.jpg",
-        "listing/599/20362599/395308375.jpg",
-        "listing/599/20362599/1756895715.jpg",
-        "listing/599/20362599/1147632583.jpg",
-        "listing/599/20362599/695138367.jpg",
-        "listing/599/20362599/1710214537.jpg",
-        "listing/599/20362599/1063981665.jpg",
-        "listing/599/20362599/49552842.jpg",
-        "listing/599/20362599/1586477458.jpg",
-        "listing/599/20362599/1829954188.jpg",
-        "listing/599/20362599/612138574.jpg",
-        "listing/599/20362599/776983640.jpg",
-        "listing/599/20362599/226442857.jpg",
-        "listing/599/20362599/58018135.jpg",
-        "listing/599/20362599/280258138.jpg",
-        "listing/599/20362599/1539872505.jpg",
-        "listing/599/20362599/774753135.jpg",
-        "listing/599/20362599/305479839.jpg",
-        "listing/599/20362599/1183555501.jpg",
-        "listing/599/20362599/2077623015.jpg",
-        "listing/599/20362599/807148956.jpg",
-        "listing/599/20362599/864726434.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20362599"
-    },
-    {
       "id": 20242496,
       "make": "BMW",
       "model": "XM",
@@ -1910,6 +1826,54 @@
         "listing/672/11548672/1728059503.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/11548672"
+    },
+    {
+      "id": 20362599,
+      "make": "ASTON MARTIN",
+      "model": "DBX",
+      "versionFullName": "DBX 4.0 V8",
+      "firstRegistrationYear": 2021,
+      "mileage": 49600,
+      "price": 109707.0,
+      "horsePower": 551,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-04-09T16:35:02.083Z",
+      "seller": {
+        "id": 2304422,
+        "name": "B.I. Collection SG AG",
+        "city": "Niederwil SG",
+        "zipCode": "9203"
+      },
+      "imageKey": "listing/599/20362599/1425713453.jpg",
+      "imageKeys": [
+        "listing/599/20362599/1425713453.jpg",
+        "listing/599/20362599/1444904251.jpg",
+        "listing/599/20362599/943970856.JPG",
+        "listing/599/20362599/1857063917.jpg",
+        "listing/599/20362599/395308375.jpg",
+        "listing/599/20362599/1756895715.jpg",
+        "listing/599/20362599/1147632583.jpg",
+        "listing/599/20362599/695138367.jpg",
+        "listing/599/20362599/1710214537.jpg",
+        "listing/599/20362599/1063981665.jpg",
+        "listing/599/20362599/49552842.jpg",
+        "listing/599/20362599/1586477458.jpg",
+        "listing/599/20362599/1829954188.jpg",
+        "listing/599/20362599/612138574.jpg",
+        "listing/599/20362599/776983640.jpg",
+        "listing/599/20362599/226442857.jpg",
+        "listing/599/20362599/58018135.jpg",
+        "listing/599/20362599/280258138.jpg",
+        "listing/599/20362599/1539872505.jpg",
+        "listing/599/20362599/774753135.jpg",
+        "listing/599/20362599/305479839.jpg",
+        "listing/599/20362599/1183555501.jpg",
+        "listing/599/20362599/2077623015.jpg",
+        "listing/599/20362599/807148956.jpg",
+        "listing/599/20362599/864726434.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20362599"
     },
     {
       "id": 20215683,
