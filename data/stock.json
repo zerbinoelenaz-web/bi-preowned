@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-19T04:44:35.086837+00:00",
+  "timestamp": "2026-08-19T05:38:00.786966+00:00",
   "count": 109,
   "listings": [
     {
@@ -270,6 +270,43 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20529437"
     },
     {
+      "id": 20593363,
+      "make": "MASERATI",
+      "model": "LEVANTE",
+      "versionFullName": "Levante S 3.0 V6 Modena S Automatica",
+      "firstRegistrationYear": 2022,
+      "mileage": 72900,
+      "price": 49900.0,
+      "horsePower": 430,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-06-30T12:13:04.463Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/363/20593363/1358373904.jpg",
+      "imageKeys": [
+        "listing/363/20593363/1358373904.jpg",
+        "listing/363/20593363/1609747391.jpg",
+        "listing/363/20593363/592624557.jpg",
+        "listing/363/20593363/2112600214.jpg",
+        "listing/363/20593363/1353042975.jpg",
+        "listing/363/20593363/1745772630.jpg",
+        "listing/363/20593363/202138123.jpg",
+        "listing/363/20593363/418192690.jpg",
+        "listing/363/20593363/1542516573.jpg",
+        "listing/363/20593363/247781252.jpg",
+        "listing/363/20593363/1177259694.jpg",
+        "listing/363/20593363/14177611.jpg",
+        "listing/363/20593363/637922085.jpg",
+        "listing/363/20593363/1393706820.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20593363"
+    },
+    {
       "id": 20695979,
       "make": "MASERATI",
       "model": "GRECALE",
@@ -307,43 +344,6 @@
         "listing/979/20695979/1296501178.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20695979"
-    },
-    {
-      "id": 20593363,
-      "make": "MASERATI",
-      "model": "LEVANTE",
-      "versionFullName": "Levante S 3.0 V6 Modena S Automatica",
-      "firstRegistrationYear": 2022,
-      "mileage": 72900,
-      "price": 49900.0,
-      "horsePower": 430,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-06-30T12:13:04.463Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/363/20593363/1358373904.jpg",
-      "imageKeys": [
-        "listing/363/20593363/1358373904.jpg",
-        "listing/363/20593363/1609747391.jpg",
-        "listing/363/20593363/592624557.jpg",
-        "listing/363/20593363/2112600214.jpg",
-        "listing/363/20593363/1353042975.jpg",
-        "listing/363/20593363/1745772630.jpg",
-        "listing/363/20593363/202138123.jpg",
-        "listing/363/20593363/418192690.jpg",
-        "listing/363/20593363/1542516573.jpg",
-        "listing/363/20593363/247781252.jpg",
-        "listing/363/20593363/1177259694.jpg",
-        "listing/363/20593363/14177611.jpg",
-        "listing/363/20593363/637922085.jpg",
-        "listing/363/20593363/1393706820.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20593363"
     },
     {
       "id": 11710822,
@@ -2069,6 +2069,45 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20389384"
     },
     {
+      "id": 20566024,
+      "make": "MASERATI",
+      "model": "GRANTURISMO",
+      "versionFullName": "GranTurismo Modena Automatica",
+      "firstRegistrationYear": 2023,
+      "mileage": 19000,
+      "price": 129900.0,
+      "horsePower": 490,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-06-19T06:48:07.501Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/24/20566024/1998824694.jpg",
+      "imageKeys": [
+        "listing/24/20566024/1998824694.jpg",
+        "listing/24/20566024/2047044363.jpg",
+        "listing/24/20566024/2094688112.jpg",
+        "listing/24/20566024/1667907419.jpg",
+        "listing/24/20566024/951113379.jpg",
+        "listing/24/20566024/793053724.jpg",
+        "listing/24/20566024/1184100057.jpg",
+        "listing/24/20566024/2139067364.jpg",
+        "listing/24/20566024/1205710829.jpg",
+        "listing/24/20566024/1433258186.jpg",
+        "listing/24/20566024/1894474027.jpg",
+        "listing/24/20566024/1246052653.jpg",
+        "listing/24/20566024/725950243.jpg",
+        "listing/24/20566024/1347407673.jpg",
+        "listing/24/20566024/2123305046.jpg",
+        "listing/24/20566024/1219854299.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20566024"
+    },
+    {
       "id": 20665931,
       "make": "AUDI",
       "model": "R8",
@@ -2108,45 +2147,6 @@
         "listing/931/20665931/1063678838.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20665931"
-    },
-    {
-      "id": 20566024,
-      "make": "MASERATI",
-      "model": "GRANTURISMO",
-      "versionFullName": "GranTurismo Modena Automatica",
-      "firstRegistrationYear": 2023,
-      "mileage": 19000,
-      "price": 129900.0,
-      "horsePower": 490,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-06-19T06:48:07.501Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/24/20566024/1998824694.jpg",
-      "imageKeys": [
-        "listing/24/20566024/1998824694.jpg",
-        "listing/24/20566024/2047044363.jpg",
-        "listing/24/20566024/2094688112.jpg",
-        "listing/24/20566024/1667907419.jpg",
-        "listing/24/20566024/951113379.jpg",
-        "listing/24/20566024/793053724.jpg",
-        "listing/24/20566024/1184100057.jpg",
-        "listing/24/20566024/2139067364.jpg",
-        "listing/24/20566024/1205710829.jpg",
-        "listing/24/20566024/1433258186.jpg",
-        "listing/24/20566024/1894474027.jpg",
-        "listing/24/20566024/1246052653.jpg",
-        "listing/24/20566024/725950243.jpg",
-        "listing/24/20566024/1347407673.jpg",
-        "listing/24/20566024/2123305046.jpg",
-        "listing/24/20566024/1219854299.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20566024"
     },
     {
       "id": 20575474,
@@ -3093,46 +3093,42 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20411878"
     },
     {
-      "id": 20687112,
+      "id": 12593707,
       "make": "FERRARI",
-      "model": "Roma",
-      "versionFullName": "Roma 3.9 V8 T",
-      "firstRegistrationYear": 2024,
-      "mileage": 590,
+      "model": "296",
+      "versionFullName": "296 GTB",
+      "firstRegistrationYear": 2023,
+      "mileage": 3200,
       "price": 259000.0,
-      "horsePower": 620,
+      "horsePower": 830,
       "transmissionType": "semi-automatic",
       "conditionType": "used",
-      "createdDate": "2026-08-06T07:25:27.267Z",
+      "createdDate": "2025-07-07T15:42:39.642Z",
       "seller": {
         "id": 60699,
         "name": "B.I. Collection - Ferrari Zürich",
         "city": "Urdorf-Zürich",
         "zipCode": "8902"
       },
-      "imageKey": "listing/112/20687112/45597435.jpg",
+      "imageKey": "listing/707/12593707/1758450110.jpg",
       "imageKeys": [
-        "listing/112/20687112/45597435.jpg",
-        "listing/112/20687112/1913837551.jpg",
-        "listing/112/20687112/1851061142.jpg",
-        "listing/112/20687112/21393380.jpg",
-        "listing/112/20687112/305381418.jpg",
-        "listing/112/20687112/2145173751.jpg",
-        "listing/112/20687112/1268911285.jpg",
-        "listing/112/20687112/616768799.jpg",
-        "listing/112/20687112/1511241926.jpg",
-        "listing/112/20687112/1953112830.jpg",
-        "listing/112/20687112/218426770.jpg",
-        "listing/112/20687112/1726121359.jpg",
-        "listing/112/20687112/1798563383.jpg",
-        "listing/112/20687112/2129859873.jpg",
-        "listing/112/20687112/296031894.jpg",
-        "listing/112/20687112/786131644.jpg",
-        "listing/112/20687112/1339676427.jpg",
-        "listing/112/20687112/661385629.jpg",
-        "listing/112/20687112/1591170393.jpg"
+        "listing/707/12593707/1758450110.jpg",
+        "listing/707/12593707/2071955244.jpg",
+        "listing/707/12593707/1991445480.jpg",
+        "listing/707/12593707/177203711.jpg",
+        "listing/707/12593707/1115307251.jpg",
+        "listing/707/12593707/548463174.jpg",
+        "listing/707/12593707/2065091168.jpg",
+        "listing/707/12593707/353972829.jpg",
+        "listing/707/12593707/1610664905.jpg",
+        "listing/707/12593707/1738630634.jpg",
+        "listing/707/12593707/1031486798.jpg",
+        "listing/707/12593707/1029925135.jpg",
+        "listing/707/12593707/1555187681.jpg",
+        "listing/707/12593707/1534587584.jpg",
+        "listing/707/12593707/911423291.jpg"
       ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20687112"
+      "listingUrl": "https://www.autoscout24.ch/de/d/12593707"
     },
     {
       "id": 20055814,
