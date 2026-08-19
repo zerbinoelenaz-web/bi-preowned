@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-19T09:41:22.233686+00:00",
+  "timestamp": "2026-08-19T10:36:11.692705+00:00",
   "count": 109,
   "listings": [
     {
@@ -2069,6 +2069,45 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20389384"
     },
     {
+      "id": 20566024,
+      "make": "MASERATI",
+      "model": "GRANTURISMO",
+      "versionFullName": "GranTurismo Modena Automatica",
+      "firstRegistrationYear": 2023,
+      "mileage": 19000,
+      "price": 129900.0,
+      "horsePower": 490,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-06-19T06:48:07.501Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/24/20566024/1998824694.jpg",
+      "imageKeys": [
+        "listing/24/20566024/1998824694.jpg",
+        "listing/24/20566024/2047044363.jpg",
+        "listing/24/20566024/2094688112.jpg",
+        "listing/24/20566024/1667907419.jpg",
+        "listing/24/20566024/951113379.jpg",
+        "listing/24/20566024/793053724.jpg",
+        "listing/24/20566024/1184100057.jpg",
+        "listing/24/20566024/2139067364.jpg",
+        "listing/24/20566024/1205710829.jpg",
+        "listing/24/20566024/1433258186.jpg",
+        "listing/24/20566024/1894474027.jpg",
+        "listing/24/20566024/1246052653.jpg",
+        "listing/24/20566024/725950243.jpg",
+        "listing/24/20566024/1347407673.jpg",
+        "listing/24/20566024/2123305046.jpg",
+        "listing/24/20566024/1219854299.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20566024"
+    },
+    {
       "id": 20665931,
       "make": "AUDI",
       "model": "R8",
@@ -2108,45 +2147,6 @@
         "listing/931/20665931/1063678838.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20665931"
-    },
-    {
-      "id": 20566024,
-      "make": "MASERATI",
-      "model": "GRANTURISMO",
-      "versionFullName": "GranTurismo Modena Automatica",
-      "firstRegistrationYear": 2023,
-      "mileage": 19000,
-      "price": 129900.0,
-      "horsePower": 490,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-06-19T06:48:07.501Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/24/20566024/1998824694.jpg",
-      "imageKeys": [
-        "listing/24/20566024/1998824694.jpg",
-        "listing/24/20566024/2047044363.jpg",
-        "listing/24/20566024/2094688112.jpg",
-        "listing/24/20566024/1667907419.jpg",
-        "listing/24/20566024/951113379.jpg",
-        "listing/24/20566024/793053724.jpg",
-        "listing/24/20566024/1184100057.jpg",
-        "listing/24/20566024/2139067364.jpg",
-        "listing/24/20566024/1205710829.jpg",
-        "listing/24/20566024/1433258186.jpg",
-        "listing/24/20566024/1894474027.jpg",
-        "listing/24/20566024/1246052653.jpg",
-        "listing/24/20566024/725950243.jpg",
-        "listing/24/20566024/1347407673.jpg",
-        "listing/24/20566024/2123305046.jpg",
-        "listing/24/20566024/1219854299.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20566024"
     },
     {
       "id": 20575474,
@@ -3093,6 +3093,44 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20411878"
     },
     {
+      "id": 12593707,
+      "make": "FERRARI",
+      "model": "296",
+      "versionFullName": "296 GTB",
+      "firstRegistrationYear": 2023,
+      "mileage": 3200,
+      "price": 259000.0,
+      "horsePower": 830,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2025-07-07T15:42:39.642Z",
+      "seller": {
+        "id": 60699,
+        "name": "B.I. Collection - Ferrari Zürich",
+        "city": "Urdorf-Zürich",
+        "zipCode": "8902"
+      },
+      "imageKey": "listing/707/12593707/1758450110.jpg",
+      "imageKeys": [
+        "listing/707/12593707/1758450110.jpg",
+        "listing/707/12593707/2071955244.jpg",
+        "listing/707/12593707/1991445480.jpg",
+        "listing/707/12593707/177203711.jpg",
+        "listing/707/12593707/1115307251.jpg",
+        "listing/707/12593707/548463174.jpg",
+        "listing/707/12593707/2065091168.jpg",
+        "listing/707/12593707/353972829.jpg",
+        "listing/707/12593707/1610664905.jpg",
+        "listing/707/12593707/1738630634.jpg",
+        "listing/707/12593707/1031486798.jpg",
+        "listing/707/12593707/1029925135.jpg",
+        "listing/707/12593707/1555187681.jpg",
+        "listing/707/12593707/1534587584.jpg",
+        "listing/707/12593707/911423291.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/12593707"
+    },
+    {
       "id": 20055814,
       "make": "FERRARI",
       "model": "Roma",
@@ -3139,44 +3177,6 @@
         "listing/814/20055814/1307283572.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20055814"
-    },
-    {
-      "id": 12593707,
-      "make": "FERRARI",
-      "model": "296",
-      "versionFullName": "296 GTB",
-      "firstRegistrationYear": 2023,
-      "mileage": 3200,
-      "price": 259000.0,
-      "horsePower": 830,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2025-07-07T15:42:39.642Z",
-      "seller": {
-        "id": 60699,
-        "name": "B.I. Collection - Ferrari Zürich",
-        "city": "Urdorf-Zürich",
-        "zipCode": "8902"
-      },
-      "imageKey": "listing/707/12593707/1758450110.jpg",
-      "imageKeys": [
-        "listing/707/12593707/1758450110.jpg",
-        "listing/707/12593707/2071955244.jpg",
-        "listing/707/12593707/1991445480.jpg",
-        "listing/707/12593707/177203711.jpg",
-        "listing/707/12593707/1115307251.jpg",
-        "listing/707/12593707/548463174.jpg",
-        "listing/707/12593707/2065091168.jpg",
-        "listing/707/12593707/353972829.jpg",
-        "listing/707/12593707/1610664905.jpg",
-        "listing/707/12593707/1738630634.jpg",
-        "listing/707/12593707/1031486798.jpg",
-        "listing/707/12593707/1029925135.jpg",
-        "listing/707/12593707/1555187681.jpg",
-        "listing/707/12593707/1534587584.jpg",
-        "listing/707/12593707/911423291.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/12593707"
     },
     {
       "id": 12593707,
