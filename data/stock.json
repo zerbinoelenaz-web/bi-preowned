@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-19T13:01:01.417863+00:00",
-  "count": 108,
+  "timestamp": "2026-08-19T14:41:32.866047+00:00",
+  "count": 109,
   "listings": [
     {
       "id": 12532769,
@@ -1145,6 +1145,49 @@
         "listing/253/12508253/1783066491.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/12508253"
+    },
+    {
+      "id": 20720218,
+      "make": "BMW",
+      "model": "Z3",
+      "versionFullName": "M Coupé",
+      "firstRegistrationYear": 2002,
+      "mileage": 38200,
+      "price": 81500.0,
+      "horsePower": 325,
+      "transmissionType": "manual",
+      "conditionType": "used",
+      "createdDate": "2026-08-19T12:48:14.134Z",
+      "seller": {
+        "id": 2304422,
+        "name": "B.I. Collection SG AG",
+        "city": "Niederwil SG",
+        "zipCode": "9203"
+      },
+      "imageKey": "listing/218/20720218/166168519.jpg",
+      "imageKeys": [
+        "listing/218/20720218/166168519.jpg",
+        "listing/218/20720218/1014070108.jpg",
+        "listing/218/20720218/1768746818.jpg",
+        "listing/218/20720218/1369467817.jpg",
+        "listing/218/20720218/2101937404.jpg",
+        "listing/218/20720218/1978142564.jpg",
+        "listing/218/20720218/1959878383.jpg",
+        "listing/218/20720218/548951997.jpg",
+        "listing/218/20720218/1422150464.jpg",
+        "listing/218/20720218/1140495449.jpg",
+        "listing/218/20720218/1020779562.jpg",
+        "listing/218/20720218/166502189.jpg",
+        "listing/218/20720218/1849245508.jpg",
+        "listing/218/20720218/1072096692.jpg",
+        "listing/218/20720218/467403649.jpg",
+        "listing/218/20720218/1236475330.jpg",
+        "listing/218/20720218/1482991020.jpg",
+        "listing/218/20720218/2040993029.jpg",
+        "listing/218/20720218/332974462.jpg",
+        "listing/218/20720218/913749638.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20720218"
     },
     {
       "id": 12834240,
@@ -3090,48 +3133,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20411878"
     },
     {
-      "id": 20687112,
-      "make": "FERRARI",
-      "model": "Roma",
-      "versionFullName": "Roma 3.9 V8 T",
-      "firstRegistrationYear": 2024,
-      "mileage": 590,
-      "price": 259000.0,
-      "horsePower": 620,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2026-08-06T07:25:27.267Z",
-      "seller": {
-        "id": 60699,
-        "name": "B.I. Collection - Ferrari Zürich",
-        "city": "Urdorf-Zürich",
-        "zipCode": "8902"
-      },
-      "imageKey": "listing/112/20687112/45597435.jpg",
-      "imageKeys": [
-        "listing/112/20687112/45597435.jpg",
-        "listing/112/20687112/1913837551.jpg",
-        "listing/112/20687112/1851061142.jpg",
-        "listing/112/20687112/21393380.jpg",
-        "listing/112/20687112/305381418.jpg",
-        "listing/112/20687112/2145173751.jpg",
-        "listing/112/20687112/1268911285.jpg",
-        "listing/112/20687112/616768799.jpg",
-        "listing/112/20687112/1511241926.jpg",
-        "listing/112/20687112/1953112830.jpg",
-        "listing/112/20687112/218426770.jpg",
-        "listing/112/20687112/1726121359.jpg",
-        "listing/112/20687112/1798563383.jpg",
-        "listing/112/20687112/2129859873.jpg",
-        "listing/112/20687112/296031894.jpg",
-        "listing/112/20687112/786131644.jpg",
-        "listing/112/20687112/1339676427.jpg",
-        "listing/112/20687112/661385629.jpg",
-        "listing/112/20687112/1591170393.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20687112"
-    },
-    {
       "id": 20055814,
       "make": "FERRARI",
       "model": "Roma",
@@ -3216,6 +3217,48 @@
         "listing/707/12593707/911423291.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/12593707"
+    },
+    {
+      "id": 20687112,
+      "make": "FERRARI",
+      "model": "Roma",
+      "versionFullName": "Roma 3.9 V8 T",
+      "firstRegistrationYear": 2024,
+      "mileage": 590,
+      "price": 259000.0,
+      "horsePower": 620,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2026-08-06T07:25:27.267Z",
+      "seller": {
+        "id": 60699,
+        "name": "B.I. Collection - Ferrari Zürich",
+        "city": "Urdorf-Zürich",
+        "zipCode": "8902"
+      },
+      "imageKey": "listing/112/20687112/45597435.jpg",
+      "imageKeys": [
+        "listing/112/20687112/45597435.jpg",
+        "listing/112/20687112/1913837551.jpg",
+        "listing/112/20687112/1851061142.jpg",
+        "listing/112/20687112/21393380.jpg",
+        "listing/112/20687112/305381418.jpg",
+        "listing/112/20687112/2145173751.jpg",
+        "listing/112/20687112/1268911285.jpg",
+        "listing/112/20687112/616768799.jpg",
+        "listing/112/20687112/1511241926.jpg",
+        "listing/112/20687112/1953112830.jpg",
+        "listing/112/20687112/218426770.jpg",
+        "listing/112/20687112/1726121359.jpg",
+        "listing/112/20687112/1798563383.jpg",
+        "listing/112/20687112/2129859873.jpg",
+        "listing/112/20687112/296031894.jpg",
+        "listing/112/20687112/786131644.jpg",
+        "listing/112/20687112/1339676427.jpg",
+        "listing/112/20687112/661385629.jpg",
+        "listing/112/20687112/1591170393.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20687112"
     },
     {
       "id": 12772292,
