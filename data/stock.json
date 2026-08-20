@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-20T04:45:16.287658+00:00",
+  "timestamp": "2026-08-20T05:38:01.558450+00:00",
   "count": 110,
   "listings": [
     {
@@ -2309,46 +2309,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20303055"
     },
     {
-      "id": 20673679,
-      "make": "FERRARI",
-      "model": "458",
-      "versionFullName": "458 CHALLENGE PISTA Rennfahrzeug",
-      "firstRegistrationYear": 2011,
-      "mileage": 5500,
-      "price": 169000.0,
-      "horsePower": 566,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2026-07-31T06:45:13.567Z",
-      "seller": {
-        "id": 60699,
-        "name": "B.I. Collection - Ferrari Zürich",
-        "city": "Urdorf-Zürich",
-        "zipCode": "8902"
-      },
-      "imageKey": "listing/679/20673679/59773996.jpg",
-      "imageKeys": [
-        "listing/679/20673679/59773996.jpg",
-        "listing/679/20673679/397513822.jpg",
-        "listing/679/20673679/778482304.jpg",
-        "listing/679/20673679/1460851100.jpg",
-        "listing/679/20673679/950938960.jpg",
-        "listing/679/20673679/1881540154.jpg",
-        "listing/679/20673679/1159412465.jpg",
-        "listing/679/20673679/475193859.jpg",
-        "listing/679/20673679/894466226.jpg",
-        "listing/679/20673679/1216794270.jpg",
-        "listing/679/20673679/193794851.jpg",
-        "listing/679/20673679/329734962.jpg",
-        "listing/679/20673679/567282262.jpg",
-        "listing/679/20673679/892298415.jpg",
-        "listing/679/20673679/1552674334.jpg",
-        "listing/679/20673679/31639732.jpg",
-        "listing/679/20673679/1312702553.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20673679"
-    },
-    {
       "id": 20078636,
       "make": "FERRARI",
       "model": "PORTOFINO",
@@ -2392,6 +2352,46 @@
         "listing/636/20078636/392928793.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20078636"
+    },
+    {
+      "id": 20673679,
+      "make": "FERRARI",
+      "model": "458",
+      "versionFullName": "458 CHALLENGE PISTA Rennfahrzeug",
+      "firstRegistrationYear": 2011,
+      "mileage": 5500,
+      "price": 169000.0,
+      "horsePower": 566,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2026-07-31T06:45:13.567Z",
+      "seller": {
+        "id": 60699,
+        "name": "B.I. Collection - Ferrari Zürich",
+        "city": "Urdorf-Zürich",
+        "zipCode": "8902"
+      },
+      "imageKey": "listing/679/20673679/59773996.jpg",
+      "imageKeys": [
+        "listing/679/20673679/59773996.jpg",
+        "listing/679/20673679/397513822.jpg",
+        "listing/679/20673679/778482304.jpg",
+        "listing/679/20673679/1460851100.jpg",
+        "listing/679/20673679/950938960.jpg",
+        "listing/679/20673679/1881540154.jpg",
+        "listing/679/20673679/1159412465.jpg",
+        "listing/679/20673679/475193859.jpg",
+        "listing/679/20673679/894466226.jpg",
+        "listing/679/20673679/1216794270.jpg",
+        "listing/679/20673679/193794851.jpg",
+        "listing/679/20673679/329734962.jpg",
+        "listing/679/20673679/567282262.jpg",
+        "listing/679/20673679/892298415.jpg",
+        "listing/679/20673679/1552674334.jpg",
+        "listing/679/20673679/31639732.jpg",
+        "listing/679/20673679/1312702553.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20673679"
     },
     {
       "id": 9722645,
