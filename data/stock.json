@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-21T09:44:58.254137+00:00",
+  "timestamp": "2026-08-21T10:38:00.883796+00:00",
   "count": 108,
   "listings": [
     {
@@ -3424,6 +3424,45 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/9894329"
     },
     {
+      "id": 20078795,
+      "make": "FERRARI",
+      "model": "Roma",
+      "versionFullName": "Roma 3.9 V8 T \"Tailor Made\"",
+      "firstRegistrationYear": 2025,
+      "mileage": 950,
+      "price": 279000.0,
+      "horsePower": 620,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2025-12-18T12:28:49.537Z",
+      "seller": {
+        "id": 60699,
+        "name": "B.I. Collection - Ferrari Zürich",
+        "city": "Urdorf-Zürich",
+        "zipCode": "8902"
+      },
+      "imageKey": "listing/795/20078795/670812572.jpg",
+      "imageKeys": [
+        "listing/795/20078795/670812572.jpg",
+        "listing/795/20078795/7474206.jpg",
+        "listing/795/20078795/170052584.jpg",
+        "listing/795/20078795/515897545.jpg",
+        "listing/795/20078795/1682201526.jpg",
+        "listing/795/20078795/2144332255.jpg",
+        "listing/795/20078795/841647747.jpg",
+        "listing/795/20078795/1220505925.jpg",
+        "listing/795/20078795/1084149365.jpg",
+        "listing/795/20078795/1207286229.jpg",
+        "listing/795/20078795/1256386038.jpg",
+        "listing/795/20078795/116341589.jpg",
+        "listing/795/20078795/1048259461.jpg",
+        "listing/795/20078795/1421786355.jpg",
+        "listing/795/20078795/1651464322.jpg",
+        "listing/795/20078795/962367825.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20078795"
+    },
+    {
       "id": 20258583,
       "make": "FERRARI",
       "model": "Roma",
@@ -3470,45 +3509,6 @@
         "listing/583/20258583/2069963434.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20258583"
-    },
-    {
-      "id": 20078795,
-      "make": "FERRARI",
-      "model": "Roma",
-      "versionFullName": "Roma 3.9 V8 T \"Tailor Made\"",
-      "firstRegistrationYear": 2025,
-      "mileage": 950,
-      "price": 279000.0,
-      "horsePower": 620,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2025-12-18T12:28:49.537Z",
-      "seller": {
-        "id": 60699,
-        "name": "B.I. Collection - Ferrari Zürich",
-        "city": "Urdorf-Zürich",
-        "zipCode": "8902"
-      },
-      "imageKey": "listing/795/20078795/670812572.jpg",
-      "imageKeys": [
-        "listing/795/20078795/670812572.jpg",
-        "listing/795/20078795/7474206.jpg",
-        "listing/795/20078795/170052584.jpg",
-        "listing/795/20078795/515897545.jpg",
-        "listing/795/20078795/1682201526.jpg",
-        "listing/795/20078795/2144332255.jpg",
-        "listing/795/20078795/841647747.jpg",
-        "listing/795/20078795/1220505925.jpg",
-        "listing/795/20078795/1084149365.jpg",
-        "listing/795/20078795/1207286229.jpg",
-        "listing/795/20078795/1256386038.jpg",
-        "listing/795/20078795/116341589.jpg",
-        "listing/795/20078795/1048259461.jpg",
-        "listing/795/20078795/1421786355.jpg",
-        "listing/795/20078795/1651464322.jpg",
-        "listing/795/20078795/962367825.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20078795"
     },
     {
       "id": 20179495,
