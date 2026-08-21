@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-21T07:52:34.353738+00:00",
-  "count": 109,
+  "timestamp": "2026-08-21T08:51:13.762943+00:00",
+  "count": 108,
   "listings": [
     {
       "id": 12532769,
@@ -2355,59 +2355,6 @@
         "listing/679/20673679/1312702553.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20673679"
-    },
-    {
-      "id": 9722645,
-      "make": "FERRARI",
-      "model": "PORTOFINO",
-      "versionFullName": "Portofino 3.9 V8 T",
-      "firstRegistrationYear": 2019,
-      "mileage": 7500,
-      "price": 174000.0,
-      "horsePower": 600,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2022-11-14T21:48:39.998Z",
-      "seller": {
-        "id": 60699,
-        "name": "B.I. Collection - Ferrari Zürich",
-        "city": "Urdorf-Zürich",
-        "zipCode": "8902"
-      },
-      "imageKey": "listing/645/9722645/1028274451.jpg",
-      "imageKeys": [
-        "listing/645/9722645/1028274451.jpg",
-        "listing/645/9722645/903775964.jpg",
-        "listing/645/9722645/1954959634.jpg",
-        "listing/645/9722645/165987000.jpg",
-        "listing/645/9722645/1041839793.jpg",
-        "listing/645/9722645/675153822.jpg",
-        "listing/645/9722645/1801391641.jpg",
-        "listing/645/9722645/1352611195.jpg",
-        "listing/645/9722645/991335869.jpg",
-        "listing/645/9722645/691236324.jpg",
-        "listing/645/9722645/263438339.jpg",
-        "listing/645/9722645/672503284.jpg",
-        "listing/645/9722645/1405504282.jpg",
-        "listing/645/9722645/1137687468.jpg",
-        "listing/645/9722645/330933398.jpg",
-        "listing/645/9722645/1829722009.jpg",
-        "listing/645/9722645/2125002079.jpg",
-        "listing/645/9722645/563966012.jpg",
-        "listing/645/9722645/297596780.jpg",
-        "listing/645/9722645/1144180711.jpg",
-        "listing/645/9722645/391419842.jpg",
-        "listing/645/9722645/996304602.jpg",
-        "listing/645/9722645/205955144.jpg",
-        "listing/645/9722645/135770662.jpg",
-        "listing/645/9722645/1585724296.jpg",
-        "listing/645/9722645/732700298.jpg",
-        "listing/645/9722645/1438172096.jpg",
-        "listing/645/9722645/1007823066.jpg",
-        "listing/645/9722645/1772321199.jpg",
-        "listing/645/9722645/2119194637.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/9722645"
     },
     {
       "id": 20543184,
