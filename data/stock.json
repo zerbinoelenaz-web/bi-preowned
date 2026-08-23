@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-22T23:27:56.685688+00:00",
+  "timestamp": "2026-08-23T01:51:37.593413+00:00",
   "count": 108,
   "listings": [
     {
@@ -3594,6 +3594,40 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20447219"
     },
     {
+      "id": 20674072,
+      "make": "PORSCHE",
+      "model": "911",
+      "versionFullName": "Carrera RS N-GT",
+      "firstRegistrationYear": 1994,
+      "mileage": 44500,
+      "price": 295000.0,
+      "horsePower": 260,
+      "transmissionType": "manual",
+      "conditionType": "used",
+      "createdDate": "2026-07-31T09:00:02.53Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/72/20674072/1996929449.jpg",
+      "imageKeys": [
+        "listing/72/20674072/1996929449.jpg",
+        "listing/72/20674072/1640270593.jpg",
+        "listing/72/20674072/520506496.jpg",
+        "listing/72/20674072/169709645.jpg",
+        "listing/72/20674072/603569474.jpg",
+        "listing/72/20674072/1486563898.jpg",
+        "listing/72/20674072/1844576269.jpg",
+        "listing/72/20674072/1651038474.jpg",
+        "listing/72/20674072/840083501.jpg",
+        "listing/72/20674072/1670817485.jpg",
+        "listing/72/20674072/1663239403.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20674072"
+    },
+    {
       "id": 20095631,
       "make": "FERRARI",
       "model": "296",
@@ -3636,40 +3670,6 @@
         "listing/631/20095631/943422905.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20095631"
-    },
-    {
-      "id": 20674072,
-      "make": "PORSCHE",
-      "model": "911",
-      "versionFullName": "Carrera RS N-GT",
-      "firstRegistrationYear": 1994,
-      "mileage": 44500,
-      "price": 295000.0,
-      "horsePower": 260,
-      "transmissionType": "manual",
-      "conditionType": "used",
-      "createdDate": "2026-07-31T09:00:02.53Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/72/20674072/1996929449.jpg",
-      "imageKeys": [
-        "listing/72/20674072/1996929449.jpg",
-        "listing/72/20674072/1640270593.jpg",
-        "listing/72/20674072/520506496.jpg",
-        "listing/72/20674072/169709645.jpg",
-        "listing/72/20674072/603569474.jpg",
-        "listing/72/20674072/1486563898.jpg",
-        "listing/72/20674072/1844576269.jpg",
-        "listing/72/20674072/1651038474.jpg",
-        "listing/72/20674072/840083501.jpg",
-        "listing/72/20674072/1670817485.jpg",
-        "listing/72/20674072/1663239403.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20674072"
     },
     {
       "id": 12630768,
