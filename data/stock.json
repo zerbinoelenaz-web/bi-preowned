@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-24T15:47:57.603073+00:00",
+  "timestamp": "2026-08-24T16:47:47.978719+00:00",
   "count": 108,
   "listings": [
     {
@@ -2239,11 +2239,11 @@
       "model": "GRECALE",
       "versionFullName": "GRECALE 3.0 V6 TROFEO MY26 FUORISERIE AZZURRO ASTRO GLOSSY",
       "firstRegistrationYear": 2026,
-      "mileage": 50,
-      "price": 149900.0,
+      "mileage": 5000,
+      "price": 139900.0,
       "horsePower": 531,
       "transmissionType": "automatic",
-      "conditionType": "new",
+      "conditionType": "demonstration",
       "createdDate": "2026-03-18T16:22:40.94Z",
       "seller": {
         "id": 105,
