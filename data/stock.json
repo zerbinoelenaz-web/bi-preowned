@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-25T08:52:36.416615+00:00",
-  "count": 108,
+  "timestamp": "2026-08-25T09:43:18.705896+00:00",
+  "count": 107,
   "listings": [
     {
       "id": 12532769,
@@ -3741,52 +3741,6 @@
         "listing/234/20184234/268685875.JPG"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20184234"
-    },
-    {
-      "id": 20665835,
-      "make": "FERRARI",
-      "model": "812",
-      "versionFullName": "812 Superfast",
-      "firstRegistrationYear": 2020,
-      "mileage": 2900,
-      "price": 335000.0,
-      "horsePower": 796,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2026-07-28T08:23:35.137Z",
-      "seller": {
-        "id": 60699,
-        "name": "B.I. Collection - Ferrari Zürich",
-        "city": "Urdorf-Zürich",
-        "zipCode": "8902"
-      },
-      "imageKey": "listing/835/20665835/16452826.jpg",
-      "imageKeys": [
-        "listing/835/20665835/16452826.jpg",
-        "listing/835/20665835/1469311016.jpg",
-        "listing/835/20665835/734526295.jpg",
-        "listing/835/20665835/1978319248.jpg",
-        "listing/835/20665835/634918336.jpg",
-        "listing/835/20665835/1473579936.jpg",
-        "listing/835/20665835/1633190136.jpg",
-        "listing/835/20665835/1156943673.jpg",
-        "listing/835/20665835/333249584.jpg",
-        "listing/835/20665835/1053823179.jpg",
-        "listing/835/20665835/506772161.jpg",
-        "listing/835/20665835/1128482137.jpg",
-        "listing/835/20665835/763107961.jpg",
-        "listing/835/20665835/1408395500.jpg",
-        "listing/835/20665835/1111596185.jpg",
-        "listing/835/20665835/397111508.jpg",
-        "listing/835/20665835/1284688291.jpg",
-        "listing/835/20665835/1252792157.jpg",
-        "listing/835/20665835/1719221696.jpg",
-        "listing/835/20665835/1197741623.jpg",
-        "listing/835/20665835/738766958.jpg",
-        "listing/835/20665835/2005675774.jpg",
-        "listing/835/20665835/425281333.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20665835"
     },
     {
       "id": 20078416,
