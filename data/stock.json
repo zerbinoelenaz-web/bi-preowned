@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-25T10:40:48.634395+00:00",
+  "timestamp": "2026-08-25T11:35:30.720783+00:00",
   "count": 108,
   "listings": [
     {
@@ -3958,45 +3958,42 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20539920"
     },
     {
-      "id": 20145382,
+      "id": 12476583,
       "make": "FERRARI",
       "model": "SF90",
       "versionFullName": "SF90 Stradale",
-      "firstRegistrationYear": 2022,
-      "mileage": 7500,
+      "firstRegistrationYear": 2021,
+      "mileage": 3700,
       "price": 369000.0,
       "horsePower": 1000,
       "transmissionType": "semi-automatic",
       "conditionType": "used",
-      "createdDate": "2026-01-21T10:35:29.537Z",
+      "createdDate": "2025-05-21T18:41:06.503Z",
       "seller": {
         "id": 60699,
         "name": "B.I. Collection - Ferrari Zürich",
         "city": "Urdorf-Zürich",
         "zipCode": "8902"
       },
-      "imageKey": "listing/382/20145382/1237183732.jpg",
+      "imageKey": "listing/583/12476583/793680252.jpg",
       "imageKeys": [
-        "listing/382/20145382/1237183732.jpg",
-        "listing/382/20145382/444157485.jpg",
-        "listing/382/20145382/1963994417.jpg",
-        "listing/382/20145382/1938570724.jpg",
-        "listing/382/20145382/1730653074.jpg",
-        "listing/382/20145382/1879947282.jpg",
-        "listing/382/20145382/1989019559.jpg",
-        "listing/382/20145382/2102433961.jpg",
-        "listing/382/20145382/654769507.jpg",
-        "listing/382/20145382/895882518.jpg",
-        "listing/382/20145382/1852725554.jpg",
-        "listing/382/20145382/308734899.jpg",
-        "listing/382/20145382/1969022594.jpg",
-        "listing/382/20145382/2057443796.jpg",
-        "listing/382/20145382/1219846005.jpg",
-        "listing/382/20145382/1737947445.jpg",
-        "listing/382/20145382/1521185297.jpg",
-        "listing/382/20145382/1070653541.jpg"
+        "listing/583/12476583/793680252.jpg",
+        "listing/583/12476583/216792837.jpg",
+        "listing/583/12476583/525792683.jpg",
+        "listing/583/12476583/433953798.jpg",
+        "listing/583/12476583/1650611995.jpg",
+        "listing/583/12476583/1099357319.jpg",
+        "listing/583/12476583/1641246648.jpg",
+        "listing/583/12476583/320537448.jpg",
+        "listing/583/12476583/2024534498.jpg",
+        "listing/583/12476583/1178415576.jpg",
+        "listing/583/12476583/705879515.jpg",
+        "listing/583/12476583/1058025571.jpg",
+        "listing/583/12476583/497467394.jpg",
+        "listing/583/12476583/128794350.jpg",
+        "listing/583/12476583/1414784412.jpg"
       ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20145382"
+      "listingUrl": "https://www.autoscout24.ch/de/d/12476583"
     },
     {
       "id": 12476583,
