@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-26T13:06:53.221642+00:00",
+  "timestamp": "2026-08-26T14:52:11.325511+00:00",
   "count": 109,
   "listings": [
     {
@@ -811,7 +811,7 @@
       "model": "GRECALE",
       "versionFullName": "Grecale 2.0 MHEV Modena Hybrid Automatica",
       "firstRegistrationYear": 2024,
-      "mileage": 27900,
+      "mileage": 35000,
       "price": 73900.0,
       "horsePower": 330,
       "transmissionType": "automatic",
@@ -3214,44 +3214,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20055814"
     },
     {
-      "id": 12593707,
-      "make": "FERRARI",
-      "model": "296",
-      "versionFullName": "296 GTB",
-      "firstRegistrationYear": 2023,
-      "mileage": 3200,
-      "price": 259000.0,
-      "horsePower": 830,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2025-07-07T15:42:39.642Z",
-      "seller": {
-        "id": 60699,
-        "name": "B.I. Collection - Ferrari Zürich",
-        "city": "Urdorf-Zürich",
-        "zipCode": "8902"
-      },
-      "imageKey": "listing/707/12593707/1758450110.jpg",
-      "imageKeys": [
-        "listing/707/12593707/1758450110.jpg",
-        "listing/707/12593707/2071955244.jpg",
-        "listing/707/12593707/1991445480.jpg",
-        "listing/707/12593707/177203711.jpg",
-        "listing/707/12593707/1115307251.jpg",
-        "listing/707/12593707/548463174.jpg",
-        "listing/707/12593707/2065091168.jpg",
-        "listing/707/12593707/353972829.jpg",
-        "listing/707/12593707/1610664905.jpg",
-        "listing/707/12593707/1738630634.jpg",
-        "listing/707/12593707/1031486798.jpg",
-        "listing/707/12593707/1029925135.jpg",
-        "listing/707/12593707/1555187681.jpg",
-        "listing/707/12593707/1534587584.jpg",
-        "listing/707/12593707/911423291.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/12593707"
-    },
-    {
       "id": 20687112,
       "make": "FERRARI",
       "model": "Roma",
@@ -3292,6 +3254,44 @@
         "listing/112/20687112/1591170393.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20687112"
+    },
+    {
+      "id": 12593707,
+      "make": "FERRARI",
+      "model": "296",
+      "versionFullName": "296 GTB",
+      "firstRegistrationYear": 2023,
+      "mileage": 3200,
+      "price": 259000.0,
+      "horsePower": 830,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2025-07-07T15:42:39.642Z",
+      "seller": {
+        "id": 60699,
+        "name": "B.I. Collection - Ferrari Zürich",
+        "city": "Urdorf-Zürich",
+        "zipCode": "8902"
+      },
+      "imageKey": "listing/707/12593707/1758450110.jpg",
+      "imageKeys": [
+        "listing/707/12593707/1758450110.jpg",
+        "listing/707/12593707/2071955244.jpg",
+        "listing/707/12593707/1991445480.jpg",
+        "listing/707/12593707/177203711.jpg",
+        "listing/707/12593707/1115307251.jpg",
+        "listing/707/12593707/548463174.jpg",
+        "listing/707/12593707/2065091168.jpg",
+        "listing/707/12593707/353972829.jpg",
+        "listing/707/12593707/1610664905.jpg",
+        "listing/707/12593707/1738630634.jpg",
+        "listing/707/12593707/1031486798.jpg",
+        "listing/707/12593707/1029925135.jpg",
+        "listing/707/12593707/1555187681.jpg",
+        "listing/707/12593707/1534587584.jpg",
+        "listing/707/12593707/911423291.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/12593707"
     },
     {
       "id": 12772292,
@@ -3999,44 +3999,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20539920"
     },
     {
-      "id": 12476583,
-      "make": "FERRARI",
-      "model": "SF90",
-      "versionFullName": "SF90 Stradale",
-      "firstRegistrationYear": 2021,
-      "mileage": 3700,
-      "price": 369000.0,
-      "horsePower": 1000,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2025-05-21T18:41:06.503Z",
-      "seller": {
-        "id": 60699,
-        "name": "B.I. Collection - Ferrari Zürich",
-        "city": "Urdorf-Zürich",
-        "zipCode": "8902"
-      },
-      "imageKey": "listing/583/12476583/793680252.jpg",
-      "imageKeys": [
-        "listing/583/12476583/793680252.jpg",
-        "listing/583/12476583/216792837.jpg",
-        "listing/583/12476583/525792683.jpg",
-        "listing/583/12476583/433953798.jpg",
-        "listing/583/12476583/1650611995.jpg",
-        "listing/583/12476583/1099357319.jpg",
-        "listing/583/12476583/1641246648.jpg",
-        "listing/583/12476583/320537448.jpg",
-        "listing/583/12476583/2024534498.jpg",
-        "listing/583/12476583/1178415576.jpg",
-        "listing/583/12476583/705879515.jpg",
-        "listing/583/12476583/1058025571.jpg",
-        "listing/583/12476583/497467394.jpg",
-        "listing/583/12476583/128794350.jpg",
-        "listing/583/12476583/1414784412.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/12476583"
-    },
-    {
       "id": 20145382,
       "make": "FERRARI",
       "model": "SF90",
@@ -4076,6 +4038,44 @@
         "listing/382/20145382/1070653541.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20145382"
+    },
+    {
+      "id": 12476583,
+      "make": "FERRARI",
+      "model": "SF90",
+      "versionFullName": "SF90 Stradale",
+      "firstRegistrationYear": 2021,
+      "mileage": 3700,
+      "price": 369000.0,
+      "horsePower": 1000,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2025-05-21T18:41:06.503Z",
+      "seller": {
+        "id": 60699,
+        "name": "B.I. Collection - Ferrari Zürich",
+        "city": "Urdorf-Zürich",
+        "zipCode": "8902"
+      },
+      "imageKey": "listing/583/12476583/793680252.jpg",
+      "imageKeys": [
+        "listing/583/12476583/793680252.jpg",
+        "listing/583/12476583/216792837.jpg",
+        "listing/583/12476583/525792683.jpg",
+        "listing/583/12476583/433953798.jpg",
+        "listing/583/12476583/1650611995.jpg",
+        "listing/583/12476583/1099357319.jpg",
+        "listing/583/12476583/1641246648.jpg",
+        "listing/583/12476583/320537448.jpg",
+        "listing/583/12476583/2024534498.jpg",
+        "listing/583/12476583/1178415576.jpg",
+        "listing/583/12476583/705879515.jpg",
+        "listing/583/12476583/1058025571.jpg",
+        "listing/583/12476583/497467394.jpg",
+        "listing/583/12476583/128794350.jpg",
+        "listing/583/12476583/1414784412.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/12476583"
     },
     {
       "id": 20539522,
