@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-27T08:56:20.675498+00:00",
-  "count": 109,
+  "timestamp": "2026-08-27T19:48:03.677876+00:00",
+  "count": 108,
   "listings": [
     {
       "id": 12532769,
@@ -114,46 +114,6 @@
         "listing/535/20090535/2099387855.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20090535"
-    },
-    {
-      "id": 20492922,
-      "make": "MERCEDES-BENZ",
-      "model": "SLK 55 AMG",
-      "versionFullName": "SLK 55 AMG 7G-Tronic Speedshift Plus",
-      "firstRegistrationYear": 2012,
-      "mileage": 58800,
-      "price": 42900.0,
-      "horsePower": 422,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-05-23T09:15:38.876Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/922/20492922/2046154918.jpg",
-      "imageKeys": [
-        "listing/922/20492922/2046154918.jpg",
-        "listing/922/20492922/1869825967.jpg",
-        "listing/922/20492922/1576185387.jpg",
-        "listing/922/20492922/1643648220.jpg",
-        "listing/922/20492922/543707551.jpg",
-        "listing/922/20492922/1087157157.jpg",
-        "listing/922/20492922/1075650917.jpg",
-        "listing/922/20492922/1932215536.jpg",
-        "listing/922/20492922/679838597.jpg",
-        "listing/922/20492922/2052843596.jpg",
-        "listing/922/20492922/2078656382.jpg",
-        "listing/922/20492922/1122063020.jpg",
-        "listing/922/20492922/834417995.jpg",
-        "listing/922/20492922/942349029.jpg",
-        "listing/922/20492922/294701253.jpg",
-        "listing/922/20492922/1499185084.jpg",
-        "listing/922/20492922/1438442375.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20492922"
     },
     {
       "id": 11168520,
@@ -1396,44 +1356,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20492852"
     },
     {
-      "id": 20633758,
-      "make": "MASERATI",
-      "model": "GRANTURISMO",
-      "versionFullName": "GranTurismo Sport Automatica",
-      "firstRegistrationYear": 2019,
-      "mileage": 19900,
-      "price": 89900.0,
-      "horsePower": 460,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-07-14T13:44:59.801Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/758/20633758/2112793466.jpg",
-      "imageKeys": [
-        "listing/758/20633758/2112793466.jpg",
-        "listing/758/20633758/1952354837.jpg",
-        "listing/758/20633758/1122295722.jpg",
-        "listing/758/20633758/1733196462.jpg",
-        "listing/758/20633758/861225590.jpg",
-        "listing/758/20633758/992790376.jpg",
-        "listing/758/20633758/1918560944.jpg",
-        "listing/758/20633758/586939800.jpg",
-        "listing/758/20633758/585985435.jpg",
-        "listing/758/20633758/1943348261.jpg",
-        "listing/758/20633758/1007537434.jpg",
-        "listing/758/20633758/833347075.jpg",
-        "listing/758/20633758/1153376661.jpg",
-        "listing/758/20633758/1041626693.jpg",
-        "listing/758/20633758/269514008.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20633758"
-    },
-    {
       "id": 20734883,
       "make": "MASERATI",
       "model": "GRECALE",
@@ -1471,6 +1393,44 @@
         "listing/883/20734883/463850514.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20734883"
+    },
+    {
+      "id": 20633758,
+      "make": "MASERATI",
+      "model": "GRANTURISMO",
+      "versionFullName": "GranTurismo Sport Automatica",
+      "firstRegistrationYear": 2019,
+      "mileage": 19900,
+      "price": 89900.0,
+      "horsePower": 460,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-07-14T13:44:59.801Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/758/20633758/2112793466.jpg",
+      "imageKeys": [
+        "listing/758/20633758/2112793466.jpg",
+        "listing/758/20633758/1952354837.jpg",
+        "listing/758/20633758/1122295722.jpg",
+        "listing/758/20633758/1733196462.jpg",
+        "listing/758/20633758/861225590.jpg",
+        "listing/758/20633758/992790376.jpg",
+        "listing/758/20633758/1918560944.jpg",
+        "listing/758/20633758/586939800.jpg",
+        "listing/758/20633758/585985435.jpg",
+        "listing/758/20633758/1943348261.jpg",
+        "listing/758/20633758/1007537434.jpg",
+        "listing/758/20633758/833347075.jpg",
+        "listing/758/20633758/1153376661.jpg",
+        "listing/758/20633758/1041626693.jpg",
+        "listing/758/20633758/269514008.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20633758"
     },
     {
       "id": 12902839,
@@ -2513,6 +2473,36 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20162412"
     },
     {
+      "id": 11491790,
+      "make": "FERRARI",
+      "model": "Roma",
+      "versionFullName": "Roma 3.9 V8 T Standort Wallisellen",
+      "firstRegistrationYear": 2021,
+      "mileage": 7700,
+      "price": 179000.0,
+      "horsePower": 620,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2024-05-02T15:49:00.532Z",
+      "seller": {
+        "id": 60699,
+        "name": "B.I. Collection - Ferrari Zürich",
+        "city": "Urdorf-Zürich",
+        "zipCode": "8902"
+      },
+      "imageKey": "listing/790/11491790/1956976207.jpg",
+      "imageKeys": [
+        "listing/790/11491790/1956976207.jpg",
+        "listing/790/11491790/1471726340.jpg",
+        "listing/790/11491790/2113812091.jpg",
+        "listing/790/11491790/1245924297.jpg",
+        "listing/790/11491790/1715641500.jpg",
+        "listing/790/11491790/1729879600.jpg",
+        "listing/790/11491790/1081531702.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/11491790"
+    },
+    {
       "id": 20617873,
       "make": "FERRARI",
       "model": "599",
@@ -2560,36 +2550,6 @@
         "listing/873/20617873/386619104.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20617873"
-    },
-    {
-      "id": 11491790,
-      "make": "FERRARI",
-      "model": "Roma",
-      "versionFullName": "Roma 3.9 V8 T Standort Wallisellen",
-      "firstRegistrationYear": 2021,
-      "mileage": 7700,
-      "price": 179000.0,
-      "horsePower": 620,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2024-05-02T15:49:00.532Z",
-      "seller": {
-        "id": 60699,
-        "name": "B.I. Collection - Ferrari Zürich",
-        "city": "Urdorf-Zürich",
-        "zipCode": "8902"
-      },
-      "imageKey": "listing/790/11491790/1956976207.jpg",
-      "imageKeys": [
-        "listing/790/11491790/1956976207.jpg",
-        "listing/790/11491790/1471726340.jpg",
-        "listing/790/11491790/2113812091.jpg",
-        "listing/790/11491790/1245924297.jpg",
-        "listing/790/11491790/1715641500.jpg",
-        "listing/790/11491790/1729879600.jpg",
-        "listing/790/11491790/1081531702.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/11491790"
     },
     {
       "id": 20447457,
@@ -3166,46 +3126,42 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20411878"
     },
     {
-      "id": 20687112,
+      "id": 12593707,
       "make": "FERRARI",
-      "model": "Roma",
-      "versionFullName": "Roma 3.9 V8 T",
-      "firstRegistrationYear": 2024,
-      "mileage": 590,
+      "model": "296",
+      "versionFullName": "296 GTB",
+      "firstRegistrationYear": 2023,
+      "mileage": 3200,
       "price": 259000.0,
-      "horsePower": 620,
+      "horsePower": 830,
       "transmissionType": "semi-automatic",
       "conditionType": "used",
-      "createdDate": "2026-08-06T07:25:27.267Z",
+      "createdDate": "2025-07-07T15:42:39.642Z",
       "seller": {
         "id": 60699,
         "name": "B.I. Collection - Ferrari Zürich",
         "city": "Urdorf-Zürich",
         "zipCode": "8902"
       },
-      "imageKey": "listing/112/20687112/45597435.jpg",
+      "imageKey": "listing/707/12593707/1758450110.jpg",
       "imageKeys": [
-        "listing/112/20687112/45597435.jpg",
-        "listing/112/20687112/1913837551.jpg",
-        "listing/112/20687112/1851061142.jpg",
-        "listing/112/20687112/21393380.jpg",
-        "listing/112/20687112/305381418.jpg",
-        "listing/112/20687112/2145173751.jpg",
-        "listing/112/20687112/1268911285.jpg",
-        "listing/112/20687112/616768799.jpg",
-        "listing/112/20687112/1511241926.jpg",
-        "listing/112/20687112/1953112830.jpg",
-        "listing/112/20687112/218426770.jpg",
-        "listing/112/20687112/1726121359.jpg",
-        "listing/112/20687112/1798563383.jpg",
-        "listing/112/20687112/2129859873.jpg",
-        "listing/112/20687112/296031894.jpg",
-        "listing/112/20687112/786131644.jpg",
-        "listing/112/20687112/1339676427.jpg",
-        "listing/112/20687112/661385629.jpg",
-        "listing/112/20687112/1591170393.jpg"
+        "listing/707/12593707/1758450110.jpg",
+        "listing/707/12593707/2071955244.jpg",
+        "listing/707/12593707/1991445480.jpg",
+        "listing/707/12593707/177203711.jpg",
+        "listing/707/12593707/1115307251.jpg",
+        "listing/707/12593707/548463174.jpg",
+        "listing/707/12593707/2065091168.jpg",
+        "listing/707/12593707/353972829.jpg",
+        "listing/707/12593707/1610664905.jpg",
+        "listing/707/12593707/1738630634.jpg",
+        "listing/707/12593707/1031486798.jpg",
+        "listing/707/12593707/1029925135.jpg",
+        "listing/707/12593707/1555187681.jpg",
+        "listing/707/12593707/1534587584.jpg",
+        "listing/707/12593707/911423291.jpg"
       ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20687112"
+      "listingUrl": "https://www.autoscout24.ch/de/d/12593707"
     },
     {
       "id": 20055814,
@@ -3256,42 +3212,46 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20055814"
     },
     {
-      "id": 12593707,
+      "id": 20687112,
       "make": "FERRARI",
-      "model": "296",
-      "versionFullName": "296 GTB",
-      "firstRegistrationYear": 2023,
-      "mileage": 3200,
+      "model": "Roma",
+      "versionFullName": "Roma 3.9 V8 T",
+      "firstRegistrationYear": 2024,
+      "mileage": 590,
       "price": 259000.0,
-      "horsePower": 830,
+      "horsePower": 620,
       "transmissionType": "semi-automatic",
       "conditionType": "used",
-      "createdDate": "2025-07-07T15:42:39.642Z",
+      "createdDate": "2026-08-06T07:25:27.267Z",
       "seller": {
         "id": 60699,
         "name": "B.I. Collection - Ferrari Zürich",
         "city": "Urdorf-Zürich",
         "zipCode": "8902"
       },
-      "imageKey": "listing/707/12593707/1758450110.jpg",
+      "imageKey": "listing/112/20687112/45597435.jpg",
       "imageKeys": [
-        "listing/707/12593707/1758450110.jpg",
-        "listing/707/12593707/2071955244.jpg",
-        "listing/707/12593707/1991445480.jpg",
-        "listing/707/12593707/177203711.jpg",
-        "listing/707/12593707/1115307251.jpg",
-        "listing/707/12593707/548463174.jpg",
-        "listing/707/12593707/2065091168.jpg",
-        "listing/707/12593707/353972829.jpg",
-        "listing/707/12593707/1610664905.jpg",
-        "listing/707/12593707/1738630634.jpg",
-        "listing/707/12593707/1031486798.jpg",
-        "listing/707/12593707/1029925135.jpg",
-        "listing/707/12593707/1555187681.jpg",
-        "listing/707/12593707/1534587584.jpg",
-        "listing/707/12593707/911423291.jpg"
+        "listing/112/20687112/45597435.jpg",
+        "listing/112/20687112/1913837551.jpg",
+        "listing/112/20687112/1851061142.jpg",
+        "listing/112/20687112/21393380.jpg",
+        "listing/112/20687112/305381418.jpg",
+        "listing/112/20687112/2145173751.jpg",
+        "listing/112/20687112/1268911285.jpg",
+        "listing/112/20687112/616768799.jpg",
+        "listing/112/20687112/1511241926.jpg",
+        "listing/112/20687112/1953112830.jpg",
+        "listing/112/20687112/218426770.jpg",
+        "listing/112/20687112/1726121359.jpg",
+        "listing/112/20687112/1798563383.jpg",
+        "listing/112/20687112/2129859873.jpg",
+        "listing/112/20687112/296031894.jpg",
+        "listing/112/20687112/786131644.jpg",
+        "listing/112/20687112/1339676427.jpg",
+        "listing/112/20687112/661385629.jpg",
+        "listing/112/20687112/1591170393.jpg"
       ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/12593707"
+      "listingUrl": "https://www.autoscout24.ch/de/d/20687112"
     },
     {
       "id": 12772292,
@@ -3505,6 +3465,45 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20258583"
     },
     {
+      "id": 20078795,
+      "make": "FERRARI",
+      "model": "Roma",
+      "versionFullName": "Roma 3.9 V8 T \"Tailor Made\"",
+      "firstRegistrationYear": 2025,
+      "mileage": 950,
+      "price": 279000.0,
+      "horsePower": 620,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2025-12-18T12:28:49.537Z",
+      "seller": {
+        "id": 60699,
+        "name": "B.I. Collection - Ferrari Zürich",
+        "city": "Urdorf-Zürich",
+        "zipCode": "8902"
+      },
+      "imageKey": "listing/795/20078795/670812572.jpg",
+      "imageKeys": [
+        "listing/795/20078795/670812572.jpg",
+        "listing/795/20078795/7474206.jpg",
+        "listing/795/20078795/170052584.jpg",
+        "listing/795/20078795/515897545.jpg",
+        "listing/795/20078795/1682201526.jpg",
+        "listing/795/20078795/2144332255.jpg",
+        "listing/795/20078795/841647747.jpg",
+        "listing/795/20078795/1220505925.jpg",
+        "listing/795/20078795/1084149365.jpg",
+        "listing/795/20078795/1207286229.jpg",
+        "listing/795/20078795/1256386038.jpg",
+        "listing/795/20078795/116341589.jpg",
+        "listing/795/20078795/1048259461.jpg",
+        "listing/795/20078795/1421786355.jpg",
+        "listing/795/20078795/1651464322.jpg",
+        "listing/795/20078795/962367825.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20078795"
+    },
+    {
       "id": 9894329,
       "make": "FERRARI",
       "model": "575M",
@@ -3550,45 +3549,6 @@
         "listing/329/9894329/349902009.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/9894329"
-    },
-    {
-      "id": 20078795,
-      "make": "FERRARI",
-      "model": "Roma",
-      "versionFullName": "Roma 3.9 V8 T \"Tailor Made\"",
-      "firstRegistrationYear": 2025,
-      "mileage": 950,
-      "price": 279000.0,
-      "horsePower": 620,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2025-12-18T12:28:49.537Z",
-      "seller": {
-        "id": 60699,
-        "name": "B.I. Collection - Ferrari Zürich",
-        "city": "Urdorf-Zürich",
-        "zipCode": "8902"
-      },
-      "imageKey": "listing/795/20078795/670812572.jpg",
-      "imageKeys": [
-        "listing/795/20078795/670812572.jpg",
-        "listing/795/20078795/7474206.jpg",
-        "listing/795/20078795/170052584.jpg",
-        "listing/795/20078795/515897545.jpg",
-        "listing/795/20078795/1682201526.jpg",
-        "listing/795/20078795/2144332255.jpg",
-        "listing/795/20078795/841647747.jpg",
-        "listing/795/20078795/1220505925.jpg",
-        "listing/795/20078795/1084149365.jpg",
-        "listing/795/20078795/1207286229.jpg",
-        "listing/795/20078795/1256386038.jpg",
-        "listing/795/20078795/116341589.jpg",
-        "listing/795/20078795/1048259461.jpg",
-        "listing/795/20078795/1421786355.jpg",
-        "listing/795/20078795/1651464322.jpg",
-        "listing/795/20078795/962367825.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20078795"
     },
     {
       "id": 20179495,
@@ -3674,6 +3634,40 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20447219"
     },
     {
+      "id": 20674072,
+      "make": "PORSCHE",
+      "model": "911",
+      "versionFullName": "Carrera RS N-GT",
+      "firstRegistrationYear": 1994,
+      "mileage": 44500,
+      "price": 295000.0,
+      "horsePower": 260,
+      "transmissionType": "manual",
+      "conditionType": "used",
+      "createdDate": "2026-07-31T09:00:02.53Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/72/20674072/1996929449.jpg",
+      "imageKeys": [
+        "listing/72/20674072/1996929449.jpg",
+        "listing/72/20674072/1640270593.jpg",
+        "listing/72/20674072/520506496.jpg",
+        "listing/72/20674072/169709645.jpg",
+        "listing/72/20674072/603569474.jpg",
+        "listing/72/20674072/1486563898.jpg",
+        "listing/72/20674072/1844576269.jpg",
+        "listing/72/20674072/1651038474.jpg",
+        "listing/72/20674072/840083501.jpg",
+        "listing/72/20674072/1670817485.jpg",
+        "listing/72/20674072/1663239403.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20674072"
+    },
+    {
       "id": 20095631,
       "make": "FERRARI",
       "model": "296",
@@ -3716,40 +3710,6 @@
         "listing/631/20095631/943422905.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20095631"
-    },
-    {
-      "id": 20674072,
-      "make": "PORSCHE",
-      "model": "911",
-      "versionFullName": "Carrera RS N-GT",
-      "firstRegistrationYear": 1994,
-      "mileage": 44500,
-      "price": 295000.0,
-      "horsePower": 260,
-      "transmissionType": "manual",
-      "conditionType": "used",
-      "createdDate": "2026-07-31T09:00:02.53Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/72/20674072/1996929449.jpg",
-      "imageKeys": [
-        "listing/72/20674072/1996929449.jpg",
-        "listing/72/20674072/1640270593.jpg",
-        "listing/72/20674072/520506496.jpg",
-        "listing/72/20674072/169709645.jpg",
-        "listing/72/20674072/603569474.jpg",
-        "listing/72/20674072/1486563898.jpg",
-        "listing/72/20674072/1844576269.jpg",
-        "listing/72/20674072/1651038474.jpg",
-        "listing/72/20674072/840083501.jpg",
-        "listing/72/20674072/1670817485.jpg",
-        "listing/72/20674072/1663239403.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20674072"
     },
     {
       "id": 12630768,
@@ -3952,45 +3912,42 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20134003"
     },
     {
-      "id": 20145382,
+      "id": 12476583,
       "make": "FERRARI",
       "model": "SF90",
       "versionFullName": "SF90 Stradale",
-      "firstRegistrationYear": 2022,
-      "mileage": 7500,
+      "firstRegistrationYear": 2021,
+      "mileage": 3700,
       "price": 369000.0,
       "horsePower": 1000,
       "transmissionType": "semi-automatic",
       "conditionType": "used",
-      "createdDate": "2026-01-21T10:35:29.537Z",
+      "createdDate": "2025-05-21T18:41:06.503Z",
       "seller": {
         "id": 60699,
         "name": "B.I. Collection - Ferrari Zürich",
         "city": "Urdorf-Zürich",
         "zipCode": "8902"
       },
-      "imageKey": "listing/382/20145382/1237183732.jpg",
+      "imageKey": "listing/583/12476583/793680252.jpg",
       "imageKeys": [
-        "listing/382/20145382/1237183732.jpg",
-        "listing/382/20145382/444157485.jpg",
-        "listing/382/20145382/1963994417.jpg",
-        "listing/382/20145382/1938570724.jpg",
-        "listing/382/20145382/1730653074.jpg",
-        "listing/382/20145382/1879947282.jpg",
-        "listing/382/20145382/1989019559.jpg",
-        "listing/382/20145382/2102433961.jpg",
-        "listing/382/20145382/654769507.jpg",
-        "listing/382/20145382/895882518.jpg",
-        "listing/382/20145382/1852725554.jpg",
-        "listing/382/20145382/308734899.jpg",
-        "listing/382/20145382/1969022594.jpg",
-        "listing/382/20145382/2057443796.jpg",
-        "listing/382/20145382/1219846005.jpg",
-        "listing/382/20145382/1737947445.jpg",
-        "listing/382/20145382/1521185297.jpg",
-        "listing/382/20145382/1070653541.jpg"
+        "listing/583/12476583/793680252.jpg",
+        "listing/583/12476583/216792837.jpg",
+        "listing/583/12476583/525792683.jpg",
+        "listing/583/12476583/433953798.jpg",
+        "listing/583/12476583/1650611995.jpg",
+        "listing/583/12476583/1099357319.jpg",
+        "listing/583/12476583/1641246648.jpg",
+        "listing/583/12476583/320537448.jpg",
+        "listing/583/12476583/2024534498.jpg",
+        "listing/583/12476583/1178415576.jpg",
+        "listing/583/12476583/705879515.jpg",
+        "listing/583/12476583/1058025571.jpg",
+        "listing/583/12476583/497467394.jpg",
+        "listing/583/12476583/128794350.jpg",
+        "listing/583/12476583/1414784412.jpg"
       ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20145382"
+      "listingUrl": "https://www.autoscout24.ch/de/d/12476583"
     },
     {
       "id": 20145382,
