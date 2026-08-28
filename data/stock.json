@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-27T19:48:03.677876+00:00",
+  "timestamp": "2026-08-28T04:11:21.339765+00:00",
   "count": 108,
   "listings": [
     {
@@ -1356,6 +1356,44 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20492852"
     },
     {
+      "id": 20633758,
+      "make": "MASERATI",
+      "model": "GRANTURISMO",
+      "versionFullName": "GranTurismo Sport Automatica",
+      "firstRegistrationYear": 2019,
+      "mileage": 19900,
+      "price": 89900.0,
+      "horsePower": 460,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-07-14T13:44:59.801Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/758/20633758/2112793466.jpg",
+      "imageKeys": [
+        "listing/758/20633758/2112793466.jpg",
+        "listing/758/20633758/1952354837.jpg",
+        "listing/758/20633758/1122295722.jpg",
+        "listing/758/20633758/1733196462.jpg",
+        "listing/758/20633758/861225590.jpg",
+        "listing/758/20633758/992790376.jpg",
+        "listing/758/20633758/1918560944.jpg",
+        "listing/758/20633758/586939800.jpg",
+        "listing/758/20633758/585985435.jpg",
+        "listing/758/20633758/1943348261.jpg",
+        "listing/758/20633758/1007537434.jpg",
+        "listing/758/20633758/833347075.jpg",
+        "listing/758/20633758/1153376661.jpg",
+        "listing/758/20633758/1041626693.jpg",
+        "listing/758/20633758/269514008.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20633758"
+    },
+    {
       "id": 20734883,
       "make": "MASERATI",
       "model": "GRECALE",
@@ -1393,44 +1431,6 @@
         "listing/883/20734883/463850514.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20734883"
-    },
-    {
-      "id": 20633758,
-      "make": "MASERATI",
-      "model": "GRANTURISMO",
-      "versionFullName": "GranTurismo Sport Automatica",
-      "firstRegistrationYear": 2019,
-      "mileage": 19900,
-      "price": 89900.0,
-      "horsePower": 460,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-07-14T13:44:59.801Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/758/20633758/2112793466.jpg",
-      "imageKeys": [
-        "listing/758/20633758/2112793466.jpg",
-        "listing/758/20633758/1952354837.jpg",
-        "listing/758/20633758/1122295722.jpg",
-        "listing/758/20633758/1733196462.jpg",
-        "listing/758/20633758/861225590.jpg",
-        "listing/758/20633758/992790376.jpg",
-        "listing/758/20633758/1918560944.jpg",
-        "listing/758/20633758/586939800.jpg",
-        "listing/758/20633758/585985435.jpg",
-        "listing/758/20633758/1943348261.jpg",
-        "listing/758/20633758/1007537434.jpg",
-        "listing/758/20633758/833347075.jpg",
-        "listing/758/20633758/1153376661.jpg",
-        "listing/758/20633758/1041626693.jpg",
-        "listing/758/20633758/269514008.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20633758"
     },
     {
       "id": 12902839,
@@ -2312,6 +2312,46 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20303055"
     },
     {
+      "id": 20673679,
+      "make": "FERRARI",
+      "model": "458",
+      "versionFullName": "458 CHALLENGE PISTA Rennfahrzeug",
+      "firstRegistrationYear": 2011,
+      "mileage": 5500,
+      "price": 169000.0,
+      "horsePower": 566,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2026-07-31T06:45:13.567Z",
+      "seller": {
+        "id": 60699,
+        "name": "B.I. Collection - Ferrari Zürich",
+        "city": "Urdorf-Zürich",
+        "zipCode": "8902"
+      },
+      "imageKey": "listing/679/20673679/59773996.jpg",
+      "imageKeys": [
+        "listing/679/20673679/59773996.jpg",
+        "listing/679/20673679/397513822.jpg",
+        "listing/679/20673679/778482304.jpg",
+        "listing/679/20673679/1460851100.jpg",
+        "listing/679/20673679/950938960.jpg",
+        "listing/679/20673679/1881540154.jpg",
+        "listing/679/20673679/1159412465.jpg",
+        "listing/679/20673679/475193859.jpg",
+        "listing/679/20673679/894466226.jpg",
+        "listing/679/20673679/1216794270.jpg",
+        "listing/679/20673679/193794851.jpg",
+        "listing/679/20673679/329734962.jpg",
+        "listing/679/20673679/567282262.jpg",
+        "listing/679/20673679/892298415.jpg",
+        "listing/679/20673679/1552674334.jpg",
+        "listing/679/20673679/31639732.jpg",
+        "listing/679/20673679/1312702553.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20673679"
+    },
+    {
       "id": 20078636,
       "make": "FERRARI",
       "model": "PORTOFINO",
@@ -2355,46 +2395,6 @@
         "listing/636/20078636/392928793.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20078636"
-    },
-    {
-      "id": 20673679,
-      "make": "FERRARI",
-      "model": "458",
-      "versionFullName": "458 CHALLENGE PISTA Rennfahrzeug",
-      "firstRegistrationYear": 2011,
-      "mileage": 5500,
-      "price": 169000.0,
-      "horsePower": 566,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2026-07-31T06:45:13.567Z",
-      "seller": {
-        "id": 60699,
-        "name": "B.I. Collection - Ferrari Zürich",
-        "city": "Urdorf-Zürich",
-        "zipCode": "8902"
-      },
-      "imageKey": "listing/679/20673679/59773996.jpg",
-      "imageKeys": [
-        "listing/679/20673679/59773996.jpg",
-        "listing/679/20673679/397513822.jpg",
-        "listing/679/20673679/778482304.jpg",
-        "listing/679/20673679/1460851100.jpg",
-        "listing/679/20673679/950938960.jpg",
-        "listing/679/20673679/1881540154.jpg",
-        "listing/679/20673679/1159412465.jpg",
-        "listing/679/20673679/475193859.jpg",
-        "listing/679/20673679/894466226.jpg",
-        "listing/679/20673679/1216794270.jpg",
-        "listing/679/20673679/193794851.jpg",
-        "listing/679/20673679/329734962.jpg",
-        "listing/679/20673679/567282262.jpg",
-        "listing/679/20673679/892298415.jpg",
-        "listing/679/20673679/1552674334.jpg",
-        "listing/679/20673679/31639732.jpg",
-        "listing/679/20673679/1312702553.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20673679"
     },
     {
       "id": 20543184,
@@ -2473,36 +2473,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20162412"
     },
     {
-      "id": 11491790,
-      "make": "FERRARI",
-      "model": "Roma",
-      "versionFullName": "Roma 3.9 V8 T Standort Wallisellen",
-      "firstRegistrationYear": 2021,
-      "mileage": 7700,
-      "price": 179000.0,
-      "horsePower": 620,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2024-05-02T15:49:00.532Z",
-      "seller": {
-        "id": 60699,
-        "name": "B.I. Collection - Ferrari Zürich",
-        "city": "Urdorf-Zürich",
-        "zipCode": "8902"
-      },
-      "imageKey": "listing/790/11491790/1956976207.jpg",
-      "imageKeys": [
-        "listing/790/11491790/1956976207.jpg",
-        "listing/790/11491790/1471726340.jpg",
-        "listing/790/11491790/2113812091.jpg",
-        "listing/790/11491790/1245924297.jpg",
-        "listing/790/11491790/1715641500.jpg",
-        "listing/790/11491790/1729879600.jpg",
-        "listing/790/11491790/1081531702.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/11491790"
-    },
-    {
       "id": 20617873,
       "make": "FERRARI",
       "model": "599",
@@ -2550,6 +2520,36 @@
         "listing/873/20617873/386619104.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20617873"
+    },
+    {
+      "id": 11491790,
+      "make": "FERRARI",
+      "model": "Roma",
+      "versionFullName": "Roma 3.9 V8 T Standort Wallisellen",
+      "firstRegistrationYear": 2021,
+      "mileage": 7700,
+      "price": 179000.0,
+      "horsePower": 620,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2024-05-02T15:49:00.532Z",
+      "seller": {
+        "id": 60699,
+        "name": "B.I. Collection - Ferrari Zürich",
+        "city": "Urdorf-Zürich",
+        "zipCode": "8902"
+      },
+      "imageKey": "listing/790/11491790/1956976207.jpg",
+      "imageKeys": [
+        "listing/790/11491790/1956976207.jpg",
+        "listing/790/11491790/1471726340.jpg",
+        "listing/790/11491790/2113812091.jpg",
+        "listing/790/11491790/1245924297.jpg",
+        "listing/790/11491790/1715641500.jpg",
+        "listing/790/11491790/1729879600.jpg",
+        "listing/790/11491790/1081531702.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/11491790"
     },
     {
       "id": 20447457,
