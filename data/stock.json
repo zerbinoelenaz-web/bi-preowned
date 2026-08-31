@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-31T19:56:12.772965+00:00",
+  "timestamp": "2026-08-31T23:44:14.699707+00:00",
   "count": 109,
   "listings": [
     {
@@ -577,45 +577,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20526532"
     },
     {
-      "id": 20306429,
-      "make": "MASERATI",
-      "model": "LEVANTE",
-      "versionFullName": "Levante 3.8 V8 TROFEO Q4 Automatica",
-      "firstRegistrationYear": 2019,
-      "mileage": 61500,
-      "price": 69900.0,
-      "horsePower": 581,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-03-19T16:13:23.82Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/429/20306429/366142183.jpg",
-      "imageKeys": [
-        "listing/429/20306429/366142183.jpg",
-        "listing/429/20306429/1087632254.jpg",
-        "listing/429/20306429/457465742.jpg",
-        "listing/429/20306429/1873599371.jpg",
-        "listing/429/20306429/725341779.jpg",
-        "listing/429/20306429/2101828696.jpg",
-        "listing/429/20306429/1119571877.jpg",
-        "listing/429/20306429/115890380.jpg",
-        "listing/429/20306429/1075488724.jpg",
-        "listing/429/20306429/856829073.jpg",
-        "listing/429/20306429/1070662872.jpg",
-        "listing/429/20306429/1526902970.jpg",
-        "listing/429/20306429/2054831328.jpg",
-        "listing/429/20306429/1097438945.jpg",
-        "listing/429/20306429/93151359.jpg",
-        "listing/429/20306429/431747580.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20306429"
-    },
-    {
       "id": 10797446,
       "make": "MERCEDES-BENZ",
       "model": "EQE SUV",
@@ -685,6 +646,45 @@
         "listing/721/12062721/806150583.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/12062721"
+    },
+    {
+      "id": 20306429,
+      "make": "MASERATI",
+      "model": "LEVANTE",
+      "versionFullName": "Levante 3.8 V8 TROFEO Q4 Automatica",
+      "firstRegistrationYear": 2019,
+      "mileage": 61500,
+      "price": 69900.0,
+      "horsePower": 581,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-03-19T16:13:23.82Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/429/20306429/366142183.jpg",
+      "imageKeys": [
+        "listing/429/20306429/366142183.jpg",
+        "listing/429/20306429/1087632254.jpg",
+        "listing/429/20306429/457465742.jpg",
+        "listing/429/20306429/1873599371.jpg",
+        "listing/429/20306429/725341779.jpg",
+        "listing/429/20306429/2101828696.jpg",
+        "listing/429/20306429/1119571877.jpg",
+        "listing/429/20306429/115890380.jpg",
+        "listing/429/20306429/1075488724.jpg",
+        "listing/429/20306429/856829073.jpg",
+        "listing/429/20306429/1070662872.jpg",
+        "listing/429/20306429/1526902970.jpg",
+        "listing/429/20306429/2054831328.jpg",
+        "listing/429/20306429/1097438945.jpg",
+        "listing/429/20306429/93151359.jpg",
+        "listing/429/20306429/431747580.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20306429"
     },
     {
       "id": 20665409,
@@ -1188,6 +1188,45 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20615904"
     },
     {
+      "id": 12331092,
+      "make": "MASERATI",
+      "model": "GHIBLI",
+      "versionFullName": "Ghibli S Q4 3.0 Modena Automatica",
+      "firstRegistrationYear": 2023,
+      "mileage": 19500,
+      "price": 89000.0,
+      "horsePower": 430,
+      "transmissionType": "automatic",
+      "conditionType": "demonstration",
+      "createdDate": "2025-03-27T16:06:31.392Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/92/12331092/1251663558.jpg",
+      "imageKeys": [
+        "listing/92/12331092/1251663558.jpg",
+        "listing/92/12331092/196073737.jpg",
+        "listing/92/12331092/1816758722.jpg",
+        "listing/92/12331092/1849132250.jpg",
+        "listing/92/12331092/1538793600.jpg",
+        "listing/92/12331092/731633820.jpg",
+        "listing/92/12331092/811982328.jpg",
+        "listing/92/12331092/357486120.jpg",
+        "listing/92/12331092/1709810377.jpg",
+        "listing/92/12331092/1122592347.jpg",
+        "listing/92/12331092/2077516631.jpg",
+        "listing/92/12331092/90782554.jpg",
+        "listing/92/12331092/1710116847.jpg",
+        "listing/92/12331092/1722121341.jpg",
+        "listing/92/12331092/2001359597.jpg",
+        "listing/92/12331092/463848796.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/12331092"
+    },
+    {
       "id": 20276620,
       "make": "BENTLEY",
       "model": "Bentayga",
@@ -1241,45 +1280,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20276620"
     },
     {
-      "id": 12331092,
-      "make": "MASERATI",
-      "model": "GHIBLI",
-      "versionFullName": "Ghibli S Q4 3.0 Modena Automatica",
-      "firstRegistrationYear": 2023,
-      "mileage": 19500,
-      "price": 89000.0,
-      "horsePower": 430,
-      "transmissionType": "automatic",
-      "conditionType": "demonstration",
-      "createdDate": "2025-03-27T16:06:31.392Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/92/12331092/1251663558.jpg",
-      "imageKeys": [
-        "listing/92/12331092/1251663558.jpg",
-        "listing/92/12331092/196073737.jpg",
-        "listing/92/12331092/1816758722.jpg",
-        "listing/92/12331092/1849132250.jpg",
-        "listing/92/12331092/1538793600.jpg",
-        "listing/92/12331092/731633820.jpg",
-        "listing/92/12331092/811982328.jpg",
-        "listing/92/12331092/357486120.jpg",
-        "listing/92/12331092/1709810377.jpg",
-        "listing/92/12331092/1122592347.jpg",
-        "listing/92/12331092/2077516631.jpg",
-        "listing/92/12331092/90782554.jpg",
-        "listing/92/12331092/1710116847.jpg",
-        "listing/92/12331092/1722121341.jpg",
-        "listing/92/12331092/2001359597.jpg",
-        "listing/92/12331092/463848796.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/12331092"
-    },
-    {
       "id": 20492852,
       "make": "MERCEDES-BENZ",
       "model": "AMG GT",
@@ -1320,6 +1320,44 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20492852"
     },
     {
+      "id": 20633758,
+      "make": "MASERATI",
+      "model": "GRANTURISMO",
+      "versionFullName": "GranTurismo Sport Automatica",
+      "firstRegistrationYear": 2019,
+      "mileage": 19900,
+      "price": 89900.0,
+      "horsePower": 460,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-07-14T13:44:59.801Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/758/20633758/2112793466.jpg",
+      "imageKeys": [
+        "listing/758/20633758/2112793466.jpg",
+        "listing/758/20633758/1952354837.jpg",
+        "listing/758/20633758/1122295722.jpg",
+        "listing/758/20633758/1733196462.jpg",
+        "listing/758/20633758/861225590.jpg",
+        "listing/758/20633758/992790376.jpg",
+        "listing/758/20633758/1918560944.jpg",
+        "listing/758/20633758/586939800.jpg",
+        "listing/758/20633758/585985435.jpg",
+        "listing/758/20633758/1943348261.jpg",
+        "listing/758/20633758/1007537434.jpg",
+        "listing/758/20633758/833347075.jpg",
+        "listing/758/20633758/1153376661.jpg",
+        "listing/758/20633758/1041626693.jpg",
+        "listing/758/20633758/269514008.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20633758"
+    },
+    {
       "id": 20734883,
       "make": "MASERATI",
       "model": "GRECALE",
@@ -1357,44 +1395,6 @@
         "listing/883/20734883/463850514.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20734883"
-    },
-    {
-      "id": 20633758,
-      "make": "MASERATI",
-      "model": "GRANTURISMO",
-      "versionFullName": "GranTurismo Sport Automatica",
-      "firstRegistrationYear": 2019,
-      "mileage": 19900,
-      "price": 89900.0,
-      "horsePower": 460,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-07-14T13:44:59.801Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/758/20633758/2112793466.jpg",
-      "imageKeys": [
-        "listing/758/20633758/2112793466.jpg",
-        "listing/758/20633758/1952354837.jpg",
-        "listing/758/20633758/1122295722.jpg",
-        "listing/758/20633758/1733196462.jpg",
-        "listing/758/20633758/861225590.jpg",
-        "listing/758/20633758/992790376.jpg",
-        "listing/758/20633758/1918560944.jpg",
-        "listing/758/20633758/586939800.jpg",
-        "listing/758/20633758/585985435.jpg",
-        "listing/758/20633758/1943348261.jpg",
-        "listing/758/20633758/1007537434.jpg",
-        "listing/758/20633758/833347075.jpg",
-        "listing/758/20633758/1153376661.jpg",
-        "listing/758/20633758/1041626693.jpg",
-        "listing/758/20633758/269514008.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20633758"
     },
     {
       "id": 12902839,
@@ -2160,43 +2160,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20751525"
     },
     {
-      "id": 20389384,
-      "make": "MERCEDES-BENZ",
-      "model": null,
-      "versionFullName": "250 SL Pagode",
-      "firstRegistrationYear": 1967,
-      "mileage": 78800,
-      "price": 129000.0,
-      "horsePower": 150,
-      "transmissionType": "manual",
-      "conditionType": "used",
-      "createdDate": "2026-04-20T12:42:21.051Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/384/20389384/1294894847.jpg",
-      "imageKeys": [
-        "listing/384/20389384/1294894847.jpg",
-        "listing/384/20389384/1465770299.jpg",
-        "listing/384/20389384/551241760.jpg",
-        "listing/384/20389384/1376401795.jpg",
-        "listing/384/20389384/1916269449.jpg",
-        "listing/384/20389384/613075632.jpg",
-        "listing/384/20389384/346519187.jpg",
-        "listing/384/20389384/23850477.jpg",
-        "listing/384/20389384/724377970.jpg",
-        "listing/384/20389384/1237285202.jpg",
-        "listing/384/20389384/641023884.jpg",
-        "listing/384/20389384/490441907.jpg",
-        "listing/384/20389384/1799101008.jpg",
-        "listing/384/20389384/1998265754.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20389384"
-    },
-    {
       "id": 20753159,
       "make": "MASERATI",
       "model": "GRANTURISMO",
@@ -2234,6 +2197,43 @@
         "listing/159/20753159/1153749154.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20753159"
+    },
+    {
+      "id": 20389384,
+      "make": "MERCEDES-BENZ",
+      "model": null,
+      "versionFullName": "250 SL Pagode",
+      "firstRegistrationYear": 1967,
+      "mileage": 78800,
+      "price": 129000.0,
+      "horsePower": 150,
+      "transmissionType": "manual",
+      "conditionType": "used",
+      "createdDate": "2026-04-20T12:42:21.051Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/384/20389384/1294894847.jpg",
+      "imageKeys": [
+        "listing/384/20389384/1294894847.jpg",
+        "listing/384/20389384/1465770299.jpg",
+        "listing/384/20389384/551241760.jpg",
+        "listing/384/20389384/1376401795.jpg",
+        "listing/384/20389384/1916269449.jpg",
+        "listing/384/20389384/613075632.jpg",
+        "listing/384/20389384/346519187.jpg",
+        "listing/384/20389384/23850477.jpg",
+        "listing/384/20389384/724377970.jpg",
+        "listing/384/20389384/1237285202.jpg",
+        "listing/384/20389384/641023884.jpg",
+        "listing/384/20389384/490441907.jpg",
+        "listing/384/20389384/1799101008.jpg",
+        "listing/384/20389384/1998265754.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20389384"
     },
     {
       "id": 20566024,
@@ -2631,45 +2631,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/11491790"
     },
     {
-      "id": 20504432,
-      "make": "MASERATI",
-      "model": "MC 20",
-      "versionFullName": "MC 20",
-      "firstRegistrationYear": 2021,
-      "mileage": 18900,
-      "price": 179900.0,
-      "horsePower": 630,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-05-28T14:43:20.83Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/432/20504432/215100172.jpg",
-      "imageKeys": [
-        "listing/432/20504432/215100172.jpg",
-        "listing/432/20504432/231824210.jpg",
-        "listing/432/20504432/1224222922.jpg",
-        "listing/432/20504432/591981860.jpg",
-        "listing/432/20504432/901733692.jpg",
-        "listing/432/20504432/1568132146.jpg",
-        "listing/432/20504432/1248680781.jpg",
-        "listing/432/20504432/512156903.jpg",
-        "listing/432/20504432/558958150.jpg",
-        "listing/432/20504432/1181291273.jpg",
-        "listing/432/20504432/250798016.jpg",
-        "listing/432/20504432/207624664.jpg",
-        "listing/432/20504432/640590834.jpg",
-        "listing/432/20504432/1586239616.jpg",
-        "listing/432/20504432/1652652905.jpg",
-        "listing/432/20504432/170399110.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20504432"
-    },
-    {
       "id": 20447457,
       "make": "BENTLEY",
       "model": "CONTINENTAL",
@@ -2711,6 +2672,45 @@
         "listing/457/20447457/930007403.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20447457"
+    },
+    {
+      "id": 20504432,
+      "make": "MASERATI",
+      "model": "MC 20",
+      "versionFullName": "MC 20",
+      "firstRegistrationYear": 2021,
+      "mileage": 18900,
+      "price": 179900.0,
+      "horsePower": 630,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-05-28T14:43:20.83Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/432/20504432/215100172.jpg",
+      "imageKeys": [
+        "listing/432/20504432/215100172.jpg",
+        "listing/432/20504432/231824210.jpg",
+        "listing/432/20504432/1224222922.jpg",
+        "listing/432/20504432/591981860.jpg",
+        "listing/432/20504432/901733692.jpg",
+        "listing/432/20504432/1568132146.jpg",
+        "listing/432/20504432/1248680781.jpg",
+        "listing/432/20504432/512156903.jpg",
+        "listing/432/20504432/558958150.jpg",
+        "listing/432/20504432/1181291273.jpg",
+        "listing/432/20504432/250798016.jpg",
+        "listing/432/20504432/207624664.jpg",
+        "listing/432/20504432/640590834.jpg",
+        "listing/432/20504432/1586239616.jpg",
+        "listing/432/20504432/1652652905.jpg",
+        "listing/432/20504432/170399110.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20504432"
     },
     {
       "id": 20556721,
@@ -3496,45 +3496,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/12649619"
     },
     {
-      "id": 20078795,
-      "make": "FERRARI",
-      "model": "Roma",
-      "versionFullName": "Roma 3.9 V8 T \"Tailor Made\"",
-      "firstRegistrationYear": 2025,
-      "mileage": 950,
-      "price": 279000.0,
-      "horsePower": 620,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2025-12-18T12:28:49.537Z",
-      "seller": {
-        "id": 60699,
-        "name": "B.I. Collection - Ferrari Zürich",
-        "city": "Urdorf-Zürich",
-        "zipCode": "8902"
-      },
-      "imageKey": "listing/795/20078795/670812572.jpg",
-      "imageKeys": [
-        "listing/795/20078795/670812572.jpg",
-        "listing/795/20078795/7474206.jpg",
-        "listing/795/20078795/170052584.jpg",
-        "listing/795/20078795/515897545.jpg",
-        "listing/795/20078795/1682201526.jpg",
-        "listing/795/20078795/2144332255.jpg",
-        "listing/795/20078795/841647747.jpg",
-        "listing/795/20078795/1220505925.jpg",
-        "listing/795/20078795/1084149365.jpg",
-        "listing/795/20078795/1207286229.jpg",
-        "listing/795/20078795/1256386038.jpg",
-        "listing/795/20078795/116341589.jpg",
-        "listing/795/20078795/1048259461.jpg",
-        "listing/795/20078795/1421786355.jpg",
-        "listing/795/20078795/1651464322.jpg",
-        "listing/795/20078795/962367825.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20078795"
-    },
-    {
       "id": 9894329,
       "make": "FERRARI",
       "model": "575M",
@@ -3580,6 +3541,45 @@
         "listing/329/9894329/349902009.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/9894329"
+    },
+    {
+      "id": 20078795,
+      "make": "FERRARI",
+      "model": "Roma",
+      "versionFullName": "Roma 3.9 V8 T \"Tailor Made\"",
+      "firstRegistrationYear": 2025,
+      "mileage": 950,
+      "price": 279000.0,
+      "horsePower": 620,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2025-12-18T12:28:49.537Z",
+      "seller": {
+        "id": 60699,
+        "name": "B.I. Collection - Ferrari Zürich",
+        "city": "Urdorf-Zürich",
+        "zipCode": "8902"
+      },
+      "imageKey": "listing/795/20078795/670812572.jpg",
+      "imageKeys": [
+        "listing/795/20078795/670812572.jpg",
+        "listing/795/20078795/7474206.jpg",
+        "listing/795/20078795/170052584.jpg",
+        "listing/795/20078795/515897545.jpg",
+        "listing/795/20078795/1682201526.jpg",
+        "listing/795/20078795/2144332255.jpg",
+        "listing/795/20078795/841647747.jpg",
+        "listing/795/20078795/1220505925.jpg",
+        "listing/795/20078795/1084149365.jpg",
+        "listing/795/20078795/1207286229.jpg",
+        "listing/795/20078795/1256386038.jpg",
+        "listing/795/20078795/116341589.jpg",
+        "listing/795/20078795/1048259461.jpg",
+        "listing/795/20078795/1421786355.jpg",
+        "listing/795/20078795/1651464322.jpg",
+        "listing/795/20078795/962367825.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20078795"
     },
     {
       "id": 20258583,
@@ -4035,44 +4035,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20539920"
     },
     {
-      "id": 12476583,
-      "make": "FERRARI",
-      "model": "SF90",
-      "versionFullName": "SF90 Stradale",
-      "firstRegistrationYear": 2021,
-      "mileage": 3700,
-      "price": 369000.0,
-      "horsePower": 1000,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2025-05-21T18:41:06.503Z",
-      "seller": {
-        "id": 60699,
-        "name": "B.I. Collection - Ferrari Zürich",
-        "city": "Urdorf-Zürich",
-        "zipCode": "8902"
-      },
-      "imageKey": "listing/583/12476583/793680252.jpg",
-      "imageKeys": [
-        "listing/583/12476583/793680252.jpg",
-        "listing/583/12476583/216792837.jpg",
-        "listing/583/12476583/525792683.jpg",
-        "listing/583/12476583/433953798.jpg",
-        "listing/583/12476583/1650611995.jpg",
-        "listing/583/12476583/1099357319.jpg",
-        "listing/583/12476583/1641246648.jpg",
-        "listing/583/12476583/320537448.jpg",
-        "listing/583/12476583/2024534498.jpg",
-        "listing/583/12476583/1178415576.jpg",
-        "listing/583/12476583/705879515.jpg",
-        "listing/583/12476583/1058025571.jpg",
-        "listing/583/12476583/497467394.jpg",
-        "listing/583/12476583/128794350.jpg",
-        "listing/583/12476583/1414784412.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/12476583"
-    },
-    {
       "id": 20145382,
       "make": "FERRARI",
       "model": "SF90",
@@ -4112,6 +4074,44 @@
         "listing/382/20145382/1070653541.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20145382"
+    },
+    {
+      "id": 12476583,
+      "make": "FERRARI",
+      "model": "SF90",
+      "versionFullName": "SF90 Stradale",
+      "firstRegistrationYear": 2021,
+      "mileage": 3700,
+      "price": 369000.0,
+      "horsePower": 1000,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2025-05-21T18:41:06.503Z",
+      "seller": {
+        "id": 60699,
+        "name": "B.I. Collection - Ferrari Zürich",
+        "city": "Urdorf-Zürich",
+        "zipCode": "8902"
+      },
+      "imageKey": "listing/583/12476583/793680252.jpg",
+      "imageKeys": [
+        "listing/583/12476583/793680252.jpg",
+        "listing/583/12476583/216792837.jpg",
+        "listing/583/12476583/525792683.jpg",
+        "listing/583/12476583/433953798.jpg",
+        "listing/583/12476583/1650611995.jpg",
+        "listing/583/12476583/1099357319.jpg",
+        "listing/583/12476583/1641246648.jpg",
+        "listing/583/12476583/320537448.jpg",
+        "listing/583/12476583/2024534498.jpg",
+        "listing/583/12476583/1178415576.jpg",
+        "listing/583/12476583/705879515.jpg",
+        "listing/583/12476583/1058025571.jpg",
+        "listing/583/12476583/497467394.jpg",
+        "listing/583/12476583/128794350.jpg",
+        "listing/583/12476583/1414784412.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/12476583"
     },
     {
       "id": 20539522,
