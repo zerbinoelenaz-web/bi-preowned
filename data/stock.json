@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-01T14:42:58.837024+00:00",
+  "timestamp": "2026-09-01T18:20:57.162940+00:00",
   "count": 109,
   "listings": [
     {
@@ -577,45 +577,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20526532"
     },
     {
-      "id": 20306429,
-      "make": "MASERATI",
-      "model": "LEVANTE",
-      "versionFullName": "Levante 3.8 V8 TROFEO Q4 Automatica",
-      "firstRegistrationYear": 2019,
-      "mileage": 61500,
-      "price": 69900.0,
-      "horsePower": 581,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-03-19T16:13:23.82Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/429/20306429/366142183.jpg",
-      "imageKeys": [
-        "listing/429/20306429/366142183.jpg",
-        "listing/429/20306429/1087632254.jpg",
-        "listing/429/20306429/457465742.jpg",
-        "listing/429/20306429/1873599371.jpg",
-        "listing/429/20306429/725341779.jpg",
-        "listing/429/20306429/2101828696.jpg",
-        "listing/429/20306429/1119571877.jpg",
-        "listing/429/20306429/115890380.jpg",
-        "listing/429/20306429/1075488724.jpg",
-        "listing/429/20306429/856829073.jpg",
-        "listing/429/20306429/1070662872.jpg",
-        "listing/429/20306429/1526902970.jpg",
-        "listing/429/20306429/2054831328.jpg",
-        "listing/429/20306429/1097438945.jpg",
-        "listing/429/20306429/93151359.jpg",
-        "listing/429/20306429/431747580.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20306429"
-    },
-    {
       "id": 10797446,
       "make": "MERCEDES-BENZ",
       "model": "EQE SUV",
@@ -685,6 +646,45 @@
         "listing/721/12062721/806150583.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/12062721"
+    },
+    {
+      "id": 20306429,
+      "make": "MASERATI",
+      "model": "LEVANTE",
+      "versionFullName": "Levante 3.8 V8 TROFEO Q4 Automatica",
+      "firstRegistrationYear": 2019,
+      "mileage": 61500,
+      "price": 69900.0,
+      "horsePower": 581,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-03-19T16:13:23.82Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/429/20306429/366142183.jpg",
+      "imageKeys": [
+        "listing/429/20306429/366142183.jpg",
+        "listing/429/20306429/1087632254.jpg",
+        "listing/429/20306429/457465742.jpg",
+        "listing/429/20306429/1873599371.jpg",
+        "listing/429/20306429/725341779.jpg",
+        "listing/429/20306429/2101828696.jpg",
+        "listing/429/20306429/1119571877.jpg",
+        "listing/429/20306429/115890380.jpg",
+        "listing/429/20306429/1075488724.jpg",
+        "listing/429/20306429/856829073.jpg",
+        "listing/429/20306429/1070662872.jpg",
+        "listing/429/20306429/1526902970.jpg",
+        "listing/429/20306429/2054831328.jpg",
+        "listing/429/20306429/1097438945.jpg",
+        "listing/429/20306429/93151359.jpg",
+        "listing/429/20306429/431747580.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20306429"
     },
     {
       "id": 20665409,
@@ -2123,6 +2123,43 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20665931"
     },
     {
+      "id": 20389384,
+      "make": "MERCEDES-BENZ",
+      "model": null,
+      "versionFullName": "250 SL Pagode",
+      "firstRegistrationYear": 1967,
+      "mileage": 78800,
+      "price": 129000.0,
+      "horsePower": 150,
+      "transmissionType": "manual",
+      "conditionType": "used",
+      "createdDate": "2026-04-20T12:42:21.051Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/384/20389384/1294894847.jpg",
+      "imageKeys": [
+        "listing/384/20389384/1294894847.jpg",
+        "listing/384/20389384/1465770299.jpg",
+        "listing/384/20389384/551241760.jpg",
+        "listing/384/20389384/1376401795.jpg",
+        "listing/384/20389384/1916269449.jpg",
+        "listing/384/20389384/613075632.jpg",
+        "listing/384/20389384/346519187.jpg",
+        "listing/384/20389384/23850477.jpg",
+        "listing/384/20389384/724377970.jpg",
+        "listing/384/20389384/1237285202.jpg",
+        "listing/384/20389384/641023884.jpg",
+        "listing/384/20389384/490441907.jpg",
+        "listing/384/20389384/1799101008.jpg",
+        "listing/384/20389384/1998265754.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20389384"
+    },
+    {
       "id": 20753159,
       "make": "MASERATI",
       "model": "GRANTURISMO",
@@ -2160,43 +2197,6 @@
         "listing/159/20753159/1153749154.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20753159"
-    },
-    {
-      "id": 20389384,
-      "make": "MERCEDES-BENZ",
-      "model": null,
-      "versionFullName": "250 SL Pagode",
-      "firstRegistrationYear": 1967,
-      "mileage": 78800,
-      "price": 129000.0,
-      "horsePower": 150,
-      "transmissionType": "manual",
-      "conditionType": "used",
-      "createdDate": "2026-04-20T12:42:21.051Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/384/20389384/1294894847.jpg",
-      "imageKeys": [
-        "listing/384/20389384/1294894847.jpg",
-        "listing/384/20389384/1465770299.jpg",
-        "listing/384/20389384/551241760.jpg",
-        "listing/384/20389384/1376401795.jpg",
-        "listing/384/20389384/1916269449.jpg",
-        "listing/384/20389384/613075632.jpg",
-        "listing/384/20389384/346519187.jpg",
-        "listing/384/20389384/23850477.jpg",
-        "listing/384/20389384/724377970.jpg",
-        "listing/384/20389384/1237285202.jpg",
-        "listing/384/20389384/641023884.jpg",
-        "listing/384/20389384/490441907.jpg",
-        "listing/384/20389384/1799101008.jpg",
-        "listing/384/20389384/1998265754.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20389384"
     },
     {
       "id": 20751525,
@@ -3205,44 +3205,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20411878"
     },
     {
-      "id": 12593707,
-      "make": "FERRARI",
-      "model": "296",
-      "versionFullName": "296 GTB",
-      "firstRegistrationYear": 2023,
-      "mileage": 3200,
-      "price": 259000.0,
-      "horsePower": 830,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2025-07-07T15:42:39.642Z",
-      "seller": {
-        "id": 60699,
-        "name": "B.I. Collection - Ferrari Zürich",
-        "city": "Urdorf-Zürich",
-        "zipCode": "8902"
-      },
-      "imageKey": "listing/707/12593707/1758450110.jpg",
-      "imageKeys": [
-        "listing/707/12593707/1758450110.jpg",
-        "listing/707/12593707/2071955244.jpg",
-        "listing/707/12593707/1991445480.jpg",
-        "listing/707/12593707/177203711.jpg",
-        "listing/707/12593707/1115307251.jpg",
-        "listing/707/12593707/548463174.jpg",
-        "listing/707/12593707/2065091168.jpg",
-        "listing/707/12593707/353972829.jpg",
-        "listing/707/12593707/1610664905.jpg",
-        "listing/707/12593707/1738630634.jpg",
-        "listing/707/12593707/1031486798.jpg",
-        "listing/707/12593707/1029925135.jpg",
-        "listing/707/12593707/1555187681.jpg",
-        "listing/707/12593707/1534587584.jpg",
-        "listing/707/12593707/911423291.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/12593707"
-    },
-    {
       "id": 20055814,
       "make": "FERRARI",
       "model": "Roma",
@@ -3289,6 +3251,44 @@
         "listing/814/20055814/1307283572.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20055814"
+    },
+    {
+      "id": 12593707,
+      "make": "FERRARI",
+      "model": "296",
+      "versionFullName": "296 GTB",
+      "firstRegistrationYear": 2023,
+      "mileage": 3200,
+      "price": 259000.0,
+      "horsePower": 830,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2025-07-07T15:42:39.642Z",
+      "seller": {
+        "id": 60699,
+        "name": "B.I. Collection - Ferrari Zürich",
+        "city": "Urdorf-Zürich",
+        "zipCode": "8902"
+      },
+      "imageKey": "listing/707/12593707/1758450110.jpg",
+      "imageKeys": [
+        "listing/707/12593707/1758450110.jpg",
+        "listing/707/12593707/2071955244.jpg",
+        "listing/707/12593707/1991445480.jpg",
+        "listing/707/12593707/177203711.jpg",
+        "listing/707/12593707/1115307251.jpg",
+        "listing/707/12593707/548463174.jpg",
+        "listing/707/12593707/2065091168.jpg",
+        "listing/707/12593707/353972829.jpg",
+        "listing/707/12593707/1610664905.jpg",
+        "listing/707/12593707/1738630634.jpg",
+        "listing/707/12593707/1031486798.jpg",
+        "listing/707/12593707/1029925135.jpg",
+        "listing/707/12593707/1555187681.jpg",
+        "listing/707/12593707/1534587584.jpg",
+        "listing/707/12593707/911423291.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/12593707"
     },
     {
       "id": 20687112,
