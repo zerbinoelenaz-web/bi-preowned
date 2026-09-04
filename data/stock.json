@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-04T09:28:56.311803+00:00",
+  "timestamp": "2026-09-04T14:10:32.098498+00:00",
   "count": 116,
   "listings": [
     {
@@ -1339,6 +1339,45 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20615904"
     },
     {
+      "id": 12331092,
+      "make": "MASERATI",
+      "model": "GHIBLI",
+      "versionFullName": "GHIBLI S Q4 3.0 MODENA",
+      "firstRegistrationYear": 2023,
+      "mileage": 19500,
+      "price": 89000.0,
+      "horsePower": 430,
+      "transmissionType": "automatic",
+      "conditionType": "demonstration",
+      "createdDate": "2025-03-27T16:06:31.392Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/92/12331092/1251663558.jpg",
+      "imageKeys": [
+        "listing/92/12331092/1251663558.jpg",
+        "listing/92/12331092/196073737.jpg",
+        "listing/92/12331092/1816758722.jpg",
+        "listing/92/12331092/1849132250.jpg",
+        "listing/92/12331092/1538793600.jpg",
+        "listing/92/12331092/731633820.jpg",
+        "listing/92/12331092/811982328.jpg",
+        "listing/92/12331092/357486120.jpg",
+        "listing/92/12331092/1709810377.jpg",
+        "listing/92/12331092/1122592347.jpg",
+        "listing/92/12331092/2077516631.jpg",
+        "listing/92/12331092/90782554.jpg",
+        "listing/92/12331092/1710116847.jpg",
+        "listing/92/12331092/1722121341.jpg",
+        "listing/92/12331092/2001359597.jpg",
+        "listing/92/12331092/463848796.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/12331092"
+    },
+    {
       "id": 20276620,
       "make": "BENTLEY",
       "model": "Bentayga",
@@ -1390,45 +1429,6 @@
         "listing/620/20276620/1650084530.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20276620"
-    },
-    {
-      "id": 12331092,
-      "make": "MASERATI",
-      "model": "GHIBLI",
-      "versionFullName": "GHIBLI S Q4 3.0 MODENA",
-      "firstRegistrationYear": 2023,
-      "mileage": 19500,
-      "price": 89000.0,
-      "horsePower": 430,
-      "transmissionType": "automatic",
-      "conditionType": "demonstration",
-      "createdDate": "2025-03-27T16:06:31.392Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/92/12331092/1251663558.jpg",
-      "imageKeys": [
-        "listing/92/12331092/1251663558.jpg",
-        "listing/92/12331092/196073737.jpg",
-        "listing/92/12331092/1816758722.jpg",
-        "listing/92/12331092/1849132250.jpg",
-        "listing/92/12331092/1538793600.jpg",
-        "listing/92/12331092/731633820.jpg",
-        "listing/92/12331092/811982328.jpg",
-        "listing/92/12331092/357486120.jpg",
-        "listing/92/12331092/1709810377.jpg",
-        "listing/92/12331092/1122592347.jpg",
-        "listing/92/12331092/2077516631.jpg",
-        "listing/92/12331092/90782554.jpg",
-        "listing/92/12331092/1710116847.jpg",
-        "listing/92/12331092/1722121341.jpg",
-        "listing/92/12331092/2001359597.jpg",
-        "listing/92/12331092/463848796.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/12331092"
     },
     {
       "id": 20492852,
@@ -1934,6 +1934,45 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20669911"
     },
     {
+      "id": 20791733,
+      "make": "MASERATI",
+      "model": "GRECALE",
+      "versionFullName": "GRECALE MODENA MY2027",
+      "firstRegistrationYear": 2026,
+      "mileage": 100,
+      "price": 105900.0,
+      "horsePower": 330,
+      "transmissionType": "automatic",
+      "conditionType": "new",
+      "createdDate": "2026-09-04T08:09:22.367Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/733/20791733/171383816.jpg",
+      "imageKeys": [
+        "listing/733/20791733/171383816.jpg",
+        "listing/733/20791733/1705161931.jpg",
+        "listing/733/20791733/417249788.jpg",
+        "listing/733/20791733/1481670158.jpg",
+        "listing/733/20791733/1789891851.jpg",
+        "listing/733/20791733/19123791.jpg",
+        "listing/733/20791733/374785522.jpg",
+        "listing/733/20791733/976644021.jpg",
+        "listing/733/20791733/2047780292.jpg",
+        "listing/733/20791733/117137352.jpg",
+        "listing/733/20791733/696953465.jpg",
+        "listing/733/20791733/1805723094.jpg",
+        "listing/733/20791733/1459183744.jpg",
+        "listing/733/20791733/701000879.jpg",
+        "listing/733/20791733/971452759.jpg",
+        "listing/733/20791733/1040213289.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20791733"
+    },
+    {
       "id": 20497820,
       "make": "ASTON MARTIN",
       "model": "V12 Vanquish",
@@ -2269,47 +2308,6 @@
         "listing/83/20704083/1361265301.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20704083"
-    },
-    {
-      "id": 20665931,
-      "make": "AUDI",
-      "model": "R8",
-      "versionFullName": "R8 Spyder 5.2 RWS S-Tronic",
-      "firstRegistrationYear": 2018,
-      "mileage": 53000,
-      "price": 122900.0,
-      "horsePower": 540,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2026-07-28T08:53:49.698Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/931/20665931/921236882.jpg",
-      "imageKeys": [
-        "listing/931/20665931/921236882.jpg",
-        "listing/931/20665931/454562271.jpg",
-        "listing/931/20665931/1847971266.jpg",
-        "listing/931/20665931/1690692945.jpg",
-        "listing/931/20665931/2123873375.jpg",
-        "listing/931/20665931/1812490038.jpg",
-        "listing/931/20665931/877039986.jpg",
-        "listing/931/20665931/1639045576.jpg",
-        "listing/931/20665931/1398608191.jpg",
-        "listing/931/20665931/112946519.jpg",
-        "listing/931/20665931/189617618.jpg",
-        "listing/931/20665931/166225962.jpg",
-        "listing/931/20665931/2012922911.jpg",
-        "listing/931/20665931/1523419395.jpg",
-        "listing/931/20665931/1980831339.png",
-        "listing/931/20665931/1395920701.jpg",
-        "listing/931/20665931/1456800846.jpg",
-        "listing/931/20665931/1063678838.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20665931"
     },
     {
       "id": 20389384,
@@ -2855,45 +2853,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/11491790"
     },
     {
-      "id": 20504432,
-      "make": "MASERATI",
-      "model": "MC 20",
-      "versionFullName": "MC 20",
-      "firstRegistrationYear": 2021,
-      "mileage": 18900,
-      "price": 179900.0,
-      "horsePower": 630,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-05-28T14:43:20.83Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/432/20504432/215100172.jpg",
-      "imageKeys": [
-        "listing/432/20504432/215100172.jpg",
-        "listing/432/20504432/231824210.jpg",
-        "listing/432/20504432/1224222922.jpg",
-        "listing/432/20504432/591981860.jpg",
-        "listing/432/20504432/901733692.jpg",
-        "listing/432/20504432/1568132146.jpg",
-        "listing/432/20504432/1248680781.jpg",
-        "listing/432/20504432/512156903.jpg",
-        "listing/432/20504432/558958150.jpg",
-        "listing/432/20504432/1181291273.jpg",
-        "listing/432/20504432/250798016.jpg",
-        "listing/432/20504432/207624664.jpg",
-        "listing/432/20504432/640590834.jpg",
-        "listing/432/20504432/1586239616.jpg",
-        "listing/432/20504432/1652652905.jpg",
-        "listing/432/20504432/170399110.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20504432"
-    },
-    {
       "id": 20447457,
       "make": "BENTLEY",
       "model": "CONTINENTAL",
@@ -2935,6 +2894,45 @@
         "listing/457/20447457/930007403.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20447457"
+    },
+    {
+      "id": 20504432,
+      "make": "MASERATI",
+      "model": "MC 20",
+      "versionFullName": "MC 20",
+      "firstRegistrationYear": 2021,
+      "mileage": 18900,
+      "price": 179900.0,
+      "horsePower": 630,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-05-28T14:43:20.83Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/432/20504432/215100172.jpg",
+      "imageKeys": [
+        "listing/432/20504432/215100172.jpg",
+        "listing/432/20504432/231824210.jpg",
+        "listing/432/20504432/1224222922.jpg",
+        "listing/432/20504432/591981860.jpg",
+        "listing/432/20504432/901733692.jpg",
+        "listing/432/20504432/1568132146.jpg",
+        "listing/432/20504432/1248680781.jpg",
+        "listing/432/20504432/512156903.jpg",
+        "listing/432/20504432/558958150.jpg",
+        "listing/432/20504432/1181291273.jpg",
+        "listing/432/20504432/250798016.jpg",
+        "listing/432/20504432/207624664.jpg",
+        "listing/432/20504432/640590834.jpg",
+        "listing/432/20504432/1586239616.jpg",
+        "listing/432/20504432/1652652905.jpg",
+        "listing/432/20504432/170399110.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20504432"
     },
     {
       "id": 20556721,
@@ -3712,6 +3710,45 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/12649619"
     },
     {
+      "id": 20078795,
+      "make": "FERRARI",
+      "model": "Roma",
+      "versionFullName": "Roma 3.9 V8 T \"Tailor Made\"",
+      "firstRegistrationYear": 2025,
+      "mileage": 950,
+      "price": 279000.0,
+      "horsePower": 620,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2025-12-18T12:28:49.537Z",
+      "seller": {
+        "id": 60699,
+        "name": "B.I. Collection - Ferrari Zürich",
+        "city": "Urdorf-Zürich",
+        "zipCode": "8902"
+      },
+      "imageKey": "listing/795/20078795/670812572.jpg",
+      "imageKeys": [
+        "listing/795/20078795/670812572.jpg",
+        "listing/795/20078795/7474206.jpg",
+        "listing/795/20078795/170052584.jpg",
+        "listing/795/20078795/515897545.jpg",
+        "listing/795/20078795/1682201526.jpg",
+        "listing/795/20078795/2144332255.jpg",
+        "listing/795/20078795/841647747.jpg",
+        "listing/795/20078795/1220505925.jpg",
+        "listing/795/20078795/1084149365.jpg",
+        "listing/795/20078795/1207286229.jpg",
+        "listing/795/20078795/1256386038.jpg",
+        "listing/795/20078795/116341589.jpg",
+        "listing/795/20078795/1048259461.jpg",
+        "listing/795/20078795/1421786355.jpg",
+        "listing/795/20078795/1651464322.jpg",
+        "listing/795/20078795/962367825.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20078795"
+    },
+    {
       "id": 9894329,
       "make": "FERRARI",
       "model": "575M",
@@ -3757,45 +3794,6 @@
         "listing/329/9894329/349902009.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/9894329"
-    },
-    {
-      "id": 20078795,
-      "make": "FERRARI",
-      "model": "Roma",
-      "versionFullName": "Roma 3.9 V8 T \"Tailor Made\"",
-      "firstRegistrationYear": 2025,
-      "mileage": 950,
-      "price": 279000.0,
-      "horsePower": 620,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2025-12-18T12:28:49.537Z",
-      "seller": {
-        "id": 60699,
-        "name": "B.I. Collection - Ferrari Zürich",
-        "city": "Urdorf-Zürich",
-        "zipCode": "8902"
-      },
-      "imageKey": "listing/795/20078795/670812572.jpg",
-      "imageKeys": [
-        "listing/795/20078795/670812572.jpg",
-        "listing/795/20078795/7474206.jpg",
-        "listing/795/20078795/170052584.jpg",
-        "listing/795/20078795/515897545.jpg",
-        "listing/795/20078795/1682201526.jpg",
-        "listing/795/20078795/2144332255.jpg",
-        "listing/795/20078795/841647747.jpg",
-        "listing/795/20078795/1220505925.jpg",
-        "listing/795/20078795/1084149365.jpg",
-        "listing/795/20078795/1207286229.jpg",
-        "listing/795/20078795/1256386038.jpg",
-        "listing/795/20078795/116341589.jpg",
-        "listing/795/20078795/1048259461.jpg",
-        "listing/795/20078795/1421786355.jpg",
-        "listing/795/20078795/1651464322.jpg",
-        "listing/795/20078795/962367825.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20078795"
     },
     {
       "id": 20258583,
