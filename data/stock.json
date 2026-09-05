@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-05T04:10:36.231086+00:00",
-  "count": 115,
+  "timestamp": "2026-09-05T08:56:31.916430+00:00",
+  "count": 116,
   "listings": [
     {
       "id": 12532769,
@@ -2310,6 +2310,47 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20704083"
     },
     {
+      "id": 20665931,
+      "make": "AUDI",
+      "model": "R8",
+      "versionFullName": "R8 Spyder 5.2 RWS S-Tronic",
+      "firstRegistrationYear": 2018,
+      "mileage": 53000,
+      "price": 122900.0,
+      "horsePower": 540,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2026-07-28T08:53:49.698Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/931/20665931/921236882.jpg",
+      "imageKeys": [
+        "listing/931/20665931/921236882.jpg",
+        "listing/931/20665931/454562271.jpg",
+        "listing/931/20665931/1847971266.jpg",
+        "listing/931/20665931/1690692945.jpg",
+        "listing/931/20665931/2123873375.jpg",
+        "listing/931/20665931/1812490038.jpg",
+        "listing/931/20665931/877039986.jpg",
+        "listing/931/20665931/1639045576.jpg",
+        "listing/931/20665931/1398608191.jpg",
+        "listing/931/20665931/112946519.jpg",
+        "listing/931/20665931/189617618.jpg",
+        "listing/931/20665931/166225962.jpg",
+        "listing/931/20665931/2012922911.jpg",
+        "listing/931/20665931/1523419395.jpg",
+        "listing/931/20665931/1980831339.png",
+        "listing/931/20665931/1395920701.jpg",
+        "listing/931/20665931/1456800846.jpg",
+        "listing/931/20665931/1063678838.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20665931"
+    },
+    {
       "id": 20389384,
       "make": "MERCEDES-BENZ",
       "model": null,
@@ -2853,6 +2894,45 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/11491790"
     },
     {
+      "id": 20504432,
+      "make": "MASERATI",
+      "model": "MC 20",
+      "versionFullName": "MC 20",
+      "firstRegistrationYear": 2021,
+      "mileage": 18900,
+      "price": 179900.0,
+      "horsePower": 630,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-05-28T14:43:20.83Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/432/20504432/215100172.jpg",
+      "imageKeys": [
+        "listing/432/20504432/215100172.jpg",
+        "listing/432/20504432/231824210.jpg",
+        "listing/432/20504432/1224222922.jpg",
+        "listing/432/20504432/591981860.jpg",
+        "listing/432/20504432/901733692.jpg",
+        "listing/432/20504432/1568132146.jpg",
+        "listing/432/20504432/1248680781.jpg",
+        "listing/432/20504432/512156903.jpg",
+        "listing/432/20504432/558958150.jpg",
+        "listing/432/20504432/1181291273.jpg",
+        "listing/432/20504432/250798016.jpg",
+        "listing/432/20504432/207624664.jpg",
+        "listing/432/20504432/640590834.jpg",
+        "listing/432/20504432/1586239616.jpg",
+        "listing/432/20504432/1652652905.jpg",
+        "listing/432/20504432/170399110.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20504432"
+    },
+    {
       "id": 20447457,
       "make": "BENTLEY",
       "model": "CONTINENTAL",
@@ -2894,45 +2974,6 @@
         "listing/457/20447457/930007403.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20447457"
-    },
-    {
-      "id": 20504432,
-      "make": "MASERATI",
-      "model": "MC 20",
-      "versionFullName": "MC 20",
-      "firstRegistrationYear": 2021,
-      "mileage": 18900,
-      "price": 179900.0,
-      "horsePower": 630,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-05-28T14:43:20.83Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/432/20504432/215100172.jpg",
-      "imageKeys": [
-        "listing/432/20504432/215100172.jpg",
-        "listing/432/20504432/231824210.jpg",
-        "listing/432/20504432/1224222922.jpg",
-        "listing/432/20504432/591981860.jpg",
-        "listing/432/20504432/901733692.jpg",
-        "listing/432/20504432/1568132146.jpg",
-        "listing/432/20504432/1248680781.jpg",
-        "listing/432/20504432/512156903.jpg",
-        "listing/432/20504432/558958150.jpg",
-        "listing/432/20504432/1181291273.jpg",
-        "listing/432/20504432/250798016.jpg",
-        "listing/432/20504432/207624664.jpg",
-        "listing/432/20504432/640590834.jpg",
-        "listing/432/20504432/1586239616.jpg",
-        "listing/432/20504432/1652652905.jpg",
-        "listing/432/20504432/170399110.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20504432"
     },
     {
       "id": 20556721,
