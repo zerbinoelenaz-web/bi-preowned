@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-05T08:56:31.916430+00:00",
-  "count": 116,
+  "timestamp": "2026-09-05T12:35:33.228408+00:00",
+  "count": 113,
   "listings": [
     {
       "id": 12532769,
@@ -1657,38 +1657,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/12902839"
     },
     {
-      "id": 11165311,
-      "make": "FERRARI",
-      "model": "328",
-      "versionFullName": "Ferrari 328 GTS",
-      "firstRegistrationYear": 1986,
-      "mileage": 50500,
-      "price": 99000.0,
-      "horsePower": 263,
-      "transmissionType": "manual",
-      "conditionType": "used",
-      "createdDate": "2024-01-13T13:48:52.88Z",
-      "seller": {
-        "id": 60699,
-        "name": "B.I. Collection - Ferrari Zürich",
-        "city": "Urdorf-Zürich",
-        "zipCode": "8902"
-      },
-      "imageKey": "listing/311/11165311/225562006.jpg",
-      "imageKeys": [
-        "listing/311/11165311/225562006.jpg",
-        "listing/311/11165311/335752889.jpg",
-        "listing/311/11165311/129100542.jpg",
-        "listing/311/11165311/37320861.jpg",
-        "listing/311/11165311/1059505666.jpg",
-        "listing/311/11165311/326645733.jpg",
-        "listing/311/11165311/100926224.jpg",
-        "listing/311/11165311/1828127403.jpg",
-        "listing/311/11165311/610292019.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/11165311"
-    },
-    {
       "id": 20242496,
       "make": "BMW",
       "model": "XM",
@@ -2815,55 +2783,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20162412"
     },
     {
-      "id": 20617873,
-      "make": "FERRARI",
-      "model": "599",
-      "versionFullName": "599 GTB",
-      "firstRegistrationYear": 2008,
-      "mileage": 8000,
-      "price": 179000.0,
-      "horsePower": 620,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2026-07-08T11:30:04.647Z",
-      "seller": {
-        "id": 60699,
-        "name": "B.I. Collection - Ferrari Zürich",
-        "city": "Urdorf-Zürich",
-        "zipCode": "8902"
-      },
-      "imageKey": "listing/873/20617873/79800224.jpg",
-      "imageKeys": [
-        "listing/873/20617873/79800224.jpg",
-        "listing/873/20617873/448939636.jpg",
-        "listing/873/20617873/170949090.jpg",
-        "listing/873/20617873/493857614.jpg",
-        "listing/873/20617873/676534004.jpg",
-        "listing/873/20617873/424084151.jpg",
-        "listing/873/20617873/2144470476.jpg",
-        "listing/873/20617873/81152945.jpg",
-        "listing/873/20617873/1656487883.jpg",
-        "listing/873/20617873/1933139229.jpg",
-        "listing/873/20617873/706375369.jpg",
-        "listing/873/20617873/1333283631.jpg",
-        "listing/873/20617873/2049450059.jpg",
-        "listing/873/20617873/473047046.jpg",
-        "listing/873/20617873/1766399085.jpg",
-        "listing/873/20617873/802654200.jpg",
-        "listing/873/20617873/1904411159.jpg",
-        "listing/873/20617873/347629991.jpg",
-        "listing/873/20617873/1572700207.jpg",
-        "listing/873/20617873/1750471128.jpg",
-        "listing/873/20617873/674595199.jpg",
-        "listing/873/20617873/2129366314.jpg",
-        "listing/873/20617873/31740302.jpg",
-        "listing/873/20617873/2144598679.jpg",
-        "listing/873/20617873/1757017026.jpg",
-        "listing/873/20617873/386619104.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20617873"
-    },
-    {
       "id": 11491790,
       "make": "FERRARI",
       "model": "Roma",
@@ -2892,45 +2811,6 @@
         "listing/790/11491790/1081531702.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/11491790"
-    },
-    {
-      "id": 20504432,
-      "make": "MASERATI",
-      "model": "MC 20",
-      "versionFullName": "MC 20",
-      "firstRegistrationYear": 2021,
-      "mileage": 18900,
-      "price": 179900.0,
-      "horsePower": 630,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-05-28T14:43:20.83Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/432/20504432/215100172.jpg",
-      "imageKeys": [
-        "listing/432/20504432/215100172.jpg",
-        "listing/432/20504432/231824210.jpg",
-        "listing/432/20504432/1224222922.jpg",
-        "listing/432/20504432/591981860.jpg",
-        "listing/432/20504432/901733692.jpg",
-        "listing/432/20504432/1568132146.jpg",
-        "listing/432/20504432/1248680781.jpg",
-        "listing/432/20504432/512156903.jpg",
-        "listing/432/20504432/558958150.jpg",
-        "listing/432/20504432/1181291273.jpg",
-        "listing/432/20504432/250798016.jpg",
-        "listing/432/20504432/207624664.jpg",
-        "listing/432/20504432/640590834.jpg",
-        "listing/432/20504432/1586239616.jpg",
-        "listing/432/20504432/1652652905.jpg",
-        "listing/432/20504432/170399110.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20504432"
     },
     {
       "id": 20447457,
@@ -2974,6 +2854,45 @@
         "listing/457/20447457/930007403.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20447457"
+    },
+    {
+      "id": 20504432,
+      "make": "MASERATI",
+      "model": "MC 20",
+      "versionFullName": "MC 20",
+      "firstRegistrationYear": 2021,
+      "mileage": 18900,
+      "price": 179900.0,
+      "horsePower": 630,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-05-28T14:43:20.83Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/432/20504432/215100172.jpg",
+      "imageKeys": [
+        "listing/432/20504432/215100172.jpg",
+        "listing/432/20504432/231824210.jpg",
+        "listing/432/20504432/1224222922.jpg",
+        "listing/432/20504432/591981860.jpg",
+        "listing/432/20504432/901733692.jpg",
+        "listing/432/20504432/1568132146.jpg",
+        "listing/432/20504432/1248680781.jpg",
+        "listing/432/20504432/512156903.jpg",
+        "listing/432/20504432/558958150.jpg",
+        "listing/432/20504432/1181291273.jpg",
+        "listing/432/20504432/250798016.jpg",
+        "listing/432/20504432/207624664.jpg",
+        "listing/432/20504432/640590834.jpg",
+        "listing/432/20504432/1586239616.jpg",
+        "listing/432/20504432/1652652905.jpg",
+        "listing/432/20504432/170399110.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20504432"
     },
     {
       "id": 20556721,
@@ -4286,47 +4205,6 @@
         "listing/920/20539920/2034452973.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20539920"
-    },
-    {
-      "id": 20145382,
-      "make": "FERRARI",
-      "model": "SF90",
-      "versionFullName": "SF90 Stradale",
-      "firstRegistrationYear": 2022,
-      "mileage": 7500,
-      "price": 369000.0,
-      "horsePower": 1000,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2026-01-21T10:35:29.537Z",
-      "seller": {
-        "id": 60699,
-        "name": "B.I. Collection - Ferrari Zürich",
-        "city": "Urdorf-Zürich",
-        "zipCode": "8902"
-      },
-      "imageKey": "listing/382/20145382/1237183732.jpg",
-      "imageKeys": [
-        "listing/382/20145382/1237183732.jpg",
-        "listing/382/20145382/444157485.jpg",
-        "listing/382/20145382/1963994417.jpg",
-        "listing/382/20145382/1938570724.jpg",
-        "listing/382/20145382/1730653074.jpg",
-        "listing/382/20145382/1879947282.jpg",
-        "listing/382/20145382/1989019559.jpg",
-        "listing/382/20145382/2102433961.jpg",
-        "listing/382/20145382/654769507.jpg",
-        "listing/382/20145382/895882518.jpg",
-        "listing/382/20145382/1852725554.jpg",
-        "listing/382/20145382/308734899.jpg",
-        "listing/382/20145382/1969022594.jpg",
-        "listing/382/20145382/2057443796.jpg",
-        "listing/382/20145382/1219846005.jpg",
-        "listing/382/20145382/1737947445.jpg",
-        "listing/382/20145382/1521185297.jpg",
-        "listing/382/20145382/1070653541.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20145382"
     },
     {
       "id": 12476583,
