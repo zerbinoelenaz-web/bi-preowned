@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-08T00:12:28.407658+00:00",
+  "timestamp": "2026-09-08T05:48:32.590426+00:00",
   "count": 112,
   "listings": [
     {
@@ -188,42 +188,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20221212"
     },
     {
-      "id": 11769069,
-      "make": "MERCEDES-BENZ",
-      "model": "EQA 350",
-      "versionFullName": "EQA 350",
-      "firstRegistrationYear": 2025,
-      "mileage": 10,
-      "price": 49900.0,
-      "horsePower": 292,
-      "transmissionType": "automatic",
-      "conditionType": "new",
-      "createdDate": "2024-08-19T12:46:20.924Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/69/11769069/2097903375.jpg",
-      "imageKeys": [
-        "listing/69/11769069/2097903375.jpg",
-        "listing/69/11769069/781580764.jpg",
-        "listing/69/11769069/794519825.jpg",
-        "listing/69/11769069/598819196.jpg",
-        "listing/69/11769069/1100913909.jpg",
-        "listing/69/11769069/649129446.jpg",
-        "listing/69/11769069/1439735878.jpg",
-        "listing/69/11769069/797759867.jpg",
-        "listing/69/11769069/19301232.jpg",
-        "listing/69/11769069/772248962.jpg",
-        "listing/69/11769069/1308822209.jpg",
-        "listing/69/11769069/222850897.jpg",
-        "listing/69/11769069/869884764.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/11769069"
-    },
-    {
       "id": 20529437,
       "make": "PUCH",
       "model": "G",
@@ -264,6 +228,42 @@
         "listing/437/20529437/917917397.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20529437"
+    },
+    {
+      "id": 11769069,
+      "make": "MERCEDES-BENZ",
+      "model": "EQA 350",
+      "versionFullName": "EQA 350",
+      "firstRegistrationYear": 2025,
+      "mileage": 10,
+      "price": 49900.0,
+      "horsePower": 292,
+      "transmissionType": "automatic",
+      "conditionType": "new",
+      "createdDate": "2024-08-19T12:46:20.924Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/69/11769069/2097903375.jpg",
+      "imageKeys": [
+        "listing/69/11769069/2097903375.jpg",
+        "listing/69/11769069/781580764.jpg",
+        "listing/69/11769069/794519825.jpg",
+        "listing/69/11769069/598819196.jpg",
+        "listing/69/11769069/1100913909.jpg",
+        "listing/69/11769069/649129446.jpg",
+        "listing/69/11769069/1439735878.jpg",
+        "listing/69/11769069/797759867.jpg",
+        "listing/69/11769069/19301232.jpg",
+        "listing/69/11769069/772248962.jpg",
+        "listing/69/11769069/1308822209.jpg",
+        "listing/69/11769069/222850897.jpg",
+        "listing/69/11769069/869884764.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/11769069"
     },
     {
       "id": 11710822,
@@ -649,6 +649,45 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20526532"
     },
     {
+      "id": 20787071,
+      "make": "MERCEDES-BENZ",
+      "model": "CLA 220",
+      "versionFullName": "CLA 220 8G-DCT 4Matic",
+      "firstRegistrationYear": 2026,
+      "mileage": 15,
+      "price": 69900.0,
+      "horsePower": 190,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2026-09-03T12:25:05.673Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/71/20787071/1503661367.jpg",
+      "imageKeys": [
+        "listing/71/20787071/1503661367.jpg",
+        "listing/71/20787071/1320652737.jpg",
+        "listing/71/20787071/308453233.jpg",
+        "listing/71/20787071/958962420.jpg",
+        "listing/71/20787071/1166653003.jpg",
+        "listing/71/20787071/426434808.jpg",
+        "listing/71/20787071/1860918324.jpg",
+        "listing/71/20787071/52013603.jpg",
+        "listing/71/20787071/206970613.jpg",
+        "listing/71/20787071/1551308368.jpg",
+        "listing/71/20787071/543307005.jpg",
+        "listing/71/20787071/1844581908.jpg",
+        "listing/71/20787071/1055047673.jpg",
+        "listing/71/20787071/750135764.jpg",
+        "listing/71/20787071/1998403385.jpg",
+        "listing/71/20787071/1113570180.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20787071"
+    },
+    {
       "id": 12062721,
       "make": "MERCEDES-BENZ",
       "model": "SL 500",
@@ -719,45 +758,6 @@
         "listing/163/12834163/263824738.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/12834163"
-    },
-    {
-      "id": 20787071,
-      "make": "MERCEDES-BENZ",
-      "model": "CLA 220",
-      "versionFullName": "CLA 220 8G-DCT 4Matic",
-      "firstRegistrationYear": 2026,
-      "mileage": 15,
-      "price": 69900.0,
-      "horsePower": 190,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2026-09-03T12:25:05.673Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/71/20787071/1503661367.jpg",
-      "imageKeys": [
-        "listing/71/20787071/1503661367.jpg",
-        "listing/71/20787071/1320652737.jpg",
-        "listing/71/20787071/308453233.jpg",
-        "listing/71/20787071/958962420.jpg",
-        "listing/71/20787071/1166653003.jpg",
-        "listing/71/20787071/426434808.jpg",
-        "listing/71/20787071/1860918324.jpg",
-        "listing/71/20787071/52013603.jpg",
-        "listing/71/20787071/206970613.jpg",
-        "listing/71/20787071/1551308368.jpg",
-        "listing/71/20787071/543307005.jpg",
-        "listing/71/20787071/1844581908.jpg",
-        "listing/71/20787071/1055047673.jpg",
-        "listing/71/20787071/750135764.jpg",
-        "listing/71/20787071/1998403385.jpg",
-        "listing/71/20787071/1113570180.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20787071"
     },
     {
       "id": 20306429,
@@ -2317,41 +2317,43 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20389384"
     },
     {
-      "id": 20751525,
-      "make": "FERRARI",
-      "model": "599",
-      "versionFullName": "599 GTB",
-      "firstRegistrationYear": 2008,
-      "mileage": 65000,
+      "id": 20753159,
+      "make": "MASERATI",
+      "model": "GRANTURISMO",
+      "versionFullName": "GRANTURISMO FOLGORE 92kWh",
+      "firstRegistrationYear": 2024,
+      "mileage": 18500,
       "price": 129000.0,
-      "horsePower": 620,
-      "transmissionType": "manual",
+      "horsePower": 761,
+      "transmissionType": "automatic",
       "conditionType": "used",
-      "createdDate": "2026-08-28T06:50:33.928Z",
+      "createdDate": "2026-08-28T11:49:54.067Z",
       "seller": {
-        "id": 60699,
-        "name": "B.I. Collection - Ferrari Zürich",
-        "city": "Urdorf-Zürich",
-        "zipCode": "8902"
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
       },
-      "imageKey": "listing/525/20751525/1133173812.jpg",
+      "imageKey": "listing/159/20753159/1594362002.jpg",
       "imageKeys": [
-        "listing/525/20751525/1133173812.jpg",
-        "listing/525/20751525/773595024.jpg",
-        "listing/525/20751525/2005180451.jpg",
-        "listing/525/20751525/389242491.jpg",
-        "listing/525/20751525/458793977.jpg",
-        "listing/525/20751525/480218488.jpg",
-        "listing/525/20751525/1411927761.jpg",
-        "listing/525/20751525/130579369.jpg",
-        "listing/525/20751525/1830508473.jpg",
-        "listing/525/20751525/593781469.jpg",
-        "listing/525/20751525/137523589.jpg",
-        "listing/525/20751525/330422226.jpg",
-        "listing/525/20751525/858408668.jpg",
-        "listing/525/20751525/1475964546.jpg"
+        "listing/159/20753159/1594362002.jpg",
+        "listing/159/20753159/2084878230.jpg",
+        "listing/159/20753159/745765586.jpg",
+        "listing/159/20753159/1966493147.jpg",
+        "listing/159/20753159/1036100926.jpg",
+        "listing/159/20753159/529602308.jpg",
+        "listing/159/20753159/1011677810.jpg",
+        "listing/159/20753159/273506448.jpg",
+        "listing/159/20753159/1932460610.jpg",
+        "listing/159/20753159/1853210671.jpg",
+        "listing/159/20753159/684661924.jpg",
+        "listing/159/20753159/1739627254.jpg",
+        "listing/159/20753159/679989570.jpg",
+        "listing/159/20753159/1944775929.jpg",
+        "listing/159/20753159/1643154443.jpg",
+        "listing/159/20753159/1153749154.jpg"
       ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20751525"
+      "listingUrl": "https://www.autoscout24.ch/de/d/20753159"
     },
     {
       "id": 20751525,
