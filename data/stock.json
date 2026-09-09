@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-09T07:18:30.635360+00:00",
-  "count": 112,
+  "timestamp": "2026-09-09T12:54:27.937332+00:00",
+  "count": 111,
   "listings": [
     {
       "id": 12532769,
@@ -610,45 +610,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20707867"
     },
     {
-      "id": 20526532,
-      "make": "MASERATI",
-      "model": "GRANTURISMO",
-      "versionFullName": "GRANTURISMO SPORT 4.7 V8 MY16",
-      "firstRegistrationYear": 2016,
-      "mileage": 39900,
-      "price": 67900.0,
-      "horsePower": 460,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-06-05T11:22:22.003Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/532/20526532/985344943.jpg",
-      "imageKeys": [
-        "listing/532/20526532/985344943.jpg",
-        "listing/532/20526532/341682522.jpg",
-        "listing/532/20526532/1236469573.jpg",
-        "listing/532/20526532/1587645098.jpg",
-        "listing/532/20526532/214964701.jpg",
-        "listing/532/20526532/363007925.jpg",
-        "listing/532/20526532/928363617.jpg",
-        "listing/532/20526532/1390030300.jpg",
-        "listing/532/20526532/1653893787.jpg",
-        "listing/532/20526532/1904381845.jpg",
-        "listing/532/20526532/1038803135.jpg",
-        "listing/532/20526532/2146506464.jpg",
-        "listing/532/20526532/105229668.jpg",
-        "listing/532/20526532/412536866.jpg",
-        "listing/532/20526532/1602226813.jpg",
-        "listing/532/20526532/512905787.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20526532"
-    },
-    {
       "id": 12062721,
       "make": "MERCEDES-BENZ",
       "model": "SL 500",
@@ -878,6 +839,45 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/12661047"
     },
     {
+      "id": 20253754,
+      "make": "MASERATI",
+      "model": "GRECALE",
+      "versionFullName": "GRECALE 2.0 MHEV MODENA HYBRID",
+      "firstRegistrationYear": 2024,
+      "mileage": 17000,
+      "price": 72900.0,
+      "horsePower": 330,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-03-02T16:51:31.426Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/754/20253754/2024698128.jpg",
+      "imageKeys": [
+        "listing/754/20253754/2024698128.jpg",
+        "listing/754/20253754/1154719219.jpg",
+        "listing/754/20253754/921326118.jpg",
+        "listing/754/20253754/252464338.jpg",
+        "listing/754/20253754/1255646484.jpg",
+        "listing/754/20253754/1836823855.jpg",
+        "listing/754/20253754/1558504800.jpg",
+        "listing/754/20253754/1753507874.jpg",
+        "listing/754/20253754/1644394297.jpg",
+        "listing/754/20253754/1298688070.jpg",
+        "listing/754/20253754/1014841695.jpg",
+        "listing/754/20253754/25473718.jpg",
+        "listing/754/20253754/1293679548.jpg",
+        "listing/754/20253754/336948108.jpg",
+        "listing/754/20253754/1817050041.jpg",
+        "listing/754/20253754/785041207.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20253754"
+    },
+    {
       "id": 12715365,
       "make": "MASERATI",
       "model": "GRECALE",
@@ -952,45 +952,6 @@
         "listing/652/20524652/911523770.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20524652"
-    },
-    {
-      "id": 20253754,
-      "make": "MASERATI",
-      "model": "GRECALE",
-      "versionFullName": "GRECALE 2.0 MHEV MODENA HYBRID",
-      "firstRegistrationYear": 2024,
-      "mileage": 16500,
-      "price": 74900.0,
-      "horsePower": 330,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-03-02T16:51:31.426Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/754/20253754/2024698128.jpg",
-      "imageKeys": [
-        "listing/754/20253754/2024698128.jpg",
-        "listing/754/20253754/1154719219.jpg",
-        "listing/754/20253754/921326118.jpg",
-        "listing/754/20253754/252464338.jpg",
-        "listing/754/20253754/1255646484.jpg",
-        "listing/754/20253754/1836823855.jpg",
-        "listing/754/20253754/1558504800.jpg",
-        "listing/754/20253754/1753507874.jpg",
-        "listing/754/20253754/1644394297.jpg",
-        "listing/754/20253754/1298688070.jpg",
-        "listing/754/20253754/1014841695.jpg",
-        "listing/754/20253754/25473718.jpg",
-        "listing/754/20253754/1293679548.jpg",
-        "listing/754/20253754/336948108.jpg",
-        "listing/754/20253754/1817050041.jpg",
-        "listing/754/20253754/785041207.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20253754"
     },
     {
       "id": 20152911,
@@ -1693,6 +1654,45 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20242496"
     },
     {
+      "id": 20324330,
+      "make": "MASERATI",
+      "model": "GRECALE",
+      "versionFullName": "GRECALE 2.0 MHEV MODENA ROSE GOLD FUORISERIE",
+      "firstRegistrationYear": 2026,
+      "mileage": 5000,
+      "price": 99900.0,
+      "horsePower": 330,
+      "transmissionType": "automatic",
+      "conditionType": "demonstration",
+      "createdDate": "2026-03-26T08:14:57.156Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/330/20324330/975777255.jpg",
+      "imageKeys": [
+        "listing/330/20324330/975777255.jpg",
+        "listing/330/20324330/801274145.jpg",
+        "listing/330/20324330/308440410.jpg",
+        "listing/330/20324330/1444824043.jpg",
+        "listing/330/20324330/866423983.jpg",
+        "listing/330/20324330/1008721526.jpg",
+        "listing/330/20324330/567664765.jpg",
+        "listing/330/20324330/1675777336.jpg",
+        "listing/330/20324330/1615274567.jpg",
+        "listing/330/20324330/97494068.jpg",
+        "listing/330/20324330/614215321.jpg",
+        "listing/330/20324330/419419104.jpg",
+        "listing/330/20324330/2015032878.jpg",
+        "listing/330/20324330/1981323909.jpg",
+        "listing/330/20324330/122329227.jpg",
+        "listing/330/20324330/229140908.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20324330"
+    },
+    {
       "id": 20666412,
       "make": "PORSCHE",
       "model": "TAYCAN",
@@ -1775,45 +1775,6 @@
         "listing/960/20265960/254821311.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20265960"
-    },
-    {
-      "id": 20324330,
-      "make": "MASERATI",
-      "model": "GRECALE",
-      "versionFullName": "GRECALE 2.0 MHEV MODENA ROSE GOLD FUORISERIE",
-      "firstRegistrationYear": 2026,
-      "mileage": 5000,
-      "price": 103900.0,
-      "horsePower": 330,
-      "transmissionType": "automatic",
-      "conditionType": "demonstration",
-      "createdDate": "2026-03-26T08:14:57.156Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/330/20324330/975777255.jpg",
-      "imageKeys": [
-        "listing/330/20324330/975777255.jpg",
-        "listing/330/20324330/801274145.jpg",
-        "listing/330/20324330/308440410.jpg",
-        "listing/330/20324330/1444824043.jpg",
-        "listing/330/20324330/866423983.jpg",
-        "listing/330/20324330/1008721526.jpg",
-        "listing/330/20324330/567664765.jpg",
-        "listing/330/20324330/1675777336.jpg",
-        "listing/330/20324330/1615274567.jpg",
-        "listing/330/20324330/97494068.jpg",
-        "listing/330/20324330/614215321.jpg",
-        "listing/330/20324330/419419104.jpg",
-        "listing/330/20324330/2015032878.jpg",
-        "listing/330/20324330/1981323909.jpg",
-        "listing/330/20324330/122329227.jpg",
-        "listing/330/20324330/229140908.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20324330"
     },
     {
       "id": 20242981,
