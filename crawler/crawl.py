@@ -15,7 +15,7 @@ import urllib.request
 from datetime import datetime, timezone
 
 API_URL = "https://api.autoscout24.ch/v1/listings/search?language=en"
-SELLER_IDS = [60699, 105, 60812, 2304422]
+SELLER_IDS = [60699, 105, 60812, 2304422, 60726]
 PAGE_SIZE = 20
 SLEEP_SECONDS = 4
 MAX_RETRIES = 3
