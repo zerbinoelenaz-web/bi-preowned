@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-10T14:15:13.505977+00:00",
+  "timestamp": "2026-09-10T18:17:11.222762+00:00",
   "count": 114,
   "listings": [
     {
@@ -224,6 +224,41 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20221212"
     },
     {
+      "id": 20543800,
+      "make": "AUDI",
+      "model": "TT",
+      "versionFullName": "TT RS ROADSTER 2.5 TFSI QUATTRO S",
+      "firstRegistrationYear": 2018,
+      "mileage": 21500,
+      "price": 49900.0,
+      "horsePower": 400,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2026-06-11T11:05:02.677Z",
+      "seller": {
+        "id": 60726,
+        "name": "B.I. Concierge Basel AG",
+        "city": "Basel",
+        "zipCode": "4058"
+      },
+      "imageKey": "listing/800/20543800/1890433822.jpg",
+      "imageKeys": [
+        "listing/800/20543800/1890433822.jpg",
+        "listing/800/20543800/1292949601.jpg",
+        "listing/800/20543800/401408987.jpg",
+        "listing/800/20543800/304176808.jpg",
+        "listing/800/20543800/1498767966.jpg",
+        "listing/800/20543800/1507852035.jpg",
+        "listing/800/20543800/544514514.jpg",
+        "listing/800/20543800/326108467.jpg",
+        "listing/800/20543800/279472133.jpg",
+        "listing/800/20543800/283379943.jpg",
+        "listing/800/20543800/1196798027.jpg",
+        "listing/800/20543800/616545867.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20543800"
+    },
+    {
       "id": 20529437,
       "make": "PUCH",
       "model": "G",
@@ -264,41 +299,6 @@
         "listing/437/20529437/917917397.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20529437"
-    },
-    {
-      "id": 20543800,
-      "make": "AUDI",
-      "model": "TT",
-      "versionFullName": "TT RS ROADSTER 2.5 TFSI QUATTRO S",
-      "firstRegistrationYear": 2018,
-      "mileage": 21500,
-      "price": 49900.0,
-      "horsePower": 400,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2026-06-11T11:05:02.677Z",
-      "seller": {
-        "id": 60726,
-        "name": "B.I. Concierge Basel AG",
-        "city": "Basel",
-        "zipCode": "4058"
-      },
-      "imageKey": "listing/800/20543800/1890433822.jpg",
-      "imageKeys": [
-        "listing/800/20543800/1890433822.jpg",
-        "listing/800/20543800/1292949601.jpg",
-        "listing/800/20543800/401408987.jpg",
-        "listing/800/20543800/304176808.jpg",
-        "listing/800/20543800/1498767966.jpg",
-        "listing/800/20543800/1507852035.jpg",
-        "listing/800/20543800/544514514.jpg",
-        "listing/800/20543800/326108467.jpg",
-        "listing/800/20543800/279472133.jpg",
-        "listing/800/20543800/283379943.jpg",
-        "listing/800/20543800/1196798027.jpg",
-        "listing/800/20543800/616545867.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20543800"
     },
     {
       "id": 11769069,
@@ -1689,6 +1689,54 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/12902839"
     },
     {
+      "id": 20362599,
+      "make": "ASTON MARTIN",
+      "model": "DBX",
+      "versionFullName": "DBX 4.0 V8",
+      "firstRegistrationYear": 2021,
+      "mileage": 49600,
+      "price": 98500.0,
+      "horsePower": 551,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-04-09T16:35:02.083Z",
+      "seller": {
+        "id": 2304422,
+        "name": "B.I. Collection SG AG",
+        "city": "Niederwil SG",
+        "zipCode": "9203"
+      },
+      "imageKey": "listing/599/20362599/1425713453.jpg",
+      "imageKeys": [
+        "listing/599/20362599/1425713453.jpg",
+        "listing/599/20362599/1444904251.jpg",
+        "listing/599/20362599/943970856.JPG",
+        "listing/599/20362599/1857063917.jpg",
+        "listing/599/20362599/395308375.jpg",
+        "listing/599/20362599/1756895715.jpg",
+        "listing/599/20362599/1147632583.jpg",
+        "listing/599/20362599/695138367.jpg",
+        "listing/599/20362599/1710214537.jpg",
+        "listing/599/20362599/1063981665.jpg",
+        "listing/599/20362599/49552842.jpg",
+        "listing/599/20362599/1586477458.jpg",
+        "listing/599/20362599/1829954188.jpg",
+        "listing/599/20362599/612138574.jpg",
+        "listing/599/20362599/776983640.jpg",
+        "listing/599/20362599/226442857.jpg",
+        "listing/599/20362599/58018135.jpg",
+        "listing/599/20362599/280258138.jpg",
+        "listing/599/20362599/1539872505.jpg",
+        "listing/599/20362599/774753135.jpg",
+        "listing/599/20362599/305479839.jpg",
+        "listing/599/20362599/1183555501.jpg",
+        "listing/599/20362599/2077623015.jpg",
+        "listing/599/20362599/807148956.jpg",
+        "listing/599/20362599/864726434.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20362599"
+    },
+    {
       "id": 20242496,
       "make": "BMW",
       "model": "XM",
@@ -2061,54 +2109,6 @@
         "listing/672/11548672/1728059503.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/11548672"
-    },
-    {
-      "id": 20362599,
-      "make": "ASTON MARTIN",
-      "model": "DBX",
-      "versionFullName": "DBX 4.0 V8",
-      "firstRegistrationYear": 2021,
-      "mileage": 49600,
-      "price": 109707.0,
-      "horsePower": 551,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-04-09T16:35:02.083Z",
-      "seller": {
-        "id": 2304422,
-        "name": "B.I. Collection SG AG",
-        "city": "Niederwil SG",
-        "zipCode": "9203"
-      },
-      "imageKey": "listing/599/20362599/1425713453.jpg",
-      "imageKeys": [
-        "listing/599/20362599/1425713453.jpg",
-        "listing/599/20362599/1444904251.jpg",
-        "listing/599/20362599/943970856.JPG",
-        "listing/599/20362599/1857063917.jpg",
-        "listing/599/20362599/395308375.jpg",
-        "listing/599/20362599/1756895715.jpg",
-        "listing/599/20362599/1147632583.jpg",
-        "listing/599/20362599/695138367.jpg",
-        "listing/599/20362599/1710214537.jpg",
-        "listing/599/20362599/1063981665.jpg",
-        "listing/599/20362599/49552842.jpg",
-        "listing/599/20362599/1586477458.jpg",
-        "listing/599/20362599/1829954188.jpg",
-        "listing/599/20362599/612138574.jpg",
-        "listing/599/20362599/776983640.jpg",
-        "listing/599/20362599/226442857.jpg",
-        "listing/599/20362599/58018135.jpg",
-        "listing/599/20362599/280258138.jpg",
-        "listing/599/20362599/1539872505.jpg",
-        "listing/599/20362599/774753135.jpg",
-        "listing/599/20362599/305479839.jpg",
-        "listing/599/20362599/1183555501.jpg",
-        "listing/599/20362599/2077623015.jpg",
-        "listing/599/20362599/807148956.jpg",
-        "listing/599/20362599/864726434.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20362599"
     },
     {
       "id": 20215683,
