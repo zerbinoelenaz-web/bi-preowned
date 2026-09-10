@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-10T18:17:11.222762+00:00",
+  "timestamp": "2026-09-10T21:32:28.110644+00:00",
   "count": 114,
   "listings": [
     {
@@ -113,41 +113,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20564228"
     },
     {
-      "id": 11168520,
-      "make": "MERCEDES-BENZ",
-      "model": "C 200",
-      "versionFullName": "C 200 T 4Matic All-Terain Avantgarde",
-      "firstRegistrationYear": 2023,
-      "mileage": 45000,
-      "price": 39900.0,
-      "horsePower": 204,
-      "transmissionType": "automatic",
-      "conditionType": "demonstration",
-      "createdDate": "2024-01-15T13:00:30.355Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/520/11168520/419939672.jpg",
-      "imageKeys": [
-        "listing/520/11168520/419939672.jpg",
-        "listing/520/11168520/444776773.jpg",
-        "listing/520/11168520/703390047.jpg",
-        "listing/520/11168520/1518330430.jpg",
-        "listing/520/11168520/1264170022.jpg",
-        "listing/520/11168520/1780177685.jpg",
-        "listing/520/11168520/61040805.jpg",
-        "listing/520/11168520/1550221211.jpg",
-        "listing/520/11168520/1379218474.jpg",
-        "listing/520/11168520/452117249.jpg",
-        "listing/520/11168520/1550606374.jpg",
-        "listing/520/11168520/958807069.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/11168520"
-    },
-    {
       "id": 20090535,
       "make": "MASERATI",
       "model": "LEVANTE",
@@ -185,6 +150,41 @@
         "listing/535/20090535/2099387855.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20090535"
+    },
+    {
+      "id": 11168520,
+      "make": "MERCEDES-BENZ",
+      "model": "C 200",
+      "versionFullName": "C 200 T 4Matic All-Terain Avantgarde",
+      "firstRegistrationYear": 2023,
+      "mileage": 45000,
+      "price": 39900.0,
+      "horsePower": 204,
+      "transmissionType": "automatic",
+      "conditionType": "demonstration",
+      "createdDate": "2024-01-15T13:00:30.355Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/520/11168520/419939672.jpg",
+      "imageKeys": [
+        "listing/520/11168520/419939672.jpg",
+        "listing/520/11168520/444776773.jpg",
+        "listing/520/11168520/703390047.jpg",
+        "listing/520/11168520/1518330430.jpg",
+        "listing/520/11168520/1264170022.jpg",
+        "listing/520/11168520/1780177685.jpg",
+        "listing/520/11168520/61040805.jpg",
+        "listing/520/11168520/1550221211.jpg",
+        "listing/520/11168520/1379218474.jpg",
+        "listing/520/11168520/452117249.jpg",
+        "listing/520/11168520/1550606374.jpg",
+        "listing/520/11168520/958807069.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/11168520"
     },
     {
       "id": 20221212,
@@ -755,6 +755,43 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20306429"
     },
     {
+      "id": 12834163,
+      "make": "MERCEDES-BENZ",
+      "model": "CLA 350",
+      "versionFullName": "CLA 350 EQ Technology 4Matic",
+      "firstRegistrationYear": 2025,
+      "mileage": 25,
+      "price": 69900.0,
+      "horsePower": 354,
+      "transmissionType": "automatic",
+      "conditionType": "new",
+      "createdDate": "2025-10-14T07:05:58.281Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/163/12834163/1237663876.jpg",
+      "imageKeys": [
+        "listing/163/12834163/1237663876.jpg",
+        "listing/163/12834163/941504025.jpg",
+        "listing/163/12834163/150155191.jpg",
+        "listing/163/12834163/38813885.jpg",
+        "listing/163/12834163/349307658.jpg",
+        "listing/163/12834163/677596278.jpg",
+        "listing/163/12834163/651383223.jpg",
+        "listing/163/12834163/2122134210.jpg",
+        "listing/163/12834163/594732816.jpg",
+        "listing/163/12834163/648824765.jpg",
+        "listing/163/12834163/1195720897.jpg",
+        "listing/163/12834163/898279883.jpg",
+        "listing/163/12834163/919165313.jpg",
+        "listing/163/12834163/263824738.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/12834163"
+    },
+    {
       "id": 20787071,
       "make": "MERCEDES-BENZ",
       "model": "CLA 220",
@@ -792,43 +829,6 @@
         "listing/71/20787071/1113570180.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20787071"
-    },
-    {
-      "id": 12834163,
-      "make": "MERCEDES-BENZ",
-      "model": "CLA 350",
-      "versionFullName": "CLA 350 EQ Technology 4Matic",
-      "firstRegistrationYear": 2025,
-      "mileage": 25,
-      "price": 69900.0,
-      "horsePower": 354,
-      "transmissionType": "automatic",
-      "conditionType": "new",
-      "createdDate": "2025-10-14T07:05:58.281Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/163/12834163/1237663876.jpg",
-      "imageKeys": [
-        "listing/163/12834163/1237663876.jpg",
-        "listing/163/12834163/941504025.jpg",
-        "listing/163/12834163/150155191.jpg",
-        "listing/163/12834163/38813885.jpg",
-        "listing/163/12834163/349307658.jpg",
-        "listing/163/12834163/677596278.jpg",
-        "listing/163/12834163/651383223.jpg",
-        "listing/163/12834163/2122134210.jpg",
-        "listing/163/12834163/594732816.jpg",
-        "listing/163/12834163/648824765.jpg",
-        "listing/163/12834163/1195720897.jpg",
-        "listing/163/12834163/898279883.jpg",
-        "listing/163/12834163/919165313.jpg",
-        "listing/163/12834163/263824738.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/12834163"
     },
     {
       "id": 20665409,
@@ -949,44 +949,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20253754"
     },
     {
-      "id": 12715365,
-      "make": "MASERATI",
-      "model": "GRECALE",
-      "versionFullName": "GRECALE 2.0 MHEV MODENA HYBRID",
-      "firstRegistrationYear": 2024,
-      "mileage": 26000,
-      "price": 74900.0,
-      "horsePower": 330,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2025-08-29T08:40:53.628Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/365/12715365/1387840166.jpg",
-      "imageKeys": [
-        "listing/365/12715365/1387840166.jpg",
-        "listing/365/12715365/488267308.jpg",
-        "listing/365/12715365/582361407.jpg",
-        "listing/365/12715365/32770939.jpg",
-        "listing/365/12715365/1083494060.jpg",
-        "listing/365/12715365/1991888284.jpg",
-        "listing/365/12715365/1296218083.jpg",
-        "listing/365/12715365/1638666922.jpg",
-        "listing/365/12715365/668488296.jpg",
-        "listing/365/12715365/1322447799.jpg",
-        "listing/365/12715365/570978465.jpg",
-        "listing/365/12715365/723630535.jpg",
-        "listing/365/12715365/293980206.jpg",
-        "listing/365/12715365/1015383482.jpg",
-        "listing/365/12715365/332335704.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/12715365"
-    },
-    {
       "id": 20524652,
       "make": "MASERATI",
       "model": "GRECALE",
@@ -1023,6 +985,44 @@
         "listing/652/20524652/911523770.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20524652"
+    },
+    {
+      "id": 12715365,
+      "make": "MASERATI",
+      "model": "GRECALE",
+      "versionFullName": "GRECALE 2.0 MHEV MODENA HYBRID",
+      "firstRegistrationYear": 2024,
+      "mileage": 26000,
+      "price": 74900.0,
+      "horsePower": 330,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2025-08-29T08:40:53.628Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/365/12715365/1387840166.jpg",
+      "imageKeys": [
+        "listing/365/12715365/1387840166.jpg",
+        "listing/365/12715365/488267308.jpg",
+        "listing/365/12715365/582361407.jpg",
+        "listing/365/12715365/32770939.jpg",
+        "listing/365/12715365/1083494060.jpg",
+        "listing/365/12715365/1991888284.jpg",
+        "listing/365/12715365/1296218083.jpg",
+        "listing/365/12715365/1638666922.jpg",
+        "listing/365/12715365/668488296.jpg",
+        "listing/365/12715365/1322447799.jpg",
+        "listing/365/12715365/570978465.jpg",
+        "listing/365/12715365/723630535.jpg",
+        "listing/365/12715365/293980206.jpg",
+        "listing/365/12715365/1015383482.jpg",
+        "listing/365/12715365/332335704.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/12715365"
     },
     {
       "id": 20152911,
@@ -1503,41 +1503,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20492852"
     },
     {
-      "id": 10722283,
-      "make": "MERCEDES-BENZ",
-      "model": "GLC 200",
-      "versionFullName": "GLC Coupé 200 4Matic 9G-Tronic",
-      "firstRegistrationYear": 2024,
-      "mileage": 20000,
-      "price": 89900.0,
-      "horsePower": 204,
-      "transmissionType": "automatic",
-      "conditionType": "new",
-      "createdDate": "2023-07-24T14:26:41.555Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/283/10722283/1506006630.jpg",
-      "imageKeys": [
-        "listing/283/10722283/1506006630.jpg",
-        "listing/283/10722283/1468901937.jpg",
-        "listing/283/10722283/1310166292.jpg",
-        "listing/283/10722283/1977223292.jpg",
-        "listing/283/10722283/509858897.jpg",
-        "listing/283/10722283/1561683012.jpg",
-        "listing/283/10722283/1787802081.jpg",
-        "listing/283/10722283/1683874687.jpg",
-        "listing/283/10722283/907543295.jpg",
-        "listing/283/10722283/270347510.jpg",
-        "listing/283/10722283/1390072230.jpg",
-        "listing/283/10722283/1024095097.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/10722283"
-    },
-    {
       "id": 20633758,
       "make": "MASERATI",
       "model": "GRANTURISMO",
@@ -1651,6 +1616,41 @@
         "listing/110/20779110/398195834.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20779110"
+    },
+    {
+      "id": 10722283,
+      "make": "MERCEDES-BENZ",
+      "model": "GLC 200",
+      "versionFullName": "GLC Coupé 200 4Matic 9G-Tronic",
+      "firstRegistrationYear": 2024,
+      "mileage": 20000,
+      "price": 89900.0,
+      "horsePower": 204,
+      "transmissionType": "automatic",
+      "conditionType": "new",
+      "createdDate": "2023-07-24T14:26:41.555Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/283/10722283/1506006630.jpg",
+      "imageKeys": [
+        "listing/283/10722283/1506006630.jpg",
+        "listing/283/10722283/1468901937.jpg",
+        "listing/283/10722283/1310166292.jpg",
+        "listing/283/10722283/1977223292.jpg",
+        "listing/283/10722283/509858897.jpg",
+        "listing/283/10722283/1561683012.jpg",
+        "listing/283/10722283/1787802081.jpg",
+        "listing/283/10722283/1683874687.jpg",
+        "listing/283/10722283/907543295.jpg",
+        "listing/283/10722283/270347510.jpg",
+        "listing/283/10722283/1390072230.jpg",
+        "listing/283/10722283/1024095097.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/10722283"
     },
     {
       "id": 12902839,
@@ -3655,6 +3655,45 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20179545"
     },
     {
+      "id": 20078795,
+      "make": "FERRARI",
+      "model": "Roma",
+      "versionFullName": "Roma 3.9 V8 T \"Tailor Made\"",
+      "firstRegistrationYear": 2025,
+      "mileage": 950,
+      "price": 279000.0,
+      "horsePower": 620,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2025-12-18T12:28:49.537Z",
+      "seller": {
+        "id": 60699,
+        "name": "B.I. Collection - Ferrari Zürich",
+        "city": "Urdorf-Zürich",
+        "zipCode": "8902"
+      },
+      "imageKey": "listing/795/20078795/670812572.jpg",
+      "imageKeys": [
+        "listing/795/20078795/670812572.jpg",
+        "listing/795/20078795/7474206.jpg",
+        "listing/795/20078795/170052584.jpg",
+        "listing/795/20078795/515897545.jpg",
+        "listing/795/20078795/1682201526.jpg",
+        "listing/795/20078795/2144332255.jpg",
+        "listing/795/20078795/841647747.jpg",
+        "listing/795/20078795/1220505925.jpg",
+        "listing/795/20078795/1084149365.jpg",
+        "listing/795/20078795/1207286229.jpg",
+        "listing/795/20078795/1256386038.jpg",
+        "listing/795/20078795/116341589.jpg",
+        "listing/795/20078795/1048259461.jpg",
+        "listing/795/20078795/1421786355.jpg",
+        "listing/795/20078795/1651464322.jpg",
+        "listing/795/20078795/962367825.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20078795"
+    },
+    {
       "id": 9894329,
       "make": "FERRARI",
       "model": "575M",
@@ -3700,45 +3739,6 @@
         "listing/329/9894329/349902009.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/9894329"
-    },
-    {
-      "id": 20078795,
-      "make": "FERRARI",
-      "model": "Roma",
-      "versionFullName": "Roma 3.9 V8 T \"Tailor Made\"",
-      "firstRegistrationYear": 2025,
-      "mileage": 950,
-      "price": 279000.0,
-      "horsePower": 620,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2025-12-18T12:28:49.537Z",
-      "seller": {
-        "id": 60699,
-        "name": "B.I. Collection - Ferrari Zürich",
-        "city": "Urdorf-Zürich",
-        "zipCode": "8902"
-      },
-      "imageKey": "listing/795/20078795/670812572.jpg",
-      "imageKeys": [
-        "listing/795/20078795/670812572.jpg",
-        "listing/795/20078795/7474206.jpg",
-        "listing/795/20078795/170052584.jpg",
-        "listing/795/20078795/515897545.jpg",
-        "listing/795/20078795/1682201526.jpg",
-        "listing/795/20078795/2144332255.jpg",
-        "listing/795/20078795/841647747.jpg",
-        "listing/795/20078795/1220505925.jpg",
-        "listing/795/20078795/1084149365.jpg",
-        "listing/795/20078795/1207286229.jpg",
-        "listing/795/20078795/1256386038.jpg",
-        "listing/795/20078795/116341589.jpg",
-        "listing/795/20078795/1048259461.jpg",
-        "listing/795/20078795/1421786355.jpg",
-        "listing/795/20078795/1651464322.jpg",
-        "listing/795/20078795/962367825.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20078795"
     },
     {
       "id": 20258583,
