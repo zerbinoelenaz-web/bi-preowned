@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-10T04:21:40.098298+00:00",
+  "timestamp": "2026-09-10T09:33:37.207454+00:00",
   "count": 112,
   "listings": [
     {
@@ -1992,49 +1992,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/11548672"
     },
     {
-      "id": 20720793,
-      "make": "ASTON MARTIN",
-      "model": "V8 Vantage",
-      "versionFullName": "V8 Vantage 4.0 Coupé",
-      "firstRegistrationYear": 2018,
-      "mileage": 43700,
-      "price": 109007.0,
-      "horsePower": 510,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-08-19T14:50:11.74Z",
-      "seller": {
-        "id": 2304422,
-        "name": "B.I. Collection SG AG",
-        "city": "Niederwil SG",
-        "zipCode": "9203"
-      },
-      "imageKey": "listing/793/20720793/100009460.JPG",
-      "imageKeys": [
-        "listing/793/20720793/100009460.JPG",
-        "listing/793/20720793/1173735468.JPG",
-        "listing/793/20720793/1153886980.JPG",
-        "listing/793/20720793/328490815.JPG",
-        "listing/793/20720793/729964824.JPG",
-        "listing/793/20720793/2017692004.JPG",
-        "listing/793/20720793/845409232.JPG",
-        "listing/793/20720793/895563150.JPG",
-        "listing/793/20720793/1464187049.JPG",
-        "listing/793/20720793/982220732.JPG",
-        "listing/793/20720793/72606279.JPG",
-        "listing/793/20720793/1059752021.JPG",
-        "listing/793/20720793/628258039.JPG",
-        "listing/793/20720793/1967312752.JPG",
-        "listing/793/20720793/78955716.JPG",
-        "listing/793/20720793/1082819229.JPG",
-        "listing/793/20720793/1133930731.JPG",
-        "listing/793/20720793/1441555938.JPG",
-        "listing/793/20720793/966116055.JPG",
-        "listing/793/20720793/912394316.JPG"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20720793"
-    },
-    {
       "id": 20362599,
       "make": "ASTON MARTIN",
       "model": "DBX",
@@ -2277,43 +2234,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20389384"
     },
     {
-      "id": 20751525,
-      "make": "FERRARI",
-      "model": "599",
-      "versionFullName": "599 GTB",
-      "firstRegistrationYear": 2008,
-      "mileage": 65000,
-      "price": 129000.0,
-      "horsePower": 620,
-      "transmissionType": "manual",
-      "conditionType": "used",
-      "createdDate": "2026-08-28T06:50:33.928Z",
-      "seller": {
-        "id": 60699,
-        "name": "B.I. Collection - Ferrari Zürich",
-        "city": "Urdorf-Zürich",
-        "zipCode": "8902"
-      },
-      "imageKey": "listing/525/20751525/1133173812.jpg",
-      "imageKeys": [
-        "listing/525/20751525/1133173812.jpg",
-        "listing/525/20751525/773595024.jpg",
-        "listing/525/20751525/2005180451.jpg",
-        "listing/525/20751525/389242491.jpg",
-        "listing/525/20751525/458793977.jpg",
-        "listing/525/20751525/480218488.jpg",
-        "listing/525/20751525/1411927761.jpg",
-        "listing/525/20751525/130579369.jpg",
-        "listing/525/20751525/1830508473.jpg",
-        "listing/525/20751525/593781469.jpg",
-        "listing/525/20751525/137523589.jpg",
-        "listing/525/20751525/330422226.jpg",
-        "listing/525/20751525/858408668.jpg",
-        "listing/525/20751525/1475964546.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20751525"
-    },
-    {
       "id": 20753159,
       "make": "MASERATI",
       "model": "GRANTURISMO",
@@ -2351,6 +2271,43 @@
         "listing/159/20753159/1153749154.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20753159"
+    },
+    {
+      "id": 20751525,
+      "make": "FERRARI",
+      "model": "599",
+      "versionFullName": "599 GTB",
+      "firstRegistrationYear": 2008,
+      "mileage": 65000,
+      "price": 129000.0,
+      "horsePower": 620,
+      "transmissionType": "manual",
+      "conditionType": "used",
+      "createdDate": "2026-08-28T06:50:33.928Z",
+      "seller": {
+        "id": 60699,
+        "name": "B.I. Collection - Ferrari Zürich",
+        "city": "Urdorf-Zürich",
+        "zipCode": "8902"
+      },
+      "imageKey": "listing/525/20751525/1133173812.jpg",
+      "imageKeys": [
+        "listing/525/20751525/1133173812.jpg",
+        "listing/525/20751525/773595024.jpg",
+        "listing/525/20751525/2005180451.jpg",
+        "listing/525/20751525/389242491.jpg",
+        "listing/525/20751525/458793977.jpg",
+        "listing/525/20751525/480218488.jpg",
+        "listing/525/20751525/1411927761.jpg",
+        "listing/525/20751525/130579369.jpg",
+        "listing/525/20751525/1830508473.jpg",
+        "listing/525/20751525/593781469.jpg",
+        "listing/525/20751525/137523589.jpg",
+        "listing/525/20751525/330422226.jpg",
+        "listing/525/20751525/858408668.jpg",
+        "listing/525/20751525/1475964546.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20751525"
     },
     {
       "id": 20566024,
@@ -2704,10 +2661,48 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20162412"
     },
     {
+      "id": 20809440,
+      "make": "FERRARI",
+      "model": "Roma",
+      "versionFullName": "Roma 3.9 V8 T Sehr gepflegt edle Konfiguration",
+      "firstRegistrationYear": 2021,
+      "mileage": 12000,
+      "price": 178000.0,
+      "horsePower": null,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-09-10T06:38:39.484Z",
+      "seller": {
+        "id": 60699,
+        "name": "B.I. Collection - Ferrari Zürich",
+        "city": "Urdorf-Zürich",
+        "zipCode": "8902"
+      },
+      "imageKey": "listing/440/20809440/1242167576.jpg",
+      "imageKeys": [
+        "listing/440/20809440/1242167576.jpg",
+        "listing/440/20809440/1333144710.jpg",
+        "listing/440/20809440/942202280.jpg",
+        "listing/440/20809440/1059181681.jpg",
+        "listing/440/20809440/2088043261.jpg",
+        "listing/440/20809440/1323453910.jpg",
+        "listing/440/20809440/2117406844.jpg",
+        "listing/440/20809440/1116788673.jpg",
+        "listing/440/20809440/1443895582.jpg",
+        "listing/440/20809440/131988495.jpg",
+        "listing/440/20809440/15060193.jpg",
+        "listing/440/20809440/876940527.jpg",
+        "listing/440/20809440/14359345.jpg",
+        "listing/440/20809440/142429780.jpg",
+        "listing/440/20809440/1542957072.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20809440"
+    },
+    {
       "id": 11491790,
       "make": "FERRARI",
       "model": "Roma",
-      "versionFullName": "Roma 3.9 V8 T Standort Wallisellen",
+      "versionFullName": "Roma 3.9 V8 T Standort Apple CarPlay",
       "firstRegistrationYear": 2021,
       "mileage": 7700,
       "price": 179000.0,
