@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-11T21:39:31.436051+00:00",
+  "timestamp": "2026-09-12T00:05:03.504028+00:00",
   "count": 112,
   "listings": [
     {
@@ -224,41 +224,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20221212"
     },
     {
-      "id": 20543800,
-      "make": "AUDI",
-      "model": "TT",
-      "versionFullName": "TT RS ROADSTER 2.5 TFSI QUATTRO S",
-      "firstRegistrationYear": 2018,
-      "mileage": 21500,
-      "price": 49900.0,
-      "horsePower": 400,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2026-06-11T11:05:02.677Z",
-      "seller": {
-        "id": 60726,
-        "name": "B.I. Concierge Basel AG",
-        "city": "Basel",
-        "zipCode": "4058"
-      },
-      "imageKey": "listing/800/20543800/1890433822.jpg",
-      "imageKeys": [
-        "listing/800/20543800/1890433822.jpg",
-        "listing/800/20543800/1292949601.jpg",
-        "listing/800/20543800/401408987.jpg",
-        "listing/800/20543800/304176808.jpg",
-        "listing/800/20543800/1498767966.jpg",
-        "listing/800/20543800/1507852035.jpg",
-        "listing/800/20543800/544514514.jpg",
-        "listing/800/20543800/326108467.jpg",
-        "listing/800/20543800/279472133.jpg",
-        "listing/800/20543800/283379943.jpg",
-        "listing/800/20543800/1196798027.jpg",
-        "listing/800/20543800/616545867.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20543800"
-    },
-    {
       "id": 20529437,
       "make": "PUCH",
       "model": "G",
@@ -299,6 +264,41 @@
         "listing/437/20529437/917917397.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20529437"
+    },
+    {
+      "id": 20543800,
+      "make": "AUDI",
+      "model": "TT",
+      "versionFullName": "TT RS ROADSTER 2.5 TFSI QUATTRO S",
+      "firstRegistrationYear": 2018,
+      "mileage": 21500,
+      "price": 49900.0,
+      "horsePower": 400,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2026-06-11T11:05:02.677Z",
+      "seller": {
+        "id": 60726,
+        "name": "B.I. Concierge Basel AG",
+        "city": "Basel",
+        "zipCode": "4058"
+      },
+      "imageKey": "listing/800/20543800/1890433822.jpg",
+      "imageKeys": [
+        "listing/800/20543800/1890433822.jpg",
+        "listing/800/20543800/1292949601.jpg",
+        "listing/800/20543800/401408987.jpg",
+        "listing/800/20543800/304176808.jpg",
+        "listing/800/20543800/1498767966.jpg",
+        "listing/800/20543800/1507852035.jpg",
+        "listing/800/20543800/544514514.jpg",
+        "listing/800/20543800/326108467.jpg",
+        "listing/800/20543800/279472133.jpg",
+        "listing/800/20543800/283379943.jpg",
+        "listing/800/20543800/1196798027.jpg",
+        "listing/800/20543800/616545867.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20543800"
     },
     {
       "id": 11769069,
@@ -871,45 +871,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20665409"
     },
     {
-      "id": 12661047,
-      "make": "MASERATI",
-      "model": "GRECALE",
-      "versionFullName": "GRECALE 2.0 MHEV MODENA HYBRID",
-      "firstRegistrationYear": 2024,
-      "mileage": 31000,
-      "price": 72900.0,
-      "horsePower": 330,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2025-08-07T09:17:58.161Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/47/12661047/800645559.jpg",
-      "imageKeys": [
-        "listing/47/12661047/800645559.jpg",
-        "listing/47/12661047/1243804879.jpg",
-        "listing/47/12661047/1909782638.jpg",
-        "listing/47/12661047/349389267.jpg",
-        "listing/47/12661047/1928359006.jpg",
-        "listing/47/12661047/21059009.jpg",
-        "listing/47/12661047/1069140796.jpg",
-        "listing/47/12661047/2092435711.jpg",
-        "listing/47/12661047/1387360039.jpg",
-        "listing/47/12661047/781433112.jpg",
-        "listing/47/12661047/722646548.jpg",
-        "listing/47/12661047/1441105114.jpg",
-        "listing/47/12661047/1288090976.jpg",
-        "listing/47/12661047/1850496184.jpg",
-        "listing/47/12661047/1692766782.jpg",
-        "listing/47/12661047/1323893043.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/12661047"
-    },
-    {
       "id": 20253754,
       "make": "MASERATI",
       "model": "GRECALE",
@@ -947,6 +908,45 @@
         "listing/754/20253754/785041207.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20253754"
+    },
+    {
+      "id": 12661047,
+      "make": "MASERATI",
+      "model": "GRECALE",
+      "versionFullName": "GRECALE 2.0 MHEV MODENA HYBRID",
+      "firstRegistrationYear": 2024,
+      "mileage": 31000,
+      "price": 72900.0,
+      "horsePower": 330,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2025-08-07T09:17:58.161Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/47/12661047/800645559.jpg",
+      "imageKeys": [
+        "listing/47/12661047/800645559.jpg",
+        "listing/47/12661047/1243804879.jpg",
+        "listing/47/12661047/1909782638.jpg",
+        "listing/47/12661047/349389267.jpg",
+        "listing/47/12661047/1928359006.jpg",
+        "listing/47/12661047/21059009.jpg",
+        "listing/47/12661047/1069140796.jpg",
+        "listing/47/12661047/2092435711.jpg",
+        "listing/47/12661047/1387360039.jpg",
+        "listing/47/12661047/781433112.jpg",
+        "listing/47/12661047/722646548.jpg",
+        "listing/47/12661047/1441105114.jpg",
+        "listing/47/12661047/1288090976.jpg",
+        "listing/47/12661047/1850496184.jpg",
+        "listing/47/12661047/1692766782.jpg",
+        "listing/47/12661047/1323893043.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/12661047"
     },
     {
       "id": 12715365,
@@ -1334,6 +1334,45 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20615904"
     },
     {
+      "id": 12331092,
+      "make": "MASERATI",
+      "model": "GHIBLI",
+      "versionFullName": "GHIBLI S Q4 3.0 MODENA",
+      "firstRegistrationYear": 2023,
+      "mileage": 19500,
+      "price": 89000.0,
+      "horsePower": 430,
+      "transmissionType": "automatic",
+      "conditionType": "demonstration",
+      "createdDate": "2025-03-27T16:06:31.392Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/92/12331092/1251663558.jpg",
+      "imageKeys": [
+        "listing/92/12331092/1251663558.jpg",
+        "listing/92/12331092/196073737.jpg",
+        "listing/92/12331092/1816758722.jpg",
+        "listing/92/12331092/1849132250.jpg",
+        "listing/92/12331092/1538793600.jpg",
+        "listing/92/12331092/731633820.jpg",
+        "listing/92/12331092/811982328.jpg",
+        "listing/92/12331092/357486120.jpg",
+        "listing/92/12331092/1709810377.jpg",
+        "listing/92/12331092/1122592347.jpg",
+        "listing/92/12331092/2077516631.jpg",
+        "listing/92/12331092/90782554.jpg",
+        "listing/92/12331092/1710116847.jpg",
+        "listing/92/12331092/1722121341.jpg",
+        "listing/92/12331092/2001359597.jpg",
+        "listing/92/12331092/463848796.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/12331092"
+    },
+    {
       "id": 20276620,
       "make": "BENTLEY",
       "model": "Bentayga",
@@ -1385,45 +1424,6 @@
         "listing/620/20276620/1650084530.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20276620"
-    },
-    {
-      "id": 12331092,
-      "make": "MASERATI",
-      "model": "GHIBLI",
-      "versionFullName": "GHIBLI S Q4 3.0 MODENA",
-      "firstRegistrationYear": 2023,
-      "mileage": 19500,
-      "price": 89000.0,
-      "horsePower": 430,
-      "transmissionType": "automatic",
-      "conditionType": "demonstration",
-      "createdDate": "2025-03-27T16:06:31.392Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/92/12331092/1251663558.jpg",
-      "imageKeys": [
-        "listing/92/12331092/1251663558.jpg",
-        "listing/92/12331092/196073737.jpg",
-        "listing/92/12331092/1816758722.jpg",
-        "listing/92/12331092/1849132250.jpg",
-        "listing/92/12331092/1538793600.jpg",
-        "listing/92/12331092/731633820.jpg",
-        "listing/92/12331092/811982328.jpg",
-        "listing/92/12331092/357486120.jpg",
-        "listing/92/12331092/1709810377.jpg",
-        "listing/92/12331092/1122592347.jpg",
-        "listing/92/12331092/2077516631.jpg",
-        "listing/92/12331092/90782554.jpg",
-        "listing/92/12331092/1710116847.jpg",
-        "listing/92/12331092/1722121341.jpg",
-        "listing/92/12331092/2001359597.jpg",
-        "listing/92/12331092/463848796.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/12331092"
     },
     {
       "id": 20492852,
@@ -1539,44 +1539,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/10722283"
     },
     {
-      "id": 20779110,
-      "make": "MASERATI",
-      "model": "GRECALE",
-      "versionFullName": "GRECALE 3.0 TROFEO",
-      "firstRegistrationYear": 2024,
-      "mileage": 19900,
-      "price": 89900.0,
-      "horsePower": 531,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-09-02T08:30:14.224Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/110/20779110/1433939135.jpg",
-      "imageKeys": [
-        "listing/110/20779110/1433939135.jpg",
-        "listing/110/20779110/947874924.jpg",
-        "listing/110/20779110/673772897.jpg",
-        "listing/110/20779110/917464109.jpg",
-        "listing/110/20779110/1553484949.jpg",
-        "listing/110/20779110/1843786919.jpg",
-        "listing/110/20779110/950926869.jpg",
-        "listing/110/20779110/1224073748.jpg",
-        "listing/110/20779110/210309931.jpg",
-        "listing/110/20779110/123708013.jpg",
-        "listing/110/20779110/1952728519.jpg",
-        "listing/110/20779110/1294686369.jpg",
-        "listing/110/20779110/1970779948.jpg",
-        "listing/110/20779110/1154437108.jpg",
-        "listing/110/20779110/398195834.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20779110"
-    },
-    {
       "id": 20734883,
       "make": "MASERATI",
       "model": "GRECALE",
@@ -1614,6 +1576,44 @@
         "listing/883/20734883/463850514.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20734883"
+    },
+    {
+      "id": 20779110,
+      "make": "MASERATI",
+      "model": "GRECALE",
+      "versionFullName": "GRECALE 3.0 TROFEO",
+      "firstRegistrationYear": 2024,
+      "mileage": 19900,
+      "price": 89900.0,
+      "horsePower": 531,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-09-02T08:30:14.224Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/110/20779110/1433939135.jpg",
+      "imageKeys": [
+        "listing/110/20779110/1433939135.jpg",
+        "listing/110/20779110/947874924.jpg",
+        "listing/110/20779110/673772897.jpg",
+        "listing/110/20779110/917464109.jpg",
+        "listing/110/20779110/1553484949.jpg",
+        "listing/110/20779110/1843786919.jpg",
+        "listing/110/20779110/950926869.jpg",
+        "listing/110/20779110/1224073748.jpg",
+        "listing/110/20779110/210309931.jpg",
+        "listing/110/20779110/123708013.jpg",
+        "listing/110/20779110/1952728519.jpg",
+        "listing/110/20779110/1294686369.jpg",
+        "listing/110/20779110/1970779948.jpg",
+        "listing/110/20779110/1154437108.jpg",
+        "listing/110/20779110/398195834.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20779110"
     },
     {
       "id": 12902839,
