@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-15T09:58:04.162705+00:00",
+  "timestamp": "2026-09-15T14:53:12.501118+00:00",
   "count": 112,
   "listings": [
     {
@@ -37,38 +37,6 @@
         "listing/154/12837154/1730540947.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/12837154"
-    },
-    {
-      "id": 20820884,
-      "make": "AUDI",
-      "model": "Q2",
-      "versionFullName": "Q2 35 TFSI advanced S-tronic",
-      "firstRegistrationYear": 2021,
-      "mileage": 35600,
-      "price": 19500.0,
-      "horsePower": 150,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2026-09-14T12:14:24.962Z",
-      "seller": {
-        "id": 60726,
-        "name": "B.I. Concierge Basel AG",
-        "city": "Basel",
-        "zipCode": "4058"
-      },
-      "imageKey": "listing/884/20820884/242795366.jpg",
-      "imageKeys": [
-        "listing/884/20820884/242795366.jpg",
-        "listing/884/20820884/729055050.jpg",
-        "listing/884/20820884/184596651.jpg",
-        "listing/884/20820884/1592095839.jpg",
-        "listing/884/20820884/1340364412.jpg",
-        "listing/884/20820884/633092276.jpg",
-        "listing/884/20820884/459425065.jpg",
-        "listing/884/20820884/1604464095.jpg",
-        "listing/884/20820884/2020555436.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20820884"
     },
     {
       "id": 12532769,
@@ -1852,6 +1820,44 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20265960"
     },
     {
+      "id": 20824177,
+      "make": "MASERATI",
+      "model": "GRECALE",
+      "versionFullName": "GRECALE 3.0 TROFEO",
+      "firstRegistrationYear": 2026,
+      "mileage": 21500,
+      "price": 103900.0,
+      "horsePower": 531,
+      "transmissionType": null,
+      "conditionType": "used",
+      "createdDate": "2026-09-15T12:29:24.855Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/177/20824177/1589259224.jpg",
+      "imageKeys": [
+        "listing/177/20824177/1589259224.jpg",
+        "listing/177/20824177/541191260.jpg",
+        "listing/177/20824177/1943185975.jpg",
+        "listing/177/20824177/1870937854.jpg",
+        "listing/177/20824177/1533223474.jpg",
+        "listing/177/20824177/2025793373.jpg",
+        "listing/177/20824177/1474475857.jpg",
+        "listing/177/20824177/148264867.jpg",
+        "listing/177/20824177/650507796.jpg",
+        "listing/177/20824177/7311876.jpg",
+        "listing/177/20824177/861814584.jpg",
+        "listing/177/20824177/971043272.jpg",
+        "listing/177/20824177/859813075.jpg",
+        "listing/177/20824177/988534971.jpg",
+        "listing/177/20824177/297585992.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20824177"
+    },
+    {
       "id": 20242981,
       "make": "ASTON MARTIN",
       "model": "V12 Vanquish",
@@ -2224,43 +2230,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20665931"
     },
     {
-      "id": 20389384,
-      "make": "MERCEDES-BENZ",
-      "model": null,
-      "versionFullName": "250 SL Pagode",
-      "firstRegistrationYear": 1967,
-      "mileage": 78800,
-      "price": 129000.0,
-      "horsePower": 150,
-      "transmissionType": "manual",
-      "conditionType": "used",
-      "createdDate": "2026-04-20T12:42:21.051Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/384/20389384/1294894847.jpg",
-      "imageKeys": [
-        "listing/384/20389384/1294894847.jpg",
-        "listing/384/20389384/1465770299.jpg",
-        "listing/384/20389384/551241760.jpg",
-        "listing/384/20389384/1376401795.jpg",
-        "listing/384/20389384/1916269449.jpg",
-        "listing/384/20389384/613075632.jpg",
-        "listing/384/20389384/346519187.jpg",
-        "listing/384/20389384/23850477.jpg",
-        "listing/384/20389384/724377970.jpg",
-        "listing/384/20389384/1237285202.jpg",
-        "listing/384/20389384/641023884.jpg",
-        "listing/384/20389384/490441907.jpg",
-        "listing/384/20389384/1799101008.jpg",
-        "listing/384/20389384/1998265754.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20389384"
-    },
-    {
       "id": 20753159,
       "make": "MASERATI",
       "model": "GRANTURISMO",
@@ -2298,6 +2267,43 @@
         "listing/159/20753159/1153749154.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20753159"
+    },
+    {
+      "id": 20389384,
+      "make": "MERCEDES-BENZ",
+      "model": null,
+      "versionFullName": "250 SL Pagode",
+      "firstRegistrationYear": 1967,
+      "mileage": 78800,
+      "price": 129000.0,
+      "horsePower": 150,
+      "transmissionType": "manual",
+      "conditionType": "used",
+      "createdDate": "2026-04-20T12:42:21.051Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/384/20389384/1294894847.jpg",
+      "imageKeys": [
+        "listing/384/20389384/1294894847.jpg",
+        "listing/384/20389384/1465770299.jpg",
+        "listing/384/20389384/551241760.jpg",
+        "listing/384/20389384/1376401795.jpg",
+        "listing/384/20389384/1916269449.jpg",
+        "listing/384/20389384/613075632.jpg",
+        "listing/384/20389384/346519187.jpg",
+        "listing/384/20389384/23850477.jpg",
+        "listing/384/20389384/724377970.jpg",
+        "listing/384/20389384/1237285202.jpg",
+        "listing/384/20389384/641023884.jpg",
+        "listing/384/20389384/490441907.jpg",
+        "listing/384/20389384/1799101008.jpg",
+        "listing/384/20389384/1998265754.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20389384"
     },
     {
       "id": 20751525,
