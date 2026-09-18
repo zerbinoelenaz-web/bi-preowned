@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-18T12:55:18.583984+00:00",
-  "count": 109,
+  "timestamp": "2026-09-18T17:02:43.417450+00:00",
+  "count": 108,
   "listings": [
     {
       "id": 12837154,
@@ -1391,44 +1391,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20492852"
     },
     {
-      "id": 20633758,
-      "make": "MASERATI",
-      "model": "GRANTURISMO",
-      "versionFullName": "GRANTURISMO SPORT",
-      "firstRegistrationYear": 2019,
-      "mileage": 19900,
-      "price": 89900.0,
-      "horsePower": 460,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-07-14T13:44:59.801Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/758/20633758/2112793466.jpg",
-      "imageKeys": [
-        "listing/758/20633758/2112793466.jpg",
-        "listing/758/20633758/1952354837.jpg",
-        "listing/758/20633758/1122295722.jpg",
-        "listing/758/20633758/1733196462.jpg",
-        "listing/758/20633758/861225590.jpg",
-        "listing/758/20633758/992790376.jpg",
-        "listing/758/20633758/1918560944.jpg",
-        "listing/758/20633758/586939800.jpg",
-        "listing/758/20633758/585985435.jpg",
-        "listing/758/20633758/1943348261.jpg",
-        "listing/758/20633758/1007537434.jpg",
-        "listing/758/20633758/833347075.jpg",
-        "listing/758/20633758/1153376661.jpg",
-        "listing/758/20633758/1041626693.jpg",
-        "listing/758/20633758/269514008.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20633758"
-    },
-    {
       "id": 10722283,
       "make": "MERCEDES-BENZ",
       "model": "GLC 200",
@@ -1462,44 +1424,6 @@
         "listing/283/10722283/1024095097.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/10722283"
-    },
-    {
-      "id": 20779110,
-      "make": "MASERATI",
-      "model": "GRECALE",
-      "versionFullName": "GRECALE 3.0 TROFEO",
-      "firstRegistrationYear": 2024,
-      "mileage": 19900,
-      "price": 89900.0,
-      "horsePower": 531,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-09-02T08:30:14.224Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/110/20779110/1433939135.jpg",
-      "imageKeys": [
-        "listing/110/20779110/1433939135.jpg",
-        "listing/110/20779110/947874924.jpg",
-        "listing/110/20779110/673772897.jpg",
-        "listing/110/20779110/917464109.jpg",
-        "listing/110/20779110/1553484949.jpg",
-        "listing/110/20779110/1843786919.jpg",
-        "listing/110/20779110/950926869.jpg",
-        "listing/110/20779110/1224073748.jpg",
-        "listing/110/20779110/210309931.jpg",
-        "listing/110/20779110/123708013.jpg",
-        "listing/110/20779110/1952728519.jpg",
-        "listing/110/20779110/1294686369.jpg",
-        "listing/110/20779110/1970779948.jpg",
-        "listing/110/20779110/1154437108.jpg",
-        "listing/110/20779110/398195834.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20779110"
     },
     {
       "id": 20734883,
@@ -1539,6 +1463,82 @@
         "listing/883/20734883/463850514.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20734883"
+    },
+    {
+      "id": 20633758,
+      "make": "MASERATI",
+      "model": "GRANTURISMO",
+      "versionFullName": "GRANTURISMO SPORT",
+      "firstRegistrationYear": 2019,
+      "mileage": 19900,
+      "price": 89900.0,
+      "horsePower": 460,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-07-14T13:44:59.801Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/758/20633758/2112793466.jpg",
+      "imageKeys": [
+        "listing/758/20633758/2112793466.jpg",
+        "listing/758/20633758/1952354837.jpg",
+        "listing/758/20633758/1122295722.jpg",
+        "listing/758/20633758/1733196462.jpg",
+        "listing/758/20633758/861225590.jpg",
+        "listing/758/20633758/992790376.jpg",
+        "listing/758/20633758/1918560944.jpg",
+        "listing/758/20633758/586939800.jpg",
+        "listing/758/20633758/585985435.jpg",
+        "listing/758/20633758/1943348261.jpg",
+        "listing/758/20633758/1007537434.jpg",
+        "listing/758/20633758/833347075.jpg",
+        "listing/758/20633758/1153376661.jpg",
+        "listing/758/20633758/1041626693.jpg",
+        "listing/758/20633758/269514008.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20633758"
+    },
+    {
+      "id": 20779110,
+      "make": "MASERATI",
+      "model": "GRECALE",
+      "versionFullName": "GRECALE 3.0 TROFEO",
+      "firstRegistrationYear": 2024,
+      "mileage": 19900,
+      "price": 89900.0,
+      "horsePower": 531,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-09-02T08:30:14.224Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/110/20779110/1433939135.jpg",
+      "imageKeys": [
+        "listing/110/20779110/1433939135.jpg",
+        "listing/110/20779110/947874924.jpg",
+        "listing/110/20779110/673772897.jpg",
+        "listing/110/20779110/917464109.jpg",
+        "listing/110/20779110/1553484949.jpg",
+        "listing/110/20779110/1843786919.jpg",
+        "listing/110/20779110/950926869.jpg",
+        "listing/110/20779110/1224073748.jpg",
+        "listing/110/20779110/210309931.jpg",
+        "listing/110/20779110/123708013.jpg",
+        "listing/110/20779110/1952728519.jpg",
+        "listing/110/20779110/1294686369.jpg",
+        "listing/110/20779110/1970779948.jpg",
+        "listing/110/20779110/1154437108.jpg",
+        "listing/110/20779110/398195834.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20779110"
     },
     {
       "id": 12902839,
@@ -1782,44 +1782,6 @@
         "listing/960/20265960/254821311.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20265960"
-    },
-    {
-      "id": 20824177,
-      "make": "MASERATI",
-      "model": "GRECALE",
-      "versionFullName": "GRECALE 3.0 TROFEO",
-      "firstRegistrationYear": 2026,
-      "mileage": 21500,
-      "price": 103900.0,
-      "horsePower": 531,
-      "transmissionType": null,
-      "conditionType": "used",
-      "createdDate": "2026-09-15T12:29:24.855Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/177/20824177/1589259224.jpg",
-      "imageKeys": [
-        "listing/177/20824177/1589259224.jpg",
-        "listing/177/20824177/541191260.jpg",
-        "listing/177/20824177/1943185975.jpg",
-        "listing/177/20824177/1870937854.jpg",
-        "listing/177/20824177/1533223474.jpg",
-        "listing/177/20824177/2025793373.jpg",
-        "listing/177/20824177/1474475857.jpg",
-        "listing/177/20824177/148264867.jpg",
-        "listing/177/20824177/650507796.jpg",
-        "listing/177/20824177/7311876.jpg",
-        "listing/177/20824177/861814584.jpg",
-        "listing/177/20824177/971043272.jpg",
-        "listing/177/20824177/859813075.jpg",
-        "listing/177/20824177/988534971.jpg",
-        "listing/177/20824177/297585992.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20824177"
     },
     {
       "id": 20242981,
