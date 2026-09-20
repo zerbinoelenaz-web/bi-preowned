@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-19T22:52:18.131996+00:00",
+  "timestamp": "2026-09-20T00:56:41.436810+00:00",
   "count": 108,
   "listings": [
     {
@@ -151,41 +151,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20820274"
     },
     {
-      "id": 11168520,
-      "make": "MERCEDES-BENZ",
-      "model": "C 200",
-      "versionFullName": "C 200 T 4Matic All-Terain Avantgarde",
-      "firstRegistrationYear": 2023,
-      "mileage": 45000,
-      "price": 39900.0,
-      "horsePower": 204,
-      "transmissionType": "automatic",
-      "conditionType": "demonstration",
-      "createdDate": "2024-01-15T13:00:30.355Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/520/11168520/419939672.jpg",
-      "imageKeys": [
-        "listing/520/11168520/419939672.jpg",
-        "listing/520/11168520/444776773.jpg",
-        "listing/520/11168520/703390047.jpg",
-        "listing/520/11168520/1518330430.jpg",
-        "listing/520/11168520/1264170022.jpg",
-        "listing/520/11168520/1780177685.jpg",
-        "listing/520/11168520/61040805.jpg",
-        "listing/520/11168520/1550221211.jpg",
-        "listing/520/11168520/1379218474.jpg",
-        "listing/520/11168520/452117249.jpg",
-        "listing/520/11168520/1550606374.jpg",
-        "listing/520/11168520/958807069.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/11168520"
-    },
-    {
       "id": 20090535,
       "make": "MASERATI",
       "model": "LEVANTE",
@@ -223,6 +188,41 @@
         "listing/535/20090535/2099387855.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20090535"
+    },
+    {
+      "id": 11168520,
+      "make": "MERCEDES-BENZ",
+      "model": "C 200",
+      "versionFullName": "C 200 T 4Matic All-Terain Avantgarde",
+      "firstRegistrationYear": 2023,
+      "mileage": 45000,
+      "price": 39900.0,
+      "horsePower": 204,
+      "transmissionType": "automatic",
+      "conditionType": "demonstration",
+      "createdDate": "2024-01-15T13:00:30.355Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/520/11168520/419939672.jpg",
+      "imageKeys": [
+        "listing/520/11168520/419939672.jpg",
+        "listing/520/11168520/444776773.jpg",
+        "listing/520/11168520/703390047.jpg",
+        "listing/520/11168520/1518330430.jpg",
+        "listing/520/11168520/1264170022.jpg",
+        "listing/520/11168520/1780177685.jpg",
+        "listing/520/11168520/61040805.jpg",
+        "listing/520/11168520/1550221211.jpg",
+        "listing/520/11168520/1379218474.jpg",
+        "listing/520/11168520/452117249.jpg",
+        "listing/520/11168520/1550606374.jpg",
+        "listing/520/11168520/958807069.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/11168520"
     },
     {
       "id": 20221212,
@@ -644,41 +644,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20707867"
     },
     {
-      "id": 12062721,
-      "make": "MERCEDES-BENZ",
-      "model": "SL 500",
-      "versionFullName": "SL 500 AMG",
-      "firstRegistrationYear": 1995,
-      "mileage": 170000,
-      "price": 69900.0,
-      "horsePower": 381,
-      "transmissionType": null,
-      "conditionType": "oldtimer",
-      "createdDate": "2024-12-13T08:30:57.635Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/721/12062721/1065904483.jpg",
-      "imageKeys": [
-        "listing/721/12062721/1065904483.jpg",
-        "listing/721/12062721/1598902325.jpg",
-        "listing/721/12062721/1574554660.jpg",
-        "listing/721/12062721/1538829962.jpg",
-        "listing/721/12062721/325627184.jpg",
-        "listing/721/12062721/1749581262.jpg",
-        "listing/721/12062721/1593971891.jpg",
-        "listing/721/12062721/1027596694.jpg",
-        "listing/721/12062721/726179444.jpg",
-        "listing/721/12062721/847503394.jpg",
-        "listing/721/12062721/1695899784.jpg",
-        "listing/721/12062721/806150583.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/12062721"
-    },
-    {
       "id": 20306429,
       "make": "MASERATI",
       "model": "LEVANTE",
@@ -716,6 +681,41 @@
         "listing/429/20306429/431747580.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20306429"
+    },
+    {
+      "id": 12062721,
+      "make": "MERCEDES-BENZ",
+      "model": "SL 500",
+      "versionFullName": "SL 500 AMG",
+      "firstRegistrationYear": 1995,
+      "mileage": 170000,
+      "price": 69900.0,
+      "horsePower": 381,
+      "transmissionType": null,
+      "conditionType": "oldtimer",
+      "createdDate": "2024-12-13T08:30:57.635Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/721/12062721/1065904483.jpg",
+      "imageKeys": [
+        "listing/721/12062721/1065904483.jpg",
+        "listing/721/12062721/1598902325.jpg",
+        "listing/721/12062721/1574554660.jpg",
+        "listing/721/12062721/1538829962.jpg",
+        "listing/721/12062721/325627184.jpg",
+        "listing/721/12062721/1749581262.jpg",
+        "listing/721/12062721/1593971891.jpg",
+        "listing/721/12062721/1027596694.jpg",
+        "listing/721/12062721/726179444.jpg",
+        "listing/721/12062721/847503394.jpg",
+        "listing/721/12062721/1695899784.jpg",
+        "listing/721/12062721/806150583.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/12062721"
     },
     {
       "id": 12834163,
@@ -1391,6 +1391,44 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20492852"
     },
     {
+      "id": 20779110,
+      "make": "MASERATI",
+      "model": "GRECALE",
+      "versionFullName": "GRECALE 3.0 TROFEO",
+      "firstRegistrationYear": 2024,
+      "mileage": 19900,
+      "price": 89900.0,
+      "horsePower": 531,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-09-02T08:30:14.224Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/110/20779110/1433939135.jpg",
+      "imageKeys": [
+        "listing/110/20779110/1433939135.jpg",
+        "listing/110/20779110/947874924.jpg",
+        "listing/110/20779110/673772897.jpg",
+        "listing/110/20779110/917464109.jpg",
+        "listing/110/20779110/1553484949.jpg",
+        "listing/110/20779110/1843786919.jpg",
+        "listing/110/20779110/950926869.jpg",
+        "listing/110/20779110/1224073748.jpg",
+        "listing/110/20779110/210309931.jpg",
+        "listing/110/20779110/123708013.jpg",
+        "listing/110/20779110/1952728519.jpg",
+        "listing/110/20779110/1294686369.jpg",
+        "listing/110/20779110/1970779948.jpg",
+        "listing/110/20779110/1154437108.jpg",
+        "listing/110/20779110/398195834.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20779110"
+    },
+    {
       "id": 20734883,
       "make": "MASERATI",
       "model": "GRECALE",
@@ -1428,44 +1466,6 @@
         "listing/883/20734883/463850514.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20734883"
-    },
-    {
-      "id": 20779110,
-      "make": "MASERATI",
-      "model": "GRECALE",
-      "versionFullName": "GRECALE 3.0 TROFEO",
-      "firstRegistrationYear": 2024,
-      "mileage": 19900,
-      "price": 89900.0,
-      "horsePower": 531,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-09-02T08:30:14.224Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/110/20779110/1433939135.jpg",
-      "imageKeys": [
-        "listing/110/20779110/1433939135.jpg",
-        "listing/110/20779110/947874924.jpg",
-        "listing/110/20779110/673772897.jpg",
-        "listing/110/20779110/917464109.jpg",
-        "listing/110/20779110/1553484949.jpg",
-        "listing/110/20779110/1843786919.jpg",
-        "listing/110/20779110/950926869.jpg",
-        "listing/110/20779110/1224073748.jpg",
-        "listing/110/20779110/210309931.jpg",
-        "listing/110/20779110/123708013.jpg",
-        "listing/110/20779110/1952728519.jpg",
-        "listing/110/20779110/1294686369.jpg",
-        "listing/110/20779110/1970779948.jpg",
-        "listing/110/20779110/1154437108.jpg",
-        "listing/110/20779110/398195834.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20779110"
     },
     {
       "id": 20633758,
