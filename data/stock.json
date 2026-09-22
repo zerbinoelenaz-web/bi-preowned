@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-22T09:49:28.594669+00:00",
+  "timestamp": "2026-09-22T14:38:26.567288+00:00",
   "count": 109,
   "listings": [
     {
@@ -451,45 +451,6 @@
         "listing/757/20694757/1080838537.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20694757"
-    },
-    {
-      "id": 20578979,
-      "make": "JEEP",
-      "model": "WRANGLER",
-      "versionFullName": "Wrangler 2.0 PHEV Unlimited 80th Anniversary Automatic",
-      "firstRegistrationYear": 2021,
-      "mileage": 22400,
-      "price": 54900.0,
-      "horsePower": 381,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-06-24T11:20:28.133Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/979/20578979/404501155.jpg",
-      "imageKeys": [
-        "listing/979/20578979/404501155.jpg",
-        "listing/979/20578979/1591265557.jpg",
-        "listing/979/20578979/345102545.jpg",
-        "listing/979/20578979/22284761.jpg",
-        "listing/979/20578979/1272771002.jpg",
-        "listing/979/20578979/1416008746.jpg",
-        "listing/979/20578979/877464272.jpg",
-        "listing/979/20578979/2135642485.jpg",
-        "listing/979/20578979/1835861013.jpg",
-        "listing/979/20578979/1427195497.jpg",
-        "listing/979/20578979/666705757.jpg",
-        "listing/979/20578979/413432358.jpg",
-        "listing/979/20578979/2046049833.jpg",
-        "listing/979/20578979/1948557563.jpg",
-        "listing/979/20578979/551430539.jpg",
-        "listing/979/20578979/1849590138.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20578979"
     },
     {
       "id": 10797446,
@@ -1468,41 +1429,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20492852"
     },
     {
-      "id": 10722283,
-      "make": "MERCEDES-BENZ",
-      "model": "GLC 200",
-      "versionFullName": "GLC Coupé 200 4Matic 9G-Tronic",
-      "firstRegistrationYear": 2024,
-      "mileage": 20000,
-      "price": 89900.0,
-      "horsePower": 204,
-      "transmissionType": "automatic",
-      "conditionType": "new",
-      "createdDate": "2023-07-24T14:26:41.555Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/283/10722283/1506006630.jpg",
-      "imageKeys": [
-        "listing/283/10722283/1506006630.jpg",
-        "listing/283/10722283/1468901937.jpg",
-        "listing/283/10722283/1310166292.jpg",
-        "listing/283/10722283/1977223292.jpg",
-        "listing/283/10722283/509858897.jpg",
-        "listing/283/10722283/1561683012.jpg",
-        "listing/283/10722283/1787802081.jpg",
-        "listing/283/10722283/1683874687.jpg",
-        "listing/283/10722283/907543295.jpg",
-        "listing/283/10722283/270347510.jpg",
-        "listing/283/10722283/1390072230.jpg",
-        "listing/283/10722283/1024095097.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/10722283"
-    },
-    {
       "id": 20734883,
       "make": "MASERATI",
       "model": "GRECALE",
@@ -1540,6 +1466,44 @@
         "listing/883/20734883/463850514.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20734883"
+    },
+    {
+      "id": 20779110,
+      "make": "MASERATI",
+      "model": "GRECALE",
+      "versionFullName": "GRECALE 3.0 TROFEO",
+      "firstRegistrationYear": 2024,
+      "mileage": 19900,
+      "price": 89900.0,
+      "horsePower": 531,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-09-02T08:30:14.224Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/110/20779110/1433939135.jpg",
+      "imageKeys": [
+        "listing/110/20779110/1433939135.jpg",
+        "listing/110/20779110/947874924.jpg",
+        "listing/110/20779110/673772897.jpg",
+        "listing/110/20779110/917464109.jpg",
+        "listing/110/20779110/1553484949.jpg",
+        "listing/110/20779110/1843786919.jpg",
+        "listing/110/20779110/950926869.jpg",
+        "listing/110/20779110/1224073748.jpg",
+        "listing/110/20779110/210309931.jpg",
+        "listing/110/20779110/123708013.jpg",
+        "listing/110/20779110/1952728519.jpg",
+        "listing/110/20779110/1294686369.jpg",
+        "listing/110/20779110/1970779948.jpg",
+        "listing/110/20779110/1154437108.jpg",
+        "listing/110/20779110/398195834.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20779110"
     },
     {
       "id": 10722283,
@@ -2344,6 +2308,45 @@
         "listing/24/20566024/1219854299.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20566024"
+    },
+    {
+      "id": 20843883,
+      "make": "MASERATI",
+      "model": "GRANCABRIO",
+      "versionFullName": "GranCabrio MC Automatica",
+      "firstRegistrationYear": 2020,
+      "mileage": 15500,
+      "price": 133900.0,
+      "horsePower": 460,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-09-22T11:54:37.268Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/883/20843883/1427642705.jpg",
+      "imageKeys": [
+        "listing/883/20843883/1427642705.jpg",
+        "listing/883/20843883/1405875694.jpg",
+        "listing/883/20843883/676883138.jpg",
+        "listing/883/20843883/253846092.jpg",
+        "listing/883/20843883/113303788.jpg",
+        "listing/883/20843883/1337819509.jpg",
+        "listing/883/20843883/642273437.jpg",
+        "listing/883/20843883/499995645.jpg",
+        "listing/883/20843883/1122032824.jpg",
+        "listing/883/20843883/538851538.jpg",
+        "listing/883/20843883/1809037063.jpg",
+        "listing/883/20843883/906025799.jpg",
+        "listing/883/20843883/1372105933.jpg",
+        "listing/883/20843883/1590960887.jpg",
+        "listing/883/20843883/793340754.jpg",
+        "listing/883/20843883/1897816010.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20843883"
     },
     {
       "id": 20303055,
@@ -3380,44 +3383,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20687112"
     },
     {
-      "id": 12649619,
-      "make": "FERRARI",
-      "model": "Roma",
-      "versionFullName": "Roma 3.9 V8 T",
-      "firstRegistrationYear": 2025,
-      "mileage": 400,
-      "price": 259000.0,
-      "horsePower": 620,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2025-07-31T15:41:21.296Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/619/12649619/1943520755.jpg",
-      "imageKeys": [
-        "listing/619/12649619/1943520755.jpg",
-        "listing/619/12649619/262990941.jpg",
-        "listing/619/12649619/2021558806.jpg",
-        "listing/619/12649619/1119168439.jpg",
-        "listing/619/12649619/314975364.jpg",
-        "listing/619/12649619/388512142.jpg",
-        "listing/619/12649619/763382636.jpg",
-        "listing/619/12649619/1082062236.jpg",
-        "listing/619/12649619/373586943.jpg",
-        "listing/619/12649619/291628263.jpg",
-        "listing/619/12649619/359501593.jpg",
-        "listing/619/12649619/254749782.jpg",
-        "listing/619/12649619/1473182847.jpg",
-        "listing/619/12649619/2089037781.jpg",
-        "listing/619/12649619/1028875546.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/12649619"
-    },
-    {
       "id": 12593707,
       "make": "FERRARI",
       "model": "296",
@@ -3454,6 +3419,44 @@
         "listing/707/12593707/911423291.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/12593707"
+    },
+    {
+      "id": 12649619,
+      "make": "FERRARI",
+      "model": "Roma",
+      "versionFullName": "Roma 3.9 V8 T",
+      "firstRegistrationYear": 2025,
+      "mileage": 400,
+      "price": 259000.0,
+      "horsePower": 620,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2025-07-31T15:41:21.296Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/619/12649619/1943520755.jpg",
+      "imageKeys": [
+        "listing/619/12649619/1943520755.jpg",
+        "listing/619/12649619/262990941.jpg",
+        "listing/619/12649619/2021558806.jpg",
+        "listing/619/12649619/1119168439.jpg",
+        "listing/619/12649619/314975364.jpg",
+        "listing/619/12649619/388512142.jpg",
+        "listing/619/12649619/763382636.jpg",
+        "listing/619/12649619/1082062236.jpg",
+        "listing/619/12649619/373586943.jpg",
+        "listing/619/12649619/291628263.jpg",
+        "listing/619/12649619/359501593.jpg",
+        "listing/619/12649619/254749782.jpg",
+        "listing/619/12649619/1473182847.jpg",
+        "listing/619/12649619/2089037781.jpg",
+        "listing/619/12649619/1028875546.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/12649619"
     },
     {
       "id": 20499931,
