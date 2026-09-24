@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-24T04:29:02.303121+00:00",
+  "timestamp": "2026-09-24T09:52:04.427817+00:00",
   "count": 111,
   "listings": [
     {
@@ -373,45 +373,6 @@
         "listing/822/11710822/1600726507.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/11710822"
-    },
-    {
-      "id": 20695979,
-      "make": "MASERATI",
-      "model": "GRECALE",
-      "versionFullName": "GRECALE 2.0 MHEV GT HYBRID",
-      "firstRegistrationYear": 2022,
-      "mileage": 87000,
-      "price": 51900.0,
-      "horsePower": 301,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-08-10T11:40:51.668Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/979/20695979/183592249.jpg",
-      "imageKeys": [
-        "listing/979/20695979/183592249.jpg",
-        "listing/979/20695979/2087411703.jpg",
-        "listing/979/20695979/431144365.jpg",
-        "listing/979/20695979/219174143.jpg",
-        "listing/979/20695979/517627585.jpg",
-        "listing/979/20695979/899160355.jpg",
-        "listing/979/20695979/1003666557.jpg",
-        "listing/979/20695979/1278288821.jpg",
-        "listing/979/20695979/1462255934.jpg",
-        "listing/979/20695979/1091953815.jpg",
-        "listing/979/20695979/1889483984.jpg",
-        "listing/979/20695979/721828640.jpg",
-        "listing/979/20695979/1558352258.jpg",
-        "listing/979/20695979/385725388.jpg",
-        "listing/979/20695979/692072505.jpg",
-        "listing/979/20695979/1296501178.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20695979"
     },
     {
       "id": 20694757,
@@ -1299,6 +1260,43 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20276620"
     },
     {
+      "id": 20769265,
+      "make": "PORSCHE",
+      "model": "718/BOXSTER/CAYMAN",
+      "versionFullName": "Cayman GT4",
+      "firstRegistrationYear": 2016,
+      "mileage": 36500,
+      "price": 84911.0,
+      "horsePower": 385,
+      "transmissionType": "manual",
+      "conditionType": "used",
+      "createdDate": "2026-08-31T15:02:21.583Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/265/20769265/1244610621.jpg",
+      "imageKeys": [
+        "listing/265/20769265/1244610621.jpg",
+        "listing/265/20769265/1590660070.jpg",
+        "listing/265/20769265/1353892495.jpg",
+        "listing/265/20769265/1207108144.jpg",
+        "listing/265/20769265/1451701688.jpg",
+        "listing/265/20769265/1815828597.jpg",
+        "listing/265/20769265/653920833.jpg",
+        "listing/265/20769265/1555578631.jpg",
+        "listing/265/20769265/170512810.jpg",
+        "listing/265/20769265/2139276503.jpg",
+        "listing/265/20769265/425676675.jpg",
+        "listing/265/20769265/1460268905.jpg",
+        "listing/265/20769265/835301221.jpg",
+        "listing/265/20769265/1051194816.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20769265"
+    },
+    {
       "id": 20615904,
       "make": "MASERATI",
       "model": "GRECALE",
@@ -1453,6 +1451,44 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20492852"
     },
     {
+      "id": 20779110,
+      "make": "MASERATI",
+      "model": "GRECALE",
+      "versionFullName": "GRECALE 3.0 TROFEO",
+      "firstRegistrationYear": 2024,
+      "mileage": 19900,
+      "price": 89900.0,
+      "horsePower": 531,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-09-02T08:30:14.224Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/110/20779110/1433939135.jpg",
+      "imageKeys": [
+        "listing/110/20779110/1433939135.jpg",
+        "listing/110/20779110/947874924.jpg",
+        "listing/110/20779110/673772897.jpg",
+        "listing/110/20779110/917464109.jpg",
+        "listing/110/20779110/1553484949.jpg",
+        "listing/110/20779110/1843786919.jpg",
+        "listing/110/20779110/950926869.jpg",
+        "listing/110/20779110/1224073748.jpg",
+        "listing/110/20779110/210309931.jpg",
+        "listing/110/20779110/123708013.jpg",
+        "listing/110/20779110/1952728519.jpg",
+        "listing/110/20779110/1294686369.jpg",
+        "listing/110/20779110/1970779948.jpg",
+        "listing/110/20779110/1154437108.jpg",
+        "listing/110/20779110/398195834.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20779110"
+    },
+    {
       "id": 20734883,
       "make": "MASERATI",
       "model": "GRECALE",
@@ -1490,44 +1526,6 @@
         "listing/883/20734883/463850514.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20734883"
-    },
-    {
-      "id": 20779110,
-      "make": "MASERATI",
-      "model": "GRECALE",
-      "versionFullName": "GRECALE 3.0 TROFEO",
-      "firstRegistrationYear": 2024,
-      "mileage": 19900,
-      "price": 89900.0,
-      "horsePower": 531,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-09-02T08:30:14.224Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/110/20779110/1433939135.jpg",
-      "imageKeys": [
-        "listing/110/20779110/1433939135.jpg",
-        "listing/110/20779110/947874924.jpg",
-        "listing/110/20779110/673772897.jpg",
-        "listing/110/20779110/917464109.jpg",
-        "listing/110/20779110/1553484949.jpg",
-        "listing/110/20779110/1843786919.jpg",
-        "listing/110/20779110/950926869.jpg",
-        "listing/110/20779110/1224073748.jpg",
-        "listing/110/20779110/210309931.jpg",
-        "listing/110/20779110/123708013.jpg",
-        "listing/110/20779110/1952728519.jpg",
-        "listing/110/20779110/1294686369.jpg",
-        "listing/110/20779110/1970779948.jpg",
-        "listing/110/20779110/1154437108.jpg",
-        "listing/110/20779110/398195834.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20779110"
     },
     {
       "id": 10722283,
@@ -2378,8 +2376,8 @@
       "model": "GRECALE",
       "versionFullName": "GRECALE 3.0 V6 TROFEO MY26 FUORISERIE AZZURRO ASTRO GLOSSY",
       "firstRegistrationYear": 2026,
-      "mileage": 5000,
-      "price": 136900.0,
+      "mileage": 7000,
+      "price": 133900.0,
       "horsePower": 531,
       "transmissionType": "automatic",
       "conditionType": "demonstration",
@@ -3383,9 +3381,9 @@
         "city": "Urdorf-Zürich",
         "zipCode": "8902"
       },
-      "imageKey": "listing/878/20411878/161990190.jpg",
+      "imageKey": "listing/878/20411878/876957682.jpg",
       "imageKeys": [
-        "listing/878/20411878/161990190.jpg",
+        "listing/878/20411878/876957682.jpg",
         "listing/878/20411878/766454015.jpg",
         "listing/878/20411878/261859346.jpg",
         "listing/878/20411878/440907292.jpg",
@@ -3403,48 +3401,6 @@
         "listing/878/20411878/1895239998.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20411878"
-    },
-    {
-      "id": 20687112,
-      "make": "FERRARI",
-      "model": "Roma",
-      "versionFullName": "Roma 3.9 V8 T",
-      "firstRegistrationYear": 2024,
-      "mileage": 590,
-      "price": 259000.0,
-      "horsePower": 620,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2026-08-06T07:25:27.267Z",
-      "seller": {
-        "id": 60699,
-        "name": "B.I. Collection - Ferrari Zürich",
-        "city": "Urdorf-Zürich",
-        "zipCode": "8902"
-      },
-      "imageKey": "listing/112/20687112/45597435.jpg",
-      "imageKeys": [
-        "listing/112/20687112/45597435.jpg",
-        "listing/112/20687112/1913837551.jpg",
-        "listing/112/20687112/1851061142.jpg",
-        "listing/112/20687112/21393380.jpg",
-        "listing/112/20687112/305381418.jpg",
-        "listing/112/20687112/2145173751.jpg",
-        "listing/112/20687112/1268911285.jpg",
-        "listing/112/20687112/616768799.jpg",
-        "listing/112/20687112/1511241926.jpg",
-        "listing/112/20687112/1953112830.jpg",
-        "listing/112/20687112/218426770.jpg",
-        "listing/112/20687112/1726121359.jpg",
-        "listing/112/20687112/1798563383.jpg",
-        "listing/112/20687112/2129859873.jpg",
-        "listing/112/20687112/296031894.jpg",
-        "listing/112/20687112/786131644.jpg",
-        "listing/112/20687112/1339676427.jpg",
-        "listing/112/20687112/661385629.jpg",
-        "listing/112/20687112/1591170393.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20687112"
     },
     {
       "id": 12593707,
@@ -3521,6 +3477,48 @@
         "listing/619/12649619/1028875546.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/12649619"
+    },
+    {
+      "id": 20687112,
+      "make": "FERRARI",
+      "model": "Roma",
+      "versionFullName": "Roma 3.9 V8 T",
+      "firstRegistrationYear": 2024,
+      "mileage": 590,
+      "price": 259000.0,
+      "horsePower": 620,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2026-08-06T07:25:27.267Z",
+      "seller": {
+        "id": 60699,
+        "name": "B.I. Collection - Ferrari Zürich",
+        "city": "Urdorf-Zürich",
+        "zipCode": "8902"
+      },
+      "imageKey": "listing/112/20687112/1741401917.jpg",
+      "imageKeys": [
+        "listing/112/20687112/1741401917.jpg",
+        "listing/112/20687112/1913837551.jpg",
+        "listing/112/20687112/1851061142.jpg",
+        "listing/112/20687112/21393380.jpg",
+        "listing/112/20687112/305381418.jpg",
+        "listing/112/20687112/2145173751.jpg",
+        "listing/112/20687112/1268911285.jpg",
+        "listing/112/20687112/616768799.jpg",
+        "listing/112/20687112/1511241926.jpg",
+        "listing/112/20687112/1953112830.jpg",
+        "listing/112/20687112/218426770.jpg",
+        "listing/112/20687112/1726121359.jpg",
+        "listing/112/20687112/1798563383.jpg",
+        "listing/112/20687112/2129859873.jpg",
+        "listing/112/20687112/296031894.jpg",
+        "listing/112/20687112/786131644.jpg",
+        "listing/112/20687112/1339676427.jpg",
+        "listing/112/20687112/661385629.jpg",
+        "listing/112/20687112/1591170393.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20687112"
     },
     {
       "id": 20499931,
@@ -3994,9 +3992,9 @@
         "city": "Urdorf-Zürich",
         "zipCode": "8902"
       },
-      "imageKey": "listing/285/11492285/555476437.jpg",
+      "imageKey": "listing/285/11492285/2027157934.jpg",
       "imageKeys": [
-        "listing/285/11492285/555476437.jpg",
+        "listing/285/11492285/2027157934.jpg",
         "listing/285/11492285/1493789162.jpg",
         "listing/285/11492285/68305035.jpg",
         "listing/285/11492285/692331986.jpg",
@@ -4290,31 +4288,25 @@
         "city": "Urdorf-Zürich",
         "zipCode": "8902"
       },
-      "imageKey": "listing/37/20079037/372929863.jpg",
+      "imageKey": "listing/37/20079037/1045552623.jpg",
       "imageKeys": [
-        "listing/37/20079037/372929863.jpg",
-        "listing/37/20079037/1834387089.jpg",
-        "listing/37/20079037/1901948069.jpg",
-        "listing/37/20079037/1579743238.jpg",
-        "listing/37/20079037/2005336813.jpg",
-        "listing/37/20079037/1581200206.jpg",
-        "listing/37/20079037/2082730773.jpg",
-        "listing/37/20079037/1664545202.jpg",
-        "listing/37/20079037/672067069.jpg",
-        "listing/37/20079037/1349682713.jpg",
-        "listing/37/20079037/1729115951.jpg",
-        "listing/37/20079037/1176751918.jpg",
-        "listing/37/20079037/617735088.jpg",
-        "listing/37/20079037/1169437995.jpg",
-        "listing/37/20079037/1176192842.jpg",
-        "listing/37/20079037/1792543835.jpg",
-        "listing/37/20079037/1910006275.jpg",
-        "listing/37/20079037/1298506027.jpg",
-        "listing/37/20079037/1934965106.jpg",
-        "listing/37/20079037/1935616138.jpg",
-        "listing/37/20079037/149846288.jpg",
-        "listing/37/20079037/458812273.jpg",
-        "listing/37/20079037/1113822393.jpg"
+        "listing/37/20079037/1045552623.jpg",
+        "listing/37/20079037/512479580.jpg",
+        "listing/37/20079037/1846651641.jpg",
+        "listing/37/20079037/173677992.jpg",
+        "listing/37/20079037/333324676.jpg",
+        "listing/37/20079037/690672895.jpg",
+        "listing/37/20079037/221715039.jpg",
+        "listing/37/20079037/2047021024.jpg",
+        "listing/37/20079037/2145637262.jpg",
+        "listing/37/20079037/1982390293.jpg",
+        "listing/37/20079037/1964182694.jpg",
+        "listing/37/20079037/505376310.jpg",
+        "listing/37/20079037/1109714305.jpg",
+        "listing/37/20079037/1822190550.jpg",
+        "listing/37/20079037/516867927.jpg",
+        "listing/37/20079037/1138946142.jpg",
+        "listing/37/20079037/410660397.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20079037"
     },
