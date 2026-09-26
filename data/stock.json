@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-26T20:59:03.038456+00:00",
+  "timestamp": "2026-09-26T23:31:59.840502+00:00",
   "count": 110,
   "listings": [
     {
@@ -3363,44 +3363,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20411878"
     },
     {
-      "id": 12649619,
-      "make": "FERRARI",
-      "model": "Roma",
-      "versionFullName": "Roma 3.9 V8 T",
-      "firstRegistrationYear": 2025,
-      "mileage": 400,
-      "price": 259000.0,
-      "horsePower": 620,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2025-07-31T15:41:21.296Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/619/12649619/1943520755.jpg",
-      "imageKeys": [
-        "listing/619/12649619/1943520755.jpg",
-        "listing/619/12649619/262990941.jpg",
-        "listing/619/12649619/2021558806.jpg",
-        "listing/619/12649619/1119168439.jpg",
-        "listing/619/12649619/314975364.jpg",
-        "listing/619/12649619/388512142.jpg",
-        "listing/619/12649619/763382636.jpg",
-        "listing/619/12649619/1082062236.jpg",
-        "listing/619/12649619/373586943.jpg",
-        "listing/619/12649619/291628263.jpg",
-        "listing/619/12649619/359501593.jpg",
-        "listing/619/12649619/254749782.jpg",
-        "listing/619/12649619/1473182847.jpg",
-        "listing/619/12649619/2089037781.jpg",
-        "listing/619/12649619/1028875546.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/12649619"
-    },
-    {
       "id": 20687112,
       "make": "FERRARI",
       "model": "Roma",
@@ -3441,6 +3403,44 @@
         "listing/112/20687112/1591170393.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20687112"
+    },
+    {
+      "id": 12649619,
+      "make": "FERRARI",
+      "model": "Roma",
+      "versionFullName": "Roma 3.9 V8 T",
+      "firstRegistrationYear": 2025,
+      "mileage": 400,
+      "price": 259000.0,
+      "horsePower": 620,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2025-07-31T15:41:21.296Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/619/12649619/1943520755.jpg",
+      "imageKeys": [
+        "listing/619/12649619/1943520755.jpg",
+        "listing/619/12649619/262990941.jpg",
+        "listing/619/12649619/2021558806.jpg",
+        "listing/619/12649619/1119168439.jpg",
+        "listing/619/12649619/314975364.jpg",
+        "listing/619/12649619/388512142.jpg",
+        "listing/619/12649619/763382636.jpg",
+        "listing/619/12649619/1082062236.jpg",
+        "listing/619/12649619/373586943.jpg",
+        "listing/619/12649619/291628263.jpg",
+        "listing/619/12649619/359501593.jpg",
+        "listing/619/12649619/254749782.jpg",
+        "listing/619/12649619/1473182847.jpg",
+        "listing/619/12649619/2089037781.jpg",
+        "listing/619/12649619/1028875546.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/12649619"
     },
     {
       "id": 12593707,
