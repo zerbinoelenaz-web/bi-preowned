@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-27T16:51:18.004627+00:00",
+  "timestamp": "2026-09-27T20:01:24.460956+00:00",
   "count": 110,
   "listings": [
     {
@@ -1450,6 +1450,41 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20734883"
     },
     {
+      "id": 10722283,
+      "make": "MERCEDES-BENZ",
+      "model": "GLC 200",
+      "versionFullName": "GLC Coupé 200 4Matic 9G-Tronic",
+      "firstRegistrationYear": 2024,
+      "mileage": 20000,
+      "price": 89900.0,
+      "horsePower": 204,
+      "transmissionType": "automatic",
+      "conditionType": "new",
+      "createdDate": "2023-07-24T14:26:41.555Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/283/10722283/1506006630.jpg",
+      "imageKeys": [
+        "listing/283/10722283/1506006630.jpg",
+        "listing/283/10722283/1468901937.jpg",
+        "listing/283/10722283/1310166292.jpg",
+        "listing/283/10722283/1977223292.jpg",
+        "listing/283/10722283/509858897.jpg",
+        "listing/283/10722283/1561683012.jpg",
+        "listing/283/10722283/1787802081.jpg",
+        "listing/283/10722283/1683874687.jpg",
+        "listing/283/10722283/907543295.jpg",
+        "listing/283/10722283/270347510.jpg",
+        "listing/283/10722283/1390072230.jpg",
+        "listing/283/10722283/1024095097.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/10722283"
+    },
+    {
       "id": 20779110,
       "make": "MASERATI",
       "model": "GRECALE",
@@ -1486,41 +1521,6 @@
         "listing/110/20779110/398195834.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20779110"
-    },
-    {
-      "id": 10722283,
-      "make": "MERCEDES-BENZ",
-      "model": "GLC 200",
-      "versionFullName": "GLC Coupé 200 4Matic 9G-Tronic",
-      "firstRegistrationYear": 2024,
-      "mileage": 20000,
-      "price": 89900.0,
-      "horsePower": 204,
-      "transmissionType": "automatic",
-      "conditionType": "new",
-      "createdDate": "2023-07-24T14:26:41.555Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/283/10722283/1506006630.jpg",
-      "imageKeys": [
-        "listing/283/10722283/1506006630.jpg",
-        "listing/283/10722283/1468901937.jpg",
-        "listing/283/10722283/1310166292.jpg",
-        "listing/283/10722283/1977223292.jpg",
-        "listing/283/10722283/509858897.jpg",
-        "listing/283/10722283/1561683012.jpg",
-        "listing/283/10722283/1787802081.jpg",
-        "listing/283/10722283/1683874687.jpg",
-        "listing/283/10722283/907543295.jpg",
-        "listing/283/10722283/270347510.jpg",
-        "listing/283/10722283/1390072230.jpg",
-        "listing/283/10722283/1024095097.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/10722283"
     },
     {
       "id": 12902839,
@@ -2567,45 +2567,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20751278"
     },
     {
-      "id": 20504432,
-      "make": "MASERATI",
-      "model": "MC 20",
-      "versionFullName": "MC 20",
-      "firstRegistrationYear": 2021,
-      "mileage": 19500,
-      "price": 174900.0,
-      "horsePower": 630,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-05-28T14:43:20.83Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/432/20504432/215100172.jpg",
-      "imageKeys": [
-        "listing/432/20504432/215100172.jpg",
-        "listing/432/20504432/231824210.jpg",
-        "listing/432/20504432/1224222922.jpg",
-        "listing/432/20504432/591981860.jpg",
-        "listing/432/20504432/901733692.jpg",
-        "listing/432/20504432/1568132146.jpg",
-        "listing/432/20504432/1248680781.jpg",
-        "listing/432/20504432/512156903.jpg",
-        "listing/432/20504432/558958150.jpg",
-        "listing/432/20504432/1181291273.jpg",
-        "listing/432/20504432/250798016.jpg",
-        "listing/432/20504432/207624664.jpg",
-        "listing/432/20504432/640590834.jpg",
-        "listing/432/20504432/1586239616.jpg",
-        "listing/432/20504432/1652652905.jpg",
-        "listing/432/20504432/170399110.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20504432"
-    },
-    {
       "id": 20543184,
       "make": "MASERATI",
       "model": "GRANTURISMO",
@@ -2643,6 +2604,45 @@
         "listing/184/20543184/541539502.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20543184"
+    },
+    {
+      "id": 20504432,
+      "make": "MASERATI",
+      "model": "MC 20",
+      "versionFullName": "MC 20",
+      "firstRegistrationYear": 2021,
+      "mileage": 19500,
+      "price": 174900.0,
+      "horsePower": 630,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-05-28T14:43:20.83Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/432/20504432/215100172.jpg",
+      "imageKeys": [
+        "listing/432/20504432/215100172.jpg",
+        "listing/432/20504432/231824210.jpg",
+        "listing/432/20504432/1224222922.jpg",
+        "listing/432/20504432/591981860.jpg",
+        "listing/432/20504432/901733692.jpg",
+        "listing/432/20504432/1568132146.jpg",
+        "listing/432/20504432/1248680781.jpg",
+        "listing/432/20504432/512156903.jpg",
+        "listing/432/20504432/558958150.jpg",
+        "listing/432/20504432/1181291273.jpg",
+        "listing/432/20504432/250798016.jpg",
+        "listing/432/20504432/207624664.jpg",
+        "listing/432/20504432/640590834.jpg",
+        "listing/432/20504432/1586239616.jpg",
+        "listing/432/20504432/1652652905.jpg",
+        "listing/432/20504432/170399110.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20504432"
     },
     {
       "id": 20162412,
