@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-02T01:31:32.157738+00:00",
-  "count": 109,
+  "timestamp": "2026-10-02T08:20:16.007717+00:00",
+  "count": 111,
   "listings": [
     {
       "id": 12837154,
@@ -755,6 +755,43 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/12715365"
     },
     {
+      "id": 12834163,
+      "make": "MERCEDES-BENZ",
+      "model": "CLA 350",
+      "versionFullName": "CLA 350 EQ Technology 4Matic",
+      "firstRegistrationYear": 2025,
+      "mileage": 25,
+      "price": 69900.0,
+      "horsePower": 354,
+      "transmissionType": "automatic",
+      "conditionType": "new",
+      "createdDate": "2025-10-14T07:05:58.281Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/163/12834163/1237663876.jpg",
+      "imageKeys": [
+        "listing/163/12834163/1237663876.jpg",
+        "listing/163/12834163/941504025.jpg",
+        "listing/163/12834163/150155191.jpg",
+        "listing/163/12834163/38813885.jpg",
+        "listing/163/12834163/349307658.jpg",
+        "listing/163/12834163/677596278.jpg",
+        "listing/163/12834163/651383223.jpg",
+        "listing/163/12834163/2122134210.jpg",
+        "listing/163/12834163/594732816.jpg",
+        "listing/163/12834163/648824765.jpg",
+        "listing/163/12834163/1195720897.jpg",
+        "listing/163/12834163/898279883.jpg",
+        "listing/163/12834163/919165313.jpg",
+        "listing/163/12834163/263824738.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/12834163"
+    },
+    {
       "id": 20787071,
       "make": "MERCEDES-BENZ",
       "model": "CLA 220",
@@ -792,43 +829,6 @@
         "listing/71/20787071/1113570180.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20787071"
-    },
-    {
-      "id": 12834163,
-      "make": "MERCEDES-BENZ",
-      "model": "CLA 350",
-      "versionFullName": "CLA 350 EQ Technology 4Matic",
-      "firstRegistrationYear": 2025,
-      "mileage": 25,
-      "price": 69900.0,
-      "horsePower": 354,
-      "transmissionType": "automatic",
-      "conditionType": "new",
-      "createdDate": "2025-10-14T07:05:58.281Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/163/12834163/1237663876.jpg",
-      "imageKeys": [
-        "listing/163/12834163/1237663876.jpg",
-        "listing/163/12834163/941504025.jpg",
-        "listing/163/12834163/150155191.jpg",
-        "listing/163/12834163/38813885.jpg",
-        "listing/163/12834163/349307658.jpg",
-        "listing/163/12834163/677596278.jpg",
-        "listing/163/12834163/651383223.jpg",
-        "listing/163/12834163/2122134210.jpg",
-        "listing/163/12834163/594732816.jpg",
-        "listing/163/12834163/648824765.jpg",
-        "listing/163/12834163/1195720897.jpg",
-        "listing/163/12834163/898279883.jpg",
-        "listing/163/12834163/919165313.jpg",
-        "listing/163/12834163/263824738.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/12834163"
     },
     {
       "id": 20665409,
@@ -1294,44 +1294,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20615904"
     },
     {
-      "id": 20633758,
-      "make": "MASERATI",
-      "model": "GRANTURISMO",
-      "versionFullName": "GRANTURISMO SPORT",
-      "firstRegistrationYear": 2019,
-      "mileage": 19900,
-      "price": 89000.0,
-      "horsePower": 460,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-07-14T13:44:59.801Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/758/20633758/2112793466.jpg",
-      "imageKeys": [
-        "listing/758/20633758/2112793466.jpg",
-        "listing/758/20633758/1952354837.jpg",
-        "listing/758/20633758/1122295722.jpg",
-        "listing/758/20633758/1733196462.jpg",
-        "listing/758/20633758/861225590.jpg",
-        "listing/758/20633758/992790376.jpg",
-        "listing/758/20633758/1918560944.jpg",
-        "listing/758/20633758/586939800.jpg",
-        "listing/758/20633758/585985435.jpg",
-        "listing/758/20633758/1943348261.jpg",
-        "listing/758/20633758/1007537434.jpg",
-        "listing/758/20633758/833347075.jpg",
-        "listing/758/20633758/1153376661.jpg",
-        "listing/758/20633758/1041626693.jpg",
-        "listing/758/20633758/269514008.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20633758"
-    },
-    {
       "id": 12331092,
       "make": "MASERATI",
       "model": "GHIBLI",
@@ -1369,6 +1331,44 @@
         "listing/92/12331092/463848796.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/12331092"
+    },
+    {
+      "id": 20633758,
+      "make": "MASERATI",
+      "model": "GRANTURISMO",
+      "versionFullName": "GRANTURISMO SPORT",
+      "firstRegistrationYear": 2019,
+      "mileage": 19900,
+      "price": 89000.0,
+      "horsePower": 460,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-07-14T13:44:59.801Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/758/20633758/2112793466.jpg",
+      "imageKeys": [
+        "listing/758/20633758/2112793466.jpg",
+        "listing/758/20633758/1952354837.jpg",
+        "listing/758/20633758/1122295722.jpg",
+        "listing/758/20633758/1733196462.jpg",
+        "listing/758/20633758/861225590.jpg",
+        "listing/758/20633758/992790376.jpg",
+        "listing/758/20633758/1918560944.jpg",
+        "listing/758/20633758/586939800.jpg",
+        "listing/758/20633758/585985435.jpg",
+        "listing/758/20633758/1943348261.jpg",
+        "listing/758/20633758/1007537434.jpg",
+        "listing/758/20633758/833347075.jpg",
+        "listing/758/20633758/1153376661.jpg",
+        "listing/758/20633758/1041626693.jpg",
+        "listing/758/20633758/269514008.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20633758"
     },
     {
       "id": 20734883,
@@ -2316,6 +2316,44 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20566024"
     },
     {
+      "id": 20303055,
+      "make": "MASERATI",
+      "model": "GRECALE",
+      "versionFullName": "GRECALE 3.0 V6 TROFEO MY26 FUORISERIE AZZURRO ASTRO GLOSSY",
+      "firstRegistrationYear": 2026,
+      "mileage": 7000,
+      "price": 133900.0,
+      "horsePower": 531,
+      "transmissionType": "automatic",
+      "conditionType": "demonstration",
+      "createdDate": "2026-03-18T16:22:40.94Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/55/20303055/2070637457.jpg",
+      "imageKeys": [
+        "listing/55/20303055/2070637457.jpg",
+        "listing/55/20303055/251770184.jpg",
+        "listing/55/20303055/799109975.jpg",
+        "listing/55/20303055/383260549.jpg",
+        "listing/55/20303055/1187278299.jpg",
+        "listing/55/20303055/174134118.jpg",
+        "listing/55/20303055/891697426.jpg",
+        "listing/55/20303055/273498299.jpg",
+        "listing/55/20303055/1555539605.jpg",
+        "listing/55/20303055/1748006164.jpg",
+        "listing/55/20303055/1474737589.jpg",
+        "listing/55/20303055/1151068068.jpg",
+        "listing/55/20303055/1153485476.jpg",
+        "listing/55/20303055/998319305.jpg",
+        "listing/55/20303055/1118835092.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20303055"
+    },
+    {
       "id": 20843883,
       "make": "MASERATI",
       "model": "GRANCABRIO",
@@ -2353,44 +2391,6 @@
         "listing/883/20843883/1897816010.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20843883"
-    },
-    {
-      "id": 20303055,
-      "make": "MASERATI",
-      "model": "GRECALE",
-      "versionFullName": "GRECALE 3.0 V6 TROFEO MY26 FUORISERIE AZZURRO ASTRO GLOSSY",
-      "firstRegistrationYear": 2026,
-      "mileage": 7000,
-      "price": 133900.0,
-      "horsePower": 531,
-      "transmissionType": "automatic",
-      "conditionType": "demonstration",
-      "createdDate": "2026-03-18T16:22:40.94Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/55/20303055/2070637457.jpg",
-      "imageKeys": [
-        "listing/55/20303055/2070637457.jpg",
-        "listing/55/20303055/251770184.jpg",
-        "listing/55/20303055/799109975.jpg",
-        "listing/55/20303055/383260549.jpg",
-        "listing/55/20303055/1187278299.jpg",
-        "listing/55/20303055/174134118.jpg",
-        "listing/55/20303055/891697426.jpg",
-        "listing/55/20303055/273498299.jpg",
-        "listing/55/20303055/1555539605.jpg",
-        "listing/55/20303055/1748006164.jpg",
-        "listing/55/20303055/1474737589.jpg",
-        "listing/55/20303055/1151068068.jpg",
-        "listing/55/20303055/1153485476.jpg",
-        "listing/55/20303055/998319305.jpg",
-        "listing/55/20303055/1118835092.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20303055"
     },
     {
       "id": 20575474,
@@ -2875,18 +2875,23 @@
         "city": "Urdorf-Zürich",
         "zipCode": "8902"
       },
-      "imageKey": "listing/704/12476704/866536227.jpg",
+      "imageKey": "listing/704/12476704/1286505561.jpg",
       "imageKeys": [
-        "listing/704/12476704/866536227.jpg",
-        "listing/704/12476704/1042804270.jpg",
-        "listing/704/12476704/1951403342.jpg",
-        "listing/704/12476704/1130415272.jpg",
-        "listing/704/12476704/1804293599.jpg",
-        "listing/704/12476704/1570359067.jpg",
-        "listing/704/12476704/1413780630.jpg",
-        "listing/704/12476704/2128429612.jpg",
-        "listing/704/12476704/1895802392.jpg",
-        "listing/704/12476704/1874602954.jpg"
+        "listing/704/12476704/1286505561.jpg",
+        "listing/704/12476704/2116815749.jpg",
+        "listing/704/12476704/415885027.jpg",
+        "listing/704/12476704/1746523091.jpg",
+        "listing/704/12476704/166600085.jpg",
+        "listing/704/12476704/1944489921.jpg",
+        "listing/704/12476704/1991373763.jpg",
+        "listing/704/12476704/897637649.jpg",
+        "listing/704/12476704/218893208.jpg",
+        "listing/704/12476704/1721024867.jpg",
+        "listing/704/12476704/1769882043.jpg",
+        "listing/704/12476704/1421748009.jpg",
+        "listing/704/12476704/588930941.jpg",
+        "listing/704/12476704/585472197.jpg",
+        "listing/704/12476704/526516237.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/12476704"
     },
@@ -3789,6 +3794,45 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/12630768"
     },
     {
+      "id": 20872422,
+      "make": "FERRARI",
+      "model": "296",
+      "versionFullName": "296 GTS",
+      "firstRegistrationYear": 2025,
+      "mileage": 11500,
+      "price": 299000.0,
+      "horsePower": 830,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2026-10-02T06:36:43.831Z",
+      "seller": {
+        "id": 60699,
+        "name": "B.I. Collection - Ferrari Zürich",
+        "city": "Urdorf-Zürich",
+        "zipCode": "8902"
+      },
+      "imageKey": "listing/422/20872422/1392718466.jpg",
+      "imageKeys": [
+        "listing/422/20872422/1392718466.jpg",
+        "listing/422/20872422/937813723.jpg",
+        "listing/422/20872422/330277657.jpg",
+        "listing/422/20872422/2025444534.jpg",
+        "listing/422/20872422/1969273436.jpg",
+        "listing/422/20872422/509880088.jpg",
+        "listing/422/20872422/1971132205.jpg",
+        "listing/422/20872422/512859183.jpg",
+        "listing/422/20872422/1076892218.jpg",
+        "listing/422/20872422/1425948426.jpg",
+        "listing/422/20872422/410240780.jpg",
+        "listing/422/20872422/1896346754.jpg",
+        "listing/422/20872422/1237173734.jpg",
+        "listing/422/20872422/1479338843.jpg",
+        "listing/422/20872422/651585905.jpg",
+        "listing/422/20872422/482985081.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20872422"
+    },
+    {
       "id": 20184234,
       "make": "MERCEDES-BENZ",
       "model": "G 63 AMG",
@@ -3821,6 +3865,44 @@
         "listing/234/20184234/268685875.JPG"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20184234"
+    },
+    {
+      "id": 20872476,
+      "make": "FERRARI",
+      "model": "812",
+      "versionFullName": "812 Superfast",
+      "firstRegistrationYear": 2018,
+      "mileage": 30500,
+      "price": 319000.0,
+      "horsePower": 796,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2026-10-02T06:52:14.747Z",
+      "seller": {
+        "id": 60699,
+        "name": "B.I. Collection - Ferrari Zürich",
+        "city": "Urdorf-Zürich",
+        "zipCode": "8902"
+      },
+      "imageKey": "listing/476/20872476/1066785717.jpg",
+      "imageKeys": [
+        "listing/476/20872476/1066785717.jpg",
+        "listing/476/20872476/1402254468.jpg",
+        "listing/476/20872476/451478646.jpg",
+        "listing/476/20872476/1843997731.jpg",
+        "listing/476/20872476/1871433901.jpg",
+        "listing/476/20872476/463283763.jpg",
+        "listing/476/20872476/977687930.jpg",
+        "listing/476/20872476/210247197.jpg",
+        "listing/476/20872476/731005489.jpg",
+        "listing/476/20872476/742515773.jpg",
+        "listing/476/20872476/864139736.jpg",
+        "listing/476/20872476/972576902.jpg",
+        "listing/476/20872476/2077553753.jpg",
+        "listing/476/20872476/142586155.jpg",
+        "listing/476/20872476/1789163775.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20872476"
     },
     {
       "id": 20539920,
