@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-02T08:20:16.007717+00:00",
-  "count": 111,
+  "timestamp": "2026-10-02T15:40:37.954783+00:00",
+  "count": 108,
   "listings": [
     {
       "id": 12837154,
@@ -1294,6 +1294,44 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20615904"
     },
     {
+      "id": 20633758,
+      "make": "MASERATI",
+      "model": "GRANTURISMO",
+      "versionFullName": "GRANTURISMO SPORT",
+      "firstRegistrationYear": 2019,
+      "mileage": 19900,
+      "price": 89000.0,
+      "horsePower": 460,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-07-14T13:44:59.801Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/758/20633758/2112793466.jpg",
+      "imageKeys": [
+        "listing/758/20633758/2112793466.jpg",
+        "listing/758/20633758/1952354837.jpg",
+        "listing/758/20633758/1122295722.jpg",
+        "listing/758/20633758/1733196462.jpg",
+        "listing/758/20633758/861225590.jpg",
+        "listing/758/20633758/992790376.jpg",
+        "listing/758/20633758/1918560944.jpg",
+        "listing/758/20633758/586939800.jpg",
+        "listing/758/20633758/585985435.jpg",
+        "listing/758/20633758/1943348261.jpg",
+        "listing/758/20633758/1007537434.jpg",
+        "listing/758/20633758/833347075.jpg",
+        "listing/758/20633758/1153376661.jpg",
+        "listing/758/20633758/1041626693.jpg",
+        "listing/758/20633758/269514008.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20633758"
+    },
+    {
       "id": 12331092,
       "make": "MASERATI",
       "model": "GHIBLI",
@@ -1331,44 +1369,6 @@
         "listing/92/12331092/463848796.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/12331092"
-    },
-    {
-      "id": 20633758,
-      "make": "MASERATI",
-      "model": "GRANTURISMO",
-      "versionFullName": "GRANTURISMO SPORT",
-      "firstRegistrationYear": 2019,
-      "mileage": 19900,
-      "price": 89000.0,
-      "horsePower": 460,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-07-14T13:44:59.801Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/758/20633758/2112793466.jpg",
-      "imageKeys": [
-        "listing/758/20633758/2112793466.jpg",
-        "listing/758/20633758/1952354837.jpg",
-        "listing/758/20633758/1122295722.jpg",
-        "listing/758/20633758/1733196462.jpg",
-        "listing/758/20633758/861225590.jpg",
-        "listing/758/20633758/992790376.jpg",
-        "listing/758/20633758/1918560944.jpg",
-        "listing/758/20633758/586939800.jpg",
-        "listing/758/20633758/585985435.jpg",
-        "listing/758/20633758/1943348261.jpg",
-        "listing/758/20633758/1007537434.jpg",
-        "listing/758/20633758/833347075.jpg",
-        "listing/758/20633758/1153376661.jpg",
-        "listing/758/20633758/1041626693.jpg",
-        "listing/758/20633758/269514008.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20633758"
     },
     {
       "id": 20734883,
@@ -2132,49 +2132,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20688073"
     },
     {
-      "id": 20704083,
-      "make": "ASTON MARTIN",
-      "model": "V12 Vantage",
-      "versionFullName": "V12 Vantage 5.9",
-      "firstRegistrationYear": 2010,
-      "mileage": 25900,
-      "price": 122007.0,
-      "horsePower": 517,
-      "transmissionType": "manual",
-      "conditionType": "used",
-      "createdDate": "2026-08-13T07:40:10.947Z",
-      "seller": {
-        "id": 2304422,
-        "name": "B.I. Collection SG AG",
-        "city": "Niederwil SG",
-        "zipCode": "9203"
-      },
-      "imageKey": "listing/83/20704083/980881979.jpg",
-      "imageKeys": [
-        "listing/83/20704083/980881979.jpg",
-        "listing/83/20704083/1046868308.jpg",
-        "listing/83/20704083/409445628.jpg",
-        "listing/83/20704083/1902933156.jpg",
-        "listing/83/20704083/1468846737.jpg",
-        "listing/83/20704083/1577196666.jpg",
-        "listing/83/20704083/1508205727.jpg",
-        "listing/83/20704083/512275681.jpg",
-        "listing/83/20704083/506138955.jpg",
-        "listing/83/20704083/1057712325.jpg",
-        "listing/83/20704083/18201001.jpg",
-        "listing/83/20704083/1733123587.jpg",
-        "listing/83/20704083/1486877976.jpg",
-        "listing/83/20704083/1903543476.jpg",
-        "listing/83/20704083/625267430.jpg",
-        "listing/83/20704083/1117158225.jpg",
-        "listing/83/20704083/506281548.jpg",
-        "listing/83/20704083/514841076.jpg",
-        "listing/83/20704083/2068944603.jpg",
-        "listing/83/20704083/1361265301.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20704083"
-    },
-    {
       "id": 20665931,
       "make": "AUDI",
       "model": "R8",
@@ -2704,44 +2661,6 @@
         "listing/412/20162412/218840713.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20162412"
-    },
-    {
-      "id": 20809440,
-      "make": "FERRARI",
-      "model": "Roma",
-      "versionFullName": "Roma 3.9 V8 T Sehr gepflegt edle Konfiguration",
-      "firstRegistrationYear": 2021,
-      "mileage": 12000,
-      "price": 178000.0,
-      "horsePower": null,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-09-10T06:38:39.484Z",
-      "seller": {
-        "id": 60699,
-        "name": "B.I. Collection - Ferrari Zürich",
-        "city": "Urdorf-Zürich",
-        "zipCode": "8902"
-      },
-      "imageKey": "listing/440/20809440/1242167576.jpg",
-      "imageKeys": [
-        "listing/440/20809440/1242167576.jpg",
-        "listing/440/20809440/1333144710.jpg",
-        "listing/440/20809440/942202280.jpg",
-        "listing/440/20809440/1059181681.jpg",
-        "listing/440/20809440/2088043261.jpg",
-        "listing/440/20809440/1323453910.jpg",
-        "listing/440/20809440/2117406844.jpg",
-        "listing/440/20809440/1116788673.jpg",
-        "listing/440/20809440/1443895582.jpg",
-        "listing/440/20809440/131988495.jpg",
-        "listing/440/20809440/15060193.jpg",
-        "listing/440/20809440/876940527.jpg",
-        "listing/440/20809440/14359345.jpg",
-        "listing/440/20809440/142429780.jpg",
-        "listing/440/20809440/1542957072.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20809440"
     },
     {
       "id": 11491790,
@@ -4117,53 +4036,6 @@
         "listing/583/12476583/1414784412.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/12476583"
-    },
-    {
-      "id": 20539522,
-      "make": "FERRARI",
-      "model": "812",
-      "versionFullName": "812 Superfast Taylor Made Car",
-      "firstRegistrationYear": 2020,
-      "mileage": 3400,
-      "price": 399000.0,
-      "horsePower": 795,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-06-10T07:42:10.346Z",
-      "seller": {
-        "id": 60699,
-        "name": "B.I. Collection - Ferrari Zürich",
-        "city": "Urdorf-Zürich",
-        "zipCode": "8902"
-      },
-      "imageKey": "listing/522/20539522/680877967.jpg",
-      "imageKeys": [
-        "listing/522/20539522/680877967.jpg",
-        "listing/522/20539522/1719235978.jpg",
-        "listing/522/20539522/618068495.jpg",
-        "listing/522/20539522/1685125839.jpg",
-        "listing/522/20539522/1161979695.jpg",
-        "listing/522/20539522/742851698.jpg",
-        "listing/522/20539522/114579126.jpg",
-        "listing/522/20539522/433746965.jpg",
-        "listing/522/20539522/1443489107.jpg",
-        "listing/522/20539522/301277394.jpg",
-        "listing/522/20539522/897506411.jpg",
-        "listing/522/20539522/1960451944.jpg",
-        "listing/522/20539522/1418407652.jpg",
-        "listing/522/20539522/1093553225.jpg",
-        "listing/522/20539522/295975130.jpg",
-        "listing/522/20539522/926795389.jpg",
-        "listing/522/20539522/1642833392.jpg",
-        "listing/522/20539522/1027160528.jpg",
-        "listing/522/20539522/2051448899.jpg",
-        "listing/522/20539522/114984196.jpg",
-        "listing/522/20539522/1013521921.jpg",
-        "listing/522/20539522/1815002528.jpg",
-        "listing/522/20539522/884752554.jpg",
-        "listing/522/20539522/1131296841.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20539522"
     },
     {
       "id": 20078966,
