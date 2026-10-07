@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-06T22:35:19.301711+00:00",
+  "timestamp": "2026-10-07T02:13:22.731587+00:00",
   "count": 108,
   "listings": [
     {
@@ -643,44 +643,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20306429"
     },
     {
-      "id": 12715365,
-      "make": "MASERATI",
-      "model": "GRECALE",
-      "versionFullName": "GRECALE 2.0 MHEV MODENA HYBRID",
-      "firstRegistrationYear": 2024,
-      "mileage": 30000,
-      "price": 69900.0,
-      "horsePower": 330,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2025-08-29T08:40:53.628Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/365/12715365/1387840166.jpg",
-      "imageKeys": [
-        "listing/365/12715365/1387840166.jpg",
-        "listing/365/12715365/488267308.jpg",
-        "listing/365/12715365/582361407.jpg",
-        "listing/365/12715365/32770939.jpg",
-        "listing/365/12715365/1083494060.jpg",
-        "listing/365/12715365/1991888284.jpg",
-        "listing/365/12715365/1296218083.jpg",
-        "listing/365/12715365/1638666922.jpg",
-        "listing/365/12715365/668488296.jpg",
-        "listing/365/12715365/1322447799.jpg",
-        "listing/365/12715365/570978465.jpg",
-        "listing/365/12715365/723630535.jpg",
-        "listing/365/12715365/293980206.jpg",
-        "listing/365/12715365/1015383482.jpg",
-        "listing/365/12715365/332335704.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/12715365"
-    },
-    {
       "id": 20253754,
       "make": "MASERATI",
       "model": "GRECALE",
@@ -718,6 +680,44 @@
         "listing/754/20253754/785041207.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20253754"
+    },
+    {
+      "id": 12715365,
+      "make": "MASERATI",
+      "model": "GRECALE",
+      "versionFullName": "GRECALE 2.0 MHEV MODENA HYBRID",
+      "firstRegistrationYear": 2024,
+      "mileage": 30000,
+      "price": 69900.0,
+      "horsePower": 330,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2025-08-29T08:40:53.628Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/365/12715365/1387840166.jpg",
+      "imageKeys": [
+        "listing/365/12715365/1387840166.jpg",
+        "listing/365/12715365/488267308.jpg",
+        "listing/365/12715365/582361407.jpg",
+        "listing/365/12715365/32770939.jpg",
+        "listing/365/12715365/1083494060.jpg",
+        "listing/365/12715365/1991888284.jpg",
+        "listing/365/12715365/1296218083.jpg",
+        "listing/365/12715365/1638666922.jpg",
+        "listing/365/12715365/668488296.jpg",
+        "listing/365/12715365/1322447799.jpg",
+        "listing/365/12715365/570978465.jpg",
+        "listing/365/12715365/723630535.jpg",
+        "listing/365/12715365/293980206.jpg",
+        "listing/365/12715365/1015383482.jpg",
+        "listing/365/12715365/332335704.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/12715365"
     },
     {
       "id": 12062721,
