@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-07T02:13:22.731587+00:00",
-  "count": 108,
+  "timestamp": "2026-10-07T10:07:24.460344+00:00",
+  "count": 107,
   "listings": [
     {
       "id": 12837154,
@@ -643,6 +643,44 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20306429"
     },
     {
+      "id": 12715365,
+      "make": "MASERATI",
+      "model": "GRECALE",
+      "versionFullName": "GRECALE 2.0 MHEV MODENA HYBRID",
+      "firstRegistrationYear": 2024,
+      "mileage": 30000,
+      "price": 69900.0,
+      "horsePower": 330,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2025-08-29T08:40:53.628Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/365/12715365/1387840166.jpg",
+      "imageKeys": [
+        "listing/365/12715365/1387840166.jpg",
+        "listing/365/12715365/488267308.jpg",
+        "listing/365/12715365/582361407.jpg",
+        "listing/365/12715365/32770939.jpg",
+        "listing/365/12715365/1083494060.jpg",
+        "listing/365/12715365/1991888284.jpg",
+        "listing/365/12715365/1296218083.jpg",
+        "listing/365/12715365/1638666922.jpg",
+        "listing/365/12715365/668488296.jpg",
+        "listing/365/12715365/1322447799.jpg",
+        "listing/365/12715365/570978465.jpg",
+        "listing/365/12715365/723630535.jpg",
+        "listing/365/12715365/293980206.jpg",
+        "listing/365/12715365/1015383482.jpg",
+        "listing/365/12715365/332335704.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/12715365"
+    },
+    {
       "id": 20253754,
       "make": "MASERATI",
       "model": "GRECALE",
@@ -680,44 +718,6 @@
         "listing/754/20253754/785041207.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20253754"
-    },
-    {
-      "id": 12715365,
-      "make": "MASERATI",
-      "model": "GRECALE",
-      "versionFullName": "GRECALE 2.0 MHEV MODENA HYBRID",
-      "firstRegistrationYear": 2024,
-      "mileage": 30000,
-      "price": 69900.0,
-      "horsePower": 330,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2025-08-29T08:40:53.628Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/365/12715365/1387840166.jpg",
-      "imageKeys": [
-        "listing/365/12715365/1387840166.jpg",
-        "listing/365/12715365/488267308.jpg",
-        "listing/365/12715365/582361407.jpg",
-        "listing/365/12715365/32770939.jpg",
-        "listing/365/12715365/1083494060.jpg",
-        "listing/365/12715365/1991888284.jpg",
-        "listing/365/12715365/1296218083.jpg",
-        "listing/365/12715365/1638666922.jpg",
-        "listing/365/12715365/668488296.jpg",
-        "listing/365/12715365/1322447799.jpg",
-        "listing/365/12715365/570978465.jpg",
-        "listing/365/12715365/723630535.jpg",
-        "listing/365/12715365/293980206.jpg",
-        "listing/365/12715365/1015383482.jpg",
-        "listing/365/12715365/332335704.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/12715365"
     },
     {
       "id": 12062721,
@@ -2425,44 +2425,6 @@
         "listing/474/20575474/1071817674.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20575474"
-    },
-    {
-      "id": 20779543,
-      "make": "MASERATI",
-      "model": "GRECALE",
-      "versionFullName": "GRECALE TROFEO MY2027",
-      "firstRegistrationYear": 2026,
-      "mileage": 3000,
-      "price": 139900.0,
-      "horsePower": 531,
-      "transmissionType": "automatic",
-      "conditionType": "demonstration",
-      "createdDate": "2026-09-02T09:26:16.609Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/543/20779543/1159151400.jpg",
-      "imageKeys": [
-        "listing/543/20779543/1159151400.jpg",
-        "listing/543/20779543/1888945357.jpg",
-        "listing/543/20779543/2142620.jpg",
-        "listing/543/20779543/1151243130.jpg",
-        "listing/543/20779543/1494112507.jpg",
-        "listing/543/20779543/635425650.jpg",
-        "listing/543/20779543/1804490898.jpg",
-        "listing/543/20779543/223538939.jpg",
-        "listing/543/20779543/1660741981.jpg",
-        "listing/543/20779543/227666641.jpg",
-        "listing/543/20779543/846410360.jpg",
-        "listing/543/20779543/493110631.jpg",
-        "listing/543/20779543/1863548398.jpg",
-        "listing/543/20779543/1786963618.jpg",
-        "listing/543/20779543/1914152369.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20779543"
     },
     {
       "id": 20078636,
