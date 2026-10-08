@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-08T02:39:46.916589+00:00",
-  "count": 111,
+  "timestamp": "2026-10-08T10:21:58.331506+00:00",
+  "count": 112,
   "listings": [
     {
       "id": 12837154,
@@ -643,6 +643,44 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20306429"
     },
     {
+      "id": 12715365,
+      "make": "MASERATI",
+      "model": "GRECALE",
+      "versionFullName": "GRECALE 2.0 MHEV MODENA HYBRID",
+      "firstRegistrationYear": 2024,
+      "mileage": 30000,
+      "price": 69900.0,
+      "horsePower": 330,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2025-08-29T08:40:53.628Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/365/12715365/1387840166.jpg",
+      "imageKeys": [
+        "listing/365/12715365/1387840166.jpg",
+        "listing/365/12715365/488267308.jpg",
+        "listing/365/12715365/582361407.jpg",
+        "listing/365/12715365/32770939.jpg",
+        "listing/365/12715365/1083494060.jpg",
+        "listing/365/12715365/1991888284.jpg",
+        "listing/365/12715365/1296218083.jpg",
+        "listing/365/12715365/1638666922.jpg",
+        "listing/365/12715365/668488296.jpg",
+        "listing/365/12715365/1322447799.jpg",
+        "listing/365/12715365/570978465.jpg",
+        "listing/365/12715365/723630535.jpg",
+        "listing/365/12715365/293980206.jpg",
+        "listing/365/12715365/1015383482.jpg",
+        "listing/365/12715365/332335704.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/12715365"
+    },
+    {
       "id": 20253754,
       "make": "MASERATI",
       "model": "GRECALE",
@@ -680,44 +718,6 @@
         "listing/754/20253754/785041207.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20253754"
-    },
-    {
-      "id": 12715365,
-      "make": "MASERATI",
-      "model": "GRECALE",
-      "versionFullName": "GRECALE 2.0 MHEV MODENA HYBRID",
-      "firstRegistrationYear": 2024,
-      "mileage": 30000,
-      "price": 69900.0,
-      "horsePower": 330,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2025-08-29T08:40:53.628Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/365/12715365/1387840166.jpg",
-      "imageKeys": [
-        "listing/365/12715365/1387840166.jpg",
-        "listing/365/12715365/488267308.jpg",
-        "listing/365/12715365/582361407.jpg",
-        "listing/365/12715365/32770939.jpg",
-        "listing/365/12715365/1083494060.jpg",
-        "listing/365/12715365/1991888284.jpg",
-        "listing/365/12715365/1296218083.jpg",
-        "listing/365/12715365/1638666922.jpg",
-        "listing/365/12715365/668488296.jpg",
-        "listing/365/12715365/1322447799.jpg",
-        "listing/365/12715365/570978465.jpg",
-        "listing/365/12715365/723630535.jpg",
-        "listing/365/12715365/293980206.jpg",
-        "listing/365/12715365/1015383482.jpg",
-        "listing/365/12715365/332335704.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/12715365"
     },
     {
       "id": 12062721,
@@ -2428,6 +2428,44 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20882661"
     },
     {
+      "id": 20303055,
+      "make": "MASERATI",
+      "model": "GRECALE",
+      "versionFullName": "GRECALE 3.0 V6 TROFEO MY26 FUORISERIE AZZURRO ASTRO GLOSSY",
+      "firstRegistrationYear": 2026,
+      "mileage": 7000,
+      "price": 133900.0,
+      "horsePower": 531,
+      "transmissionType": "automatic",
+      "conditionType": "demonstration",
+      "createdDate": "2026-03-18T16:22:40.94Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/55/20303055/2070637457.jpg",
+      "imageKeys": [
+        "listing/55/20303055/2070637457.jpg",
+        "listing/55/20303055/251770184.jpg",
+        "listing/55/20303055/799109975.jpg",
+        "listing/55/20303055/383260549.jpg",
+        "listing/55/20303055/1187278299.jpg",
+        "listing/55/20303055/174134118.jpg",
+        "listing/55/20303055/891697426.jpg",
+        "listing/55/20303055/273498299.jpg",
+        "listing/55/20303055/1555539605.jpg",
+        "listing/55/20303055/1748006164.jpg",
+        "listing/55/20303055/1474737589.jpg",
+        "listing/55/20303055/1151068068.jpg",
+        "listing/55/20303055/1153485476.jpg",
+        "listing/55/20303055/998319305.jpg",
+        "listing/55/20303055/1118835092.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20303055"
+    },
+    {
       "id": 20843883,
       "make": "MASERATI",
       "model": "GRANCABRIO",
@@ -2465,44 +2503,6 @@
         "listing/883/20843883/1897816010.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20843883"
-    },
-    {
-      "id": 20303055,
-      "make": "MASERATI",
-      "model": "GRECALE",
-      "versionFullName": "GRECALE 3.0 V6 TROFEO MY26 FUORISERIE AZZURRO ASTRO GLOSSY",
-      "firstRegistrationYear": 2026,
-      "mileage": 7000,
-      "price": 133900.0,
-      "horsePower": 531,
-      "transmissionType": "automatic",
-      "conditionType": "demonstration",
-      "createdDate": "2026-03-18T16:22:40.94Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/55/20303055/2070637457.jpg",
-      "imageKeys": [
-        "listing/55/20303055/2070637457.jpg",
-        "listing/55/20303055/251770184.jpg",
-        "listing/55/20303055/799109975.jpg",
-        "listing/55/20303055/383260549.jpg",
-        "listing/55/20303055/1187278299.jpg",
-        "listing/55/20303055/174134118.jpg",
-        "listing/55/20303055/891697426.jpg",
-        "listing/55/20303055/273498299.jpg",
-        "listing/55/20303055/1555539605.jpg",
-        "listing/55/20303055/1748006164.jpg",
-        "listing/55/20303055/1474737589.jpg",
-        "listing/55/20303055/1151068068.jpg",
-        "listing/55/20303055/1153485476.jpg",
-        "listing/55/20303055/998319305.jpg",
-        "listing/55/20303055/1118835092.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20303055"
     },
     {
       "id": 20575474,
@@ -2581,6 +2581,45 @@
         "listing/919/20886919/1913188512.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20886919"
+    },
+    {
+      "id": 20882702,
+      "make": "MASERATI",
+      "model": "GRECALE",
+      "versionFullName": "GRECALE TROFEO MY2027",
+      "firstRegistrationYear": 2026,
+      "mileage": 100,
+      "price": 144900.0,
+      "horsePower": 530,
+      "transmissionType": "automatic",
+      "conditionType": "new",
+      "createdDate": "2026-10-06T09:13:35.669Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/702/20882702/1967713019.jpg",
+      "imageKeys": [
+        "listing/702/20882702/1967713019.jpg",
+        "listing/702/20882702/1986677325.jpg",
+        "listing/702/20882702/124537904.jpg",
+        "listing/702/20882702/2143425019.jpg",
+        "listing/702/20882702/581531608.jpg",
+        "listing/702/20882702/669806915.jpg",
+        "listing/702/20882702/512549539.jpg",
+        "listing/702/20882702/1036329602.jpg",
+        "listing/702/20882702/484262810.jpg",
+        "listing/702/20882702/338003143.jpg",
+        "listing/702/20882702/1822879746.jpg",
+        "listing/702/20882702/1561667183.jpg",
+        "listing/702/20882702/1059557518.jpg",
+        "listing/702/20882702/624041235.jpg",
+        "listing/702/20882702/1955805564.jpg",
+        "listing/702/20882702/1164345608.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20882702"
     },
     {
       "id": 20887757,
