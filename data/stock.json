@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-21T23:58:07.991064+00:00",
+  "timestamp": "2026-10-22T04:30:15.886946+00:00",
   "count": 110,
   "listings": [
     {
@@ -643,45 +643,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/12062721"
     },
     {
-      "id": 20306429,
-      "make": "MASERATI",
-      "model": "LEVANTE",
-      "versionFullName": "LEVANTE 3.8 V8 TROFEO Q4",
-      "firstRegistrationYear": 2019,
-      "mileage": 61500,
-      "price": 69900.0,
-      "horsePower": 581,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-03-19T16:13:23.82Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/429/20306429/366142183.jpg",
-      "imageKeys": [
-        "listing/429/20306429/366142183.jpg",
-        "listing/429/20306429/1087632254.jpg",
-        "listing/429/20306429/457465742.jpg",
-        "listing/429/20306429/1873599371.jpg",
-        "listing/429/20306429/725341779.jpg",
-        "listing/429/20306429/2101828696.jpg",
-        "listing/429/20306429/1119571877.jpg",
-        "listing/429/20306429/115890380.jpg",
-        "listing/429/20306429/1075488724.jpg",
-        "listing/429/20306429/856829073.jpg",
-        "listing/429/20306429/1070662872.jpg",
-        "listing/429/20306429/1526902970.jpg",
-        "listing/429/20306429/2054831328.jpg",
-        "listing/429/20306429/1097438945.jpg",
-        "listing/429/20306429/93151359.jpg",
-        "listing/429/20306429/431747580.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20306429"
-    },
-    {
       "id": 12661047,
       "make": "MASERATI",
       "model": "GRECALE",
@@ -721,6 +682,45 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/12661047"
     },
     {
+      "id": 20306429,
+      "make": "MASERATI",
+      "model": "LEVANTE",
+      "versionFullName": "LEVANTE 3.8 V8 TROFEO Q4",
+      "firstRegistrationYear": 2019,
+      "mileage": 61500,
+      "price": 69900.0,
+      "horsePower": 581,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-03-19T16:13:23.82Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/429/20306429/366142183.jpg",
+      "imageKeys": [
+        "listing/429/20306429/366142183.jpg",
+        "listing/429/20306429/1087632254.jpg",
+        "listing/429/20306429/457465742.jpg",
+        "listing/429/20306429/1873599371.jpg",
+        "listing/429/20306429/725341779.jpg",
+        "listing/429/20306429/2101828696.jpg",
+        "listing/429/20306429/1119571877.jpg",
+        "listing/429/20306429/115890380.jpg",
+        "listing/429/20306429/1075488724.jpg",
+        "listing/429/20306429/856829073.jpg",
+        "listing/429/20306429/1070662872.jpg",
+        "listing/429/20306429/1526902970.jpg",
+        "listing/429/20306429/2054831328.jpg",
+        "listing/429/20306429/1097438945.jpg",
+        "listing/429/20306429/93151359.jpg",
+        "listing/429/20306429/431747580.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20306429"
+    },
+    {
       "id": 12715365,
       "make": "MASERATI",
       "model": "GRECALE",
@@ -757,6 +757,45 @@
         "listing/365/12715365/332335704.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/12715365"
+    },
+    {
+      "id": 20253754,
+      "make": "MASERATI",
+      "model": "GRECALE",
+      "versionFullName": "GRECALE 2.0 MHEV MODENA HYBRID",
+      "firstRegistrationYear": 2024,
+      "mileage": 20000,
+      "price": 69900.0,
+      "horsePower": 330,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-03-02T16:51:31.426Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/754/20253754/2024698128.jpg",
+      "imageKeys": [
+        "listing/754/20253754/2024698128.jpg",
+        "listing/754/20253754/1154719219.jpg",
+        "listing/754/20253754/921326118.jpg",
+        "listing/754/20253754/252464338.jpg",
+        "listing/754/20253754/1255646484.jpg",
+        "listing/754/20253754/1836823855.jpg",
+        "listing/754/20253754/1558504800.jpg",
+        "listing/754/20253754/1753507874.jpg",
+        "listing/754/20253754/1644394297.jpg",
+        "listing/754/20253754/1298688070.jpg",
+        "listing/754/20253754/1014841695.jpg",
+        "listing/754/20253754/25473718.jpg",
+        "listing/754/20253754/1293679548.jpg",
+        "listing/754/20253754/336948108.jpg",
+        "listing/754/20253754/1817050041.jpg",
+        "listing/754/20253754/785041207.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20253754"
     },
     {
       "id": 20787071,
@@ -833,45 +872,6 @@
         "listing/163/12834163/263824738.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/12834163"
-    },
-    {
-      "id": 20253754,
-      "make": "MASERATI",
-      "model": "GRECALE",
-      "versionFullName": "GRECALE 2.0 MHEV MODENA HYBRID",
-      "firstRegistrationYear": 2024,
-      "mileage": 20000,
-      "price": 69900.0,
-      "horsePower": 330,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-03-02T16:51:31.426Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/754/20253754/2024698128.jpg",
-      "imageKeys": [
-        "listing/754/20253754/2024698128.jpg",
-        "listing/754/20253754/1154719219.jpg",
-        "listing/754/20253754/921326118.jpg",
-        "listing/754/20253754/252464338.jpg",
-        "listing/754/20253754/1255646484.jpg",
-        "listing/754/20253754/1836823855.jpg",
-        "listing/754/20253754/1558504800.jpg",
-        "listing/754/20253754/1753507874.jpg",
-        "listing/754/20253754/1644394297.jpg",
-        "listing/754/20253754/1298688070.jpg",
-        "listing/754/20253754/1014841695.jpg",
-        "listing/754/20253754/25473718.jpg",
-        "listing/754/20253754/1293679548.jpg",
-        "listing/754/20253754/336948108.jpg",
-        "listing/754/20253754/1817050041.jpg",
-        "listing/754/20253754/785041207.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20253754"
     },
     {
       "id": 20524652,
@@ -2415,44 +2415,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20575474"
     },
     {
-      "id": 20303055,
-      "make": "MASERATI",
-      "model": "GRECALE",
-      "versionFullName": "GRECALE 3.0 V6 TROFEO MY26 FUORISERIE AZZURRO ASTRO GLOSSY",
-      "firstRegistrationYear": 2026,
-      "mileage": 9000,
-      "price": 139900.0,
-      "horsePower": 531,
-      "transmissionType": "automatic",
-      "conditionType": "demonstration",
-      "createdDate": "2026-03-18T16:22:40.94Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/55/20303055/2070637457.jpg",
-      "imageKeys": [
-        "listing/55/20303055/2070637457.jpg",
-        "listing/55/20303055/251770184.jpg",
-        "listing/55/20303055/799109975.jpg",
-        "listing/55/20303055/383260549.jpg",
-        "listing/55/20303055/1187278299.jpg",
-        "listing/55/20303055/174134118.jpg",
-        "listing/55/20303055/891697426.jpg",
-        "listing/55/20303055/273498299.jpg",
-        "listing/55/20303055/1555539605.jpg",
-        "listing/55/20303055/1748006164.jpg",
-        "listing/55/20303055/1474737589.jpg",
-        "listing/55/20303055/1151068068.jpg",
-        "listing/55/20303055/1153485476.jpg",
-        "listing/55/20303055/998319305.jpg",
-        "listing/55/20303055/1118835092.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20303055"
-    },
-    {
       "id": 20886919,
       "make": "MASERATI",
       "model": "GRECALE",
@@ -2490,6 +2452,44 @@
         "listing/919/20886919/1913188512.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20886919"
+    },
+    {
+      "id": 20303055,
+      "make": "MASERATI",
+      "model": "GRECALE",
+      "versionFullName": "GRECALE 3.0 V6 TROFEO MY26 FUORISERIE AZZURRO ASTRO GLOSSY",
+      "firstRegistrationYear": 2026,
+      "mileage": 9000,
+      "price": 139900.0,
+      "horsePower": 531,
+      "transmissionType": "automatic",
+      "conditionType": "demonstration",
+      "createdDate": "2026-03-18T16:22:40.94Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/55/20303055/2070637457.jpg",
+      "imageKeys": [
+        "listing/55/20303055/2070637457.jpg",
+        "listing/55/20303055/251770184.jpg",
+        "listing/55/20303055/799109975.jpg",
+        "listing/55/20303055/383260549.jpg",
+        "listing/55/20303055/1187278299.jpg",
+        "listing/55/20303055/174134118.jpg",
+        "listing/55/20303055/891697426.jpg",
+        "listing/55/20303055/273498299.jpg",
+        "listing/55/20303055/1555539605.jpg",
+        "listing/55/20303055/1748006164.jpg",
+        "listing/55/20303055/1474737589.jpg",
+        "listing/55/20303055/1151068068.jpg",
+        "listing/55/20303055/1153485476.jpg",
+        "listing/55/20303055/998319305.jpg",
+        "listing/55/20303055/1118835092.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20303055"
     },
     {
       "id": 20882702,
