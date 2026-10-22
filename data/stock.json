@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-22T04:30:15.886946+00:00",
-  "count": 110,
+  "timestamp": "2026-10-22T10:00:02.811673+00:00",
+  "count": 111,
   "listings": [
     {
       "id": 12532769,
@@ -2806,36 +2806,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20162412"
     },
     {
-      "id": 11491790,
-      "make": "FERRARI",
-      "model": "Roma",
-      "versionFullName": "Roma 3.9 V8 T Standort Apple CarPlay",
-      "firstRegistrationYear": 2021,
-      "mileage": 11000,
-      "price": 179000.0,
-      "horsePower": 620,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2024-05-02T15:49:00.532Z",
-      "seller": {
-        "id": 60699,
-        "name": "B.I. Collection - Ferrari Zürich",
-        "city": "Urdorf-Zürich",
-        "zipCode": "8902"
-      },
-      "imageKey": "listing/790/11491790/1956976207.jpg",
-      "imageKeys": [
-        "listing/790/11491790/1956976207.jpg",
-        "listing/790/11491790/1471726340.jpg",
-        "listing/790/11491790/2113812091.jpg",
-        "listing/790/11491790/1245924297.jpg",
-        "listing/790/11491790/1715641500.jpg",
-        "listing/790/11491790/1729879600.jpg",
-        "listing/790/11491790/1081531702.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/11491790"
-    },
-    {
       "id": 20447457,
       "make": "BENTLEY",
       "model": "CONTINENTAL",
@@ -3498,29 +3468,24 @@
         "city": "Urdorf-Zürich",
         "zipCode": "8902"
       },
-      "imageKey": "listing/545/20179545/1805513226.jpg",
+      "imageKey": "listing/545/20179545/324563419.jpg",
       "imageKeys": [
-        "listing/545/20179545/1805513226.jpg",
-        "listing/545/20179545/1376950277.jpg",
-        "listing/545/20179545/1625394465.jpg",
-        "listing/545/20179545/70201266.jpg",
-        "listing/545/20179545/984755978.jpg",
-        "listing/545/20179545/104400867.jpg",
-        "listing/545/20179545/1695464344.jpg",
-        "listing/545/20179545/791738721.jpg",
-        "listing/545/20179545/1616266702.jpg",
-        "listing/545/20179545/2111618667.jpg",
-        "listing/545/20179545/374192845.jpg",
-        "listing/545/20179545/821198705.jpg",
-        "listing/545/20179545/1666651696.jpg",
-        "listing/545/20179545/344668338.jpg",
-        "listing/545/20179545/1180706084.jpg",
-        "listing/545/20179545/1495707228.jpg",
-        "listing/545/20179545/1582473168.jpg",
-        "listing/545/20179545/710971337.jpg",
-        "listing/545/20179545/901667755.jpg",
-        "listing/545/20179545/1636892156.jpg",
-        "listing/545/20179545/862733630.jpg"
+        "listing/545/20179545/324563419.jpg",
+        "listing/545/20179545/760308125.jpg",
+        "listing/545/20179545/829814705.jpg",
+        "listing/545/20179545/20622194.jpg",
+        "listing/545/20179545/1026517994.jpg",
+        "listing/545/20179545/1644832262.jpg",
+        "listing/545/20179545/903161505.jpg",
+        "listing/545/20179545/729646624.jpg",
+        "listing/545/20179545/696189.jpg",
+        "listing/545/20179545/38389044.jpg",
+        "listing/545/20179545/968182884.jpg",
+        "listing/545/20179545/1862491633.jpg",
+        "listing/545/20179545/1513614907.jpg",
+        "listing/545/20179545/1303948908.jpg",
+        "listing/545/20179545/202764648.jpg",
+        "listing/545/20179545/1070917362.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20179545"
     },
@@ -3777,6 +3742,43 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20095631"
     },
     {
+      "id": 12630768,
+      "make": "FERRARI",
+      "model": "296",
+      "versionFullName": "296 GTS",
+      "firstRegistrationYear": 2024,
+      "mileage": 190,
+      "price": 299000.0,
+      "horsePower": 830,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2025-07-22T15:50:46.298Z",
+      "seller": {
+        "id": 60699,
+        "name": "B.I. Collection - Ferrari Zürich",
+        "city": "Urdorf-Zürich",
+        "zipCode": "8902"
+      },
+      "imageKey": "listing/768/12630768/299748675.jpg",
+      "imageKeys": [
+        "listing/768/12630768/299748675.jpg",
+        "listing/768/12630768/1338368924.jpg",
+        "listing/768/12630768/1365244485.jpg",
+        "listing/768/12630768/673889688.jpg",
+        "listing/768/12630768/1579691032.jpg",
+        "listing/768/12630768/159277872.jpg",
+        "listing/768/12630768/1018815893.jpg",
+        "listing/768/12630768/2105436029.jpg",
+        "listing/768/12630768/1034690386.jpg",
+        "listing/768/12630768/46630038.jpg",
+        "listing/768/12630768/641707785.jpg",
+        "listing/768/12630768/1011139798.jpg",
+        "listing/768/12630768/1779452233.jpg",
+        "listing/768/12630768/37886273.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/12630768"
+    },
+    {
       "id": 20872422,
       "make": "FERRARI",
       "model": "296",
@@ -3816,41 +3818,38 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20872422"
     },
     {
-      "id": 12630768,
-      "make": "FERRARI",
-      "model": "296",
-      "versionFullName": "296 GTS",
-      "firstRegistrationYear": 2024,
-      "mileage": 190,
-      "price": 299000.0,
-      "horsePower": 830,
+      "id": 20184234,
+      "make": "MERCEDES-BENZ",
+      "model": "G 63 AMG",
+      "versionFullName": "G 63 AMG Speedshift Plus G-Tronic",
+      "firstRegistrationYear": 2022,
+      "mileage": 100,
+      "price": 319000.0,
+      "horsePower": 585,
       "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2025-07-22T15:50:46.298Z",
+      "conditionType": "new",
+      "createdDate": "2026-02-04T16:13:26.564Z",
       "seller": {
-        "id": 60699,
-        "name": "B.I. Collection - Ferrari Zürich",
-        "city": "Urdorf-Zürich",
-        "zipCode": "8902"
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
       },
-      "imageKey": "listing/768/12630768/299748675.jpg",
+      "imageKey": "listing/234/20184234/661682384.JPG",
       "imageKeys": [
-        "listing/768/12630768/299748675.jpg",
-        "listing/768/12630768/1338368924.jpg",
-        "listing/768/12630768/1365244485.jpg",
-        "listing/768/12630768/673889688.jpg",
-        "listing/768/12630768/1579691032.jpg",
-        "listing/768/12630768/159277872.jpg",
-        "listing/768/12630768/1018815893.jpg",
-        "listing/768/12630768/2105436029.jpg",
-        "listing/768/12630768/1034690386.jpg",
-        "listing/768/12630768/46630038.jpg",
-        "listing/768/12630768/641707785.jpg",
-        "listing/768/12630768/1011139798.jpg",
-        "listing/768/12630768/1779452233.jpg",
-        "listing/768/12630768/37886273.jpg"
+        "listing/234/20184234/661682384.JPG",
+        "listing/234/20184234/901235974.JPG",
+        "listing/234/20184234/1502645149.JPG",
+        "listing/234/20184234/1402771491.JPG",
+        "listing/234/20184234/1310868896.JPG",
+        "listing/234/20184234/844659136.JPG",
+        "listing/234/20184234/1506720404.JPG",
+        "listing/234/20184234/368408488.JPG",
+        "listing/234/20184234/1232004875.JPG",
+        "listing/234/20184234/400840981.JPG",
+        "listing/234/20184234/268685875.JPG"
       ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/12630768"
+      "listingUrl": "https://www.autoscout24.ch/de/d/20184234"
     },
     {
       "id": 20872476,
@@ -3889,40 +3888,6 @@
         "listing/476/20872476/1789163775.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20872476"
-    },
-    {
-      "id": 20184234,
-      "make": "MERCEDES-BENZ",
-      "model": "G 63 AMG",
-      "versionFullName": "G 63 AMG Speedshift Plus G-Tronic",
-      "firstRegistrationYear": 2022,
-      "mileage": 100,
-      "price": 319000.0,
-      "horsePower": 585,
-      "transmissionType": "semi-automatic",
-      "conditionType": "new",
-      "createdDate": "2026-02-04T16:13:26.564Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/234/20184234/661682384.JPG",
-      "imageKeys": [
-        "listing/234/20184234/661682384.JPG",
-        "listing/234/20184234/901235974.JPG",
-        "listing/234/20184234/1502645149.JPG",
-        "listing/234/20184234/1402771491.JPG",
-        "listing/234/20184234/1310868896.JPG",
-        "listing/234/20184234/844659136.JPG",
-        "listing/234/20184234/1506720404.JPG",
-        "listing/234/20184234/368408488.JPG",
-        "listing/234/20184234/1232004875.JPG",
-        "listing/234/20184234/400840981.JPG",
-        "listing/234/20184234/268685875.JPG"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20184234"
     },
     {
       "id": 20078416,
@@ -4092,6 +4057,45 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/12476583"
     },
     {
+      "id": 20927325,
+      "make": "FERRARI",
+      "model": "SF90",
+      "versionFullName": "SF90 Stradale",
+      "firstRegistrationYear": 2024,
+      "mileage": 2400,
+      "price": 399000.0,
+      "horsePower": 1000,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2026-10-22T06:42:48.406Z",
+      "seller": {
+        "id": 60699,
+        "name": "B.I. Collection - Ferrari Zürich",
+        "city": "Urdorf-Zürich",
+        "zipCode": "8902"
+      },
+      "imageKey": "listing/325/20927325/103509411.jpg",
+      "imageKeys": [
+        "listing/325/20927325/103509411.jpg",
+        "listing/325/20927325/895735990.jpg",
+        "listing/325/20927325/1515185203.jpg",
+        "listing/325/20927325/1408727650.jpg",
+        "listing/325/20927325/87042910.jpg",
+        "listing/325/20927325/1503036810.jpg",
+        "listing/325/20927325/1037754620.jpg",
+        "listing/325/20927325/788956965.jpg",
+        "listing/325/20927325/968069707.jpg",
+        "listing/325/20927325/598963468.jpg",
+        "listing/325/20927325/1040157887.jpg",
+        "listing/325/20927325/831944247.jpg",
+        "listing/325/20927325/1637968107.jpg",
+        "listing/325/20927325/2144174352.jpg",
+        "listing/325/20927325/686257940.jpg",
+        "listing/325/20927325/1715523831.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20927325"
+    },
+    {
       "id": 20078966,
       "make": "FERRARI",
       "model": "SF90",
@@ -4134,6 +4138,45 @@
         "listing/966/20078966/1757854005.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20078966"
+    },
+    {
+      "id": 20927516,
+      "make": "FERRARI",
+      "model": "SF90",
+      "versionFullName": "SF90 Spider",
+      "firstRegistrationYear": 2025,
+      "mileage": 500,
+      "price": 469000.0,
+      "horsePower": 1000,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2026-10-22T07:46:59.14Z",
+      "seller": {
+        "id": 60699,
+        "name": "B.I. Collection - Ferrari Zürich",
+        "city": "Urdorf-Zürich",
+        "zipCode": "8902"
+      },
+      "imageKey": "listing/516/20927516/1756627821.jpg",
+      "imageKeys": [
+        "listing/516/20927516/1756627821.jpg",
+        "listing/516/20927516/981120905.jpg",
+        "listing/516/20927516/90303638.jpg",
+        "listing/516/20927516/430762349.jpg",
+        "listing/516/20927516/787431353.jpg",
+        "listing/516/20927516/230105751.jpg",
+        "listing/516/20927516/1806868940.jpg",
+        "listing/516/20927516/244408848.jpg",
+        "listing/516/20927516/668395217.jpg",
+        "listing/516/20927516/225991809.jpg",
+        "listing/516/20927516/2102820303.jpg",
+        "listing/516/20927516/2067345255.jpg",
+        "listing/516/20927516/1570379389.jpg",
+        "listing/516/20927516/986456375.jpg",
+        "listing/516/20927516/1555788758.jpg",
+        "listing/516/20927516/1125998887.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20927516"
     },
     {
       "id": 20078484,
