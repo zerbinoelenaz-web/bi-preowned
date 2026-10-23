@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-23T14:52:48.394321+00:00",
-  "count": 112,
+  "timestamp": "2026-10-23T19:02:59.962789+00:00",
+  "count": 114,
   "listings": [
     {
       "id": 12532769,
@@ -759,45 +759,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/12715365"
     },
     {
-      "id": 20253754,
-      "make": "MASERATI",
-      "model": "GRECALE",
-      "versionFullName": "GRECALE 2.0 MHEV MODENA HYBRID",
-      "firstRegistrationYear": 2024,
-      "mileage": 20000,
-      "price": 69900.0,
-      "horsePower": 330,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-03-02T16:51:31.426Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/754/20253754/2024698128.jpg",
-      "imageKeys": [
-        "listing/754/20253754/2024698128.jpg",
-        "listing/754/20253754/1154719219.jpg",
-        "listing/754/20253754/921326118.jpg",
-        "listing/754/20253754/252464338.jpg",
-        "listing/754/20253754/1255646484.jpg",
-        "listing/754/20253754/1836823855.jpg",
-        "listing/754/20253754/1558504800.jpg",
-        "listing/754/20253754/1753507874.jpg",
-        "listing/754/20253754/1644394297.jpg",
-        "listing/754/20253754/1298688070.jpg",
-        "listing/754/20253754/1014841695.jpg",
-        "listing/754/20253754/25473718.jpg",
-        "listing/754/20253754/1293679548.jpg",
-        "listing/754/20253754/336948108.jpg",
-        "listing/754/20253754/1817050041.jpg",
-        "listing/754/20253754/785041207.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20253754"
-    },
-    {
       "id": 20787071,
       "make": "MERCEDES-BENZ",
       "model": "CLA 220",
@@ -835,6 +796,45 @@
         "listing/71/20787071/1113570180.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20787071"
+    },
+    {
+      "id": 20253754,
+      "make": "MASERATI",
+      "model": "GRECALE",
+      "versionFullName": "GRECALE 2.0 MHEV MODENA HYBRID",
+      "firstRegistrationYear": 2024,
+      "mileage": 20000,
+      "price": 69900.0,
+      "horsePower": 330,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-03-02T16:51:31.426Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/754/20253754/2024698128.jpg",
+      "imageKeys": [
+        "listing/754/20253754/2024698128.jpg",
+        "listing/754/20253754/1154719219.jpg",
+        "listing/754/20253754/921326118.jpg",
+        "listing/754/20253754/252464338.jpg",
+        "listing/754/20253754/1255646484.jpg",
+        "listing/754/20253754/1836823855.jpg",
+        "listing/754/20253754/1558504800.jpg",
+        "listing/754/20253754/1753507874.jpg",
+        "listing/754/20253754/1644394297.jpg",
+        "listing/754/20253754/1298688070.jpg",
+        "listing/754/20253754/1014841695.jpg",
+        "listing/754/20253754/25473718.jpg",
+        "listing/754/20253754/1293679548.jpg",
+        "listing/754/20253754/336948108.jpg",
+        "listing/754/20253754/1817050041.jpg",
+        "listing/754/20253754/785041207.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20253754"
     },
     {
       "id": 12834163,
@@ -2021,6 +2021,52 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20215683"
     },
     {
+      "id": 20918996,
+      "make": "PORSCHE",
+      "model": "911",
+      "versionFullName": "911 Targa 4S PDK",
+      "firstRegistrationYear": 2014,
+      "mileage": 52800,
+      "price": 112500.0,
+      "horsePower": 400,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2026-10-19T13:19:22.804Z",
+      "seller": {
+        "id": 2304422,
+        "name": "B.I. Collection SG AG",
+        "city": "Niederwil SG",
+        "zipCode": "9203"
+      },
+      "imageKey": "listing/996/20918996/1791268790.jpg",
+      "imageKeys": [
+        "listing/996/20918996/1791268790.jpg",
+        "listing/996/20918996/1956192327.jpg",
+        "listing/996/20918996/369711063.jpg",
+        "listing/996/20918996/1805507172.jpg",
+        "listing/996/20918996/1254332911.jpg",
+        "listing/996/20918996/187513305.jpg",
+        "listing/996/20918996/401762934.jpg",
+        "listing/996/20918996/604651452.jpg",
+        "listing/996/20918996/1626124868.jpg",
+        "listing/996/20918996/2073135120.jpg",
+        "listing/996/20918996/736538925.jpg",
+        "listing/996/20918996/607890310.jpg",
+        "listing/996/20918996/1413272880.jpg",
+        "listing/996/20918996/894610504.jpg",
+        "listing/996/20918996/718002271.jpg",
+        "listing/996/20918996/1068324457.jpg",
+        "listing/996/20918996/1790741510.jpg",
+        "listing/996/20918996/1812670749.jpg",
+        "listing/996/20918996/1581793173.jpg",
+        "listing/996/20918996/206658444.jpg",
+        "listing/996/20918996/1354727048.jpg",
+        "listing/996/20918996/603854344.jpg",
+        "listing/996/20918996/1900135132.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20918996"
+    },
+    {
       "id": 20820776,
       "make": "MERCEDES-BENZ",
       "model": "V 300 ",
@@ -2356,6 +2402,44 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20843883"
     },
     {
+      "id": 20933100,
+      "make": "MASERATI",
+      "model": "GRECALE",
+      "versionFullName": "GRECALE MODENA V6 MY2027",
+      "firstRegistrationYear": 2026,
+      "mileage": 100,
+      "price": 134900.0,
+      "horsePower": 390,
+      "transmissionType": "automatic",
+      "conditionType": "new",
+      "createdDate": "2026-10-23T16:19:57.607Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/100/20933100/227715158.jpg",
+      "imageKeys": [
+        "listing/100/20933100/227715158.jpg",
+        "listing/100/20933100/2145246425.jpg",
+        "listing/100/20933100/2109846072.jpg",
+        "listing/100/20933100/1930678574.jpg",
+        "listing/100/20933100/788053051.jpg",
+        "listing/100/20933100/1048041936.jpg",
+        "listing/100/20933100/693433652.jpg",
+        "listing/100/20933100/1800065261.jpg",
+        "listing/100/20933100/1758979050.jpg",
+        "listing/100/20933100/1751884061.jpg",
+        "listing/100/20933100/1273402838.jpg",
+        "listing/100/20933100/1781272697.jpg",
+        "listing/100/20933100/1111514414.jpg",
+        "listing/100/20933100/322440783.jpg",
+        "listing/100/20933100/1190965304.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20933100"
+    },
+    {
       "id": 20889985,
       "make": "MERCEDES-BENZ",
       "model": "GLS 63 AMG",
@@ -2457,44 +2541,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20303055"
     },
     {
-      "id": 20779543,
-      "make": "MASERATI",
-      "model": "GRECALE",
-      "versionFullName": "GRECALE TROFEO MY2027",
-      "firstRegistrationYear": 2026,
-      "mileage": 3000,
-      "price": 139900.0,
-      "horsePower": 531,
-      "transmissionType": "automatic",
-      "conditionType": "demonstration",
-      "createdDate": "2026-09-02T09:26:16.609Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/543/20779543/1159151400.jpg",
-      "imageKeys": [
-        "listing/543/20779543/1159151400.jpg",
-        "listing/543/20779543/1888945357.jpg",
-        "listing/543/20779543/2142620.jpg",
-        "listing/543/20779543/1151243130.jpg",
-        "listing/543/20779543/1494112507.jpg",
-        "listing/543/20779543/635425650.jpg",
-        "listing/543/20779543/1804490898.jpg",
-        "listing/543/20779543/223538939.jpg",
-        "listing/543/20779543/1660741981.jpg",
-        "listing/543/20779543/227666641.jpg",
-        "listing/543/20779543/846410360.jpg",
-        "listing/543/20779543/493110631.jpg",
-        "listing/543/20779543/1863548398.jpg",
-        "listing/543/20779543/1786963618.jpg",
-        "listing/543/20779543/1914152369.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20779543"
-    },
-    {
       "id": 20886919,
       "make": "MASERATI",
       "model": "GRECALE",
@@ -2532,6 +2578,44 @@
         "listing/919/20886919/1913188512.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20886919"
+    },
+    {
+      "id": 20779543,
+      "make": "MASERATI",
+      "model": "GRECALE",
+      "versionFullName": "GRECALE TROFEO MY2027",
+      "firstRegistrationYear": 2026,
+      "mileage": 3000,
+      "price": 139900.0,
+      "horsePower": 531,
+      "transmissionType": "automatic",
+      "conditionType": "demonstration",
+      "createdDate": "2026-09-02T09:26:16.609Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/543/20779543/1159151400.jpg",
+      "imageKeys": [
+        "listing/543/20779543/1159151400.jpg",
+        "listing/543/20779543/1888945357.jpg",
+        "listing/543/20779543/2142620.jpg",
+        "listing/543/20779543/1151243130.jpg",
+        "listing/543/20779543/1494112507.jpg",
+        "listing/543/20779543/635425650.jpg",
+        "listing/543/20779543/1804490898.jpg",
+        "listing/543/20779543/223538939.jpg",
+        "listing/543/20779543/1660741981.jpg",
+        "listing/543/20779543/227666641.jpg",
+        "listing/543/20779543/846410360.jpg",
+        "listing/543/20779543/493110631.jpg",
+        "listing/543/20779543/1863548398.jpg",
+        "listing/543/20779543/1786963618.jpg",
+        "listing/543/20779543/1914152369.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20779543"
     },
     {
       "id": 20882702,
