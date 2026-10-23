@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-23T09:54:56.155873+00:00",
-  "count": 111,
+  "timestamp": "2026-10-23T14:52:48.394321+00:00",
+  "count": 112,
   "listings": [
     {
       "id": 12532769,
@@ -643,45 +643,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/12062721"
     },
     {
-      "id": 20306429,
-      "make": "MASERATI",
-      "model": "LEVANTE",
-      "versionFullName": "LEVANTE 3.8 V8 TROFEO Q4",
-      "firstRegistrationYear": 2019,
-      "mileage": 61500,
-      "price": 69900.0,
-      "horsePower": 581,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-03-19T16:13:23.82Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/429/20306429/366142183.jpg",
-      "imageKeys": [
-        "listing/429/20306429/366142183.jpg",
-        "listing/429/20306429/1087632254.jpg",
-        "listing/429/20306429/457465742.jpg",
-        "listing/429/20306429/1873599371.jpg",
-        "listing/429/20306429/725341779.jpg",
-        "listing/429/20306429/2101828696.jpg",
-        "listing/429/20306429/1119571877.jpg",
-        "listing/429/20306429/115890380.jpg",
-        "listing/429/20306429/1075488724.jpg",
-        "listing/429/20306429/856829073.jpg",
-        "listing/429/20306429/1070662872.jpg",
-        "listing/429/20306429/1526902970.jpg",
-        "listing/429/20306429/2054831328.jpg",
-        "listing/429/20306429/1097438945.jpg",
-        "listing/429/20306429/93151359.jpg",
-        "listing/429/20306429/431747580.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20306429"
-    },
-    {
       "id": 12661047,
       "make": "MASERATI",
       "model": "GRECALE",
@@ -719,6 +680,45 @@
         "listing/47/12661047/1323893043.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/12661047"
+    },
+    {
+      "id": 20306429,
+      "make": "MASERATI",
+      "model": "LEVANTE",
+      "versionFullName": "LEVANTE 3.8 V8 TROFEO Q4",
+      "firstRegistrationYear": 2019,
+      "mileage": 61500,
+      "price": 69900.0,
+      "horsePower": 581,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-03-19T16:13:23.82Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/429/20306429/366142183.jpg",
+      "imageKeys": [
+        "listing/429/20306429/366142183.jpg",
+        "listing/429/20306429/1087632254.jpg",
+        "listing/429/20306429/457465742.jpg",
+        "listing/429/20306429/1873599371.jpg",
+        "listing/429/20306429/725341779.jpg",
+        "listing/429/20306429/2101828696.jpg",
+        "listing/429/20306429/1119571877.jpg",
+        "listing/429/20306429/115890380.jpg",
+        "listing/429/20306429/1075488724.jpg",
+        "listing/429/20306429/856829073.jpg",
+        "listing/429/20306429/1070662872.jpg",
+        "listing/429/20306429/1526902970.jpg",
+        "listing/429/20306429/2054831328.jpg",
+        "listing/429/20306429/1097438945.jpg",
+        "listing/429/20306429/93151359.jpg",
+        "listing/429/20306429/431747580.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20306429"
     },
     {
       "id": 12715365,
@@ -1815,6 +1815,50 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20265960"
     },
     {
+      "id": 20497820,
+      "make": "ASTON MARTIN",
+      "model": "V12 Vanquish",
+      "versionFullName": "Vanquish V12 5.9-48 Touchtronic 2",
+      "firstRegistrationYear": 2013,
+      "mileage": 51100,
+      "price": 104007.0,
+      "horsePower": 574,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-05-26T13:57:27.491Z",
+      "seller": {
+        "id": 2304422,
+        "name": "B.I. Collection SG AG",
+        "city": "Niederwil SG",
+        "zipCode": "9203"
+      },
+      "imageKey": "listing/820/20497820/1852687588.jpg",
+      "imageKeys": [
+        "listing/820/20497820/1852687588.jpg",
+        "listing/820/20497820/170702432.jpg",
+        "listing/820/20497820/1782981175.jpg",
+        "listing/820/20497820/9686216.jpg",
+        "listing/820/20497820/1432646952.jpg",
+        "listing/820/20497820/2098426320.jpg",
+        "listing/820/20497820/1803091816.jpg",
+        "listing/820/20497820/1011503388.jpg",
+        "listing/820/20497820/856557198.jpg",
+        "listing/820/20497820/1465667615.jpg",
+        "listing/820/20497820/1482933410.jpg",
+        "listing/820/20497820/2134737914.jpg",
+        "listing/820/20497820/1556900407.jpg",
+        "listing/820/20497820/217105810.jpg",
+        "listing/820/20497820/401142293.jpg",
+        "listing/820/20497820/1149648300.jpg",
+        "listing/820/20497820/1808988803.jpg",
+        "listing/820/20497820/767492009.jpg",
+        "listing/820/20497820/741870634.jpg",
+        "listing/820/20497820/885586678.jpg",
+        "listing/820/20497820/113019862.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20497820"
+    },
+    {
       "id": 20242981,
       "make": "ASTON MARTIN",
       "model": "V12 Vanquish",
@@ -1940,50 +1984,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20791733"
     },
     {
-      "id": 20497820,
-      "make": "ASTON MARTIN",
-      "model": "V12 Vanquish",
-      "versionFullName": "Vanquish V12 5.9-48 Touchtronic 2",
-      "firstRegistrationYear": 2013,
-      "mileage": 51100,
-      "price": 107007.0,
-      "horsePower": 574,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-05-26T13:57:27.491Z",
-      "seller": {
-        "id": 2304422,
-        "name": "B.I. Collection SG AG",
-        "city": "Niederwil SG",
-        "zipCode": "9203"
-      },
-      "imageKey": "listing/820/20497820/1852687588.jpg",
-      "imageKeys": [
-        "listing/820/20497820/1852687588.jpg",
-        "listing/820/20497820/170702432.jpg",
-        "listing/820/20497820/1782981175.jpg",
-        "listing/820/20497820/9686216.jpg",
-        "listing/820/20497820/1432646952.jpg",
-        "listing/820/20497820/2098426320.jpg",
-        "listing/820/20497820/1803091816.jpg",
-        "listing/820/20497820/1011503388.jpg",
-        "listing/820/20497820/856557198.jpg",
-        "listing/820/20497820/1465667615.jpg",
-        "listing/820/20497820/1482933410.jpg",
-        "listing/820/20497820/2134737914.jpg",
-        "listing/820/20497820/1556900407.jpg",
-        "listing/820/20497820/217105810.jpg",
-        "listing/820/20497820/401142293.jpg",
-        "listing/820/20497820/1149648300.jpg",
-        "listing/820/20497820/1808988803.jpg",
-        "listing/820/20497820/767492009.jpg",
-        "listing/820/20497820/741870634.jpg",
-        "listing/820/20497820/885586678.jpg",
-        "listing/820/20497820/113019862.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20497820"
-    },
-    {
       "id": 20215683,
       "make": "PORSCHE",
       "model": "PANAMERA",
@@ -2058,6 +2058,49 @@
         "listing/776/20820776/185434834.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20820776"
+    },
+    {
+      "id": 20932178,
+      "make": "ASTON MARTIN",
+      "model": "V12 Vantage",
+      "versionFullName": "V12 Vantage 5.9",
+      "firstRegistrationYear": 2011,
+      "mileage": 44600,
+      "price": 117000.0,
+      "horsePower": 517,
+      "transmissionType": "manual",
+      "conditionType": "used",
+      "createdDate": "2026-10-23T13:24:35.284Z",
+      "seller": {
+        "id": 2304422,
+        "name": "B.I. Collection SG AG",
+        "city": "Niederwil SG",
+        "zipCode": "9203"
+      },
+      "imageKey": "listing/178/20932178/91404748.jpg",
+      "imageKeys": [
+        "listing/178/20932178/91404748.jpg",
+        "listing/178/20932178/1467189796.jpg",
+        "listing/178/20932178/647682278.jpg",
+        "listing/178/20932178/954606791.jpg",
+        "listing/178/20932178/1385404067.jpg",
+        "listing/178/20932178/420329157.jpg",
+        "listing/178/20932178/481030158.jpg",
+        "listing/178/20932178/3367230.jpg",
+        "listing/178/20932178/742252615.jpg",
+        "listing/178/20932178/1728838813.jpg",
+        "listing/178/20932178/2052696270.jpg",
+        "listing/178/20932178/2013127174.jpg",
+        "listing/178/20932178/11736934.jpg",
+        "listing/178/20932178/1760993948.jpg",
+        "listing/178/20932178/139687261.jpg",
+        "listing/178/20932178/1328376408.jpg",
+        "listing/178/20932178/337938909.jpg",
+        "listing/178/20932178/1743879628.jpg",
+        "listing/178/20932178/541018605.jpg",
+        "listing/178/20932178/92921812.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20932178"
     },
     {
       "id": 20753159,
