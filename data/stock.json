@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-24T20:35:54.291127+00:00",
+  "timestamp": "2026-10-24T23:03:58.463461+00:00",
   "count": 113,
   "listings": [
     {
@@ -759,45 +759,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/12715365"
     },
     {
-      "id": 20253754,
-      "make": "MASERATI",
-      "model": "GRECALE",
-      "versionFullName": "GRECALE 2.0 MHEV MODENA HYBRID",
-      "firstRegistrationYear": 2024,
-      "mileage": 20000,
-      "price": 69900.0,
-      "horsePower": 330,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-03-02T16:51:31.426Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/754/20253754/2024698128.jpg",
-      "imageKeys": [
-        "listing/754/20253754/2024698128.jpg",
-        "listing/754/20253754/1154719219.jpg",
-        "listing/754/20253754/921326118.jpg",
-        "listing/754/20253754/252464338.jpg",
-        "listing/754/20253754/1255646484.jpg",
-        "listing/754/20253754/1836823855.jpg",
-        "listing/754/20253754/1558504800.jpg",
-        "listing/754/20253754/1753507874.jpg",
-        "listing/754/20253754/1644394297.jpg",
-        "listing/754/20253754/1298688070.jpg",
-        "listing/754/20253754/1014841695.jpg",
-        "listing/754/20253754/25473718.jpg",
-        "listing/754/20253754/1293679548.jpg",
-        "listing/754/20253754/336948108.jpg",
-        "listing/754/20253754/1817050041.jpg",
-        "listing/754/20253754/785041207.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20253754"
-    },
-    {
       "id": 20787071,
       "make": "MERCEDES-BENZ",
       "model": "CLA 220",
@@ -835,6 +796,45 @@
         "listing/71/20787071/1113570180.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20787071"
+    },
+    {
+      "id": 20253754,
+      "make": "MASERATI",
+      "model": "GRECALE",
+      "versionFullName": "GRECALE 2.0 MHEV MODENA HYBRID",
+      "firstRegistrationYear": 2024,
+      "mileage": 20000,
+      "price": 69900.0,
+      "horsePower": 330,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-03-02T16:51:31.426Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/754/20253754/2024698128.jpg",
+      "imageKeys": [
+        "listing/754/20253754/2024698128.jpg",
+        "listing/754/20253754/1154719219.jpg",
+        "listing/754/20253754/921326118.jpg",
+        "listing/754/20253754/252464338.jpg",
+        "listing/754/20253754/1255646484.jpg",
+        "listing/754/20253754/1836823855.jpg",
+        "listing/754/20253754/1558504800.jpg",
+        "listing/754/20253754/1753507874.jpg",
+        "listing/754/20253754/1644394297.jpg",
+        "listing/754/20253754/1298688070.jpg",
+        "listing/754/20253754/1014841695.jpg",
+        "listing/754/20253754/25473718.jpg",
+        "listing/754/20253754/1293679548.jpg",
+        "listing/754/20253754/336948108.jpg",
+        "listing/754/20253754/1817050041.jpg",
+        "listing/754/20253754/785041207.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20253754"
     },
     {
       "id": 12834163,
@@ -1452,41 +1452,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20492852"
     },
     {
-      "id": 10722283,
-      "make": "MERCEDES-BENZ",
-      "model": "GLC 200",
-      "versionFullName": "GLC Coupé 200 4Matic 9G-Tronic",
-      "firstRegistrationYear": 2024,
-      "mileage": 20000,
-      "price": 89900.0,
-      "horsePower": 204,
-      "transmissionType": "automatic",
-      "conditionType": "new",
-      "createdDate": "2023-07-24T14:26:41.555Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/283/10722283/1506006630.jpg",
-      "imageKeys": [
-        "listing/283/10722283/1506006630.jpg",
-        "listing/283/10722283/1468901937.jpg",
-        "listing/283/10722283/1310166292.jpg",
-        "listing/283/10722283/1977223292.jpg",
-        "listing/283/10722283/509858897.jpg",
-        "listing/283/10722283/1561683012.jpg",
-        "listing/283/10722283/1787802081.jpg",
-        "listing/283/10722283/1683874687.jpg",
-        "listing/283/10722283/907543295.jpg",
-        "listing/283/10722283/270347510.jpg",
-        "listing/283/10722283/1390072230.jpg",
-        "listing/283/10722283/1024095097.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/10722283"
-    },
-    {
       "id": 20734883,
       "make": "MASERATI",
       "model": "GRECALE",
@@ -1524,6 +1489,41 @@
         "listing/883/20734883/463850514.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20734883"
+    },
+    {
+      "id": 10722283,
+      "make": "MERCEDES-BENZ",
+      "model": "GLC 200",
+      "versionFullName": "GLC Coupé 200 4Matic 9G-Tronic",
+      "firstRegistrationYear": 2024,
+      "mileage": 20000,
+      "price": 89900.0,
+      "horsePower": 204,
+      "transmissionType": "automatic",
+      "conditionType": "new",
+      "createdDate": "2023-07-24T14:26:41.555Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/283/10722283/1506006630.jpg",
+      "imageKeys": [
+        "listing/283/10722283/1506006630.jpg",
+        "listing/283/10722283/1468901937.jpg",
+        "listing/283/10722283/1310166292.jpg",
+        "listing/283/10722283/1977223292.jpg",
+        "listing/283/10722283/509858897.jpg",
+        "listing/283/10722283/1561683012.jpg",
+        "listing/283/10722283/1787802081.jpg",
+        "listing/283/10722283/1683874687.jpg",
+        "listing/283/10722283/907543295.jpg",
+        "listing/283/10722283/270347510.jpg",
+        "listing/283/10722283/1390072230.jpg",
+        "listing/283/10722283/1024095097.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/10722283"
     },
     {
       "id": 12902839,
@@ -3382,44 +3382,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20687112"
     },
     {
-      "id": 12593707,
-      "make": "FERRARI",
-      "model": "296",
-      "versionFullName": "296 GTB",
-      "firstRegistrationYear": 2023,
-      "mileage": 3200,
-      "price": 259000.0,
-      "horsePower": 830,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2025-07-07T15:42:39.642Z",
-      "seller": {
-        "id": 60699,
-        "name": "B.I. Collection - Ferrari Zürich",
-        "city": "Urdorf-Zürich",
-        "zipCode": "8902"
-      },
-      "imageKey": "listing/707/12593707/1758450110.jpg",
-      "imageKeys": [
-        "listing/707/12593707/1758450110.jpg",
-        "listing/707/12593707/2071955244.jpg",
-        "listing/707/12593707/1991445480.jpg",
-        "listing/707/12593707/177203711.jpg",
-        "listing/707/12593707/1115307251.jpg",
-        "listing/707/12593707/548463174.jpg",
-        "listing/707/12593707/2065091168.jpg",
-        "listing/707/12593707/353972829.jpg",
-        "listing/707/12593707/1610664905.jpg",
-        "listing/707/12593707/1738630634.jpg",
-        "listing/707/12593707/1031486798.jpg",
-        "listing/707/12593707/1029925135.jpg",
-        "listing/707/12593707/1555187681.jpg",
-        "listing/707/12593707/1534587584.jpg",
-        "listing/707/12593707/911423291.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/12593707"
-    },
-    {
       "id": 20179545,
       "make": "FERRARI",
       "model": "Roma",
@@ -3457,6 +3419,44 @@
         "listing/545/20179545/1070917362.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20179545"
+    },
+    {
+      "id": 12593707,
+      "make": "FERRARI",
+      "model": "296",
+      "versionFullName": "296 GTB",
+      "firstRegistrationYear": 2023,
+      "mileage": 3200,
+      "price": 259000.0,
+      "horsePower": 830,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2025-07-07T15:42:39.642Z",
+      "seller": {
+        "id": 60699,
+        "name": "B.I. Collection - Ferrari Zürich",
+        "city": "Urdorf-Zürich",
+        "zipCode": "8902"
+      },
+      "imageKey": "listing/707/12593707/1758450110.jpg",
+      "imageKeys": [
+        "listing/707/12593707/1758450110.jpg",
+        "listing/707/12593707/2071955244.jpg",
+        "listing/707/12593707/1991445480.jpg",
+        "listing/707/12593707/177203711.jpg",
+        "listing/707/12593707/1115307251.jpg",
+        "listing/707/12593707/548463174.jpg",
+        "listing/707/12593707/2065091168.jpg",
+        "listing/707/12593707/353972829.jpg",
+        "listing/707/12593707/1610664905.jpg",
+        "listing/707/12593707/1738630634.jpg",
+        "listing/707/12593707/1031486798.jpg",
+        "listing/707/12593707/1029925135.jpg",
+        "listing/707/12593707/1555187681.jpg",
+        "listing/707/12593707/1534587584.jpg",
+        "listing/707/12593707/911423291.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/12593707"
     },
     {
       "id": 12649619,
