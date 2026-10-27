@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-26T23:43:24.855374+00:00",
+  "timestamp": "2026-10-27T04:46:03.844262+00:00",
   "count": 115,
   "listings": [
     {
@@ -115,6 +115,78 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20820274"
     },
     {
+      "id": 20221212,
+      "make": "MERCEDES-BENZ",
+      "model": "S 350",
+      "versionFullName": "S 350 d L 4Matic 9G-Tronic",
+      "firstRegistrationYear": 2016,
+      "mileage": 89600,
+      "price": 39900.0,
+      "horsePower": 258,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-02-18T14:11:39.961Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/212/20221212/1611891982.jpg",
+      "imageKeys": [
+        "listing/212/20221212/1611891982.jpg",
+        "listing/212/20221212/952345098.jpg",
+        "listing/212/20221212/1660640023.jpg",
+        "listing/212/20221212/926339560.jpg",
+        "listing/212/20221212/1174299539.jpg",
+        "listing/212/20221212/922003293.jpg",
+        "listing/212/20221212/506521414.jpg",
+        "listing/212/20221212/843663428.jpg",
+        "listing/212/20221212/1940187365.jpg",
+        "listing/212/20221212/2067574411.jpg",
+        "listing/212/20221212/94625053.jpg",
+        "listing/212/20221212/1064772961.jpg",
+        "listing/212/20221212/644479319.jpg",
+        "listing/212/20221212/1868600509.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20221212"
+    },
+    {
+      "id": 11168520,
+      "make": "MERCEDES-BENZ",
+      "model": "C 200",
+      "versionFullName": "C 200 T 4Matic All-Terain Avantgarde",
+      "firstRegistrationYear": 2023,
+      "mileage": 45000,
+      "price": 39900.0,
+      "horsePower": 204,
+      "transmissionType": "automatic",
+      "conditionType": "demonstration",
+      "createdDate": "2024-01-15T13:00:30.355Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/520/11168520/419939672.jpg",
+      "imageKeys": [
+        "listing/520/11168520/419939672.jpg",
+        "listing/520/11168520/444776773.jpg",
+        "listing/520/11168520/703390047.jpg",
+        "listing/520/11168520/1518330430.jpg",
+        "listing/520/11168520/1264170022.jpg",
+        "listing/520/11168520/1780177685.jpg",
+        "listing/520/11168520/61040805.jpg",
+        "listing/520/11168520/1550221211.jpg",
+        "listing/520/11168520/1379218474.jpg",
+        "listing/520/11168520/452117249.jpg",
+        "listing/520/11168520/1550606374.jpg",
+        "listing/520/11168520/958807069.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/11168520"
+    },
+    {
       "id": 20090535,
       "make": "MASERATI",
       "model": "LEVANTE",
@@ -154,78 +226,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20090535"
     },
     {
-      "id": 11168520,
-      "make": "MERCEDES-BENZ",
-      "model": "C 200",
-      "versionFullName": "C 200 T 4Matic All-Terain Avantgarde",
-      "firstRegistrationYear": 2023,
-      "mileage": 45000,
-      "price": 39900.0,
-      "horsePower": 204,
-      "transmissionType": "automatic",
-      "conditionType": "demonstration",
-      "createdDate": "2024-01-15T13:00:30.355Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/520/11168520/419939672.jpg",
-      "imageKeys": [
-        "listing/520/11168520/419939672.jpg",
-        "listing/520/11168520/444776773.jpg",
-        "listing/520/11168520/703390047.jpg",
-        "listing/520/11168520/1518330430.jpg",
-        "listing/520/11168520/1264170022.jpg",
-        "listing/520/11168520/1780177685.jpg",
-        "listing/520/11168520/61040805.jpg",
-        "listing/520/11168520/1550221211.jpg",
-        "listing/520/11168520/1379218474.jpg",
-        "listing/520/11168520/452117249.jpg",
-        "listing/520/11168520/1550606374.jpg",
-        "listing/520/11168520/958807069.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/11168520"
-    },
-    {
-      "id": 20221212,
-      "make": "MERCEDES-BENZ",
-      "model": "S 350",
-      "versionFullName": "S 350 d L 4Matic 9G-Tronic",
-      "firstRegistrationYear": 2016,
-      "mileage": 89600,
-      "price": 39900.0,
-      "horsePower": 258,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-02-18T14:11:39.961Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/212/20221212/1611891982.jpg",
-      "imageKeys": [
-        "listing/212/20221212/1611891982.jpg",
-        "listing/212/20221212/952345098.jpg",
-        "listing/212/20221212/1660640023.jpg",
-        "listing/212/20221212/926339560.jpg",
-        "listing/212/20221212/1174299539.jpg",
-        "listing/212/20221212/922003293.jpg",
-        "listing/212/20221212/506521414.jpg",
-        "listing/212/20221212/843663428.jpg",
-        "listing/212/20221212/1940187365.jpg",
-        "listing/212/20221212/2067574411.jpg",
-        "listing/212/20221212/94625053.jpg",
-        "listing/212/20221212/1064772961.jpg",
-        "listing/212/20221212/644479319.jpg",
-        "listing/212/20221212/1868600509.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20221212"
-    },
-    {
       "id": 20543800,
       "make": "AUDI",
       "model": "TT",
@@ -259,45 +259,6 @@
         "listing/800/20543800/616545867.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20543800"
-    },
-    {
-      "id": 20918194,
-      "make": "MASERATI",
-      "model": "LEVANTE",
-      "versionFullName": "Levante 3.0 V6 GranSport Automatica",
-      "firstRegistrationYear": 2021,
-      "mileage": 62000,
-      "price": 49900.0,
-      "horsePower": 350,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-10-19T09:37:09.067Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/194/20918194/963248132.jpg",
-      "imageKeys": [
-        "listing/194/20918194/963248132.jpg",
-        "listing/194/20918194/520233915.jpg",
-        "listing/194/20918194/2144561468.jpg",
-        "listing/194/20918194/2085471460.jpg",
-        "listing/194/20918194/1132855455.jpg",
-        "listing/194/20918194/960964927.jpg",
-        "listing/194/20918194/503017193.jpg",
-        "listing/194/20918194/359174015.jpg",
-        "listing/194/20918194/845214961.jpg",
-        "listing/194/20918194/2076545570.jpg",
-        "listing/194/20918194/601249265.jpg",
-        "listing/194/20918194/1021613910.jpg",
-        "listing/194/20918194/1161633973.jpg",
-        "listing/194/20918194/1828410846.jpg",
-        "listing/194/20918194/2013825430.jpg",
-        "listing/194/20918194/1191660058.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20918194"
     },
     {
       "id": 20529437,
@@ -376,6 +337,45 @@
         "listing/69/11769069/869884764.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/11769069"
+    },
+    {
+      "id": 20918194,
+      "make": "MASERATI",
+      "model": "LEVANTE",
+      "versionFullName": "Levante 3.0 V6 GranSport Automatica",
+      "firstRegistrationYear": 2021,
+      "mileage": 62000,
+      "price": 49900.0,
+      "horsePower": 350,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-10-19T09:37:09.067Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/194/20918194/963248132.jpg",
+      "imageKeys": [
+        "listing/194/20918194/963248132.jpg",
+        "listing/194/20918194/520233915.jpg",
+        "listing/194/20918194/2144561468.jpg",
+        "listing/194/20918194/2085471460.jpg",
+        "listing/194/20918194/1132855455.jpg",
+        "listing/194/20918194/960964927.jpg",
+        "listing/194/20918194/503017193.jpg",
+        "listing/194/20918194/359174015.jpg",
+        "listing/194/20918194/845214961.jpg",
+        "listing/194/20918194/2076545570.jpg",
+        "listing/194/20918194/601249265.jpg",
+        "listing/194/20918194/1021613910.jpg",
+        "listing/194/20918194/1161633973.jpg",
+        "listing/194/20918194/1828410846.jpg",
+        "listing/194/20918194/2013825430.jpg",
+        "listing/194/20918194/1191660058.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20918194"
     },
     {
       "id": 11710822,
@@ -608,6 +608,80 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20707867"
     },
     {
+      "id": 20787071,
+      "make": "MERCEDES-BENZ",
+      "model": "CLA 220",
+      "versionFullName": "CLA 220 8G-DCT 4Matic",
+      "firstRegistrationYear": 2026,
+      "mileage": 15,
+      "price": 69900.0,
+      "horsePower": 190,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2026-09-03T12:25:05.673Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/71/20787071/1503661367.jpg",
+      "imageKeys": [
+        "listing/71/20787071/1503661367.jpg",
+        "listing/71/20787071/1320652737.jpg",
+        "listing/71/20787071/308453233.jpg",
+        "listing/71/20787071/958962420.jpg",
+        "listing/71/20787071/1166653003.jpg",
+        "listing/71/20787071/426434808.jpg",
+        "listing/71/20787071/1860918324.jpg",
+        "listing/71/20787071/52013603.jpg",
+        "listing/71/20787071/206970613.jpg",
+        "listing/71/20787071/1551308368.jpg",
+        "listing/71/20787071/543307005.jpg",
+        "listing/71/20787071/1844581908.jpg",
+        "listing/71/20787071/1055047673.jpg",
+        "listing/71/20787071/750135764.jpg",
+        "listing/71/20787071/1998403385.jpg",
+        "listing/71/20787071/1113570180.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20787071"
+    },
+    {
+      "id": 12062721,
+      "make": "MERCEDES-BENZ",
+      "model": "SL 500",
+      "versionFullName": "SL 500 AMG",
+      "firstRegistrationYear": 1995,
+      "mileage": 170000,
+      "price": 69900.0,
+      "horsePower": 381,
+      "transmissionType": null,
+      "conditionType": "oldtimer",
+      "createdDate": "2024-12-13T08:30:57.635Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/721/12062721/1065904483.jpg",
+      "imageKeys": [
+        "listing/721/12062721/1065904483.jpg",
+        "listing/721/12062721/1598902325.jpg",
+        "listing/721/12062721/1574554660.jpg",
+        "listing/721/12062721/1538829962.jpg",
+        "listing/721/12062721/325627184.jpg",
+        "listing/721/12062721/1749581262.jpg",
+        "listing/721/12062721/1593971891.jpg",
+        "listing/721/12062721/1027596694.jpg",
+        "listing/721/12062721/726179444.jpg",
+        "listing/721/12062721/847503394.jpg",
+        "listing/721/12062721/1695899784.jpg",
+        "listing/721/12062721/806150583.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/12062721"
+    },
+    {
       "id": 12661047,
       "make": "MASERATI",
       "model": "GRECALE",
@@ -684,80 +758,6 @@
         "listing/429/20306429/431747580.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20306429"
-    },
-    {
-      "id": 20787071,
-      "make": "MERCEDES-BENZ",
-      "model": "CLA 220",
-      "versionFullName": "CLA 220 8G-DCT 4Matic",
-      "firstRegistrationYear": 2026,
-      "mileage": 15,
-      "price": 69900.0,
-      "horsePower": 190,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2026-09-03T12:25:05.673Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/71/20787071/1503661367.jpg",
-      "imageKeys": [
-        "listing/71/20787071/1503661367.jpg",
-        "listing/71/20787071/1320652737.jpg",
-        "listing/71/20787071/308453233.jpg",
-        "listing/71/20787071/958962420.jpg",
-        "listing/71/20787071/1166653003.jpg",
-        "listing/71/20787071/426434808.jpg",
-        "listing/71/20787071/1860918324.jpg",
-        "listing/71/20787071/52013603.jpg",
-        "listing/71/20787071/206970613.jpg",
-        "listing/71/20787071/1551308368.jpg",
-        "listing/71/20787071/543307005.jpg",
-        "listing/71/20787071/1844581908.jpg",
-        "listing/71/20787071/1055047673.jpg",
-        "listing/71/20787071/750135764.jpg",
-        "listing/71/20787071/1998403385.jpg",
-        "listing/71/20787071/1113570180.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20787071"
-    },
-    {
-      "id": 12062721,
-      "make": "MERCEDES-BENZ",
-      "model": "SL 500",
-      "versionFullName": "SL 500 AMG",
-      "firstRegistrationYear": 1995,
-      "mileage": 170000,
-      "price": 69900.0,
-      "horsePower": 381,
-      "transmissionType": null,
-      "conditionType": "oldtimer",
-      "createdDate": "2024-12-13T08:30:57.635Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/721/12062721/1065904483.jpg",
-      "imageKeys": [
-        "listing/721/12062721/1065904483.jpg",
-        "listing/721/12062721/1598902325.jpg",
-        "listing/721/12062721/1574554660.jpg",
-        "listing/721/12062721/1538829962.jpg",
-        "listing/721/12062721/325627184.jpg",
-        "listing/721/12062721/1749581262.jpg",
-        "listing/721/12062721/1593971891.jpg",
-        "listing/721/12062721/1027596694.jpg",
-        "listing/721/12062721/726179444.jpg",
-        "listing/721/12062721/847503394.jpg",
-        "listing/721/12062721/1695899784.jpg",
-        "listing/721/12062721/806150583.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/12062721"
     },
     {
       "id": 12834163,
