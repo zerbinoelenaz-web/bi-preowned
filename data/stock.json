@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-27T04:46:03.844262+00:00",
+  "timestamp": "2026-10-27T10:21:22.783989+00:00",
   "count": 115,
   "listings": [
     {
@@ -3696,47 +3696,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20078795"
     },
     {
-      "id": 20918559,
-      "make": "FERRARI",
-      "model": "296",
-      "versionFullName": "296 GTS",
-      "firstRegistrationYear": 2023,
-      "mileage": 11500,
-      "price": 279000.0,
-      "horsePower": 830,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2026-10-19T11:35:50.217Z",
-      "seller": {
-        "id": 60699,
-        "name": "B.I. Collection - Ferrari Zürich",
-        "city": "Urdorf-Zürich",
-        "zipCode": "8902"
-      },
-      "imageKey": "listing/559/20918559/201321555.jpg",
-      "imageKeys": [
-        "listing/559/20918559/201321555.jpg",
-        "listing/559/20918559/1659101349.jpg",
-        "listing/559/20918559/42074336.jpg",
-        "listing/559/20918559/642622788.jpg",
-        "listing/559/20918559/1949823579.jpg",
-        "listing/559/20918559/2102975876.jpg",
-        "listing/559/20918559/1256011151.jpg",
-        "listing/559/20918559/517179099.jpg",
-        "listing/559/20918559/1524316343.jpg",
-        "listing/559/20918559/1757974470.jpg",
-        "listing/559/20918559/700115947.jpg",
-        "listing/559/20918559/1857486340.jpg",
-        "listing/559/20918559/1351259385.jpg",
-        "listing/559/20918559/1303791307.jpg",
-        "listing/559/20918559/915404300.jpg",
-        "listing/559/20918559/1622724793.jpg",
-        "listing/559/20918559/812928646.jpg",
-        "listing/559/20918559/1772930486.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20918559"
-    },
-    {
       "id": 20258583,
       "make": "FERRARI",
       "model": "Roma",
@@ -3783,6 +3742,47 @@
         "listing/583/20258583/2069963434.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20258583"
+    },
+    {
+      "id": 20918559,
+      "make": "FERRARI",
+      "model": "296",
+      "versionFullName": "296 GTS",
+      "firstRegistrationYear": 2023,
+      "mileage": 11500,
+      "price": 279000.0,
+      "horsePower": 830,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2026-10-19T11:35:50.217Z",
+      "seller": {
+        "id": 60699,
+        "name": "B.I. Collection - Ferrari Zürich",
+        "city": "Urdorf-Zürich",
+        "zipCode": "8902"
+      },
+      "imageKey": "listing/559/20918559/201321555.jpg",
+      "imageKeys": [
+        "listing/559/20918559/201321555.jpg",
+        "listing/559/20918559/1659101349.jpg",
+        "listing/559/20918559/42074336.jpg",
+        "listing/559/20918559/642622788.jpg",
+        "listing/559/20918559/1949823579.jpg",
+        "listing/559/20918559/2102975876.jpg",
+        "listing/559/20918559/1256011151.jpg",
+        "listing/559/20918559/517179099.jpg",
+        "listing/559/20918559/1524316343.jpg",
+        "listing/559/20918559/1757974470.jpg",
+        "listing/559/20918559/700115947.jpg",
+        "listing/559/20918559/1857486340.jpg",
+        "listing/559/20918559/1351259385.jpg",
+        "listing/559/20918559/1303791307.jpg",
+        "listing/559/20918559/915404300.jpg",
+        "listing/559/20918559/1622724793.jpg",
+        "listing/559/20918559/812928646.jpg",
+        "listing/559/20918559/1772930486.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20918559"
     },
     {
       "id": 20179495,
