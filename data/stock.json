@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-30T23:36:33.105399+00:00",
+  "timestamp": "2026-10-31T05:16:57.263238+00:00",
   "count": 116,
   "listings": [
     {
@@ -294,6 +294,42 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20543800"
     },
     {
+      "id": 11769069,
+      "make": "MERCEDES-BENZ",
+      "model": "EQA 350",
+      "versionFullName": "EQA 350",
+      "firstRegistrationYear": 2025,
+      "mileage": 10,
+      "price": 49900.0,
+      "horsePower": 292,
+      "transmissionType": "automatic",
+      "conditionType": "new",
+      "createdDate": "2024-08-19T12:46:20.924Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/69/11769069/2097903375.jpg",
+      "imageKeys": [
+        "listing/69/11769069/2097903375.jpg",
+        "listing/69/11769069/781580764.jpg",
+        "listing/69/11769069/794519825.jpg",
+        "listing/69/11769069/598819196.jpg",
+        "listing/69/11769069/1100913909.jpg",
+        "listing/69/11769069/649129446.jpg",
+        "listing/69/11769069/1439735878.jpg",
+        "listing/69/11769069/797759867.jpg",
+        "listing/69/11769069/19301232.jpg",
+        "listing/69/11769069/772248962.jpg",
+        "listing/69/11769069/1308822209.jpg",
+        "listing/69/11769069/222850897.jpg",
+        "listing/69/11769069/869884764.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/11769069"
+    },
+    {
       "id": 20529437,
       "make": "PUCH",
       "model": "G",
@@ -334,42 +370,6 @@
         "listing/437/20529437/917917397.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20529437"
-    },
-    {
-      "id": 11769069,
-      "make": "MERCEDES-BENZ",
-      "model": "EQA 350",
-      "versionFullName": "EQA 350",
-      "firstRegistrationYear": 2025,
-      "mileage": 10,
-      "price": 49900.0,
-      "horsePower": 292,
-      "transmissionType": "automatic",
-      "conditionType": "new",
-      "createdDate": "2024-08-19T12:46:20.924Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/69/11769069/2097903375.jpg",
-      "imageKeys": [
-        "listing/69/11769069/2097903375.jpg",
-        "listing/69/11769069/781580764.jpg",
-        "listing/69/11769069/794519825.jpg",
-        "listing/69/11769069/598819196.jpg",
-        "listing/69/11769069/1100913909.jpg",
-        "listing/69/11769069/649129446.jpg",
-        "listing/69/11769069/1439735878.jpg",
-        "listing/69/11769069/797759867.jpg",
-        "listing/69/11769069/19301232.jpg",
-        "listing/69/11769069/772248962.jpg",
-        "listing/69/11769069/1308822209.jpg",
-        "listing/69/11769069/222850897.jpg",
-        "listing/69/11769069/869884764.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/11769069"
     },
     {
       "id": 20918194,
@@ -3525,45 +3525,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/12649619"
     },
     {
-      "id": 20179545,
-      "make": "FERRARI",
-      "model": "Roma",
-      "versionFullName": "Roma Spider 3.9 V8 T",
-      "firstRegistrationYear": 2024,
-      "mileage": 7300,
-      "price": 259000.0,
-      "horsePower": 620,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2026-02-03T12:30:18.261Z",
-      "seller": {
-        "id": 60699,
-        "name": "B.I. Collection - Ferrari Zürich",
-        "city": "Urdorf-Zürich",
-        "zipCode": "8902"
-      },
-      "imageKey": "listing/545/20179545/324563419.jpg",
-      "imageKeys": [
-        "listing/545/20179545/324563419.jpg",
-        "listing/545/20179545/760308125.jpg",
-        "listing/545/20179545/829814705.jpg",
-        "listing/545/20179545/20622194.jpg",
-        "listing/545/20179545/1026517994.jpg",
-        "listing/545/20179545/1644832262.jpg",
-        "listing/545/20179545/903161505.jpg",
-        "listing/545/20179545/729646624.jpg",
-        "listing/545/20179545/696189.jpg",
-        "listing/545/20179545/38389044.jpg",
-        "listing/545/20179545/968182884.jpg",
-        "listing/545/20179545/1862491633.jpg",
-        "listing/545/20179545/1513614907.jpg",
-        "listing/545/20179545/1303948908.jpg",
-        "listing/545/20179545/202764648.jpg",
-        "listing/545/20179545/1070917362.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20179545"
-    },
-    {
       "id": 20687112,
       "make": "FERRARI",
       "model": "Roma",
@@ -3604,6 +3565,45 @@
         "listing/112/20687112/1591170393.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20687112"
+    },
+    {
+      "id": 20179545,
+      "make": "FERRARI",
+      "model": "Roma",
+      "versionFullName": "Roma Spider 3.9 V8 T",
+      "firstRegistrationYear": 2024,
+      "mileage": 7300,
+      "price": 259000.0,
+      "horsePower": 620,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2026-02-03T12:30:18.261Z",
+      "seller": {
+        "id": 60699,
+        "name": "B.I. Collection - Ferrari Zürich",
+        "city": "Urdorf-Zürich",
+        "zipCode": "8902"
+      },
+      "imageKey": "listing/545/20179545/324563419.jpg",
+      "imageKeys": [
+        "listing/545/20179545/324563419.jpg",
+        "listing/545/20179545/760308125.jpg",
+        "listing/545/20179545/829814705.jpg",
+        "listing/545/20179545/20622194.jpg",
+        "listing/545/20179545/1026517994.jpg",
+        "listing/545/20179545/1644832262.jpg",
+        "listing/545/20179545/903161505.jpg",
+        "listing/545/20179545/729646624.jpg",
+        "listing/545/20179545/696189.jpg",
+        "listing/545/20179545/38389044.jpg",
+        "listing/545/20179545/968182884.jpg",
+        "listing/545/20179545/1862491633.jpg",
+        "listing/545/20179545/1513614907.jpg",
+        "listing/545/20179545/1303948908.jpg",
+        "listing/545/20179545/202764648.jpg",
+        "listing/545/20179545/1070917362.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20179545"
     },
     {
       "id": 20499931,
