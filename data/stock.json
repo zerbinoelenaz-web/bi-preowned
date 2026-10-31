@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-31T12:07:53.662102+00:00",
+  "timestamp": "2026-10-31T17:37:29.894058+00:00",
   "count": 116,
   "listings": [
     {
@@ -756,43 +756,39 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20306429"
     },
     {
-      "id": 20306429,
-      "make": "MASERATI",
-      "model": "LEVANTE",
-      "versionFullName": "LEVANTE 3.8 V8 TROFEO Q4",
-      "firstRegistrationYear": 2019,
-      "mileage": 61500,
+      "id": 12062721,
+      "make": "MERCEDES-BENZ",
+      "model": "SL 500",
+      "versionFullName": "SL 500 AMG",
+      "firstRegistrationYear": 1995,
+      "mileage": 170000,
       "price": 69900.0,
-      "horsePower": 581,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-03-19T16:13:23.82Z",
+      "horsePower": 381,
+      "transmissionType": null,
+      "conditionType": "oldtimer",
+      "createdDate": "2024-12-13T08:30:57.635Z",
       "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
       },
-      "imageKey": "listing/429/20306429/366142183.jpg",
+      "imageKey": "listing/721/12062721/1065904483.jpg",
       "imageKeys": [
-        "listing/429/20306429/366142183.jpg",
-        "listing/429/20306429/1087632254.jpg",
-        "listing/429/20306429/457465742.jpg",
-        "listing/429/20306429/1873599371.jpg",
-        "listing/429/20306429/725341779.jpg",
-        "listing/429/20306429/2101828696.jpg",
-        "listing/429/20306429/1119571877.jpg",
-        "listing/429/20306429/115890380.jpg",
-        "listing/429/20306429/1075488724.jpg",
-        "listing/429/20306429/856829073.jpg",
-        "listing/429/20306429/1070662872.jpg",
-        "listing/429/20306429/1526902970.jpg",
-        "listing/429/20306429/2054831328.jpg",
-        "listing/429/20306429/1097438945.jpg",
-        "listing/429/20306429/93151359.jpg",
-        "listing/429/20306429/431747580.jpg"
+        "listing/721/12062721/1065904483.jpg",
+        "listing/721/12062721/1598902325.jpg",
+        "listing/721/12062721/1574554660.jpg",
+        "listing/721/12062721/1538829962.jpg",
+        "listing/721/12062721/325627184.jpg",
+        "listing/721/12062721/1749581262.jpg",
+        "listing/721/12062721/1593971891.jpg",
+        "listing/721/12062721/1027596694.jpg",
+        "listing/721/12062721/726179444.jpg",
+        "listing/721/12062721/847503394.jpg",
+        "listing/721/12062721/1695899784.jpg",
+        "listing/721/12062721/806150583.jpg"
       ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20306429"
+      "listingUrl": "https://www.autoscout24.ch/de/d/12062721"
     },
     {
       "id": 12715365,
@@ -831,45 +827,6 @@
         "listing/365/12715365/332335704.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/12715365"
-    },
-    {
-      "id": 20787071,
-      "make": "MERCEDES-BENZ",
-      "model": "CLA 220",
-      "versionFullName": "CLA 220 8G-DCT 4Matic",
-      "firstRegistrationYear": 2026,
-      "mileage": 15,
-      "price": 69900.0,
-      "horsePower": 190,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2026-09-03T12:25:05.673Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/71/20787071/1503661367.jpg",
-      "imageKeys": [
-        "listing/71/20787071/1503661367.jpg",
-        "listing/71/20787071/1320652737.jpg",
-        "listing/71/20787071/308453233.jpg",
-        "listing/71/20787071/958962420.jpg",
-        "listing/71/20787071/1166653003.jpg",
-        "listing/71/20787071/426434808.jpg",
-        "listing/71/20787071/1860918324.jpg",
-        "listing/71/20787071/52013603.jpg",
-        "listing/71/20787071/206970613.jpg",
-        "listing/71/20787071/1551308368.jpg",
-        "listing/71/20787071/543307005.jpg",
-        "listing/71/20787071/1844581908.jpg",
-        "listing/71/20787071/1055047673.jpg",
-        "listing/71/20787071/750135764.jpg",
-        "listing/71/20787071/1998403385.jpg",
-        "listing/71/20787071/1113570180.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20787071"
     },
     {
       "id": 20253754,
@@ -911,6 +868,45 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20253754"
     },
     {
+      "id": 20787071,
+      "make": "MERCEDES-BENZ",
+      "model": "CLA 220",
+      "versionFullName": "CLA 220 8G-DCT 4Matic",
+      "firstRegistrationYear": 2026,
+      "mileage": 15,
+      "price": 69900.0,
+      "horsePower": 190,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2026-09-03T12:25:05.673Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/71/20787071/1503661367.jpg",
+      "imageKeys": [
+        "listing/71/20787071/1503661367.jpg",
+        "listing/71/20787071/1320652737.jpg",
+        "listing/71/20787071/308453233.jpg",
+        "listing/71/20787071/958962420.jpg",
+        "listing/71/20787071/1166653003.jpg",
+        "listing/71/20787071/426434808.jpg",
+        "listing/71/20787071/1860918324.jpg",
+        "listing/71/20787071/52013603.jpg",
+        "listing/71/20787071/206970613.jpg",
+        "listing/71/20787071/1551308368.jpg",
+        "listing/71/20787071/543307005.jpg",
+        "listing/71/20787071/1844581908.jpg",
+        "listing/71/20787071/1055047673.jpg",
+        "listing/71/20787071/750135764.jpg",
+        "listing/71/20787071/1998403385.jpg",
+        "listing/71/20787071/1113570180.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20787071"
+    },
+    {
       "id": 12834163,
       "make": "MERCEDES-BENZ",
       "model": "CLA 350",
@@ -946,30 +942,6 @@
         "listing/163/12834163/263824738.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/12834163"
-    },
-    {
-      "id": 20848441,
-      "make": "MASERATI",
-      "model": "GRECALE",
-      "versionFullName": "Grecale 3.0 Trofeo Automatica",
-      "firstRegistrationYear": 2024,
-      "mileage": 54400,
-      "price": 74900.0,
-      "horsePower": 531,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-09-23T14:43:50.962Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/441/20848441/1304412825.jpg",
-      "imageKeys": [
-        "listing/441/20848441/1304412825.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20848441"
     },
     {
       "id": 20524652,
@@ -1008,6 +980,30 @@
         "listing/652/20524652/911523770.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20524652"
+    },
+    {
+      "id": 20848441,
+      "make": "MASERATI",
+      "model": "GRECALE",
+      "versionFullName": "Grecale 3.0 Trofeo Automatica",
+      "firstRegistrationYear": 2024,
+      "mileage": 54400,
+      "price": 74900.0,
+      "horsePower": 531,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-09-23T14:43:50.962Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/441/20848441/1304412825.jpg",
+      "imageKeys": [
+        "listing/441/20848441/1304412825.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20848441"
     },
     {
       "id": 20152911,
@@ -3529,6 +3525,45 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/12649619"
     },
     {
+      "id": 20179545,
+      "make": "FERRARI",
+      "model": "Roma",
+      "versionFullName": "Roma Spider 3.9 V8 T",
+      "firstRegistrationYear": 2024,
+      "mileage": 7300,
+      "price": 259000.0,
+      "horsePower": 620,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2026-02-03T12:30:18.261Z",
+      "seller": {
+        "id": 60699,
+        "name": "B.I. Collection - Ferrari Zürich",
+        "city": "Urdorf-Zürich",
+        "zipCode": "8902"
+      },
+      "imageKey": "listing/545/20179545/324563419.jpg",
+      "imageKeys": [
+        "listing/545/20179545/324563419.jpg",
+        "listing/545/20179545/760308125.jpg",
+        "listing/545/20179545/829814705.jpg",
+        "listing/545/20179545/20622194.jpg",
+        "listing/545/20179545/1026517994.jpg",
+        "listing/545/20179545/1644832262.jpg",
+        "listing/545/20179545/903161505.jpg",
+        "listing/545/20179545/729646624.jpg",
+        "listing/545/20179545/696189.jpg",
+        "listing/545/20179545/38389044.jpg",
+        "listing/545/20179545/968182884.jpg",
+        "listing/545/20179545/1862491633.jpg",
+        "listing/545/20179545/1513614907.jpg",
+        "listing/545/20179545/1303948908.jpg",
+        "listing/545/20179545/202764648.jpg",
+        "listing/545/20179545/1070917362.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20179545"
+    },
+    {
       "id": 20687112,
       "make": "FERRARI",
       "model": "Roma",
@@ -3569,45 +3604,6 @@
         "listing/112/20687112/1591170393.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20687112"
-    },
-    {
-      "id": 20179545,
-      "make": "FERRARI",
-      "model": "Roma",
-      "versionFullName": "Roma Spider 3.9 V8 T",
-      "firstRegistrationYear": 2024,
-      "mileage": 7300,
-      "price": 259000.0,
-      "horsePower": 620,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2026-02-03T12:30:18.261Z",
-      "seller": {
-        "id": 60699,
-        "name": "B.I. Collection - Ferrari Zürich",
-        "city": "Urdorf-Zürich",
-        "zipCode": "8902"
-      },
-      "imageKey": "listing/545/20179545/324563419.jpg",
-      "imageKeys": [
-        "listing/545/20179545/324563419.jpg",
-        "listing/545/20179545/760308125.jpg",
-        "listing/545/20179545/829814705.jpg",
-        "listing/545/20179545/20622194.jpg",
-        "listing/545/20179545/1026517994.jpg",
-        "listing/545/20179545/1644832262.jpg",
-        "listing/545/20179545/903161505.jpg",
-        "listing/545/20179545/729646624.jpg",
-        "listing/545/20179545/696189.jpg",
-        "listing/545/20179545/38389044.jpg",
-        "listing/545/20179545/968182884.jpg",
-        "listing/545/20179545/1862491633.jpg",
-        "listing/545/20179545/1513614907.jpg",
-        "listing/545/20179545/1303948908.jpg",
-        "listing/545/20179545/202764648.jpg",
-        "listing/545/20179545/1070917362.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20179545"
     },
     {
       "id": 20499931,
@@ -3730,6 +3726,47 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20078795"
     },
     {
+      "id": 20918559,
+      "make": "FERRARI",
+      "model": "296",
+      "versionFullName": "296 GTS",
+      "firstRegistrationYear": 2023,
+      "mileage": 11500,
+      "price": 279000.0,
+      "horsePower": 830,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2026-10-19T11:35:50.217Z",
+      "seller": {
+        "id": 60699,
+        "name": "B.I. Collection - Ferrari Zürich",
+        "city": "Urdorf-Zürich",
+        "zipCode": "8902"
+      },
+      "imageKey": "listing/559/20918559/201321555.jpg",
+      "imageKeys": [
+        "listing/559/20918559/201321555.jpg",
+        "listing/559/20918559/1659101349.jpg",
+        "listing/559/20918559/42074336.jpg",
+        "listing/559/20918559/642622788.jpg",
+        "listing/559/20918559/1949823579.jpg",
+        "listing/559/20918559/2102975876.jpg",
+        "listing/559/20918559/1256011151.jpg",
+        "listing/559/20918559/517179099.jpg",
+        "listing/559/20918559/1524316343.jpg",
+        "listing/559/20918559/1757974470.jpg",
+        "listing/559/20918559/700115947.jpg",
+        "listing/559/20918559/1857486340.jpg",
+        "listing/559/20918559/1351259385.jpg",
+        "listing/559/20918559/1303791307.jpg",
+        "listing/559/20918559/915404300.jpg",
+        "listing/559/20918559/1622724793.jpg",
+        "listing/559/20918559/812928646.jpg",
+        "listing/559/20918559/1772930486.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20918559"
+    },
+    {
       "id": 20258583,
       "make": "FERRARI",
       "model": "Roma",
@@ -3776,47 +3813,6 @@
         "listing/583/20258583/2069963434.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20258583"
-    },
-    {
-      "id": 20918559,
-      "make": "FERRARI",
-      "model": "296",
-      "versionFullName": "296 GTS",
-      "firstRegistrationYear": 2023,
-      "mileage": 11500,
-      "price": 279000.0,
-      "horsePower": 830,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2026-10-19T11:35:50.217Z",
-      "seller": {
-        "id": 60699,
-        "name": "B.I. Collection - Ferrari Zürich",
-        "city": "Urdorf-Zürich",
-        "zipCode": "8902"
-      },
-      "imageKey": "listing/559/20918559/201321555.jpg",
-      "imageKeys": [
-        "listing/559/20918559/201321555.jpg",
-        "listing/559/20918559/1659101349.jpg",
-        "listing/559/20918559/42074336.jpg",
-        "listing/559/20918559/642622788.jpg",
-        "listing/559/20918559/1949823579.jpg",
-        "listing/559/20918559/2102975876.jpg",
-        "listing/559/20918559/1256011151.jpg",
-        "listing/559/20918559/517179099.jpg",
-        "listing/559/20918559/1524316343.jpg",
-        "listing/559/20918559/1757974470.jpg",
-        "listing/559/20918559/700115947.jpg",
-        "listing/559/20918559/1857486340.jpg",
-        "listing/559/20918559/1351259385.jpg",
-        "listing/559/20918559/1303791307.jpg",
-        "listing/559/20918559/915404300.jpg",
-        "listing/559/20918559/1622724793.jpg",
-        "listing/559/20918559/812928646.jpg",
-        "listing/559/20918559/1772930486.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20918559"
     },
     {
       "id": 20179495,
