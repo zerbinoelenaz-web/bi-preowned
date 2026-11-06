@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-11-06T10:41:06.273487+00:00",
-  "count": 116,
+  "timestamp": "2026-11-06T17:53:05.468041+00:00",
+  "count": 118,
   "listings": [
     {
       "id": 20564228,
@@ -1669,6 +1669,30 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20492852"
     },
     {
+      "id": 20969648,
+      "make": "PORSCHE",
+      "model": "911",
+      "versionFullName": "911 Carrera 2 Cabrio",
+      "firstRegistrationYear": 1992,
+      "mileage": 91000,
+      "price": 89911.0,
+      "horsePower": 250,
+      "transmissionType": "manual",
+      "conditionType": "used",
+      "createdDate": "2026-11-06T10:42:41.568Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/648/20969648/1917545459.webp",
+      "imageKeys": [
+        "listing/648/20969648/1917545459.webp"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20969648"
+    },
+    {
       "id": 20362599,
       "make": "ASTON MARTIN",
       "model": "DBX",
@@ -2235,6 +2259,30 @@
         "listing/776/20820776/185434834.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20820776"
+    },
+    {
+      "id": 20969579,
+      "make": "MERCEDES-BENZ",
+      "model": "GLC 53 AMG",
+      "versionFullName": "AMG GLC 53 4MATIC+",
+      "firstRegistrationYear": 2026,
+      "mileage": 1,
+      "price": 116000.0,
+      "horsePower": 472,
+      "transmissionType": null,
+      "conditionType": "new",
+      "createdDate": "2026-11-06T10:25:17.04Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/579/20969579/2099543034.webp",
+      "imageKeys": [
+        "listing/579/20969579/2099543034.webp"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20969579"
     },
     {
       "id": 20753159,
