@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-07T20:46:19.336237+00:00",
+  "timestamp": "2026-11-08T00:22:25.373105+00:00",
   "count": 119,
   "listings": [
     {
@@ -935,6 +935,43 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20787071"
     },
     {
+      "id": 20963001,
+      "make": "MERCEDES-BENZ",
+      "model": "SL 500",
+      "versionFullName": "MERCEDES-BENZ SL 500 Final Edition Automatic",
+      "firstRegistrationYear": 2001,
+      "mileage": 59500,
+      "price": 69900.0,
+      "horsePower": 306,
+      "transmissionType": null,
+      "conditionType": "used",
+      "createdDate": "2026-11-04T11:10:09.037Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/1/20963001/458459111.jpg",
+      "imageKeys": [
+        "listing/1/20963001/458459111.jpg",
+        "listing/1/20963001/1726965252.jpg",
+        "listing/1/20963001/1023609479.jpg",
+        "listing/1/20963001/1622573079.jpg",
+        "listing/1/20963001/1730884515.jpg",
+        "listing/1/20963001/1063856929.jpg",
+        "listing/1/20963001/658055193.jpg",
+        "listing/1/20963001/1669748451.jpg",
+        "listing/1/20963001/487300228.jpg",
+        "listing/1/20963001/1213421175.jpg",
+        "listing/1/20963001/254174637.jpg",
+        "listing/1/20963001/1235783828.jpg",
+        "listing/1/20963001/1524611891.jpg",
+        "listing/1/20963001/1641957152.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20963001"
+    },
+    {
       "id": 12661047,
       "make": "MASERATI",
       "model": "GRECALE",
@@ -972,43 +1009,6 @@
         "listing/47/12661047/1323893043.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/12661047"
-    },
-    {
-      "id": 20963001,
-      "make": "MERCEDES-BENZ",
-      "model": "SL 500",
-      "versionFullName": "MERCEDES-BENZ SL 500 Final Edition Automatic",
-      "firstRegistrationYear": 2001,
-      "mileage": 59500,
-      "price": 69900.0,
-      "horsePower": 306,
-      "transmissionType": null,
-      "conditionType": "used",
-      "createdDate": "2026-11-04T11:10:09.037Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/1/20963001/458459111.jpg",
-      "imageKeys": [
-        "listing/1/20963001/458459111.jpg",
-        "listing/1/20963001/1726965252.jpg",
-        "listing/1/20963001/1023609479.jpg",
-        "listing/1/20963001/1622573079.jpg",
-        "listing/1/20963001/1730884515.jpg",
-        "listing/1/20963001/1063856929.jpg",
-        "listing/1/20963001/658055193.jpg",
-        "listing/1/20963001/1669748451.jpg",
-        "listing/1/20963001/487300228.jpg",
-        "listing/1/20963001/1213421175.jpg",
-        "listing/1/20963001/254174637.jpg",
-        "listing/1/20963001/1235783828.jpg",
-        "listing/1/20963001/1524611891.jpg",
-        "listing/1/20963001/1641957152.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20963001"
     },
     {
       "id": 20848441,
