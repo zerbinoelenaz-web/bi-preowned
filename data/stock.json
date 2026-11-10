@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-11-09T15:58:26.472912+00:00",
-  "count": 119,
+  "timestamp": "2026-11-10T00:09:38.347479+00:00",
+  "count": 118,
   "listings": [
     {
       "id": 20564228,
@@ -78,39 +78,43 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20820274"
     },
     {
-      "id": 11168520,
-      "make": "MERCEDES-BENZ",
-      "model": "C 200",
-      "versionFullName": "C 200 T 4Matic All-Terain Avantgarde",
-      "firstRegistrationYear": 2023,
-      "mileage": 45000,
+      "id": 20090535,
+      "make": "MASERATI",
+      "model": "LEVANTE",
+      "versionFullName": "LEVANTE DIESEL 3.0 V6",
+      "firstRegistrationYear": 2020,
+      "mileage": 56500,
       "price": 39900.0,
-      "horsePower": 204,
+      "horsePower": 275,
       "transmissionType": "automatic",
-      "conditionType": "demonstration",
-      "createdDate": "2024-01-15T13:00:30.355Z",
+      "conditionType": "used",
+      "createdDate": "2025-12-23T14:32:19.811Z",
       "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
       },
-      "imageKey": "listing/520/11168520/419939672.jpg",
+      "imageKey": "listing/535/20090535/1127841088.jpg",
       "imageKeys": [
-        "listing/520/11168520/419939672.jpg",
-        "listing/520/11168520/444776773.jpg",
-        "listing/520/11168520/703390047.jpg",
-        "listing/520/11168520/1518330430.jpg",
-        "listing/520/11168520/1264170022.jpg",
-        "listing/520/11168520/1780177685.jpg",
-        "listing/520/11168520/61040805.jpg",
-        "listing/520/11168520/1550221211.jpg",
-        "listing/520/11168520/1379218474.jpg",
-        "listing/520/11168520/452117249.jpg",
-        "listing/520/11168520/1550606374.jpg",
-        "listing/520/11168520/958807069.jpg"
+        "listing/535/20090535/1127841088.jpg",
+        "listing/535/20090535/217148017.jpg",
+        "listing/535/20090535/1981620194.jpg",
+        "listing/535/20090535/667577864.jpg",
+        "listing/535/20090535/91498678.jpg",
+        "listing/535/20090535/420528701.jpg",
+        "listing/535/20090535/71459788.jpg",
+        "listing/535/20090535/1917321806.jpg",
+        "listing/535/20090535/1180799797.jpg",
+        "listing/535/20090535/1404969415.jpg",
+        "listing/535/20090535/2022112667.jpg",
+        "listing/535/20090535/927549406.jpg",
+        "listing/535/20090535/502091009.jpg",
+        "listing/535/20090535/1505026672.jpg",
+        "listing/535/20090535/214961523.jpg",
+        "listing/535/20090535/2099387855.jpg"
       ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/11168520"
+      "listingUrl": "https://www.autoscout24.ch/de/d/20090535"
     },
     {
       "id": 20221212,
@@ -150,43 +154,39 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20221212"
     },
     {
-      "id": 20090535,
-      "make": "MASERATI",
-      "model": "LEVANTE",
-      "versionFullName": "LEVANTE DIESEL 3.0 V6",
-      "firstRegistrationYear": 2020,
-      "mileage": 56500,
+      "id": 11168520,
+      "make": "MERCEDES-BENZ",
+      "model": "C 200",
+      "versionFullName": "C 200 T 4Matic All-Terain Avantgarde",
+      "firstRegistrationYear": 2023,
+      "mileage": 45000,
       "price": 39900.0,
-      "horsePower": 275,
+      "horsePower": 204,
       "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2025-12-23T14:32:19.811Z",
+      "conditionType": "demonstration",
+      "createdDate": "2024-01-15T13:00:30.355Z",
       "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
       },
-      "imageKey": "listing/535/20090535/1127841088.jpg",
+      "imageKey": "listing/520/11168520/419939672.jpg",
       "imageKeys": [
-        "listing/535/20090535/1127841088.jpg",
-        "listing/535/20090535/217148017.jpg",
-        "listing/535/20090535/1981620194.jpg",
-        "listing/535/20090535/667577864.jpg",
-        "listing/535/20090535/91498678.jpg",
-        "listing/535/20090535/420528701.jpg",
-        "listing/535/20090535/71459788.jpg",
-        "listing/535/20090535/1917321806.jpg",
-        "listing/535/20090535/1180799797.jpg",
-        "listing/535/20090535/1404969415.jpg",
-        "listing/535/20090535/2022112667.jpg",
-        "listing/535/20090535/927549406.jpg",
-        "listing/535/20090535/502091009.jpg",
-        "listing/535/20090535/1505026672.jpg",
-        "listing/535/20090535/214961523.jpg",
-        "listing/535/20090535/2099387855.jpg"
+        "listing/520/11168520/419939672.jpg",
+        "listing/520/11168520/444776773.jpg",
+        "listing/520/11168520/703390047.jpg",
+        "listing/520/11168520/1518330430.jpg",
+        "listing/520/11168520/1264170022.jpg",
+        "listing/520/11168520/1780177685.jpg",
+        "listing/520/11168520/61040805.jpg",
+        "listing/520/11168520/1550221211.jpg",
+        "listing/520/11168520/1379218474.jpg",
+        "listing/520/11168520/452117249.jpg",
+        "listing/520/11168520/1550606374.jpg",
+        "listing/520/11168520/958807069.jpg"
       ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20090535"
+      "listingUrl": "https://www.autoscout24.ch/de/d/11168520"
     },
     {
       "id": 11710822,
@@ -293,28 +293,43 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20543800"
     },
     {
-      "id": 20966298,
-      "make": "MERCEDES-BENZ",
-      "model": "GLE 350",
-      "versionFullName": "GLE 350 e 4Matic 9G-Tronic",
-      "firstRegistrationYear": 2022,
-      "mileage": 65000,
+      "id": 20918194,
+      "make": "MASERATI",
+      "model": "LEVANTE",
+      "versionFullName": "Levante 3.0 V6 GranSport Automatica",
+      "firstRegistrationYear": 2021,
+      "mileage": 62000,
       "price": 49900.0,
-      "horsePower": 333,
+      "horsePower": 350,
       "transmissionType": "automatic",
       "conditionType": "used",
-      "createdDate": "2026-11-05T10:56:18.338Z",
+      "createdDate": "2026-10-19T09:37:09.067Z",
       "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
       },
-      "imageKey": "listing/298/20966298/1229278941.webp",
+      "imageKey": "listing/194/20918194/963248132.jpg",
       "imageKeys": [
-        "listing/298/20966298/1229278941.webp"
+        "listing/194/20918194/963248132.jpg",
+        "listing/194/20918194/520233915.jpg",
+        "listing/194/20918194/2144561468.jpg",
+        "listing/194/20918194/2085471460.jpg",
+        "listing/194/20918194/1132855455.jpg",
+        "listing/194/20918194/960964927.jpg",
+        "listing/194/20918194/503017193.jpg",
+        "listing/194/20918194/359174015.jpg",
+        "listing/194/20918194/845214961.jpg",
+        "listing/194/20918194/2076545570.jpg",
+        "listing/194/20918194/601249265.jpg",
+        "listing/194/20918194/1021613910.jpg",
+        "listing/194/20918194/1161633973.jpg",
+        "listing/194/20918194/1828410846.jpg",
+        "listing/194/20918194/2013825430.jpg",
+        "listing/194/20918194/1191660058.jpg"
       ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20966298"
+      "listingUrl": "https://www.autoscout24.ch/de/d/20918194"
     },
     {
       "id": 20529437,
@@ -359,82 +374,28 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20529437"
     },
     {
-      "id": 20918194,
-      "make": "MASERATI",
-      "model": "LEVANTE",
-      "versionFullName": "Levante 3.0 V6 GranSport Automatica",
-      "firstRegistrationYear": 2021,
-      "mileage": 62000,
-      "price": 49900.0,
-      "horsePower": 350,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-10-19T09:37:09.067Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/194/20918194/963248132.jpg",
-      "imageKeys": [
-        "listing/194/20918194/963248132.jpg",
-        "listing/194/20918194/520233915.jpg",
-        "listing/194/20918194/2144561468.jpg",
-        "listing/194/20918194/2085471460.jpg",
-        "listing/194/20918194/1132855455.jpg",
-        "listing/194/20918194/960964927.jpg",
-        "listing/194/20918194/503017193.jpg",
-        "listing/194/20918194/359174015.jpg",
-        "listing/194/20918194/845214961.jpg",
-        "listing/194/20918194/2076545570.jpg",
-        "listing/194/20918194/601249265.jpg",
-        "listing/194/20918194/1021613910.jpg",
-        "listing/194/20918194/1161633973.jpg",
-        "listing/194/20918194/1828410846.jpg",
-        "listing/194/20918194/2013825430.jpg",
-        "listing/194/20918194/1191660058.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20918194"
-    },
-    {
-      "id": 20694757,
-      "make": "MASERATI",
-      "model": "GRECALE",
-      "versionFullName": "GRECALE 2.0 MHEV GT HYBRID",
+      "id": 20966298,
+      "make": "MERCEDES-BENZ",
+      "model": "GLE 350",
+      "versionFullName": "GLE 350 e 4Matic 9G-Tronic",
       "firstRegistrationYear": 2022,
-      "mileage": 77900,
-      "price": 53900.0,
-      "horsePower": 301,
+      "mileage": 65000,
+      "price": 49900.0,
+      "horsePower": 333,
       "transmissionType": "automatic",
       "conditionType": "used",
-      "createdDate": "2026-08-09T18:40:58.168Z",
+      "createdDate": "2026-11-05T10:56:18.338Z",
       "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
       },
-      "imageKey": "listing/757/20694757/633567392.jpg",
+      "imageKey": "listing/298/20966298/1229278941.webp",
       "imageKeys": [
-        "listing/757/20694757/633567392.jpg",
-        "listing/757/20694757/1673361096.jpg",
-        "listing/757/20694757/34842603.jpg",
-        "listing/757/20694757/321391541.jpg",
-        "listing/757/20694757/1905298502.jpg",
-        "listing/757/20694757/214517497.jpg",
-        "listing/757/20694757/1219222148.jpg",
-        "listing/757/20694757/366217159.jpg",
-        "listing/757/20694757/1215267317.jpg",
-        "listing/757/20694757/652135392.jpg",
-        "listing/757/20694757/721934419.jpg",
-        "listing/757/20694757/1974809265.jpg",
-        "listing/757/20694757/1784460154.jpg",
-        "listing/757/20694757/1515009468.jpg",
-        "listing/757/20694757/2105761448.jpg",
-        "listing/757/20694757/1080838537.jpg"
+        "listing/298/20966298/1229278941.webp"
       ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20694757"
+      "listingUrl": "https://www.autoscout24.ch/de/d/20966298"
     },
     {
       "id": 20972337,
@@ -474,6 +435,45 @@
         "listing/337/20972337/2073265597.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20972337"
+    },
+    {
+      "id": 20694757,
+      "make": "MASERATI",
+      "model": "GRECALE",
+      "versionFullName": "GRECALE 2.0 MHEV GT HYBRID",
+      "firstRegistrationYear": 2022,
+      "mileage": 77900,
+      "price": 53900.0,
+      "horsePower": 301,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-08-09T18:40:58.168Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/757/20694757/633567392.jpg",
+      "imageKeys": [
+        "listing/757/20694757/633567392.jpg",
+        "listing/757/20694757/1673361096.jpg",
+        "listing/757/20694757/34842603.jpg",
+        "listing/757/20694757/321391541.jpg",
+        "listing/757/20694757/1905298502.jpg",
+        "listing/757/20694757/214517497.jpg",
+        "listing/757/20694757/1219222148.jpg",
+        "listing/757/20694757/366217159.jpg",
+        "listing/757/20694757/1215267317.jpg",
+        "listing/757/20694757/652135392.jpg",
+        "listing/757/20694757/721934419.jpg",
+        "listing/757/20694757/1974809265.jpg",
+        "listing/757/20694757/1784460154.jpg",
+        "listing/757/20694757/1515009468.jpg",
+        "listing/757/20694757/2105761448.jpg",
+        "listing/757/20694757/1080838537.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20694757"
     },
     {
       "id": 10722283,
@@ -856,45 +856,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20963001"
     },
     {
-      "id": 20787071,
-      "make": "MERCEDES-BENZ",
-      "model": "CLA 220",
-      "versionFullName": "CLA 220 8G-DCT 4Matic",
-      "firstRegistrationYear": 2026,
-      "mileage": 15,
-      "price": 69900.0,
-      "horsePower": 190,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2026-09-03T12:25:05.673Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/71/20787071/1503661367.jpg",
-      "imageKeys": [
-        "listing/71/20787071/1503661367.jpg",
-        "listing/71/20787071/1320652737.jpg",
-        "listing/71/20787071/308453233.jpg",
-        "listing/71/20787071/958962420.jpg",
-        "listing/71/20787071/1166653003.jpg",
-        "listing/71/20787071/426434808.jpg",
-        "listing/71/20787071/1860918324.jpg",
-        "listing/71/20787071/52013603.jpg",
-        "listing/71/20787071/206970613.jpg",
-        "listing/71/20787071/1551308368.jpg",
-        "listing/71/20787071/543307005.jpg",
-        "listing/71/20787071/1844581908.jpg",
-        "listing/71/20787071/1055047673.jpg",
-        "listing/71/20787071/750135764.jpg",
-        "listing/71/20787071/1998403385.jpg",
-        "listing/71/20787071/1113570180.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20787071"
-    },
-    {
       "id": 12661047,
       "make": "MASERATI",
       "model": "GRECALE",
@@ -971,6 +932,45 @@
         "listing/429/20306429/431747580.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20306429"
+    },
+    {
+      "id": 20787071,
+      "make": "MERCEDES-BENZ",
+      "model": "CLA 220",
+      "versionFullName": "CLA 220 8G-DCT 4Matic",
+      "firstRegistrationYear": 2026,
+      "mileage": 15,
+      "price": 69900.0,
+      "horsePower": 190,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2026-09-03T12:25:05.673Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/71/20787071/1503661367.jpg",
+      "imageKeys": [
+        "listing/71/20787071/1503661367.jpg",
+        "listing/71/20787071/1320652737.jpg",
+        "listing/71/20787071/308453233.jpg",
+        "listing/71/20787071/958962420.jpg",
+        "listing/71/20787071/1166653003.jpg",
+        "listing/71/20787071/426434808.jpg",
+        "listing/71/20787071/1860918324.jpg",
+        "listing/71/20787071/52013603.jpg",
+        "listing/71/20787071/206970613.jpg",
+        "listing/71/20787071/1551308368.jpg",
+        "listing/71/20787071/543307005.jpg",
+        "listing/71/20787071/1844581908.jpg",
+        "listing/71/20787071/1055047673.jpg",
+        "listing/71/20787071/750135764.jpg",
+        "listing/71/20787071/1998403385.jpg",
+        "listing/71/20787071/1113570180.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20787071"
     },
     {
       "id": 20848441,
@@ -1165,30 +1165,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20959422"
     },
     {
-      "id": 20960342,
-      "make": "MERCEDES-BENZ",
-      "model": "GLA 250",
-      "versionFullName": "MERCEDES-BENZ GLA 250 4Matic 8G-DCT Swiss Star",
-      "firstRegistrationYear": 2026,
-      "mileage": 1,
-      "price": 78000.0,
-      "horsePower": 224,
-      "transmissionType": "semi-automatic",
-      "conditionType": "new",
-      "createdDate": "2026-11-03T14:36:47.35Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/342/20960342/372747085.webp",
-      "imageKeys": [
-        "listing/342/20960342/372747085.webp"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20960342"
-    },
-    {
       "id": 20670996,
       "make": "PORSCHE",
       "model": "MACAN",
@@ -1225,6 +1201,30 @@
         "listing/996/20670996/2028579519.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20670996"
+    },
+    {
+      "id": 20960342,
+      "make": "MERCEDES-BENZ",
+      "model": "GLA 250",
+      "versionFullName": "MERCEDES-BENZ GLA 250 4Matic 8G-DCT Swiss Star",
+      "firstRegistrationYear": 2026,
+      "mileage": 1,
+      "price": 78000.0,
+      "horsePower": 224,
+      "transmissionType": "semi-automatic",
+      "conditionType": "new",
+      "createdDate": "2026-11-03T14:36:47.35Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/342/20960342/372747085.webp",
+      "imageKeys": [
+        "listing/342/20960342/372747085.webp"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20960342"
     },
     {
       "id": 20867178,
@@ -2325,42 +2325,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20753159"
     },
     {
-      "id": 20688073,
-      "make": "MERCEDES-BENZ",
-      "model": "AMG GT",
-      "versionFullName": "AMG GT C Roadster Speedshift DCT",
-      "firstRegistrationYear": 2021,
-      "mileage": 21200,
-      "price": 119900.0,
-      "horsePower": 558,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2026-08-06T12:39:17.35Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/73/20688073/845094742.jpg",
-      "imageKeys": [
-        "listing/73/20688073/845094742.jpg",
-        "listing/73/20688073/1111748573.jpg",
-        "listing/73/20688073/2119033510.jpg",
-        "listing/73/20688073/121652392.jpg",
-        "listing/73/20688073/277877693.jpg",
-        "listing/73/20688073/2005404618.jpg",
-        "listing/73/20688073/1847079562.jpg",
-        "listing/73/20688073/1146079528.jpg",
-        "listing/73/20688073/1772634489.jpg",
-        "listing/73/20688073/1098972872.jpg",
-        "listing/73/20688073/836973813.jpg",
-        "listing/73/20688073/706672967.jpg",
-        "listing/73/20688073/1571227024.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20688073"
-    },
-    {
       "id": 20882661,
       "make": "MASERATI",
       "model": "GRECALE",
@@ -2398,6 +2362,42 @@
         "listing/661/20882661/1318742840.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20882661"
+    },
+    {
+      "id": 20688073,
+      "make": "MERCEDES-BENZ",
+      "model": "AMG GT",
+      "versionFullName": "AMG GT C Roadster Speedshift DCT",
+      "firstRegistrationYear": 2021,
+      "mileage": 21200,
+      "price": 119900.0,
+      "horsePower": 558,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2026-08-06T12:39:17.35Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/73/20688073/845094742.jpg",
+      "imageKeys": [
+        "listing/73/20688073/845094742.jpg",
+        "listing/73/20688073/1111748573.jpg",
+        "listing/73/20688073/2119033510.jpg",
+        "listing/73/20688073/121652392.jpg",
+        "listing/73/20688073/277877693.jpg",
+        "listing/73/20688073/2005404618.jpg",
+        "listing/73/20688073/1847079562.jpg",
+        "listing/73/20688073/1146079528.jpg",
+        "listing/73/20688073/1772634489.jpg",
+        "listing/73/20688073/1098972872.jpg",
+        "listing/73/20688073/836973813.jpg",
+        "listing/73/20688073/706672967.jpg",
+        "listing/73/20688073/1571227024.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20688073"
     },
     {
       "id": 20861186,
@@ -2514,6 +2514,44 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20566024"
     },
     {
+      "id": 20303055,
+      "make": "MASERATI",
+      "model": "GRECALE",
+      "versionFullName": "GRECALE 3.0 V6 TROFEO MY26 FUORISERIE AZZURRO ASTRO GLOSSY",
+      "firstRegistrationYear": 2026,
+      "mileage": 13900,
+      "price": 129900.0,
+      "horsePower": 531,
+      "transmissionType": "automatic",
+      "conditionType": "demonstration",
+      "createdDate": "2026-03-18T16:22:40.94Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/55/20303055/2070637457.jpg",
+      "imageKeys": [
+        "listing/55/20303055/2070637457.jpg",
+        "listing/55/20303055/251770184.jpg",
+        "listing/55/20303055/799109975.jpg",
+        "listing/55/20303055/383260549.jpg",
+        "listing/55/20303055/1187278299.jpg",
+        "listing/55/20303055/174134118.jpg",
+        "listing/55/20303055/891697426.jpg",
+        "listing/55/20303055/273498299.jpg",
+        "listing/55/20303055/1555539605.jpg",
+        "listing/55/20303055/1748006164.jpg",
+        "listing/55/20303055/1474737589.jpg",
+        "listing/55/20303055/1151068068.jpg",
+        "listing/55/20303055/1153485476.jpg",
+        "listing/55/20303055/998319305.jpg",
+        "listing/55/20303055/1118835092.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20303055"
+    },
+    {
       "id": 20843883,
       "make": "MASERATI",
       "model": "GRANCABRIO",
@@ -2553,68 +2591,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20843883"
     },
     {
-      "id": 20303055,
-      "make": "MASERATI",
-      "model": "GRECALE",
-      "versionFullName": "GRECALE 3.0 V6 TROFEO MY26 FUORISERIE AZZURRO ASTRO GLOSSY",
-      "firstRegistrationYear": 2026,
-      "mileage": 15000,
-      "price": 133900.0,
-      "horsePower": 531,
-      "transmissionType": "automatic",
-      "conditionType": "demonstration",
-      "createdDate": "2026-03-18T16:22:40.94Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/55/20303055/2070637457.jpg",
-      "imageKeys": [
-        "listing/55/20303055/2070637457.jpg",
-        "listing/55/20303055/251770184.jpg",
-        "listing/55/20303055/799109975.jpg",
-        "listing/55/20303055/383260549.jpg",
-        "listing/55/20303055/1187278299.jpg",
-        "listing/55/20303055/174134118.jpg",
-        "listing/55/20303055/891697426.jpg",
-        "listing/55/20303055/273498299.jpg",
-        "listing/55/20303055/1555539605.jpg",
-        "listing/55/20303055/1748006164.jpg",
-        "listing/55/20303055/1474737589.jpg",
-        "listing/55/20303055/1151068068.jpg",
-        "listing/55/20303055/1153485476.jpg",
-        "listing/55/20303055/998319305.jpg",
-        "listing/55/20303055/1118835092.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20303055"
-    },
-    {
-      "id": 20889985,
-      "make": "MERCEDES-BENZ",
-      "model": "GLS 63 AMG",
-      "versionFullName": "GLS 63 AMG 4Matic + 9G-Tronic",
-      "firstRegistrationYear": 2024,
-      "mileage": 54600,
-      "price": 134900.0,
-      "horsePower": 612,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-10-08T13:02:48.226Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/985/20889985/1094726723.jpg",
-      "imageKeys": [
-        "listing/985/20889985/1094726723.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20889985"
-    },
-    {
       "id": 20933100,
       "make": "MASERATI",
       "model": "GRECALE",
@@ -2651,6 +2627,30 @@
         "listing/100/20933100/1190965304.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20933100"
+    },
+    {
+      "id": 20889985,
+      "make": "MERCEDES-BENZ",
+      "model": "GLS 63 AMG",
+      "versionFullName": "GLS 63 AMG 4Matic + 9G-Tronic",
+      "firstRegistrationYear": 2024,
+      "mileage": 54600,
+      "price": 134900.0,
+      "horsePower": 612,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-10-08T13:02:48.226Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/985/20889985/1094726723.jpg",
+      "imageKeys": [
+        "listing/985/20889985/1094726723.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20889985"
     },
     {
       "id": 20575474,
@@ -3032,43 +3032,43 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20543184"
     },
     {
-      "id": 20543184,
+      "id": 20504432,
       "make": "MASERATI",
-      "model": "GRANTURISMO",
-      "versionFullName": "GRANTURISMO PRIMASERIE TROFEO 75TH ANNIVERSARY | NERO COMETA FUORISIERIE",
-      "firstRegistrationYear": 2024,
-      "mileage": 26000,
+      "model": "MC 20",
+      "versionFullName": "MC 20",
+      "firstRegistrationYear": 2021,
+      "mileage": 19500,
       "price": 174900.0,
-      "horsePower": 550,
+      "horsePower": 630,
       "transmissionType": "automatic",
       "conditionType": "used",
-      "createdDate": "2026-06-11T08:35:49.084Z",
+      "createdDate": "2026-05-28T14:43:20.83Z",
       "seller": {
         "id": 105,
         "name": "B.I. Collection BS AG",
         "city": "Reinach BL",
         "zipCode": "4153"
       },
-      "imageKey": "listing/184/20543184/1961893150.jpg",
+      "imageKey": "listing/432/20504432/215100172.jpg",
       "imageKeys": [
-        "listing/184/20543184/1961893150.jpg",
-        "listing/184/20543184/22692828.jpg",
-        "listing/184/20543184/225949408.jpg",
-        "listing/184/20543184/1034021036.jpg",
-        "listing/184/20543184/1402830038.jpg",
-        "listing/184/20543184/145864594.jpg",
-        "listing/184/20543184/242853558.jpg",
-        "listing/184/20543184/104105943.jpg",
-        "listing/184/20543184/1107658638.jpg",
-        "listing/184/20543184/599323675.jpg",
-        "listing/184/20543184/914614569.jpg",
-        "listing/184/20543184/239225990.jpg",
-        "listing/184/20543184/673712881.jpg",
-        "listing/184/20543184/591483158.jpg",
-        "listing/184/20543184/1141668373.jpg",
-        "listing/184/20543184/541539502.jpg"
+        "listing/432/20504432/215100172.jpg",
+        "listing/432/20504432/231824210.jpg",
+        "listing/432/20504432/1224222922.jpg",
+        "listing/432/20504432/591981860.jpg",
+        "listing/432/20504432/901733692.jpg",
+        "listing/432/20504432/1568132146.jpg",
+        "listing/432/20504432/1248680781.jpg",
+        "listing/432/20504432/512156903.jpg",
+        "listing/432/20504432/558958150.jpg",
+        "listing/432/20504432/1181291273.jpg",
+        "listing/432/20504432/250798016.jpg",
+        "listing/432/20504432/207624664.jpg",
+        "listing/432/20504432/640590834.jpg",
+        "listing/432/20504432/1586239616.jpg",
+        "listing/432/20504432/1652652905.jpg",
+        "listing/432/20504432/170399110.jpg"
       ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20543184"
+      "listingUrl": "https://www.autoscout24.ch/de/d/20504432"
     },
     {
       "id": 20162412,
@@ -3408,44 +3408,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20785796"
     },
     {
-      "id": 20966643,
-      "make": "PORSCHE",
-      "model": "911",
-      "versionFullName": "911 Carrera GT3 Touring",
-      "firstRegistrationYear": 2025,
-      "mileage": 2120,
-      "price": 229911.0,
-      "horsePower": 510,
-      "transmissionType": "manual",
-      "conditionType": "used",
-      "createdDate": "2026-11-05T12:46:11.249Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/643/20966643/1490612634.jpg",
-      "imageKeys": [
-        "listing/643/20966643/1490612634.jpg",
-        "listing/643/20966643/1570660310.jpg",
-        "listing/643/20966643/953779846.jpg",
-        "listing/643/20966643/1002961459.jpg",
-        "listing/643/20966643/699486715.jpg",
-        "listing/643/20966643/150923126.jpg",
-        "listing/643/20966643/197010266.jpg",
-        "listing/643/20966643/814166000.jpg",
-        "listing/643/20966643/863281633.jpg",
-        "listing/643/20966643/1473404145.jpg",
-        "listing/643/20966643/118714720.jpg",
-        "listing/643/20966643/1749425592.jpg",
-        "listing/643/20966643/118266570.jpg",
-        "listing/643/20966643/263102402.jpg",
-        "listing/643/20966643/1309310870.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20966643"
-    },
-    {
       "id": 12541930,
       "make": "PORSCHE",
       "model": "718/BOXSTER/CAYMAN",
@@ -3490,6 +3452,44 @@
         "listing/930/12541930/2098603693.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/12541930"
+    },
+    {
+      "id": 20966643,
+      "make": "PORSCHE",
+      "model": "911",
+      "versionFullName": "911 Carrera GT3 Touring",
+      "firstRegistrationYear": 2025,
+      "mileage": 2120,
+      "price": 229911.0,
+      "horsePower": 510,
+      "transmissionType": "manual",
+      "conditionType": "used",
+      "createdDate": "2026-11-05T12:46:11.249Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/643/20966643/1490612634.jpg",
+      "imageKeys": [
+        "listing/643/20966643/1490612634.jpg",
+        "listing/643/20966643/1570660310.jpg",
+        "listing/643/20966643/953779846.jpg",
+        "listing/643/20966643/1002961459.jpg",
+        "listing/643/20966643/699486715.jpg",
+        "listing/643/20966643/150923126.jpg",
+        "listing/643/20966643/197010266.jpg",
+        "listing/643/20966643/814166000.jpg",
+        "listing/643/20966643/863281633.jpg",
+        "listing/643/20966643/1473404145.jpg",
+        "listing/643/20966643/118714720.jpg",
+        "listing/643/20966643/1749425592.jpg",
+        "listing/643/20966643/118266570.jpg",
+        "listing/643/20966643/263102402.jpg",
+        "listing/643/20966643/1309310870.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20966643"
     },
     {
       "id": 20826602,
@@ -3653,45 +3653,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/12593707"
     },
     {
-      "id": 20963969,
-      "make": "MASERATI",
-      "model": "GRANTURISMO",
-      "versionFullName": "GRANTURISMO TROFEO MY2027 590PS",
-      "firstRegistrationYear": 2026,
-      "mileage": 100,
-      "price": 259000.0,
-      "horsePower": 590,
-      "transmissionType": "automatic",
-      "conditionType": "new",
-      "createdDate": "2026-11-04T15:01:21.195Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/969/20963969/455408697.jpg",
-      "imageKeys": [
-        "listing/969/20963969/455408697.jpg",
-        "listing/969/20963969/577579030.jpg",
-        "listing/969/20963969/1869933730.jpg",
-        "listing/969/20963969/674014930.jpg",
-        "listing/969/20963969/1439967274.jpg",
-        "listing/969/20963969/1696271653.jpg",
-        "listing/969/20963969/939189559.jpg",
-        "listing/969/20963969/1894800152.jpg",
-        "listing/969/20963969/850908415.jpg",
-        "listing/969/20963969/2032218810.jpg",
-        "listing/969/20963969/1762302543.jpg",
-        "listing/969/20963969/1019095133.jpg",
-        "listing/969/20963969/1518809693.jpg",
-        "listing/969/20963969/707395961.jpg",
-        "listing/969/20963969/1345864069.jpg",
-        "listing/969/20963969/641057566.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20963969"
-    },
-    {
       "id": 12649619,
       "make": "FERRARI",
       "model": "Roma",
@@ -3853,6 +3814,47 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/12772292"
     },
     {
+      "id": 20918559,
+      "make": "FERRARI",
+      "model": "296",
+      "versionFullName": "296 GTS",
+      "firstRegistrationYear": 2023,
+      "mileage": 11500,
+      "price": 279000.0,
+      "horsePower": 830,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2026-10-19T11:35:50.217Z",
+      "seller": {
+        "id": 60699,
+        "name": "B.I. Collection - Ferrari Zürich",
+        "city": "Urdorf-Zürich",
+        "zipCode": "8902"
+      },
+      "imageKey": "listing/559/20918559/201321555.jpg",
+      "imageKeys": [
+        "listing/559/20918559/201321555.jpg",
+        "listing/559/20918559/1659101349.jpg",
+        "listing/559/20918559/42074336.jpg",
+        "listing/559/20918559/642622788.jpg",
+        "listing/559/20918559/1949823579.jpg",
+        "listing/559/20918559/2102975876.jpg",
+        "listing/559/20918559/1256011151.jpg",
+        "listing/559/20918559/517179099.jpg",
+        "listing/559/20918559/1524316343.jpg",
+        "listing/559/20918559/1757974470.jpg",
+        "listing/559/20918559/700115947.jpg",
+        "listing/559/20918559/1857486340.jpg",
+        "listing/559/20918559/1351259385.jpg",
+        "listing/559/20918559/1303791307.jpg",
+        "listing/559/20918559/915404300.jpg",
+        "listing/559/20918559/1622724793.jpg",
+        "listing/559/20918559/812928646.jpg",
+        "listing/559/20918559/1772930486.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20918559"
+    },
+    {
       "id": 20258583,
       "make": "FERRARI",
       "model": "Roma",
@@ -3899,47 +3901,6 @@
         "listing/583/20258583/2069963434.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20258583"
-    },
-    {
-      "id": 20918559,
-      "make": "FERRARI",
-      "model": "296",
-      "versionFullName": "296 GTS",
-      "firstRegistrationYear": 2023,
-      "mileage": 11500,
-      "price": 279000.0,
-      "horsePower": 830,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2026-10-19T11:35:50.217Z",
-      "seller": {
-        "id": 60699,
-        "name": "B.I. Collection - Ferrari Zürich",
-        "city": "Urdorf-Zürich",
-        "zipCode": "8902"
-      },
-      "imageKey": "listing/559/20918559/201321555.jpg",
-      "imageKeys": [
-        "listing/559/20918559/201321555.jpg",
-        "listing/559/20918559/1659101349.jpg",
-        "listing/559/20918559/42074336.jpg",
-        "listing/559/20918559/642622788.jpg",
-        "listing/559/20918559/1949823579.jpg",
-        "listing/559/20918559/2102975876.jpg",
-        "listing/559/20918559/1256011151.jpg",
-        "listing/559/20918559/517179099.jpg",
-        "listing/559/20918559/1524316343.jpg",
-        "listing/559/20918559/1757974470.jpg",
-        "listing/559/20918559/700115947.jpg",
-        "listing/559/20918559/1857486340.jpg",
-        "listing/559/20918559/1351259385.jpg",
-        "listing/559/20918559/1303791307.jpg",
-        "listing/559/20918559/915404300.jpg",
-        "listing/559/20918559/1622724793.jpg",
-        "listing/559/20918559/812928646.jpg",
-        "listing/559/20918559/1772930486.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20918559"
     },
     {
       "id": 20447219,
@@ -4024,43 +3985,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20095631"
     },
     {
-      "id": 12630768,
-      "make": "FERRARI",
-      "model": "296",
-      "versionFullName": "296 GTS",
-      "firstRegistrationYear": 2024,
-      "mileage": 190,
-      "price": 299000.0,
-      "horsePower": 830,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2025-07-22T15:50:46.298Z",
-      "seller": {
-        "id": 60699,
-        "name": "B.I. Collection - Ferrari Zürich",
-        "city": "Urdorf-Zürich",
-        "zipCode": "8902"
-      },
-      "imageKey": "listing/768/12630768/299748675.jpg",
-      "imageKeys": [
-        "listing/768/12630768/299748675.jpg",
-        "listing/768/12630768/1338368924.jpg",
-        "listing/768/12630768/1365244485.jpg",
-        "listing/768/12630768/673889688.jpg",
-        "listing/768/12630768/1579691032.jpg",
-        "listing/768/12630768/159277872.jpg",
-        "listing/768/12630768/1018815893.jpg",
-        "listing/768/12630768/2105436029.jpg",
-        "listing/768/12630768/1034690386.jpg",
-        "listing/768/12630768/46630038.jpg",
-        "listing/768/12630768/641707785.jpg",
-        "listing/768/12630768/1011139798.jpg",
-        "listing/768/12630768/1779452233.jpg",
-        "listing/768/12630768/37886273.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/12630768"
-    },
-    {
       "id": 20872422,
       "make": "FERRARI",
       "model": "296",
@@ -4098,6 +4022,43 @@
         "listing/422/20872422/482985081.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20872422"
+    },
+    {
+      "id": 12630768,
+      "make": "FERRARI",
+      "model": "296",
+      "versionFullName": "296 GTS",
+      "firstRegistrationYear": 2024,
+      "mileage": 190,
+      "price": 299000.0,
+      "horsePower": 830,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2025-07-22T15:50:46.298Z",
+      "seller": {
+        "id": 60699,
+        "name": "B.I. Collection - Ferrari Zürich",
+        "city": "Urdorf-Zürich",
+        "zipCode": "8902"
+      },
+      "imageKey": "listing/768/12630768/299748675.jpg",
+      "imageKeys": [
+        "listing/768/12630768/299748675.jpg",
+        "listing/768/12630768/1338368924.jpg",
+        "listing/768/12630768/1365244485.jpg",
+        "listing/768/12630768/673889688.jpg",
+        "listing/768/12630768/1579691032.jpg",
+        "listing/768/12630768/159277872.jpg",
+        "listing/768/12630768/1018815893.jpg",
+        "listing/768/12630768/2105436029.jpg",
+        "listing/768/12630768/1034690386.jpg",
+        "listing/768/12630768/46630038.jpg",
+        "listing/768/12630768/641707785.jpg",
+        "listing/768/12630768/1011139798.jpg",
+        "listing/768/12630768/1779452233.jpg",
+        "listing/768/12630768/37886273.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/12630768"
     },
     {
       "id": 20872476,
