@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-11T02:40:44.682099+00:00",
+  "timestamp": "2026-11-11T10:39:59.527698+00:00",
   "count": 122,
   "listings": [
     {
@@ -324,45 +324,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20529437"
     },
     {
-      "id": 20918194,
-      "make": "MASERATI",
-      "model": "LEVANTE",
-      "versionFullName": "Levante 3.0 V6 GranSport Automatica",
-      "firstRegistrationYear": 2021,
-      "mileage": 62000,
-      "price": 49900.0,
-      "horsePower": 350,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-10-19T09:37:09.067Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/194/20918194/963248132.jpg",
-      "imageKeys": [
-        "listing/194/20918194/963248132.jpg",
-        "listing/194/20918194/520233915.jpg",
-        "listing/194/20918194/2144561468.jpg",
-        "listing/194/20918194/2085471460.jpg",
-        "listing/194/20918194/1132855455.jpg",
-        "listing/194/20918194/960964927.jpg",
-        "listing/194/20918194/503017193.jpg",
-        "listing/194/20918194/359174015.jpg",
-        "listing/194/20918194/845214961.jpg",
-        "listing/194/20918194/2076545570.jpg",
-        "listing/194/20918194/601249265.jpg",
-        "listing/194/20918194/1021613910.jpg",
-        "listing/194/20918194/1161633973.jpg",
-        "listing/194/20918194/1828410846.jpg",
-        "listing/194/20918194/2013825430.jpg",
-        "listing/194/20918194/1191660058.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20918194"
-    },
-    {
       "id": 20543800,
       "make": "AUDI",
       "model": "TT",
@@ -420,6 +381,45 @@
         "listing/298/20966298/1229278941.webp"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20966298"
+    },
+    {
+      "id": 20918194,
+      "make": "MASERATI",
+      "model": "LEVANTE",
+      "versionFullName": "Levante 3.0 V6 GranSport Automatica",
+      "firstRegistrationYear": 2021,
+      "mileage": 62000,
+      "price": 49900.0,
+      "horsePower": 350,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-10-19T09:37:09.067Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/194/20918194/963248132.jpg",
+      "imageKeys": [
+        "listing/194/20918194/963248132.jpg",
+        "listing/194/20918194/520233915.jpg",
+        "listing/194/20918194/2144561468.jpg",
+        "listing/194/20918194/2085471460.jpg",
+        "listing/194/20918194/1132855455.jpg",
+        "listing/194/20918194/960964927.jpg",
+        "listing/194/20918194/503017193.jpg",
+        "listing/194/20918194/359174015.jpg",
+        "listing/194/20918194/845214961.jpg",
+        "listing/194/20918194/2076545570.jpg",
+        "listing/194/20918194/601249265.jpg",
+        "listing/194/20918194/1021613910.jpg",
+        "listing/194/20918194/1161633973.jpg",
+        "listing/194/20918194/1828410846.jpg",
+        "listing/194/20918194/2013825430.jpg",
+        "listing/194/20918194/1191660058.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20918194"
     },
     {
       "id": 20979631,
@@ -2410,45 +2410,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20753159"
     },
     {
-      "id": 20882661,
-      "make": "MASERATI",
-      "model": "GRECALE",
-      "versionFullName": "GRECALE MODENA V6 MY2027",
-      "firstRegistrationYear": 2026,
-      "mileage": 3000,
-      "price": 119900.0,
-      "horsePower": 390,
-      "transmissionType": "automatic",
-      "conditionType": "demonstration",
-      "createdDate": "2026-10-06T09:06:35.121Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/661/20882661/271143187.jpg",
-      "imageKeys": [
-        "listing/661/20882661/271143187.jpg",
-        "listing/661/20882661/440353643.jpg",
-        "listing/661/20882661/589189909.jpg",
-        "listing/661/20882661/697647191.jpg",
-        "listing/661/20882661/1881781710.jpg",
-        "listing/661/20882661/12352966.jpg",
-        "listing/661/20882661/144782376.jpg",
-        "listing/661/20882661/1429571957.jpg",
-        "listing/661/20882661/1170682654.jpg",
-        "listing/661/20882661/1860370773.jpg",
-        "listing/661/20882661/654615161.jpg",
-        "listing/661/20882661/1991158960.jpg",
-        "listing/661/20882661/1912579268.jpg",
-        "listing/661/20882661/289095869.jpg",
-        "listing/661/20882661/1709094954.jpg",
-        "listing/661/20882661/1318742840.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20882661"
-    },
-    {
       "id": 20688073,
       "make": "MERCEDES-BENZ",
       "model": "AMG GT",
@@ -2483,6 +2444,45 @@
         "listing/73/20688073/1571227024.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20688073"
+    },
+    {
+      "id": 20882661,
+      "make": "MASERATI",
+      "model": "GRECALE",
+      "versionFullName": "GRECALE MODENA V6 MY2027",
+      "firstRegistrationYear": 2026,
+      "mileage": 5000,
+      "price": 119900.0,
+      "horsePower": 390,
+      "transmissionType": "automatic",
+      "conditionType": "demonstration",
+      "createdDate": "2026-10-06T09:06:35.121Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/661/20882661/271143187.jpg",
+      "imageKeys": [
+        "listing/661/20882661/271143187.jpg",
+        "listing/661/20882661/440353643.jpg",
+        "listing/661/20882661/589189909.jpg",
+        "listing/661/20882661/697647191.jpg",
+        "listing/661/20882661/1881781710.jpg",
+        "listing/661/20882661/12352966.jpg",
+        "listing/661/20882661/144782376.jpg",
+        "listing/661/20882661/1429571957.jpg",
+        "listing/661/20882661/1170682654.jpg",
+        "listing/661/20882661/1860370773.jpg",
+        "listing/661/20882661/654615161.jpg",
+        "listing/661/20882661/1991158960.jpg",
+        "listing/661/20882661/1912579268.jpg",
+        "listing/661/20882661/289095869.jpg",
+        "listing/661/20882661/1709094954.jpg",
+        "listing/661/20882661/1318742840.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20882661"
     },
     {
       "id": 20861186,
