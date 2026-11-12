@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-11-12T01:26:57.899993+00:00",
-  "count": 124,
+  "timestamp": "2026-11-12T09:40:02.227883+00:00",
+  "count": 125,
   "listings": [
     {
       "id": 20979905,
@@ -675,45 +675,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20963282"
     },
     {
-      "id": 20962250,
-      "make": "MASERATI",
-      "model": "GRECALE",
-      "versionFullName": "Grecale Folgore 105kWh",
-      "firstRegistrationYear": 2025,
-      "mileage": 45000,
-      "price": 65900.0,
-      "horsePower": 557,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-11-04T08:30:46.025Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/250/20962250/1244623541.jpg",
-      "imageKeys": [
-        "listing/250/20962250/1244623541.jpg",
-        "listing/250/20962250/1218678379.jpg",
-        "listing/250/20962250/291366270.jpg",
-        "listing/250/20962250/617234165.jpg",
-        "listing/250/20962250/991245805.jpg",
-        "listing/250/20962250/132535087.jpg",
-        "listing/250/20962250/1137411753.jpg",
-        "listing/250/20962250/2004810938.jpg",
-        "listing/250/20962250/1559267132.jpg",
-        "listing/250/20962250/1910143537.jpg",
-        "listing/250/20962250/131908697.jpg",
-        "listing/250/20962250/784788788.jpg",
-        "listing/250/20962250/1181317625.jpg",
-        "listing/250/20962250/918021579.jpg",
-        "listing/250/20962250/1240478916.jpg",
-        "listing/250/20962250/130656293.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20962250"
-    },
-    {
       "id": 20253754,
       "make": "MASERATI",
       "model": "GRECALE",
@@ -751,6 +712,45 @@
         "listing/754/20253754/785041207.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20253754"
+    },
+    {
+      "id": 20962250,
+      "make": "MASERATI",
+      "model": "GRECALE",
+      "versionFullName": "Grecale Folgore 105kWh",
+      "firstRegistrationYear": 2025,
+      "mileage": 45000,
+      "price": 65900.0,
+      "horsePower": 557,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-11-04T08:30:46.025Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/250/20962250/1244623541.jpg",
+      "imageKeys": [
+        "listing/250/20962250/1244623541.jpg",
+        "listing/250/20962250/1218678379.jpg",
+        "listing/250/20962250/291366270.jpg",
+        "listing/250/20962250/617234165.jpg",
+        "listing/250/20962250/991245805.jpg",
+        "listing/250/20962250/132535087.jpg",
+        "listing/250/20962250/1137411753.jpg",
+        "listing/250/20962250/2004810938.jpg",
+        "listing/250/20962250/1559267132.jpg",
+        "listing/250/20962250/1910143537.jpg",
+        "listing/250/20962250/131908697.jpg",
+        "listing/250/20962250/784788788.jpg",
+        "listing/250/20962250/1181317625.jpg",
+        "listing/250/20962250/918021579.jpg",
+        "listing/250/20962250/1240478916.jpg",
+        "listing/250/20962250/130656293.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20962250"
     },
     {
       "id": 20707867,
@@ -1236,44 +1236,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20960342"
     },
     {
-      "id": 20867178,
-      "make": "PORSCHE",
-      "model": "TAYCAN",
-      "versionFullName": "Taycan Turbo",
-      "firstRegistrationYear": 2020,
-      "mileage": 58800,
-      "price": 79900.0,
-      "horsePower": 626,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-09-30T12:12:21.858Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/178/20867178/230770386.jpg",
-      "imageKeys": [
-        "listing/178/20867178/230770386.jpg",
-        "listing/178/20867178/1159122147.jpg",
-        "listing/178/20867178/704608039.jpg",
-        "listing/178/20867178/222958123.jpg",
-        "listing/178/20867178/2120885224.jpg",
-        "listing/178/20867178/286116878.jpg",
-        "listing/178/20867178/2098345957.jpg",
-        "listing/178/20867178/842533908.jpg",
-        "listing/178/20867178/905176299.jpg",
-        "listing/178/20867178/1930088783.jpg",
-        "listing/178/20867178/420660570.jpg",
-        "listing/178/20867178/1502514844.jpg",
-        "listing/178/20867178/1907426531.jpg",
-        "listing/178/20867178/1248781336.jpg",
-        "listing/178/20867178/1758589995.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20867178"
-    },
-    {
       "id": 20781997,
       "make": "MASERATI",
       "model": "GRECALE",
@@ -1311,6 +1273,44 @@
         "listing/997/20781997/1761919124.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20781997"
+    },
+    {
+      "id": 20867178,
+      "make": "PORSCHE",
+      "model": "TAYCAN",
+      "versionFullName": "Taycan Turbo",
+      "firstRegistrationYear": 2020,
+      "mileage": 58800,
+      "price": 79900.0,
+      "horsePower": 626,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-09-30T12:12:21.858Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/178/20867178/230770386.jpg",
+      "imageKeys": [
+        "listing/178/20867178/230770386.jpg",
+        "listing/178/20867178/1159122147.jpg",
+        "listing/178/20867178/704608039.jpg",
+        "listing/178/20867178/222958123.jpg",
+        "listing/178/20867178/2120885224.jpg",
+        "listing/178/20867178/286116878.jpg",
+        "listing/178/20867178/2098345957.jpg",
+        "listing/178/20867178/842533908.jpg",
+        "listing/178/20867178/905176299.jpg",
+        "listing/178/20867178/1930088783.jpg",
+        "listing/178/20867178/420660570.jpg",
+        "listing/178/20867178/1502514844.jpg",
+        "listing/178/20867178/1907426531.jpg",
+        "listing/178/20867178/1248781336.jpg",
+        "listing/178/20867178/1758589995.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20867178"
     },
     {
       "id": 12508253,
@@ -1833,30 +1833,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20242496"
     },
     {
-      "id": 20966397,
-      "make": "MERCEDES-BENZ",
-      "model": "GLS 580",
-      "versionFullName": "GLS 580 4Matic AMG Line 9G-Tronic",
-      "firstRegistrationYear": 2022,
-      "mileage": 50000,
-      "price": 99900.0,
-      "horsePower": 490,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-11-05T11:28:48.526Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/397/20966397/1289319874.webp",
-      "imageKeys": [
-        "listing/397/20966397/1289319874.webp"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20966397"
-    },
-    {
       "id": 20324330,
       "make": "MASERATI",
       "model": "GRECALE",
@@ -1894,6 +1870,30 @@
         "listing/330/20324330/229140908.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20324330"
+    },
+    {
+      "id": 20966397,
+      "make": "MERCEDES-BENZ",
+      "model": "GLS 580",
+      "versionFullName": "GLS 580 4Matic AMG Line 9G-Tronic",
+      "firstRegistrationYear": 2022,
+      "mileage": 50000,
+      "price": 99900.0,
+      "horsePower": 490,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-11-05T11:28:48.526Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/397/20966397/1289319874.webp",
+      "imageKeys": [
+        "listing/397/20966397/1289319874.webp"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20966397"
     },
     {
       "id": 20666412,
@@ -2585,6 +2585,30 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20303055"
     },
     {
+      "id": 20889985,
+      "make": "MERCEDES-BENZ",
+      "model": "GLS 63 AMG",
+      "versionFullName": "GLS 63 AMG 4Matic + 9G-Tronic",
+      "firstRegistrationYear": 2024,
+      "mileage": 54600,
+      "price": 129900.0,
+      "horsePower": 612,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-10-08T13:02:48.226Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/985/20889985/1094726723.jpg",
+      "imageKeys": [
+        "listing/985/20889985/1094726723.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20889985"
+    },
+    {
       "id": 20843883,
       "make": "MASERATI",
       "model": "GRANCABRIO",
@@ -2660,30 +2684,6 @@
         "listing/100/20933100/1190965304.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20933100"
-    },
-    {
-      "id": 20889985,
-      "make": "MERCEDES-BENZ",
-      "model": "GLS 63 AMG",
-      "versionFullName": "GLS 63 AMG 4Matic + 9G-Tronic",
-      "firstRegistrationYear": 2024,
-      "mileage": 54600,
-      "price": 134900.0,
-      "horsePower": 612,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-10-08T13:02:48.226Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/985/20889985/1094726723.jpg",
-      "imageKeys": [
-        "listing/985/20889985/1094726723.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20889985"
     },
     {
       "id": 20575474,
@@ -2801,6 +2801,30 @@
         "listing/919/20886919/1913188512.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20886919"
+    },
+    {
+      "id": 20984689,
+      "make": "PORSCHE",
+      "model": "911",
+      "versionFullName": "911 Turbo",
+      "firstRegistrationYear": 2007,
+      "mileage": 16530,
+      "price": 139911.0,
+      "horsePower": 480,
+      "transmissionType": "manual",
+      "conditionType": "used",
+      "createdDate": "2026-11-12T06:13:30.933Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/689/20984689/880775952.webp",
+      "imageKeys": [
+        "listing/689/20984689/880775952.webp"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20984689"
     },
     {
       "id": 20960982,
