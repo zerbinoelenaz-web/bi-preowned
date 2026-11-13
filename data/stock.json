@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-12T18:06:03.508354+00:00",
+  "timestamp": "2026-11-13T00:04:47.866631+00:00",
   "count": 126,
   "listings": [
     {
@@ -906,6 +906,43 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/12661047"
     },
     {
+      "id": 20963001,
+      "make": "MERCEDES-BENZ",
+      "model": "SL 500",
+      "versionFullName": "MERCEDES-BENZ SL 500 Final Edition Automatic",
+      "firstRegistrationYear": 2001,
+      "mileage": 59500,
+      "price": 69900.0,
+      "horsePower": 306,
+      "transmissionType": null,
+      "conditionType": "used",
+      "createdDate": "2026-11-04T11:10:09.037Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/1/20963001/458459111.jpg",
+      "imageKeys": [
+        "listing/1/20963001/458459111.jpg",
+        "listing/1/20963001/1726965252.jpg",
+        "listing/1/20963001/1023609479.jpg",
+        "listing/1/20963001/1622573079.jpg",
+        "listing/1/20963001/1730884515.jpg",
+        "listing/1/20963001/1063856929.jpg",
+        "listing/1/20963001/658055193.jpg",
+        "listing/1/20963001/1669748451.jpg",
+        "listing/1/20963001/487300228.jpg",
+        "listing/1/20963001/1213421175.jpg",
+        "listing/1/20963001/254174637.jpg",
+        "listing/1/20963001/1235783828.jpg",
+        "listing/1/20963001/1524611891.jpg",
+        "listing/1/20963001/1641957152.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20963001"
+    },
+    {
       "id": 20787071,
       "make": "MERCEDES-BENZ",
       "model": "CLA 220",
@@ -943,43 +980,6 @@
         "listing/71/20787071/1113570180.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20787071"
-    },
-    {
-      "id": 20963001,
-      "make": "MERCEDES-BENZ",
-      "model": "SL 500",
-      "versionFullName": "MERCEDES-BENZ SL 500 Final Edition Automatic",
-      "firstRegistrationYear": 2001,
-      "mileage": 59500,
-      "price": 69900.0,
-      "horsePower": 306,
-      "transmissionType": null,
-      "conditionType": "used",
-      "createdDate": "2026-11-04T11:10:09.037Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/1/20963001/458459111.jpg",
-      "imageKeys": [
-        "listing/1/20963001/458459111.jpg",
-        "listing/1/20963001/1726965252.jpg",
-        "listing/1/20963001/1023609479.jpg",
-        "listing/1/20963001/1622573079.jpg",
-        "listing/1/20963001/1730884515.jpg",
-        "listing/1/20963001/1063856929.jpg",
-        "listing/1/20963001/658055193.jpg",
-        "listing/1/20963001/1669748451.jpg",
-        "listing/1/20963001/487300228.jpg",
-        "listing/1/20963001/1213421175.jpg",
-        "listing/1/20963001/254174637.jpg",
-        "listing/1/20963001/1235783828.jpg",
-        "listing/1/20963001/1524611891.jpg",
-        "listing/1/20963001/1641957152.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20963001"
     },
     {
       "id": 20524652,
@@ -2547,6 +2547,30 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20566024"
     },
     {
+      "id": 20889985,
+      "make": "MERCEDES-BENZ",
+      "model": "GLS 63 AMG",
+      "versionFullName": "GLS 63 AMG 4Matic + 9G-Tronic",
+      "firstRegistrationYear": 2024,
+      "mileage": 54600,
+      "price": 129900.0,
+      "horsePower": 612,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-10-08T13:02:48.226Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/985/20889985/1094726723.jpg",
+      "imageKeys": [
+        "listing/985/20889985/1094726723.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20889985"
+    },
+    {
       "id": 20979004,
       "make": "MERCEDES-BENZ",
       "model": "SL 280",
@@ -2607,30 +2631,6 @@
         "listing/55/20303055/1118835092.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20303055"
-    },
-    {
-      "id": 20889985,
-      "make": "MERCEDES-BENZ",
-      "model": "GLS 63 AMG",
-      "versionFullName": "GLS 63 AMG 4Matic + 9G-Tronic",
-      "firstRegistrationYear": 2024,
-      "mileage": 54600,
-      "price": 129900.0,
-      "horsePower": 612,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-10-08T13:02:48.226Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/985/20889985/1094726723.jpg",
-      "imageKeys": [
-        "listing/985/20889985/1094726723.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20889985"
     },
     {
       "id": 20843883,
@@ -3513,6 +3513,44 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20785796"
     },
     {
+      "id": 20966643,
+      "make": "PORSCHE",
+      "model": "911",
+      "versionFullName": "911 Carrera GT3 Touring",
+      "firstRegistrationYear": 2025,
+      "mileage": 2120,
+      "price": 229911.0,
+      "horsePower": 510,
+      "transmissionType": "manual",
+      "conditionType": "used",
+      "createdDate": "2026-11-05T12:46:11.249Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/643/20966643/1490612634.jpg",
+      "imageKeys": [
+        "listing/643/20966643/1490612634.jpg",
+        "listing/643/20966643/1570660310.jpg",
+        "listing/643/20966643/953779846.jpg",
+        "listing/643/20966643/1002961459.jpg",
+        "listing/643/20966643/699486715.jpg",
+        "listing/643/20966643/150923126.jpg",
+        "listing/643/20966643/197010266.jpg",
+        "listing/643/20966643/814166000.jpg",
+        "listing/643/20966643/863281633.jpg",
+        "listing/643/20966643/1473404145.jpg",
+        "listing/643/20966643/118714720.jpg",
+        "listing/643/20966643/1749425592.jpg",
+        "listing/643/20966643/118266570.jpg",
+        "listing/643/20966643/263102402.jpg",
+        "listing/643/20966643/1309310870.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20966643"
+    },
+    {
       "id": 12541930,
       "make": "PORSCHE",
       "model": "718/BOXSTER/CAYMAN",
@@ -3557,44 +3595,6 @@
         "listing/930/12541930/2098603693.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/12541930"
-    },
-    {
-      "id": 20966643,
-      "make": "PORSCHE",
-      "model": "911",
-      "versionFullName": "911 Carrera GT3 Touring",
-      "firstRegistrationYear": 2025,
-      "mileage": 2120,
-      "price": 229911.0,
-      "horsePower": 510,
-      "transmissionType": "manual",
-      "conditionType": "used",
-      "createdDate": "2026-11-05T12:46:11.249Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/643/20966643/1490612634.jpg",
-      "imageKeys": [
-        "listing/643/20966643/1490612634.jpg",
-        "listing/643/20966643/1570660310.jpg",
-        "listing/643/20966643/953779846.jpg",
-        "listing/643/20966643/1002961459.jpg",
-        "listing/643/20966643/699486715.jpg",
-        "listing/643/20966643/150923126.jpg",
-        "listing/643/20966643/197010266.jpg",
-        "listing/643/20966643/814166000.jpg",
-        "listing/643/20966643/863281633.jpg",
-        "listing/643/20966643/1473404145.jpg",
-        "listing/643/20966643/118714720.jpg",
-        "listing/643/20966643/1749425592.jpg",
-        "listing/643/20966643/118266570.jpg",
-        "listing/643/20966643/263102402.jpg",
-        "listing/643/20966643/1309310870.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20966643"
     },
     {
       "id": 20826602,
@@ -4244,6 +4244,40 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/12630768"
     },
     {
+      "id": 20184234,
+      "make": "MERCEDES-BENZ",
+      "model": "G 63 AMG",
+      "versionFullName": "G 63 AMG Speedshift Plus G-Tronic",
+      "firstRegistrationYear": 2022,
+      "mileage": 100,
+      "price": 319000.0,
+      "horsePower": 585,
+      "transmissionType": "semi-automatic",
+      "conditionType": "new",
+      "createdDate": "2026-02-04T16:13:26.564Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/234/20184234/661682384.JPG",
+      "imageKeys": [
+        "listing/234/20184234/661682384.JPG",
+        "listing/234/20184234/901235974.JPG",
+        "listing/234/20184234/1502645149.JPG",
+        "listing/234/20184234/1402771491.JPG",
+        "listing/234/20184234/1310868896.JPG",
+        "listing/234/20184234/844659136.JPG",
+        "listing/234/20184234/1506720404.JPG",
+        "listing/234/20184234/368408488.JPG",
+        "listing/234/20184234/1232004875.JPG",
+        "listing/234/20184234/400840981.JPG",
+        "listing/234/20184234/268685875.JPG"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20184234"
+    },
+    {
       "id": 20872476,
       "make": "FERRARI",
       "model": "812",
@@ -4280,40 +4314,6 @@
         "listing/476/20872476/1789163775.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20872476"
-    },
-    {
-      "id": 20184234,
-      "make": "MERCEDES-BENZ",
-      "model": "G 63 AMG",
-      "versionFullName": "G 63 AMG Speedshift Plus G-Tronic",
-      "firstRegistrationYear": 2022,
-      "mileage": 100,
-      "price": 319000.0,
-      "horsePower": 585,
-      "transmissionType": "semi-automatic",
-      "conditionType": "new",
-      "createdDate": "2026-02-04T16:13:26.564Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/234/20184234/661682384.JPG",
-      "imageKeys": [
-        "listing/234/20184234/661682384.JPG",
-        "listing/234/20184234/901235974.JPG",
-        "listing/234/20184234/1502645149.JPG",
-        "listing/234/20184234/1402771491.JPG",
-        "listing/234/20184234/1310868896.JPG",
-        "listing/234/20184234/844659136.JPG",
-        "listing/234/20184234/1506720404.JPG",
-        "listing/234/20184234/368408488.JPG",
-        "listing/234/20184234/1232004875.JPG",
-        "listing/234/20184234/400840981.JPG",
-        "listing/234/20184234/268685875.JPG"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20184234"
     },
     {
       "id": 20078416,
