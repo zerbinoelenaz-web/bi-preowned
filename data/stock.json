@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-13T00:04:47.866631+00:00",
+  "timestamp": "2026-11-13T07:46:17.032861+00:00",
   "count": 126,
   "listings": [
     {
@@ -1260,44 +1260,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20960342"
     },
     {
-      "id": 20867178,
-      "make": "PORSCHE",
-      "model": "TAYCAN",
-      "versionFullName": "Taycan Turbo",
-      "firstRegistrationYear": 2020,
-      "mileage": 58800,
-      "price": 79900.0,
-      "horsePower": 626,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-09-30T12:12:21.858Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/178/20867178/230770386.jpg",
-      "imageKeys": [
-        "listing/178/20867178/230770386.jpg",
-        "listing/178/20867178/1159122147.jpg",
-        "listing/178/20867178/704608039.jpg",
-        "listing/178/20867178/222958123.jpg",
-        "listing/178/20867178/2120885224.jpg",
-        "listing/178/20867178/286116878.jpg",
-        "listing/178/20867178/2098345957.jpg",
-        "listing/178/20867178/842533908.jpg",
-        "listing/178/20867178/905176299.jpg",
-        "listing/178/20867178/1930088783.jpg",
-        "listing/178/20867178/420660570.jpg",
-        "listing/178/20867178/1502514844.jpg",
-        "listing/178/20867178/1907426531.jpg",
-        "listing/178/20867178/1248781336.jpg",
-        "listing/178/20867178/1758589995.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20867178"
-    },
-    {
       "id": 20781997,
       "make": "MASERATI",
       "model": "GRECALE",
@@ -1335,6 +1297,44 @@
         "listing/997/20781997/1761919124.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20781997"
+    },
+    {
+      "id": 20867178,
+      "make": "PORSCHE",
+      "model": "TAYCAN",
+      "versionFullName": "Taycan Turbo",
+      "firstRegistrationYear": 2020,
+      "mileage": 58800,
+      "price": 79900.0,
+      "horsePower": 626,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-09-30T12:12:21.858Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/178/20867178/230770386.jpg",
+      "imageKeys": [
+        "listing/178/20867178/230770386.jpg",
+        "listing/178/20867178/1159122147.jpg",
+        "listing/178/20867178/704608039.jpg",
+        "listing/178/20867178/222958123.jpg",
+        "listing/178/20867178/2120885224.jpg",
+        "listing/178/20867178/286116878.jpg",
+        "listing/178/20867178/2098345957.jpg",
+        "listing/178/20867178/842533908.jpg",
+        "listing/178/20867178/905176299.jpg",
+        "listing/178/20867178/1930088783.jpg",
+        "listing/178/20867178/420660570.jpg",
+        "listing/178/20867178/1502514844.jpg",
+        "listing/178/20867178/1907426531.jpg",
+        "listing/178/20867178/1248781336.jpg",
+        "listing/178/20867178/1758589995.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20867178"
     },
     {
       "id": 12508253,
@@ -3838,45 +3838,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20179545"
     },
     {
-      "id": 20963969,
-      "make": "MASERATI",
-      "model": "GRANTURISMO",
-      "versionFullName": "GRANTURISMO TROFEO MY2027 590PS",
-      "firstRegistrationYear": 2026,
-      "mileage": 100,
-      "price": 259000.0,
-      "horsePower": 590,
-      "transmissionType": "automatic",
-      "conditionType": "new",
-      "createdDate": "2026-11-04T15:01:21.195Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/969/20963969/455408697.jpg",
-      "imageKeys": [
-        "listing/969/20963969/455408697.jpg",
-        "listing/969/20963969/577579030.jpg",
-        "listing/969/20963969/1869933730.jpg",
-        "listing/969/20963969/674014930.jpg",
-        "listing/969/20963969/1439967274.jpg",
-        "listing/969/20963969/1696271653.jpg",
-        "listing/969/20963969/939189559.jpg",
-        "listing/969/20963969/1894800152.jpg",
-        "listing/969/20963969/850908415.jpg",
-        "listing/969/20963969/2032218810.jpg",
-        "listing/969/20963969/1762302543.jpg",
-        "listing/969/20963969/1019095133.jpg",
-        "listing/969/20963969/1518809693.jpg",
-        "listing/969/20963969/707395961.jpg",
-        "listing/969/20963969/1345864069.jpg",
-        "listing/969/20963969/641057566.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20963969"
-    },
-    {
       "id": 20983410,
       "make": "MASERATI",
       "model": "GRANTURISMO",
@@ -3914,6 +3875,45 @@
         "listing/410/20983410/1292562476.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20983410"
+    },
+    {
+      "id": 20963969,
+      "make": "MASERATI",
+      "model": "GRANTURISMO",
+      "versionFullName": "GRANTURISMO TROFEO MY2027 590PS",
+      "firstRegistrationYear": 2026,
+      "mileage": 100,
+      "price": 259000.0,
+      "horsePower": 590,
+      "transmissionType": "automatic",
+      "conditionType": "new",
+      "createdDate": "2026-11-04T15:01:21.195Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/969/20963969/455408697.jpg",
+      "imageKeys": [
+        "listing/969/20963969/455408697.jpg",
+        "listing/969/20963969/577579030.jpg",
+        "listing/969/20963969/1869933730.jpg",
+        "listing/969/20963969/674014930.jpg",
+        "listing/969/20963969/1439967274.jpg",
+        "listing/969/20963969/1696271653.jpg",
+        "listing/969/20963969/939189559.jpg",
+        "listing/969/20963969/1894800152.jpg",
+        "listing/969/20963969/850908415.jpg",
+        "listing/969/20963969/2032218810.jpg",
+        "listing/969/20963969/1762302543.jpg",
+        "listing/969/20963969/1019095133.jpg",
+        "listing/969/20963969/1518809693.jpg",
+        "listing/969/20963969/707395961.jpg",
+        "listing/969/20963969/1345864069.jpg",
+        "listing/969/20963969/641057566.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20963969"
     },
     {
       "id": 20499931,
