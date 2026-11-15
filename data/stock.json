@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-15T10:39:03.824034+00:00",
+  "timestamp": "2026-11-15T17:38:54.766567+00:00",
   "count": 128,
   "listings": [
     {
@@ -738,6 +738,39 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20253754"
     },
     {
+      "id": 20982784,
+      "make": "ASTON MARTIN",
+      "model": "Virage",
+      "versionFullName": "Virage Volante V12 5.9-48 Touchtronic2",
+      "firstRegistrationYear": 2012,
+      "mileage": 88500,
+      "price": 65900.0,
+      "horsePower": 497,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-11-11T12:27:01.14Z",
+      "seller": {
+        "id": 60726,
+        "name": "B.I. Concierge Basel AG",
+        "city": "Basel",
+        "zipCode": "4058"
+      },
+      "imageKey": "listing/784/20982784/1447936654.jpg",
+      "imageKeys": [
+        "listing/784/20982784/1447936654.jpg",
+        "listing/784/20982784/941120636.jpg",
+        "listing/784/20982784/1974141553.jpg",
+        "listing/784/20982784/2026256265.jpg",
+        "listing/784/20982784/1227941340.jpg",
+        "listing/784/20982784/1408911678.jpg",
+        "listing/784/20982784/153849211.jpg",
+        "listing/784/20982784/1380591381.jpg",
+        "listing/784/20982784/794858861.jpg",
+        "listing/784/20982784/1667123226.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20982784"
+    },
+    {
       "id": 20962250,
       "make": "MASERATI",
       "model": "GRECALE",
@@ -775,39 +808,6 @@
         "listing/250/20962250/130656293.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20962250"
-    },
-    {
-      "id": 20982784,
-      "make": "ASTON MARTIN",
-      "model": "Virage",
-      "versionFullName": "Virage Volante V12 5.9-48 Touchtronic2",
-      "firstRegistrationYear": 2012,
-      "mileage": 88500,
-      "price": 65900.0,
-      "horsePower": 497,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-11-11T12:27:01.14Z",
-      "seller": {
-        "id": 60726,
-        "name": "B.I. Concierge Basel AG",
-        "city": "Basel",
-        "zipCode": "4058"
-      },
-      "imageKey": "listing/784/20982784/1447936654.jpg",
-      "imageKeys": [
-        "listing/784/20982784/1447936654.jpg",
-        "listing/784/20982784/941120636.jpg",
-        "listing/784/20982784/1974141553.jpg",
-        "listing/784/20982784/2026256265.jpg",
-        "listing/784/20982784/1227941340.jpg",
-        "listing/784/20982784/1408911678.jpg",
-        "listing/784/20982784/153849211.jpg",
-        "listing/784/20982784/1380591381.jpg",
-        "listing/784/20982784/794858861.jpg",
-        "listing/784/20982784/1667123226.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20982784"
     },
     {
       "id": 20707867,
@@ -963,6 +963,43 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20787071"
     },
     {
+      "id": 20963001,
+      "make": "MERCEDES-BENZ",
+      "model": "SL 500",
+      "versionFullName": "MERCEDES-BENZ SL 500 Final Edition Automatic",
+      "firstRegistrationYear": 2001,
+      "mileage": 59500,
+      "price": 69900.0,
+      "horsePower": 306,
+      "transmissionType": null,
+      "conditionType": "used",
+      "createdDate": "2026-11-04T11:10:09.037Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/1/20963001/458459111.jpg",
+      "imageKeys": [
+        "listing/1/20963001/458459111.jpg",
+        "listing/1/20963001/1726965252.jpg",
+        "listing/1/20963001/1023609479.jpg",
+        "listing/1/20963001/1622573079.jpg",
+        "listing/1/20963001/1730884515.jpg",
+        "listing/1/20963001/1063856929.jpg",
+        "listing/1/20963001/658055193.jpg",
+        "listing/1/20963001/1669748451.jpg",
+        "listing/1/20963001/487300228.jpg",
+        "listing/1/20963001/1213421175.jpg",
+        "listing/1/20963001/254174637.jpg",
+        "listing/1/20963001/1235783828.jpg",
+        "listing/1/20963001/1524611891.jpg",
+        "listing/1/20963001/1641957152.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20963001"
+    },
+    {
       "id": 12661047,
       "make": "MASERATI",
       "model": "GRECALE",
@@ -1000,43 +1037,6 @@
         "listing/47/12661047/1323893043.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/12661047"
-    },
-    {
-      "id": 20963001,
-      "make": "MERCEDES-BENZ",
-      "model": "SL 500",
-      "versionFullName": "MERCEDES-BENZ SL 500 Final Edition Automatic",
-      "firstRegistrationYear": 2001,
-      "mileage": 59500,
-      "price": 69900.0,
-      "horsePower": 306,
-      "transmissionType": null,
-      "conditionType": "used",
-      "createdDate": "2026-11-04T11:10:09.037Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/1/20963001/458459111.jpg",
-      "imageKeys": [
-        "listing/1/20963001/458459111.jpg",
-        "listing/1/20963001/1726965252.jpg",
-        "listing/1/20963001/1023609479.jpg",
-        "listing/1/20963001/1622573079.jpg",
-        "listing/1/20963001/1730884515.jpg",
-        "listing/1/20963001/1063856929.jpg",
-        "listing/1/20963001/658055193.jpg",
-        "listing/1/20963001/1669748451.jpg",
-        "listing/1/20963001/487300228.jpg",
-        "listing/1/20963001/1213421175.jpg",
-        "listing/1/20963001/254174637.jpg",
-        "listing/1/20963001/1235783828.jpg",
-        "listing/1/20963001/1524611891.jpg",
-        "listing/1/20963001/1641957152.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20963001"
     },
     {
       "id": 20848441,
@@ -2603,6 +2603,30 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20303055"
     },
     {
+      "id": 20889985,
+      "make": "MERCEDES-BENZ",
+      "model": "GLS 63 AMG",
+      "versionFullName": "GLS 63 AMG 4Matic + 9G-Tronic",
+      "firstRegistrationYear": 2024,
+      "mileage": 54600,
+      "price": 129900.0,
+      "horsePower": 612,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-10-08T13:02:48.226Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/985/20889985/1094726723.jpg",
+      "imageKeys": [
+        "listing/985/20889985/1094726723.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20889985"
+    },
+    {
       "id": 20566024,
       "make": "MASERATI",
       "model": "GRANTURISMO",
@@ -2640,30 +2664,6 @@
         "listing/24/20566024/1219854299.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20566024"
-    },
-    {
-      "id": 20889985,
-      "make": "MERCEDES-BENZ",
-      "model": "GLS 63 AMG",
-      "versionFullName": "GLS 63 AMG 4Matic + 9G-Tronic",
-      "firstRegistrationYear": 2024,
-      "mileage": 54600,
-      "price": 129900.0,
-      "horsePower": 612,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-10-08T13:02:48.226Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/985/20889985/1094726723.jpg",
-      "imageKeys": [
-        "listing/985/20889985/1094726723.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20889985"
     },
     {
       "id": 20979004,
@@ -3131,45 +3131,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20751278"
     },
     {
-      "id": 20504432,
-      "make": "MASERATI",
-      "model": "MC 20",
-      "versionFullName": "MC 20",
-      "firstRegistrationYear": 2021,
-      "mileage": 19500,
-      "price": 174900.0,
-      "horsePower": 630,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-05-28T14:43:20.83Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/432/20504432/215100172.jpg",
-      "imageKeys": [
-        "listing/432/20504432/215100172.jpg",
-        "listing/432/20504432/231824210.jpg",
-        "listing/432/20504432/1224222922.jpg",
-        "listing/432/20504432/591981860.jpg",
-        "listing/432/20504432/901733692.jpg",
-        "listing/432/20504432/1568132146.jpg",
-        "listing/432/20504432/1248680781.jpg",
-        "listing/432/20504432/512156903.jpg",
-        "listing/432/20504432/558958150.jpg",
-        "listing/432/20504432/1181291273.jpg",
-        "listing/432/20504432/250798016.jpg",
-        "listing/432/20504432/207624664.jpg",
-        "listing/432/20504432/640590834.jpg",
-        "listing/432/20504432/1586239616.jpg",
-        "listing/432/20504432/1652652905.jpg",
-        "listing/432/20504432/170399110.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20504432"
-    },
-    {
       "id": 20543184,
       "make": "MASERATI",
       "model": "GRANTURISMO",
@@ -3207,6 +3168,45 @@
         "listing/184/20543184/541539502.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20543184"
+    },
+    {
+      "id": 20504432,
+      "make": "MASERATI",
+      "model": "MC 20",
+      "versionFullName": "MC 20",
+      "firstRegistrationYear": 2021,
+      "mileage": 19500,
+      "price": 174900.0,
+      "horsePower": 630,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-05-28T14:43:20.83Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/432/20504432/215100172.jpg",
+      "imageKeys": [
+        "listing/432/20504432/215100172.jpg",
+        "listing/432/20504432/231824210.jpg",
+        "listing/432/20504432/1224222922.jpg",
+        "listing/432/20504432/591981860.jpg",
+        "listing/432/20504432/901733692.jpg",
+        "listing/432/20504432/1568132146.jpg",
+        "listing/432/20504432/1248680781.jpg",
+        "listing/432/20504432/512156903.jpg",
+        "listing/432/20504432/558958150.jpg",
+        "listing/432/20504432/1181291273.jpg",
+        "listing/432/20504432/250798016.jpg",
+        "listing/432/20504432/207624664.jpg",
+        "listing/432/20504432/640590834.jpg",
+        "listing/432/20504432/1586239616.jpg",
+        "listing/432/20504432/1652652905.jpg",
+        "listing/432/20504432/170399110.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20504432"
     },
     {
       "id": 20162412,
@@ -4225,6 +4225,43 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20095631"
     },
     {
+      "id": 12630768,
+      "make": "FERRARI",
+      "model": "296",
+      "versionFullName": "296 GTS",
+      "firstRegistrationYear": 2024,
+      "mileage": 190,
+      "price": 299000.0,
+      "horsePower": 830,
+      "transmissionType": "semi-automatic",
+      "conditionType": "used",
+      "createdDate": "2025-07-22T15:50:46.298Z",
+      "seller": {
+        "id": 60699,
+        "name": "B.I. Collection - Ferrari Zürich",
+        "city": "Urdorf-Zürich",
+        "zipCode": "8902"
+      },
+      "imageKey": "listing/768/12630768/299748675.jpg",
+      "imageKeys": [
+        "listing/768/12630768/299748675.jpg",
+        "listing/768/12630768/1338368924.jpg",
+        "listing/768/12630768/1365244485.jpg",
+        "listing/768/12630768/673889688.jpg",
+        "listing/768/12630768/1579691032.jpg",
+        "listing/768/12630768/159277872.jpg",
+        "listing/768/12630768/1018815893.jpg",
+        "listing/768/12630768/2105436029.jpg",
+        "listing/768/12630768/1034690386.jpg",
+        "listing/768/12630768/46630038.jpg",
+        "listing/768/12630768/641707785.jpg",
+        "listing/768/12630768/1011139798.jpg",
+        "listing/768/12630768/1779452233.jpg",
+        "listing/768/12630768/37886273.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/12630768"
+    },
+    {
       "id": 20872422,
       "make": "FERRARI",
       "model": "296",
@@ -4262,43 +4299,6 @@
         "listing/422/20872422/482985081.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20872422"
-    },
-    {
-      "id": 12630768,
-      "make": "FERRARI",
-      "model": "296",
-      "versionFullName": "296 GTS",
-      "firstRegistrationYear": 2024,
-      "mileage": 190,
-      "price": 299000.0,
-      "horsePower": 830,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2025-07-22T15:50:46.298Z",
-      "seller": {
-        "id": 60699,
-        "name": "B.I. Collection - Ferrari Zürich",
-        "city": "Urdorf-Zürich",
-        "zipCode": "8902"
-      },
-      "imageKey": "listing/768/12630768/299748675.jpg",
-      "imageKeys": [
-        "listing/768/12630768/299748675.jpg",
-        "listing/768/12630768/1338368924.jpg",
-        "listing/768/12630768/1365244485.jpg",
-        "listing/768/12630768/673889688.jpg",
-        "listing/768/12630768/1579691032.jpg",
-        "listing/768/12630768/159277872.jpg",
-        "listing/768/12630768/1018815893.jpg",
-        "listing/768/12630768/2105436029.jpg",
-        "listing/768/12630768/1034690386.jpg",
-        "listing/768/12630768/46630038.jpg",
-        "listing/768/12630768/641707785.jpg",
-        "listing/768/12630768/1011139798.jpg",
-        "listing/768/12630768/1779452233.jpg",
-        "listing/768/12630768/37886273.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/12630768"
     },
     {
       "id": 20184234,
