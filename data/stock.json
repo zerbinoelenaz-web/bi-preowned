@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-15T22:42:57.109688+00:00",
+  "timestamp": "2026-11-16T02:40:22.278458+00:00",
   "count": 128,
   "listings": [
     {
@@ -383,30 +383,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20543800"
     },
     {
-      "id": 20966298,
-      "make": "MERCEDES-BENZ",
-      "model": "GLE 350",
-      "versionFullName": "GLE 350 e 4Matic 9G-Tronic",
-      "firstRegistrationYear": 2022,
-      "mileage": 65000,
-      "price": 49900.0,
-      "horsePower": 333,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-11-05T10:56:18.338Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/298/20966298/1229278941.webp",
-      "imageKeys": [
-        "listing/298/20966298/1229278941.webp"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20966298"
-    },
-    {
       "id": 20972337,
       "make": "MASERATI",
       "model": "LEVANTE",
@@ -444,6 +420,30 @@
         "listing/337/20972337/2073265597.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20972337"
+    },
+    {
+      "id": 20966298,
+      "make": "MERCEDES-BENZ",
+      "model": "GLE 350",
+      "versionFullName": "GLE 350 e 4Matic 9G-Tronic",
+      "firstRegistrationYear": 2022,
+      "mileage": 65000,
+      "price": 49900.0,
+      "horsePower": 333,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-11-05T10:56:18.338Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/298/20966298/1229278941.webp",
+      "imageKeys": [
+        "listing/298/20966298/1229278941.webp"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20966298"
     },
     {
       "id": 20979631,
@@ -699,45 +699,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20963282"
     },
     {
-      "id": 20962250,
-      "make": "MASERATI",
-      "model": "GRECALE",
-      "versionFullName": "Grecale Folgore 105kWh",
-      "firstRegistrationYear": 2025,
-      "mileage": 45000,
-      "price": 65900.0,
-      "horsePower": 557,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-11-04T08:30:46.025Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/250/20962250/1244623541.jpg",
-      "imageKeys": [
-        "listing/250/20962250/1244623541.jpg",
-        "listing/250/20962250/1218678379.jpg",
-        "listing/250/20962250/291366270.jpg",
-        "listing/250/20962250/617234165.jpg",
-        "listing/250/20962250/991245805.jpg",
-        "listing/250/20962250/132535087.jpg",
-        "listing/250/20962250/1137411753.jpg",
-        "listing/250/20962250/2004810938.jpg",
-        "listing/250/20962250/1559267132.jpg",
-        "listing/250/20962250/1910143537.jpg",
-        "listing/250/20962250/131908697.jpg",
-        "listing/250/20962250/784788788.jpg",
-        "listing/250/20962250/1181317625.jpg",
-        "listing/250/20962250/918021579.jpg",
-        "listing/250/20962250/1240478916.jpg",
-        "listing/250/20962250/130656293.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20962250"
-    },
-    {
       "id": 20253754,
       "make": "MASERATI",
       "model": "GRECALE",
@@ -808,6 +769,45 @@
         "listing/784/20982784/1667123226.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20982784"
+    },
+    {
+      "id": 20962250,
+      "make": "MASERATI",
+      "model": "GRECALE",
+      "versionFullName": "Grecale Folgore 105kWh",
+      "firstRegistrationYear": 2025,
+      "mileage": 45000,
+      "price": 65900.0,
+      "horsePower": 557,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-11-04T08:30:46.025Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/250/20962250/1244623541.jpg",
+      "imageKeys": [
+        "listing/250/20962250/1244623541.jpg",
+        "listing/250/20962250/1218678379.jpg",
+        "listing/250/20962250/291366270.jpg",
+        "listing/250/20962250/617234165.jpg",
+        "listing/250/20962250/991245805.jpg",
+        "listing/250/20962250/132535087.jpg",
+        "listing/250/20962250/1137411753.jpg",
+        "listing/250/20962250/2004810938.jpg",
+        "listing/250/20962250/1559267132.jpg",
+        "listing/250/20962250/1910143537.jpg",
+        "listing/250/20962250/131908697.jpg",
+        "listing/250/20962250/784788788.jpg",
+        "listing/250/20962250/1181317625.jpg",
+        "listing/250/20962250/918021579.jpg",
+        "listing/250/20962250/1240478916.jpg",
+        "listing/250/20962250/130656293.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20962250"
     },
     {
       "id": 20707867,
@@ -3570,6 +3570,44 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20785796"
     },
     {
+      "id": 20966643,
+      "make": "PORSCHE",
+      "model": "911",
+      "versionFullName": "911 Carrera GT3 Touring",
+      "firstRegistrationYear": 2025,
+      "mileage": 2120,
+      "price": 229911.0,
+      "horsePower": 510,
+      "transmissionType": "manual",
+      "conditionType": "used",
+      "createdDate": "2026-11-05T12:46:11.249Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/643/20966643/1490612634.jpg",
+      "imageKeys": [
+        "listing/643/20966643/1490612634.jpg",
+        "listing/643/20966643/1570660310.jpg",
+        "listing/643/20966643/953779846.jpg",
+        "listing/643/20966643/1002961459.jpg",
+        "listing/643/20966643/699486715.jpg",
+        "listing/643/20966643/150923126.jpg",
+        "listing/643/20966643/197010266.jpg",
+        "listing/643/20966643/814166000.jpg",
+        "listing/643/20966643/863281633.jpg",
+        "listing/643/20966643/1473404145.jpg",
+        "listing/643/20966643/118714720.jpg",
+        "listing/643/20966643/1749425592.jpg",
+        "listing/643/20966643/118266570.jpg",
+        "listing/643/20966643/263102402.jpg",
+        "listing/643/20966643/1309310870.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20966643"
+    },
+    {
       "id": 12541930,
       "make": "PORSCHE",
       "model": "718/BOXSTER/CAYMAN",
@@ -3614,44 +3652,6 @@
         "listing/930/12541930/2098603693.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/12541930"
-    },
-    {
-      "id": 20966643,
-      "make": "PORSCHE",
-      "model": "911",
-      "versionFullName": "911 Carrera GT3 Touring",
-      "firstRegistrationYear": 2025,
-      "mileage": 2120,
-      "price": 229911.0,
-      "horsePower": 510,
-      "transmissionType": "manual",
-      "conditionType": "used",
-      "createdDate": "2026-11-05T12:46:11.249Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/643/20966643/1490612634.jpg",
-      "imageKeys": [
-        "listing/643/20966643/1490612634.jpg",
-        "listing/643/20966643/1570660310.jpg",
-        "listing/643/20966643/953779846.jpg",
-        "listing/643/20966643/1002961459.jpg",
-        "listing/643/20966643/699486715.jpg",
-        "listing/643/20966643/150923126.jpg",
-        "listing/643/20966643/197010266.jpg",
-        "listing/643/20966643/814166000.jpg",
-        "listing/643/20966643/863281633.jpg",
-        "listing/643/20966643/1473404145.jpg",
-        "listing/643/20966643/118714720.jpg",
-        "listing/643/20966643/1749425592.jpg",
-        "listing/643/20966643/118266570.jpg",
-        "listing/643/20966643/263102402.jpg",
-        "listing/643/20966643/1309310870.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20966643"
     },
     {
       "id": 20826602,
