@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-11-18T13:46:51.077875+00:00",
-  "count": 127,
+  "timestamp": "2026-11-18T21:47:25.308855+00:00",
+  "count": 126,
   "listings": [
     {
       "id": 20979905,
@@ -165,41 +165,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20090535"
     },
     {
-      "id": 11168520,
-      "make": "MERCEDES-BENZ",
-      "model": "C 200",
-      "versionFullName": "C 200 T 4Matic All-Terain Avantgarde",
-      "firstRegistrationYear": 2023,
-      "mileage": 45000,
-      "price": 39900.0,
-      "horsePower": 204,
-      "transmissionType": "automatic",
-      "conditionType": "demonstration",
-      "createdDate": "2024-01-15T13:00:30.355Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/520/11168520/419939672.jpg",
-      "imageKeys": [
-        "listing/520/11168520/419939672.jpg",
-        "listing/520/11168520/444776773.jpg",
-        "listing/520/11168520/703390047.jpg",
-        "listing/520/11168520/1518330430.jpg",
-        "listing/520/11168520/1264170022.jpg",
-        "listing/520/11168520/1780177685.jpg",
-        "listing/520/11168520/61040805.jpg",
-        "listing/520/11168520/1550221211.jpg",
-        "listing/520/11168520/1379218474.jpg",
-        "listing/520/11168520/452117249.jpg",
-        "listing/520/11168520/1550606374.jpg",
-        "listing/520/11168520/958807069.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/11168520"
-    },
-    {
       "id": 20221212,
       "make": "MERCEDES-BENZ",
       "model": "S 350",
@@ -235,6 +200,41 @@
         "listing/212/20221212/1868600509.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20221212"
+    },
+    {
+      "id": 11168520,
+      "make": "MERCEDES-BENZ",
+      "model": "C 200",
+      "versionFullName": "C 200 T 4Matic All-Terain Avantgarde",
+      "firstRegistrationYear": 2023,
+      "mileage": 45000,
+      "price": 39900.0,
+      "horsePower": 204,
+      "transmissionType": "automatic",
+      "conditionType": "demonstration",
+      "createdDate": "2024-01-15T13:00:30.355Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/520/11168520/419939672.jpg",
+      "imageKeys": [
+        "listing/520/11168520/419939672.jpg",
+        "listing/520/11168520/444776773.jpg",
+        "listing/520/11168520/703390047.jpg",
+        "listing/520/11168520/1518330430.jpg",
+        "listing/520/11168520/1264170022.jpg",
+        "listing/520/11168520/1780177685.jpg",
+        "listing/520/11168520/61040805.jpg",
+        "listing/520/11168520/1550221211.jpg",
+        "listing/520/11168520/1379218474.jpg",
+        "listing/520/11168520/452117249.jpg",
+        "listing/520/11168520/1550606374.jpg",
+        "listing/520/11168520/958807069.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/11168520"
     },
     {
       "id": 11710822,
@@ -439,9 +439,24 @@
         "city": "Feutersoey",
         "zipCode": "3784"
       },
-      "imageKey": "listing/298/20966298/1229278941.webp",
+      "imageKey": "listing/298/20966298/2023258115.jpg",
       "imageKeys": [
-        "listing/298/20966298/1229278941.webp"
+        "listing/298/20966298/2023258115.jpg",
+        "listing/298/20966298/995487767.jpg",
+        "listing/298/20966298/847727827.jpg",
+        "listing/298/20966298/648333307.jpg",
+        "listing/298/20966298/376343848.jpg",
+        "listing/298/20966298/2108125334.jpg",
+        "listing/298/20966298/1769384788.jpg",
+        "listing/298/20966298/380043834.jpg",
+        "listing/298/20966298/925850263.jpg",
+        "listing/298/20966298/1459273309.jpg",
+        "listing/298/20966298/1509405432.jpg",
+        "listing/298/20966298/831669964.jpg",
+        "listing/298/20966298/203642846.jpg",
+        "listing/298/20966298/149654739.jpg",
+        "listing/298/20966298/643954454.jpg",
+        "listing/298/20966298/1196615142.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20966298"
     },
@@ -776,7 +791,7 @@
       "model": "GRECALE",
       "versionFullName": "Grecale Folgore 105kWh",
       "firstRegistrationYear": 2025,
-      "mileage": 45000,
+      "mileage": 49000,
       "price": 65900.0,
       "horsePower": 557,
       "transmissionType": "automatic",
@@ -963,6 +978,43 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/12661047"
     },
     {
+      "id": 20963001,
+      "make": "MERCEDES-BENZ",
+      "model": "SL 500",
+      "versionFullName": "MERCEDES-BENZ SL 500 Final Edition Automatic",
+      "firstRegistrationYear": 2001,
+      "mileage": 59500,
+      "price": 69900.0,
+      "horsePower": 306,
+      "transmissionType": null,
+      "conditionType": "used",
+      "createdDate": "2026-11-04T11:10:09.037Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/1/20963001/458459111.jpg",
+      "imageKeys": [
+        "listing/1/20963001/458459111.jpg",
+        "listing/1/20963001/1726965252.jpg",
+        "listing/1/20963001/1023609479.jpg",
+        "listing/1/20963001/1622573079.jpg",
+        "listing/1/20963001/1730884515.jpg",
+        "listing/1/20963001/1063856929.jpg",
+        "listing/1/20963001/658055193.jpg",
+        "listing/1/20963001/1669748451.jpg",
+        "listing/1/20963001/487300228.jpg",
+        "listing/1/20963001/1213421175.jpg",
+        "listing/1/20963001/254174637.jpg",
+        "listing/1/20963001/1235783828.jpg",
+        "listing/1/20963001/1524611891.jpg",
+        "listing/1/20963001/1641957152.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20963001"
+    },
+    {
       "id": 20787071,
       "make": "MERCEDES-BENZ",
       "model": "CLA 220",
@@ -1000,43 +1052,6 @@
         "listing/71/20787071/1113570180.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20787071"
-    },
-    {
-      "id": 20963001,
-      "make": "MERCEDES-BENZ",
-      "model": "SL 500",
-      "versionFullName": "MERCEDES-BENZ SL 500 Final Edition Automatic",
-      "firstRegistrationYear": 2001,
-      "mileage": 59500,
-      "price": 69900.0,
-      "horsePower": 306,
-      "transmissionType": null,
-      "conditionType": "used",
-      "createdDate": "2026-11-04T11:10:09.037Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/1/20963001/458459111.jpg",
-      "imageKeys": [
-        "listing/1/20963001/458459111.jpg",
-        "listing/1/20963001/1726965252.jpg",
-        "listing/1/20963001/1023609479.jpg",
-        "listing/1/20963001/1622573079.jpg",
-        "listing/1/20963001/1730884515.jpg",
-        "listing/1/20963001/1063856929.jpg",
-        "listing/1/20963001/658055193.jpg",
-        "listing/1/20963001/1669748451.jpg",
-        "listing/1/20963001/487300228.jpg",
-        "listing/1/20963001/1213421175.jpg",
-        "listing/1/20963001/254174637.jpg",
-        "listing/1/20963001/1235783828.jpg",
-        "listing/1/20963001/1524611891.jpg",
-        "listing/1/20963001/1641957152.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20963001"
     },
     {
       "id": 20524652,
@@ -1113,44 +1128,6 @@
         "listing/441/20848441/81808545.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20848441"
-    },
-    {
-      "id": 20152911,
-      "make": "PORSCHE",
-      "model": "TAYCAN",
-      "versionFullName": "Taycan GTS Sport Turismo Performance Plus 93,4kWh",
-      "firstRegistrationYear": 2022,
-      "mileage": 40200,
-      "price": 74911.0,
-      "horsePower": 598,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-01-23T15:12:43.745Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/911/20152911/2088894800.jpg",
-      "imageKeys": [
-        "listing/911/20152911/2088894800.jpg",
-        "listing/911/20152911/31427611.jpg",
-        "listing/911/20152911/771672134.jpg",
-        "listing/911/20152911/955326849.jpg",
-        "listing/911/20152911/864089398.jpg",
-        "listing/911/20152911/1608301712.jpg",
-        "listing/911/20152911/854361762.jpg",
-        "listing/911/20152911/1347770664.jpg",
-        "listing/911/20152911/261989703.jpg",
-        "listing/911/20152911/74595432.jpg",
-        "listing/911/20152911/1762511435.jpg",
-        "listing/911/20152911/1759706874.jpg",
-        "listing/911/20152911/982149033.jpg",
-        "listing/911/20152911/1470483235.jpg",
-        "listing/911/20152911/1720009846.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20152911"
     },
     {
       "id": 20937487,
@@ -1432,49 +1409,6 @@
         "listing/253/12508253/1783066491.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/12508253"
-    },
-    {
-      "id": 20720218,
-      "make": "BMW",
-      "model": "Z3",
-      "versionFullName": "M Coupé",
-      "firstRegistrationYear": 2002,
-      "mileage": 38200,
-      "price": 81500.0,
-      "horsePower": 325,
-      "transmissionType": "manual",
-      "conditionType": "used",
-      "createdDate": "2026-08-19T12:48:14.134Z",
-      "seller": {
-        "id": 2304422,
-        "name": "B.I. Collection SG AG",
-        "city": "Niederwil SG",
-        "zipCode": "9203"
-      },
-      "imageKey": "listing/218/20720218/166168519.jpg",
-      "imageKeys": [
-        "listing/218/20720218/166168519.jpg",
-        "listing/218/20720218/1014070108.jpg",
-        "listing/218/20720218/1768746818.jpg",
-        "listing/218/20720218/1369467817.jpg",
-        "listing/218/20720218/2101937404.jpg",
-        "listing/218/20720218/1978142564.jpg",
-        "listing/218/20720218/1959878383.jpg",
-        "listing/218/20720218/548951997.jpg",
-        "listing/218/20720218/1422150464.jpg",
-        "listing/218/20720218/1140495449.jpg",
-        "listing/218/20720218/1020779562.jpg",
-        "listing/218/20720218/166502189.jpg",
-        "listing/218/20720218/1849245508.jpg",
-        "listing/218/20720218/1072096692.jpg",
-        "listing/218/20720218/467403649.jpg",
-        "listing/218/20720218/1236475330.jpg",
-        "listing/218/20720218/1482991020.jpg",
-        "listing/218/20720218/2040993029.jpg",
-        "listing/218/20720218/332974462.jpg",
-        "listing/218/20720218/913749638.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20720218"
     },
     {
       "id": 20276620,
@@ -1777,9 +1711,31 @@
         "city": "Feutersoey",
         "zipCode": "3784"
       },
-      "imageKey": "listing/648/20969648/1917545459.webp",
+      "imageKey": "listing/648/20969648/1110913591.jpg",
       "imageKeys": [
-        "listing/648/20969648/1917545459.webp"
+        "listing/648/20969648/1110913591.jpg",
+        "listing/648/20969648/1976871753.jpg",
+        "listing/648/20969648/259984925.jpg",
+        "listing/648/20969648/2130727287.jpg",
+        "listing/648/20969648/1495445251.jpg",
+        "listing/648/20969648/1361924945.jpg",
+        "listing/648/20969648/80099623.jpg",
+        "listing/648/20969648/1025839914.jpg",
+        "listing/648/20969648/495037774.jpg",
+        "listing/648/20969648/1790144326.jpg",
+        "listing/648/20969648/1650786942.jpg",
+        "listing/648/20969648/1997866726.jpg",
+        "listing/648/20969648/1120439868.jpg",
+        "listing/648/20969648/2098866326.jpg",
+        "listing/648/20969648/1767459813.jpg",
+        "listing/648/20969648/339985335.jpg",
+        "listing/648/20969648/583904219.jpg",
+        "listing/648/20969648/1492815456.jpg",
+        "listing/648/20969648/1990823435.jpg",
+        "listing/648/20969648/1637625174.jpg",
+        "listing/648/20969648/531881876.jpg",
+        "listing/648/20969648/541037030.jpg",
+        "listing/648/20969648/544995160.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20969648"
     },
@@ -1970,9 +1926,23 @@
         "city": "Feutersoey",
         "zipCode": "3784"
       },
-      "imageKey": "listing/397/20966397/1289319874.webp",
+      "imageKey": "listing/397/20966397/1318759096.jpg",
       "imageKeys": [
-        "listing/397/20966397/1289319874.webp"
+        "listing/397/20966397/1318759096.jpg",
+        "listing/397/20966397/1095361661.jpg",
+        "listing/397/20966397/47908598.jpg",
+        "listing/397/20966397/162132462.jpg",
+        "listing/397/20966397/1713631646.jpg",
+        "listing/397/20966397/1965242917.jpg",
+        "listing/397/20966397/1989343884.jpg",
+        "listing/397/20966397/1613479478.jpg",
+        "listing/397/20966397/686957315.jpg",
+        "listing/397/20966397/1453909111.jpg",
+        "listing/397/20966397/631350562.jpg",
+        "listing/397/20966397/1989235775.jpg",
+        "listing/397/20966397/815558487.jpg",
+        "listing/397/20966397/289302934.jpg",
+        "listing/397/20966397/1088444296.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20966397"
     },
@@ -2406,9 +2376,24 @@
         "city": "Feutersoey",
         "zipCode": "3784"
       },
-      "imageKey": "listing/579/20969579/2099543034.webp",
+      "imageKey": "listing/579/20969579/779055580.jpg",
       "imageKeys": [
-        "listing/579/20969579/2099543034.webp"
+        "listing/579/20969579/779055580.jpg",
+        "listing/579/20969579/1626295778.jpg",
+        "listing/579/20969579/207004472.jpg",
+        "listing/579/20969579/1978745720.jpg",
+        "listing/579/20969579/569415174.jpg",
+        "listing/579/20969579/1989471449.jpg",
+        "listing/579/20969579/611988905.jpg",
+        "listing/579/20969579/535537905.jpg",
+        "listing/579/20969579/1260606358.jpg",
+        "listing/579/20969579/1820209165.jpg",
+        "listing/579/20969579/447641568.jpg",
+        "listing/579/20969579/1468768733.jpg",
+        "listing/579/20969579/1550551417.jpg",
+        "listing/579/20969579/1980494643.jpg",
+        "listing/579/20969579/1680077179.jpg",
+        "listing/579/20969579/1422834850.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20969579"
     },
@@ -2659,9 +2644,19 @@
         "city": "Feutersoey",
         "zipCode": "3784"
       },
-      "imageKey": "listing/4/20979004/1597252087.webp",
+      "imageKey": "listing/4/20979004/384110157.jpg",
       "imageKeys": [
-        "listing/4/20979004/1597252087.webp"
+        "listing/4/20979004/384110157.jpg",
+        "listing/4/20979004/1053054939.jpg",
+        "listing/4/20979004/441580332.jpg",
+        "listing/4/20979004/1826063312.jpg",
+        "listing/4/20979004/1506940482.jpg",
+        "listing/4/20979004/1736821750.jpg",
+        "listing/4/20979004/1946438711.jpg",
+        "listing/4/20979004/1249078473.jpg",
+        "listing/4/20979004/173629637.jpg",
+        "listing/4/20979004/1472739822.jpg",
+        "listing/4/20979004/847511546.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20979004"
     },
@@ -2741,6 +2736,41 @@
         "listing/100/20933100/1190965304.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20933100"
+    },
+    {
+      "id": 21002246,
+      "make": "ASTON MARTIN",
+      "model": "V8 Vantage",
+      "versionFullName": "V8 Vantage 4.0 Roadster",
+      "firstRegistrationYear": 2023,
+      "mileage": 13700,
+      "price": 137900.0,
+      "horsePower": 510,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-11-18T12:39:20.419Z",
+      "seller": {
+        "id": 60726,
+        "name": "B.I. Concierge Basel AG",
+        "city": "Basel",
+        "zipCode": "4058"
+      },
+      "imageKey": "listing/246/21002246/285895006.jpg",
+      "imageKeys": [
+        "listing/246/21002246/285895006.jpg",
+        "listing/246/21002246/2023162094.jpg",
+        "listing/246/21002246/1099205182.jpg",
+        "listing/246/21002246/676213417.jpg",
+        "listing/246/21002246/1822259017.jpg",
+        "listing/246/21002246/1212876575.jpg",
+        "listing/246/21002246/751899993.jpg",
+        "listing/246/21002246/956439321.jpg",
+        "listing/246/21002246/252159142.jpg",
+        "listing/246/21002246/2089193942.jpg",
+        "listing/246/21002246/1321686014.jpg",
+        "listing/246/21002246/684409903.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/21002246"
     },
     {
       "id": 20575474,
@@ -2877,9 +2907,35 @@
         "city": "Feutersoey",
         "zipCode": "3784"
       },
-      "imageKey": "listing/689/20984689/880775952.webp",
+      "imageKey": "listing/689/20984689/1580682322.jpg",
       "imageKeys": [
-        "listing/689/20984689/880775952.webp"
+        "listing/689/20984689/1580682322.jpg",
+        "listing/689/20984689/1207171257.jpg",
+        "listing/689/20984689/1255670510.jpg",
+        "listing/689/20984689/1410808981.jpg",
+        "listing/689/20984689/937947149.jpg",
+        "listing/689/20984689/2080846374.jpg",
+        "listing/689/20984689/530785587.jpg",
+        "listing/689/20984689/1470024666.jpg",
+        "listing/689/20984689/1785059227.jpg",
+        "listing/689/20984689/1554146918.jpg",
+        "listing/689/20984689/1737521356.jpg",
+        "listing/689/20984689/982409988.jpg",
+        "listing/689/20984689/1794622964.jpg",
+        "listing/689/20984689/674488176.jpg",
+        "listing/689/20984689/239314478.jpg",
+        "listing/689/20984689/761752665.jpg",
+        "listing/689/20984689/1749610606.jpg",
+        "listing/689/20984689/657225892.jpg",
+        "listing/689/20984689/1342022430.jpg",
+        "listing/689/20984689/279005557.jpg",
+        "listing/689/20984689/319541553.jpg",
+        "listing/689/20984689/823980840.jpg",
+        "listing/689/20984689/1045230480.jpg",
+        "listing/689/20984689/453858825.jpg",
+        "listing/689/20984689/1147656265.jpg",
+        "listing/689/20984689/730102707.jpg",
+        "listing/689/20984689/2031953411.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20984689"
     },
@@ -2901,9 +2957,23 @@
         "city": "Feutersoey",
         "zipCode": "3784"
       },
-      "imageKey": "listing/982/20960982/824054872.webp",
+      "imageKey": "listing/982/20960982/491068407.jpg",
       "imageKeys": [
-        "listing/982/20960982/824054872.webp"
+        "listing/982/20960982/491068407.jpg",
+        "listing/982/20960982/1292844525.jpg",
+        "listing/982/20960982/994872596.jpg",
+        "listing/982/20960982/751167453.jpg",
+        "listing/982/20960982/338547410.jpg",
+        "listing/982/20960982/1359502913.jpg",
+        "listing/982/20960982/1937685650.jpg",
+        "listing/982/20960982/6802110.jpg",
+        "listing/982/20960982/158679412.jpg",
+        "listing/982/20960982/1277257175.jpg",
+        "listing/982/20960982/1827958296.jpg",
+        "listing/982/20960982/13252806.jpg",
+        "listing/982/20960982/1211658450.jpg",
+        "listing/982/20960982/1338907580.jpg",
+        "listing/982/20960982/686422376.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20960982"
     },
@@ -3305,6 +3375,44 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20670048"
     },
     {
+      "id": 20809440,
+      "make": "FERRARI",
+      "model": "Roma",
+      "versionFullName": "Roma 3.9 V8 T Sehr gepflegt edle Konfiguration",
+      "firstRegistrationYear": 2021,
+      "mileage": 12000,
+      "price": 185000.0,
+      "horsePower": null,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-09-10T06:38:39.484Z",
+      "seller": {
+        "id": 60699,
+        "name": "B.I. Collection - Ferrari Zürich",
+        "city": "Urdorf-Zürich",
+        "zipCode": "8902"
+      },
+      "imageKey": "listing/440/20809440/1242167576.jpg",
+      "imageKeys": [
+        "listing/440/20809440/1242167576.jpg",
+        "listing/440/20809440/1333144710.jpg",
+        "listing/440/20809440/942202280.jpg",
+        "listing/440/20809440/1059181681.jpg",
+        "listing/440/20809440/2088043261.jpg",
+        "listing/440/20809440/1323453910.jpg",
+        "listing/440/20809440/2117406844.jpg",
+        "listing/440/20809440/1116788673.jpg",
+        "listing/440/20809440/1443895582.jpg",
+        "listing/440/20809440/131988495.jpg",
+        "listing/440/20809440/15060193.jpg",
+        "listing/440/20809440/876940527.jpg",
+        "listing/440/20809440/14359345.jpg",
+        "listing/440/20809440/142429780.jpg",
+        "listing/440/20809440/1542957072.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20809440"
+    },
+    {
       "id": 21001543,
       "make": "FERRARI",
       "model": "PORTOFINO",
@@ -3342,44 +3450,6 @@
         "listing/543/21001543/2022197672.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/21001543"
-    },
-    {
-      "id": 20809440,
-      "make": "FERRARI",
-      "model": "Roma",
-      "versionFullName": "Roma 3.9 V8 T Sehr gepflegt edle Konfiguration",
-      "firstRegistrationYear": 2021,
-      "mileage": 12000,
-      "price": 185000.0,
-      "horsePower": null,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-09-10T06:38:39.484Z",
-      "seller": {
-        "id": 60699,
-        "name": "B.I. Collection - Ferrari Zürich",
-        "city": "Urdorf-Zürich",
-        "zipCode": "8902"
-      },
-      "imageKey": "listing/440/20809440/1242167576.jpg",
-      "imageKeys": [
-        "listing/440/20809440/1242167576.jpg",
-        "listing/440/20809440/1333144710.jpg",
-        "listing/440/20809440/942202280.jpg",
-        "listing/440/20809440/1059181681.jpg",
-        "listing/440/20809440/2088043261.jpg",
-        "listing/440/20809440/1323453910.jpg",
-        "listing/440/20809440/2117406844.jpg",
-        "listing/440/20809440/1116788673.jpg",
-        "listing/440/20809440/1443895582.jpg",
-        "listing/440/20809440/131988495.jpg",
-        "listing/440/20809440/15060193.jpg",
-        "listing/440/20809440/876940527.jpg",
-        "listing/440/20809440/14359345.jpg",
-        "listing/440/20809440/142429780.jpg",
-        "listing/440/20809440/1542957072.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20809440"
     },
     {
       "id": 20207715,
@@ -3515,9 +3585,35 @@
         "city": "Feutersoey",
         "zipCode": "3784"
       },
-      "imageKey": "listing/219/20967219/1548892234.webp",
+      "imageKey": "listing/219/20967219/1305355472.jpg",
       "imageKeys": [
-        "listing/219/20967219/1548892234.webp"
+        "listing/219/20967219/1305355472.jpg",
+        "listing/219/20967219/1189985478.jpg",
+        "listing/219/20967219/2007548752.jpg",
+        "listing/219/20967219/1580974873.jpg",
+        "listing/219/20967219/268641928.jpg",
+        "listing/219/20967219/1354799481.jpg",
+        "listing/219/20967219/178201882.jpg",
+        "listing/219/20967219/2066907431.jpg",
+        "listing/219/20967219/1301306584.jpg",
+        "listing/219/20967219/195920787.jpg",
+        "listing/219/20967219/62244416.jpg",
+        "listing/219/20967219/1403364622.jpg",
+        "listing/219/20967219/216705290.jpg",
+        "listing/219/20967219/476467310.jpg",
+        "listing/219/20967219/1213054693.jpg",
+        "listing/219/20967219/175944378.jpg",
+        "listing/219/20967219/452869802.jpg",
+        "listing/219/20967219/1691235544.jpg",
+        "listing/219/20967219/550011087.jpg",
+        "listing/219/20967219/46397091.jpg",
+        "listing/219/20967219/393444778.jpg",
+        "listing/219/20967219/1673593803.jpg",
+        "listing/219/20967219/120772668.jpg",
+        "listing/219/20967219/704100942.jpg",
+        "listing/219/20967219/331546630.jpg",
+        "listing/219/20967219/254383978.jpg",
+        "listing/219/20967219/1789827502.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20967219"
     },
@@ -3599,6 +3695,52 @@
         "listing/796/20785796/20873281.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20785796"
+    },
+    {
+      "id": 21003530,
+      "make": "ASTON MARTIN",
+      "model": "DB12",
+      "versionFullName": "Volante 4.0 V8 Bi-Turbo",
+      "firstRegistrationYear": 2026,
+      "mileage": 3300,
+      "price": 229007.0,
+      "horsePower": 680,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-11-18T16:28:52.036Z",
+      "seller": {
+        "id": 2304422,
+        "name": "B.I. Collection SG AG",
+        "city": "Niederwil SG",
+        "zipCode": "9203"
+      },
+      "imageKey": "listing/530/21003530/1174519793.jpg",
+      "imageKeys": [
+        "listing/530/21003530/1174519793.jpg",
+        "listing/530/21003530/108621783.jpg",
+        "listing/530/21003530/28935467.jpg",
+        "listing/530/21003530/729365072.jpg",
+        "listing/530/21003530/1518790500.jpg",
+        "listing/530/21003530/888970045.jpg",
+        "listing/530/21003530/1238742001.jpg",
+        "listing/530/21003530/1025960748.jpg",
+        "listing/530/21003530/1849348743.jpg",
+        "listing/530/21003530/407742466.jpg",
+        "listing/530/21003530/926891882.jpg",
+        "listing/530/21003530/1977567277.jpg",
+        "listing/530/21003530/45203435.jpg",
+        "listing/530/21003530/255708607.jpg",
+        "listing/530/21003530/715184234.jpg",
+        "listing/530/21003530/832280547.jpg",
+        "listing/530/21003530/1321476629.jpg",
+        "listing/530/21003530/758446856.jpg",
+        "listing/530/21003530/2026555954.jpg",
+        "listing/530/21003530/1047897150.jpg",
+        "listing/530/21003530/1494086481.jpg",
+        "listing/530/21003530/905417238.jpg",
+        "listing/530/21003530/576032205.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/21003530"
     },
     {
       "id": 12541930,
@@ -3807,45 +3949,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/12593707"
     },
     {
-      "id": 20179545,
-      "make": "FERRARI",
-      "model": "Roma",
-      "versionFullName": "Roma Spider 3.9 V8 T",
-      "firstRegistrationYear": 2024,
-      "mileage": 7300,
-      "price": 259000.0,
-      "horsePower": 620,
-      "transmissionType": "semi-automatic",
-      "conditionType": "used",
-      "createdDate": "2026-02-03T12:30:18.261Z",
-      "seller": {
-        "id": 60699,
-        "name": "B.I. Collection - Ferrari Zürich",
-        "city": "Urdorf-Zürich",
-        "zipCode": "8902"
-      },
-      "imageKey": "listing/545/20179545/324563419.jpg",
-      "imageKeys": [
-        "listing/545/20179545/324563419.jpg",
-        "listing/545/20179545/760308125.jpg",
-        "listing/545/20179545/829814705.jpg",
-        "listing/545/20179545/20622194.jpg",
-        "listing/545/20179545/1026517994.jpg",
-        "listing/545/20179545/1644832262.jpg",
-        "listing/545/20179545/903161505.jpg",
-        "listing/545/20179545/729646624.jpg",
-        "listing/545/20179545/696189.jpg",
-        "listing/545/20179545/38389044.jpg",
-        "listing/545/20179545/968182884.jpg",
-        "listing/545/20179545/1862491633.jpg",
-        "listing/545/20179545/1513614907.jpg",
-        "listing/545/20179545/1303948908.jpg",
-        "listing/545/20179545/202764648.jpg",
-        "listing/545/20179545/1070917362.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20179545"
-    },
-    {
       "id": 20963969,
       "make": "MASERATI",
       "model": "GRANTURISMO",
@@ -3966,42 +4069,43 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20687112"
     },
     {
-      "id": 12649619,
+      "id": 20179545,
       "make": "FERRARI",
       "model": "Roma",
-      "versionFullName": "Roma 3.9 V8 T",
-      "firstRegistrationYear": 2025,
-      "mileage": 400,
+      "versionFullName": "Roma Spider 3.9 V8 T",
+      "firstRegistrationYear": 2024,
+      "mileage": 7300,
       "price": 259000.0,
       "horsePower": 620,
       "transmissionType": "semi-automatic",
       "conditionType": "used",
-      "createdDate": "2025-07-31T15:41:21.296Z",
+      "createdDate": "2026-02-03T12:30:18.261Z",
       "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
+        "id": 60699,
+        "name": "B.I. Collection - Ferrari Zürich",
+        "city": "Urdorf-Zürich",
+        "zipCode": "8902"
       },
-      "imageKey": "listing/619/12649619/1943520755.jpg",
+      "imageKey": "listing/545/20179545/324563419.jpg",
       "imageKeys": [
-        "listing/619/12649619/1943520755.jpg",
-        "listing/619/12649619/262990941.jpg",
-        "listing/619/12649619/2021558806.jpg",
-        "listing/619/12649619/1119168439.jpg",
-        "listing/619/12649619/314975364.jpg",
-        "listing/619/12649619/388512142.jpg",
-        "listing/619/12649619/763382636.jpg",
-        "listing/619/12649619/1082062236.jpg",
-        "listing/619/12649619/373586943.jpg",
-        "listing/619/12649619/291628263.jpg",
-        "listing/619/12649619/359501593.jpg",
-        "listing/619/12649619/254749782.jpg",
-        "listing/619/12649619/1473182847.jpg",
-        "listing/619/12649619/2089037781.jpg",
-        "listing/619/12649619/1028875546.jpg"
+        "listing/545/20179545/324563419.jpg",
+        "listing/545/20179545/760308125.jpg",
+        "listing/545/20179545/829814705.jpg",
+        "listing/545/20179545/20622194.jpg",
+        "listing/545/20179545/1026517994.jpg",
+        "listing/545/20179545/1644832262.jpg",
+        "listing/545/20179545/903161505.jpg",
+        "listing/545/20179545/729646624.jpg",
+        "listing/545/20179545/696189.jpg",
+        "listing/545/20179545/38389044.jpg",
+        "listing/545/20179545/968182884.jpg",
+        "listing/545/20179545/1862491633.jpg",
+        "listing/545/20179545/1513614907.jpg",
+        "listing/545/20179545/1303948908.jpg",
+        "listing/545/20179545/202764648.jpg",
+        "listing/545/20179545/1070917362.jpg"
       ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/12649619"
+      "listingUrl": "https://www.autoscout24.ch/de/d/20179545"
     },
     {
       "id": 20499931,
@@ -4295,40 +4399,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20872422"
     },
     {
-      "id": 20184234,
-      "make": "MERCEDES-BENZ",
-      "model": "G 63 AMG",
-      "versionFullName": "G 63 AMG Speedshift Plus G-Tronic",
-      "firstRegistrationYear": 2022,
-      "mileage": 100,
-      "price": 319000.0,
-      "horsePower": 585,
-      "transmissionType": "semi-automatic",
-      "conditionType": "new",
-      "createdDate": "2026-02-04T16:13:26.564Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/234/20184234/661682384.JPG",
-      "imageKeys": [
-        "listing/234/20184234/661682384.JPG",
-        "listing/234/20184234/901235974.JPG",
-        "listing/234/20184234/1502645149.JPG",
-        "listing/234/20184234/1402771491.JPG",
-        "listing/234/20184234/1310868896.JPG",
-        "listing/234/20184234/844659136.JPG",
-        "listing/234/20184234/1506720404.JPG",
-        "listing/234/20184234/368408488.JPG",
-        "listing/234/20184234/1232004875.JPG",
-        "listing/234/20184234/400840981.JPG",
-        "listing/234/20184234/268685875.JPG"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20184234"
-    },
-    {
       "id": 20872476,
       "make": "FERRARI",
       "model": "812",
@@ -4365,6 +4435,40 @@
         "listing/476/20872476/1789163775.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20872476"
+    },
+    {
+      "id": 20184234,
+      "make": "MERCEDES-BENZ",
+      "model": "G 63 AMG",
+      "versionFullName": "G 63 AMG Speedshift Plus G-Tronic",
+      "firstRegistrationYear": 2022,
+      "mileage": 100,
+      "price": 319000.0,
+      "horsePower": 585,
+      "transmissionType": "semi-automatic",
+      "conditionType": "new",
+      "createdDate": "2026-02-04T16:13:26.564Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/234/20184234/661682384.JPG",
+      "imageKeys": [
+        "listing/234/20184234/661682384.JPG",
+        "listing/234/20184234/901235974.JPG",
+        "listing/234/20184234/1502645149.JPG",
+        "listing/234/20184234/1402771491.JPG",
+        "listing/234/20184234/1310868896.JPG",
+        "listing/234/20184234/844659136.JPG",
+        "listing/234/20184234/1506720404.JPG",
+        "listing/234/20184234/368408488.JPG",
+        "listing/234/20184234/1232004875.JPG",
+        "listing/234/20184234/400840981.JPG",
+        "listing/234/20184234/268685875.JPG"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20184234"
     },
     {
       "id": 21001699,
