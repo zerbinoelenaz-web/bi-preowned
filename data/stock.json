@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-18T21:47:25.308855+00:00",
+  "timestamp": "2026-11-19T03:07:59.345142+00:00",
   "count": 126,
   "listings": [
     {
@@ -165,6 +165,41 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20090535"
     },
     {
+      "id": 11168520,
+      "make": "MERCEDES-BENZ",
+      "model": "C 200",
+      "versionFullName": "C 200 T 4Matic All-Terain Avantgarde",
+      "firstRegistrationYear": 2023,
+      "mileage": 45000,
+      "price": 39900.0,
+      "horsePower": 204,
+      "transmissionType": "automatic",
+      "conditionType": "demonstration",
+      "createdDate": "2024-01-15T13:00:30.355Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/520/11168520/419939672.jpg",
+      "imageKeys": [
+        "listing/520/11168520/419939672.jpg",
+        "listing/520/11168520/444776773.jpg",
+        "listing/520/11168520/703390047.jpg",
+        "listing/520/11168520/1518330430.jpg",
+        "listing/520/11168520/1264170022.jpg",
+        "listing/520/11168520/1780177685.jpg",
+        "listing/520/11168520/61040805.jpg",
+        "listing/520/11168520/1550221211.jpg",
+        "listing/520/11168520/1379218474.jpg",
+        "listing/520/11168520/452117249.jpg",
+        "listing/520/11168520/1550606374.jpg",
+        "listing/520/11168520/958807069.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/11168520"
+    },
+    {
       "id": 20221212,
       "make": "MERCEDES-BENZ",
       "model": "S 350",
@@ -200,41 +235,6 @@
         "listing/212/20221212/1868600509.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20221212"
-    },
-    {
-      "id": 11168520,
-      "make": "MERCEDES-BENZ",
-      "model": "C 200",
-      "versionFullName": "C 200 T 4Matic All-Terain Avantgarde",
-      "firstRegistrationYear": 2023,
-      "mileage": 45000,
-      "price": 39900.0,
-      "horsePower": 204,
-      "transmissionType": "automatic",
-      "conditionType": "demonstration",
-      "createdDate": "2024-01-15T13:00:30.355Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/520/11168520/419939672.jpg",
-      "imageKeys": [
-        "listing/520/11168520/419939672.jpg",
-        "listing/520/11168520/444776773.jpg",
-        "listing/520/11168520/703390047.jpg",
-        "listing/520/11168520/1518330430.jpg",
-        "listing/520/11168520/1264170022.jpg",
-        "listing/520/11168520/1780177685.jpg",
-        "listing/520/11168520/61040805.jpg",
-        "listing/520/11168520/1550221211.jpg",
-        "listing/520/11168520/1379218474.jpg",
-        "listing/520/11168520/452117249.jpg",
-        "listing/520/11168520/1550606374.jpg",
-        "listing/520/11168520/958807069.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/11168520"
     },
     {
       "id": 11710822,
@@ -3375,44 +3375,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20670048"
     },
     {
-      "id": 20809440,
-      "make": "FERRARI",
-      "model": "Roma",
-      "versionFullName": "Roma 3.9 V8 T Sehr gepflegt edle Konfiguration",
-      "firstRegistrationYear": 2021,
-      "mileage": 12000,
-      "price": 185000.0,
-      "horsePower": null,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-09-10T06:38:39.484Z",
-      "seller": {
-        "id": 60699,
-        "name": "B.I. Collection - Ferrari Zürich",
-        "city": "Urdorf-Zürich",
-        "zipCode": "8902"
-      },
-      "imageKey": "listing/440/20809440/1242167576.jpg",
-      "imageKeys": [
-        "listing/440/20809440/1242167576.jpg",
-        "listing/440/20809440/1333144710.jpg",
-        "listing/440/20809440/942202280.jpg",
-        "listing/440/20809440/1059181681.jpg",
-        "listing/440/20809440/2088043261.jpg",
-        "listing/440/20809440/1323453910.jpg",
-        "listing/440/20809440/2117406844.jpg",
-        "listing/440/20809440/1116788673.jpg",
-        "listing/440/20809440/1443895582.jpg",
-        "listing/440/20809440/131988495.jpg",
-        "listing/440/20809440/15060193.jpg",
-        "listing/440/20809440/876940527.jpg",
-        "listing/440/20809440/14359345.jpg",
-        "listing/440/20809440/142429780.jpg",
-        "listing/440/20809440/1542957072.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20809440"
-    },
-    {
       "id": 21001543,
       "make": "FERRARI",
       "model": "PORTOFINO",
@@ -3450,6 +3412,44 @@
         "listing/543/21001543/2022197672.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/21001543"
+    },
+    {
+      "id": 20809440,
+      "make": "FERRARI",
+      "model": "Roma",
+      "versionFullName": "Roma 3.9 V8 T Sehr gepflegt edle Konfiguration",
+      "firstRegistrationYear": 2021,
+      "mileage": 12000,
+      "price": 185000.0,
+      "horsePower": null,
+      "transmissionType": "automatic",
+      "conditionType": "used",
+      "createdDate": "2026-09-10T06:38:39.484Z",
+      "seller": {
+        "id": 60699,
+        "name": "B.I. Collection - Ferrari Zürich",
+        "city": "Urdorf-Zürich",
+        "zipCode": "8902"
+      },
+      "imageKey": "listing/440/20809440/1242167576.jpg",
+      "imageKeys": [
+        "listing/440/20809440/1242167576.jpg",
+        "listing/440/20809440/1333144710.jpg",
+        "listing/440/20809440/942202280.jpg",
+        "listing/440/20809440/1059181681.jpg",
+        "listing/440/20809440/2088043261.jpg",
+        "listing/440/20809440/1323453910.jpg",
+        "listing/440/20809440/2117406844.jpg",
+        "listing/440/20809440/1116788673.jpg",
+        "listing/440/20809440/1443895582.jpg",
+        "listing/440/20809440/131988495.jpg",
+        "listing/440/20809440/15060193.jpg",
+        "listing/440/20809440/876940527.jpg",
+        "listing/440/20809440/14359345.jpg",
+        "listing/440/20809440/142429780.jpg",
+        "listing/440/20809440/1542957072.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20809440"
     },
     {
       "id": 20207715,
@@ -3743,6 +3743,44 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/21003530"
     },
     {
+      "id": 20966643,
+      "make": "PORSCHE",
+      "model": "911",
+      "versionFullName": "911 Carrera GT3 Touring",
+      "firstRegistrationYear": 2025,
+      "mileage": 2120,
+      "price": 229911.0,
+      "horsePower": 510,
+      "transmissionType": "manual",
+      "conditionType": "used",
+      "createdDate": "2026-11-05T12:46:11.249Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/643/20966643/1490612634.jpg",
+      "imageKeys": [
+        "listing/643/20966643/1490612634.jpg",
+        "listing/643/20966643/1570660310.jpg",
+        "listing/643/20966643/953779846.jpg",
+        "listing/643/20966643/1002961459.jpg",
+        "listing/643/20966643/699486715.jpg",
+        "listing/643/20966643/150923126.jpg",
+        "listing/643/20966643/197010266.jpg",
+        "listing/643/20966643/814166000.jpg",
+        "listing/643/20966643/863281633.jpg",
+        "listing/643/20966643/1473404145.jpg",
+        "listing/643/20966643/118714720.jpg",
+        "listing/643/20966643/1749425592.jpg",
+        "listing/643/20966643/118266570.jpg",
+        "listing/643/20966643/263102402.jpg",
+        "listing/643/20966643/1309310870.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20966643"
+    },
+    {
       "id": 12541930,
       "make": "PORSCHE",
       "model": "718/BOXSTER/CAYMAN",
@@ -3787,44 +3825,6 @@
         "listing/930/12541930/2098603693.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/12541930"
-    },
-    {
-      "id": 20966643,
-      "make": "PORSCHE",
-      "model": "911",
-      "versionFullName": "911 Carrera GT3 Touring",
-      "firstRegistrationYear": 2025,
-      "mileage": 2120,
-      "price": 229911.0,
-      "horsePower": 510,
-      "transmissionType": "manual",
-      "conditionType": "used",
-      "createdDate": "2026-11-05T12:46:11.249Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/643/20966643/1490612634.jpg",
-      "imageKeys": [
-        "listing/643/20966643/1490612634.jpg",
-        "listing/643/20966643/1570660310.jpg",
-        "listing/643/20966643/953779846.jpg",
-        "listing/643/20966643/1002961459.jpg",
-        "listing/643/20966643/699486715.jpg",
-        "listing/643/20966643/150923126.jpg",
-        "listing/643/20966643/197010266.jpg",
-        "listing/643/20966643/814166000.jpg",
-        "listing/643/20966643/863281633.jpg",
-        "listing/643/20966643/1473404145.jpg",
-        "listing/643/20966643/118714720.jpg",
-        "listing/643/20966643/1749425592.jpg",
-        "listing/643/20966643/118266570.jpg",
-        "listing/643/20966643/263102402.jpg",
-        "listing/643/20966643/1309310870.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20966643"
     },
     {
       "id": 20826602,
