@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-11-21T09:33:33.351735+00:00",
-  "count": 125,
+  "timestamp": "2026-11-21T17:18:13.262886+00:00",
+  "count": 124,
   "listings": [
     {
       "id": 20979905,
@@ -165,6 +165,41 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/20090535"
     },
     {
+      "id": 11168520,
+      "make": "MERCEDES-BENZ",
+      "model": "C 200",
+      "versionFullName": "C 200 T 4Matic All-Terain Avantgarde",
+      "firstRegistrationYear": 2023,
+      "mileage": 45000,
+      "price": 39900.0,
+      "horsePower": 204,
+      "transmissionType": "automatic",
+      "conditionType": "demonstration",
+      "createdDate": "2024-01-15T13:00:30.355Z",
+      "seller": {
+        "id": 60812,
+        "name": "B.I. Collection BE AG",
+        "city": "Feutersoey",
+        "zipCode": "3784"
+      },
+      "imageKey": "listing/520/11168520/419939672.jpg",
+      "imageKeys": [
+        "listing/520/11168520/419939672.jpg",
+        "listing/520/11168520/444776773.jpg",
+        "listing/520/11168520/703390047.jpg",
+        "listing/520/11168520/1518330430.jpg",
+        "listing/520/11168520/1264170022.jpg",
+        "listing/520/11168520/1780177685.jpg",
+        "listing/520/11168520/61040805.jpg",
+        "listing/520/11168520/1550221211.jpg",
+        "listing/520/11168520/1379218474.jpg",
+        "listing/520/11168520/452117249.jpg",
+        "listing/520/11168520/1550606374.jpg",
+        "listing/520/11168520/958807069.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/11168520"
+    },
+    {
       "id": 20221212,
       "make": "MERCEDES-BENZ",
       "model": "S 350",
@@ -200,41 +235,6 @@
         "listing/212/20221212/1868600509.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20221212"
-    },
-    {
-      "id": 11168520,
-      "make": "MERCEDES-BENZ",
-      "model": "C 200",
-      "versionFullName": "C 200 T 4Matic All-Terain Avantgarde",
-      "firstRegistrationYear": 2023,
-      "mileage": 45000,
-      "price": 39900.0,
-      "horsePower": 204,
-      "transmissionType": "automatic",
-      "conditionType": "demonstration",
-      "createdDate": "2024-01-15T13:00:30.355Z",
-      "seller": {
-        "id": 60812,
-        "name": "B.I. Collection BE AG",
-        "city": "Feutersoey",
-        "zipCode": "3784"
-      },
-      "imageKey": "listing/520/11168520/419939672.jpg",
-      "imageKeys": [
-        "listing/520/11168520/419939672.jpg",
-        "listing/520/11168520/444776773.jpg",
-        "listing/520/11168520/703390047.jpg",
-        "listing/520/11168520/1518330430.jpg",
-        "listing/520/11168520/1264170022.jpg",
-        "listing/520/11168520/1780177685.jpg",
-        "listing/520/11168520/61040805.jpg",
-        "listing/520/11168520/1550221211.jpg",
-        "listing/520/11168520/1379218474.jpg",
-        "listing/520/11168520/452117249.jpg",
-        "listing/520/11168520/1550606374.jpg",
-        "listing/520/11168520/958807069.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/11168520"
     },
     {
       "id": 11710822,
@@ -1129,45 +1129,6 @@
         "listing/652/20524652/911523770.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20524652"
-    },
-    {
-      "id": 20937487,
-      "make": "MASERATI",
-      "model": "GRECALE",
-      "versionFullName": "Grecale 3.0 TROFEO MY2023",
-      "firstRegistrationYear": 2022,
-      "mileage": 59000,
-      "price": 75900.0,
-      "horsePower": 531,
-      "transmissionType": "automatic",
-      "conditionType": "used",
-      "createdDate": "2026-10-26T12:39:02.728Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/487/20937487/901249254.jpg",
-      "imageKeys": [
-        "listing/487/20937487/901249254.jpg",
-        "listing/487/20937487/796381455.jpg",
-        "listing/487/20937487/1233113005.jpg",
-        "listing/487/20937487/31948487.jpg",
-        "listing/487/20937487/1013361580.jpg",
-        "listing/487/20937487/1417132061.jpg",
-        "listing/487/20937487/1487077875.jpg",
-        "listing/487/20937487/1822328281.jpg",
-        "listing/487/20937487/656227870.jpg",
-        "listing/487/20937487/548339209.jpg",
-        "listing/487/20937487/1330837882.jpg",
-        "listing/487/20937487/1188632903.jpg",
-        "listing/487/20937487/183649173.jpg",
-        "listing/487/20937487/558595301.jpg",
-        "listing/487/20937487/1688796560.jpg",
-        "listing/487/20937487/1841790856.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20937487"
     },
     {
       "id": 20959422,
@@ -4006,45 +3967,6 @@
       "listingUrl": "https://www.autoscout24.ch/de/d/12593707"
     },
     {
-      "id": 20983410,
-      "make": "MASERATI",
-      "model": "GRANTURISMO",
-      "versionFullName": "MASERATI GRANTURISMO TROFEO MY2027 590PS",
-      "firstRegistrationYear": 2026,
-      "mileage": 100,
-      "price": 259000.0,
-      "horsePower": 590,
-      "transmissionType": "automatic",
-      "conditionType": "new",
-      "createdDate": "2026-11-11T14:33:53.239Z",
-      "seller": {
-        "id": 105,
-        "name": "B.I. Collection BS AG",
-        "city": "Reinach BL",
-        "zipCode": "4153"
-      },
-      "imageKey": "listing/410/20983410/1474564766.jpg",
-      "imageKeys": [
-        "listing/410/20983410/1474564766.jpg",
-        "listing/410/20983410/1440562664.jpg",
-        "listing/410/20983410/1365367428.jpg",
-        "listing/410/20983410/1375356405.jpg",
-        "listing/410/20983410/908355538.jpg",
-        "listing/410/20983410/7989166.jpg",
-        "listing/410/20983410/1120319862.jpg",
-        "listing/410/20983410/646877496.jpg",
-        "listing/410/20983410/762850668.jpg",
-        "listing/410/20983410/1236109673.jpg",
-        "listing/410/20983410/1390220383.jpg",
-        "listing/410/20983410/1263601860.jpg",
-        "listing/410/20983410/1243905744.jpg",
-        "listing/410/20983410/326960353.jpg",
-        "listing/410/20983410/622089490.jpg",
-        "listing/410/20983410/1292562476.jpg"
-      ],
-      "listingUrl": "https://www.autoscout24.ch/de/d/20983410"
-    },
-    {
       "id": 20963969,
       "make": "MASERATI",
       "model": "GRANTURISMO",
@@ -4082,6 +4004,45 @@
         "listing/969/20963969/641057566.jpg"
       ],
       "listingUrl": "https://www.autoscout24.ch/de/d/20963969"
+    },
+    {
+      "id": 20983410,
+      "make": "MASERATI",
+      "model": "GRANTURISMO",
+      "versionFullName": "MASERATI GRANTURISMO TROFEO MY2027 590PS",
+      "firstRegistrationYear": 2026,
+      "mileage": 100,
+      "price": 259000.0,
+      "horsePower": 590,
+      "transmissionType": "automatic",
+      "conditionType": "new",
+      "createdDate": "2026-11-11T14:33:53.239Z",
+      "seller": {
+        "id": 105,
+        "name": "B.I. Collection BS AG",
+        "city": "Reinach BL",
+        "zipCode": "4153"
+      },
+      "imageKey": "listing/410/20983410/1474564766.jpg",
+      "imageKeys": [
+        "listing/410/20983410/1474564766.jpg",
+        "listing/410/20983410/1440562664.jpg",
+        "listing/410/20983410/1365367428.jpg",
+        "listing/410/20983410/1375356405.jpg",
+        "listing/410/20983410/908355538.jpg",
+        "listing/410/20983410/7989166.jpg",
+        "listing/410/20983410/1120319862.jpg",
+        "listing/410/20983410/646877496.jpg",
+        "listing/410/20983410/762850668.jpg",
+        "listing/410/20983410/1236109673.jpg",
+        "listing/410/20983410/1390220383.jpg",
+        "listing/410/20983410/1263601860.jpg",
+        "listing/410/20983410/1243905744.jpg",
+        "listing/410/20983410/326960353.jpg",
+        "listing/410/20983410/622089490.jpg",
+        "listing/410/20983410/1292562476.jpg"
+      ],
+      "listingUrl": "https://www.autoscout24.ch/de/d/20983410"
     },
     {
       "id": 20499931,
